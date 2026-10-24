@@ -1,0 +1,216 @@
+{
+  "pilotId": "valentine",
+  "schemaVersion": 1,
+  "artworks": {
+    "valentine-activity-001.webp": {
+      "title": "Hoạt động 001",
+      "subtitle": "Valentine",
+      "category": "activity",
+      "order": 1
+    },
+    "valentine-casual.webp": {
+      "title": "Trang phục đời thường",
+      "subtitle": "Valentine",
+      "category": "casual",
+      "order": 2
+    },
+    "valentine-closeup.webp": {
+      "title": "Cận cảnh",
+      "subtitle": "Valentine",
+      "category": "closeup",
+      "order": 3
+    },
+    "valentine-combat.webp": {
+      "title": "Chiến đấu",
+      "subtitle": "Valentine",
+      "category": "combat",
+      "order": 4
+    },
+    "valentine-event-001.webp": {
+      "title": "Sự kiện 001",
+      "subtitle": "Valentine",
+      "category": "event",
+      "order": 5
+    },
+    "valentine-fullbody.webp": {
+      "title": "Tranh toàn thân",
+      "subtitle": "Valentine",
+      "category": "fullbody",
+      "order": 6
+    },
+    "valentine-outfit-001.webp": {
+      "title": "Outfit 001",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 7
+    },
+    "valentine-outfit-002.webp": {
+      "title": "Outfit 002",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 8
+    },
+    "valentine-outfit-003.webp": {
+      "title": "Outfit 003",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 9
+    },
+    "valentine-outfit-004.webp": {
+      "title": "Outfit 004",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 10
+    },
+    "valentine-outfit-005.webp": {
+      "title": "Outfit 005",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 11
+    },
+    "valentine-outfit-006.webp": {
+      "title": "Outfit 006",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 12
+    },
+    "valentine-outfit-007.webp": {
+      "title": "Outfit 007",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 13
+    },
+    "valentine-outfit-008.webp": {
+      "title": "Outfit 008",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 14
+    },
+    "valentine-outfit-009.webp": {
+      "title": "Outfit 009",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 15
+    },
+    "valentine-outfit-010.webp": {
+      "title": "Outfit 010",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 16
+    },
+    "valentine-outfit-011.webp": {
+      "title": "Outfit 011",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 17
+    },
+    "valentine-outfit-012.webp": {
+      "title": "Outfit 012",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 18
+    },
+    "valentine-outfit-013.webp": {
+      "title": "Outfit 013",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 19
+    },
+    "valentine-outfit-014.webp": {
+      "title": "Outfit 014",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 20
+    },
+    "valentine-outfit-015.webp": {
+      "title": "Outfit 015",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 21
+    },
+    "valentine-outfit-016.webp": {
+      "title": "Outfit 016",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 22
+    },
+    "valentine-outfit-017.webp": {
+      "title": "Outfit 017",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 23
+    },
+    "valentine-outfit-018.webp": {
+      "title": "Outfit 018",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 24
+    },
+    "valentine-outfit-019.webp": {
+      "title": "Outfit 019",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 25
+    },
+    "valentine-outfit-020.webp": {
+      "title": "Outfit 020",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 26
+    },
+    "valentine-outfit-021.webp": {
+      "title": "Outfit 021",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 27
+    },
+    "valentine-outfit-022.webp": {
+      "title": "Outfit 022",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 28
+    },
+    "valentine-outfit-023.webp": {
+      "title": "Outfit 023",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 29
+    },
+    "valentine-outfit-024.webp": {
+      "title": "Outfit 024",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 30
+    },
+    "valentine-outfit-025.webp": {
+      "title": "Outfit 025",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 31
+    },
+    "valentine-outfit-026.webp": {
+      "title": "Outfit 026",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 32
+    },
+    "valentine-portrait.webp": {
+      "title": "Chân dung",
+      "subtitle": "Valentine",
+      "category": "portrait",
+      "order": 33
+    },
+    "valentine-story-001.webp": {
+      "title": "Minh họa truyện 001",
+      "subtitle": "Valentine",
+      "category": "story",
+      "order": 34
+    },
+    "valentine-uniform-001.webp": {
+      "title": "Đồng phục 001",
+      "subtitle": "Valentine",
+      "category": "uniform",
+      "order": 35
+    }
+  }
+}
