@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "pilots",
+      "manifest": "images/pilots/manifest.json"
+    }
+  ]
+}
