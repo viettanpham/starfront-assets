@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "starfront-story-index-v1",
+  "releaseTag": "v3.0-assets-r3",
+  "generatedAt": "2026-10-24T17:46:07.275Z",
+  "totalPilotsWithStories": 12,
+  "pilots": {
+    "alviss": {
+      "pilotName": "Alviss Sterling",
+      "manifest": "stories/pilots/alviss/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "eric": {
+      "pilotName": "Eric Vance",
+      "manifest": "stories/pilots/eric/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "marcus": {
+      "pilotName": "Marcus Ray",
+      "manifest": "stories/pilots/marcus/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "victor": {
+      "pilotName": "Victor Cross",
+      "manifest": "stories/pilots/victor/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "kaelen": {
+      "pilotName": "Kaelen Cross",
+      "manifest": "stories/pilots/kaelen/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "lyra": {
+      "pilotName": "Lyra Song",
+      "manifest": "stories/pilots/lyra/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "selena": {
+      "pilotName": "Selena Vega",
+      "manifest": "stories/pilots/selena/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "valentine": {
+      "pilotName": "Valentine Aurelia Vance",
+      "manifest": "stories/pilots/valentine/manifest.json",
+      "totalChapters": 10,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 1
+    },
+    "fortuna": {
+      "pilotName": "Fortuna",
+      "manifest": "stories/pilots/fortuna/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "aria": {
+      "pilotName": "Aria Sterling",
+      "manifest": "stories/pilots/aria/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "rhea": {
+      "pilotName": "Rhea Silva",
+      "manifest": "stories/pilots/rhea/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    },
+    "nova": {
+      "pilotName": "Nova Ray",
+      "manifest": "stories/pilots/nova/manifest.json",
+      "totalChapters": 7,
+      "catalogVisibleChaptersCount": 7,
+      "publishedChaptersCount": 0
+    }
+  },
+  "totalCatalogChapters": 87,
+  "totalPublishedChapters": 1,
+  "catalogScope": "CHAPTER_01_TO_07_VISIBLE_FOR_ALL_PILOTS",
+  "visibilityAuthority": "ADMINCP",
+  "contentLoadingPolicy": "LOAD_ONLY_WHEN_FILE_EXISTS"
+}

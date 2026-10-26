@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "starfront-pilot-story-v1",
+  "pilotId": "eric",
+  "pilotName": "Eric Vance",
+  "callsign": "Iron Hammer",
+  "totalChapters": 7,
+  "catalogVisibleChaptersCount": 7,
+  "publishedChaptersCount": 0,
+  "contentFilesAvailable": 0,
+  "visibilityAuthority": "ADMINCP",
+  "chapters": [
+    {
+      "chapterId": "chap-01",
+      "chapterNumber": 1,
+      "title": "Chương 01",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-02",
+      "chapterNumber": 2,
+      "title": "Chương 02",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-03",
+      "chapterNumber": 3,
+      "title": "Chương 03",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-04",
+      "chapterNumber": 4,
+      "title": "Chương 04",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-05",
+      "chapterNumber": 5,
+      "title": "Chương 05",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-06",
+      "chapterNumber": 6,
+      "title": "Chương 06",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    },
+    {
+      "chapterId": "chap-07",
+      "chapterNumber": 7,
+      "title": "Chương 07",
+      "editorialStatus": "NOT_STARTED",
+      "contentStatus": "MISSING",
+      "publicationStatus": "NOT_PUBLISHED",
+      "catalogVisibleByDefault": true,
+      "catalogStatus": "IN_DEVELOPMENT",
+      "contentAvailable": false
+    }
+  ]
+}
