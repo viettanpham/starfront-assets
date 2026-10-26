@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "starfront-curated-metadata-v1",
+  "pilotId": "valentine",
+  "pilotName": "Valentine Aurelia Vance",
+  "callsign": "Mercy Wing",
+  "totalArtworks": 35,
+  "artworksMeta": {
+    "valentine-activity-001.webp": {
+      "title": "Trực Ca Phòng Khám Quỹ Đạo",
+      "subtitle": "Valentine",
+      "category": "activity",
+      "order": 1
+    },
+    "valentine-casual.webp": {
+      "title": "Trang Phục Thường Nhật Elysia",
+      "subtitle": "Valentine",
+      "category": "casual",
+      "order": 2
+    },
+    "valentine-closeup.webp": {
+      "title": "Góc Nhìn Cận Cảnh Chiến Thuật",
+      "subtitle": "Valentine",
+      "category": "closeup",
+      "order": 3
+    },
+    "valentine-combat.webp": {
+      "title": "Xuất Kích Cứu Hộ Tiền Tuyến",
+      "subtitle": "Valentine",
+      "category": "combat",
+      "order": 4
+    },
+    "valentine-event-001.webp": {
+      "title": "Dạ Tiệc Vũ Trụ Sắc Đỏ",
+      "subtitle": "Valentine",
+      "category": "event",
+      "order": 5
+    },
+    "valentine-fullbody.webp": {
+      "title": "Tranh Toàn Thân Chiến Trường (Official)",
+      "subtitle": "Valentine",
+      "category": "fullbody",
+      "order": 6
+    },
+    "valentine-outfit-001.webp": {
+      "title": "Outfit 001",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 7
+    },
+    "valentine-outfit-002.webp": {
+      "title": "Outfit 002",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 8
+    },
+    "valentine-outfit-003.webp": {
+      "title": "Outfit 003",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 9
+    },
+    "valentine-outfit-004.webp": {
+      "title": "Outfit 004",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 10
+    },
+    "valentine-outfit-005.webp": {
+      "title": "Outfit 005",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 11
+    },
+    "valentine-outfit-006.webp": {
+      "title": "Outfit 006",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 12
+    },
+    "valentine-outfit-007.webp": {
+      "title": "Outfit 007",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 13
+    },
+    "valentine-outfit-008.webp": {
+      "title": "Outfit 008",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 14
+    },
+    "valentine-outfit-009.webp": {
+      "title": "Outfit 009",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 15
+    },
+    "valentine-outfit-010.webp": {
+      "title": "Outfit 010",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 16
+    },
+    "valentine-outfit-011.webp": {
+      "title": "Outfit 011",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 17
+    },
+    "valentine-outfit-012.webp": {
+      "title": "Outfit 012",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 18
+    },
+    "valentine-outfit-013.webp": {
+      "title": "Outfit 013",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 19
+    },
+    "valentine-outfit-014.webp": {
+      "title": "Outfit 014",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 20
+    },
+    "valentine-outfit-015.webp": {
+      "title": "Outfit 015",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 21
+    },
+    "valentine-outfit-016.webp": {
+      "title": "Outfit 016",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 22
+    },
+    "valentine-outfit-017.webp": {
+      "title": "Outfit 017",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 23
+    },
+    "valentine-outfit-018.webp": {
+      "title": "Outfit 018",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 24
+    },
+    "valentine-outfit-019.webp": {
+      "title": "Outfit 019",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 25
+    },
+    "valentine-outfit-020.webp": {
+      "title": "Outfit 020",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 26
+    },
+    "valentine-outfit-021.webp": {
+      "title": "Outfit 021",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 27
+    },
+    "valentine-outfit-022.webp": {
+      "title": "Outfit 022",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 28
+    },
+    "valentine-outfit-023.webp": {
+      "title": "Outfit 023",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 29
+    },
+    "valentine-outfit-024.webp": {
+      "title": "Outfit 024",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 30
+    },
+    "valentine-outfit-025.webp": {
+      "title": "Outfit 025",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 31
+    },
+    "valentine-outfit-026.webp": {
+      "title": "Outfit 026",
+      "subtitle": "Valentine",
+      "category": "outfit",
+      "order": 32
+    },
+    "valentine-portrait.webp": {
+      "title": "Chân Dung Đại Diện (Portrait)",
+      "subtitle": "Valentine",
+      "category": "portrait",
+      "order": 33
+    },
+    "valentine-story-001.webp": {
+      "title": "Tia Nắng Sau Bão Elysia",
+      "subtitle": "Valentine",
+      "category": "story",
+      "order": 34
+    },
+    "valentine-uniform-001.webp": {
+      "title": "Quân Phục Sĩ Quan Cứu Trợ",
+      "subtitle": "Valentine",
+      "category": "uniform",
+      "order": 35
+    }
+  },
+  "curatedImages": [
+    {
+      "filename": "valentine-activity-001.webp",
+      "sha256": "6471a942dcab6f7d07f83b814ce5383d25afad9a3e9f54d47cbefa04c827e207",
+      "description": "Trang phục: Bộ medic trắng-teal giáp/áo choàng và tất trắng. Tư thế: Ngồi trên thiết bị bàn điều khiển, một tay chạm màn hình. Góc máy: Khung ba phần tư nghiêng. Bối cảnh: Khu y tế công nghệ nhiều máy, HUD xanh.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-casual.webp",
+      "sha256": "cc301d0ff596c4563cc6178cb154cd4bedf26e1b8815c13d03e7fc49753825ae",
+      "description": "Trang phục: Váy trắng kem mềm, tay/bờ vai để lộ, chi tiết hoa và vải teal. Tư thế: Ngồi nghiêng bắt chéo chân trên ghế; cầm tách. Góc máy: Ba phần tư, nhìn ngang. Bối cảnh: Ban công nhà kính nhìn thành phố đêm hoàng hôn.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-closeup.webp",
+      "sha256": "02e12efa63b158fe71b3a6333a90e4aeb6222bd6bcb548bad0094da391255715",
+      "description": "Valentine ngồi bắt chéo chân trên ghế sofa teal, đầm ngắn trắng-teal, áo khoác trắng, tất trắng, cầm tách trà; khung rộng tới đùi/chân, sảnh quan sát trạm vũ trụ sáng.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-combat.webp",
+      "sha256": "443953cffe133c4bdd531eefb90f5dff7aeac5cc091331fa95a7647ca065f630",
+      "description": "Trang phục: Đồ chiến thuật y tế trắng-teal, lớp giáp và áo choàng. Tư thế: Đang lao tới, tay đưa ra, chân di chuyển, trường năng lượng xanh. Góc máy: Toàn thân động, chụp hơi thấp. Bối cảnh: Hậu cảnh chiến trận sci-fi sáng, các đơn vị và năng lượng teal.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-event-001.webp",
+      "sha256": "829852c62bc98e1f18c20b2a41923f5cccf05c77c0a72d85510212f8eca71f5a",
+      "description": "Trang phục: Lễ phục trắng-kem/teal và áo choàng, ôm bó hoa trắng. Tư thế: Đứng ôm hoa, quay mặt nghiêng. Góc máy: Bán toàn thân 3/4. Bối cảnh: Đại sảnh sự kiện hoa trắng, thành phố/tàu nhìn qua vòm kính.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-fullbody.webp",
+      "sha256": "77a5d00d66aeed9014c60cafa7a528e38826b0dce35c836ef2776c18f846c495",
+      "description": "Trang phục: Đồng phục y tế chiến thuật trắng kem-vàng kim và xanh teal, áo choàng dài, giáp đùi, tất trắng, boots trắng. Tư thế: Đứng dạng bước tiến, một tay vươn về người xem, tóc bay. Góc máy: Toàn thân, góc thấp 3/4. Bối cảnh: Đại sảnh/hành lang đô thị không gian sáng, cấu trúc kim loại vàng, tàu ngoài cửa sổ.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-portrait.webp",
+      "sha256": "e8439a87904127649e9bb72b6eb41c53d21176f83f0f1b885f2dc05bafa2bc11",
+      "description": "Trang phục: Thân trên đồng phục trắng-teal y tế với cổ áo trang trí, phụ kiện tóc xanh teal. Tư thế: Nghiêng đầu, tay đeo găng bên má, nhìn camera. Góc máy: Chân dung bán thân. Bối cảnh: Đại sảnh sáng với bảng hiệu xanh y tế và tàu ngoài ô cửa.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-story-001.webp",
+      "sha256": "946fdf23df59e89159f51dc29bfd46376c6a353f14e6b6686749e8c126718386",
+      "description": "Trang phục: Đồng phục medic-trinh sát trắng-teal với lớp giáp, áo choàng dài. Tư thế: Đứng quan sát trận địa, tóc/áo choàng tung. Góc máy: Toàn thân 3/4. Bối cảnh: Hậu cảnh chiến dịch vũ trụ với ánh cháy màu cam.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-uniform-001.webp",
+      "sha256": "7da69f7960252c924ee78b258131b2543e384eb09cbb62797cbd04a9f5f033a0",
+      "description": "Trang phục: Đồng phục medic/học viện trắng-teal áo giáp và váy ngắn, tất trắng. Tư thế: Đứng cầm tập hồ sơ, tóc dài bay. Góc máy: Toàn thân. Bối cảnh: Hành lang bệnh viện/học viện sáng với bảng cờ teal.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-001.webp",
+      "sha256": "5098e803f37ca7555a0f4439608415809d146dca8d2196780f669882583a6a08",
+      "description": "Cockpit; seated pilot",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-002.webp",
+      "sha256": "2c725f77bd2918f9a6d9cb9426246068d03ef126466b838291e6b2788e4b918d",
+      "description": "Teal evening gown",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-003.webp",
+      "sha256": "b92d4d7e1439c8a71f91bc1f4512a205c7eda71c16f36af8de956aad8b8311e6",
+      "description": "Red-and-black gala gown, full-body standing invitation pose, newly approved replacement; distinct from outfit-013 seated gown.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-004.webp",
+      "sha256": "9d5f860c9fc96176d51a7d58aa6a4be541b1990005874b3ef14833f5818205ac",
+      "description": "White gala look",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-005.webp",
+      "sha256": "ff260d1d07cbc7675272f95a17a0d9752922645a8bc27703a44bf52ca390ff41",
+      "description": "Short red-white outfit, black thigh-highs, city promenade at sunset, standing with handbag.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-006.webp",
+      "sha256": "d2eabb58af5229468a09ffd7d690ae5fc4ebee2789d997af24a0ed7747a2c04a",
+      "description": "Valentine đi bộ trong quảng trường thành phố tương lai, sơ mi trắng và váy ngắn teal, áo khoác mở, cầm thiết bị, góc toàn thân, giày cao gót; sảnh trắng-vàng.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-007.webp",
+      "sha256": "19f2fae54d47442f940f798bea738650e079492b6d5198476dab1b9e509d733a",
+      "description": "Lilac cardigan, short black skirt, white stockings, seated at cafe reading with tea.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-008.webp",
+      "sha256": "704c1b9d1f75bec7a0db76d87bb08f19c6d4e17652cd8237b9d1f6e287a15b71",
+      "description": "Pilot near hangar",
+      "metadataStatus": "VERIFIED_DETAILS_FROM_APPROVED_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-009.webp",
+      "sha256": "b664b5e8e5e895179143cc586874cb9020eaef8df3375b48a9675437ba531b94",
+      "description": "Black-teal athletic crop top, white technical shorts, sneakers, water bottle at orbital exercise park.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-010.webp",
+      "sha256": "f16db946b4e0c1c464703eafd2e0f169503bff05ecfd12cad5968584eb246839",
+      "description": "Clinical shift",
+      "metadataStatus": "VERIFIED_DETAILS_FROM_APPROVED_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-011.webp",
+      "sha256": "000338adc9bd03dac09c9b960443eb69c681a9b92fdd334195a49b7d1efc0c19",
+      "description": "Valentine ngồi trên ghế nghỉ tại resort biển hoàng hôn, bikini hai mảnh trắng-teal, áo choàng voan họa tiết, mũ rộng vành, sandal, tay chạm vành mũ.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-012.webp",
+      "sha256": "015a04fd97054c45cf65b9d8d497e4181b56648bc173b637c73c3a3eb9047b4d",
+      "description": "Valentine đứng ở nhà ga cảng vũ trụ cùng vali kéo, trang phục trắng-teal dáng váy ngắn, kính mát cầm tay, túi xách, toàn thân có giày cao gót.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-013.webp",
+      "sha256": "3f682fff2d4bcebc3e3c19fbf560873462329f3ff3843b8de7dc3c37c894b27a",
+      "description": "Ballroom",
+      "metadataStatus": "VERIFIED_DETAILS_FROM_APPROVED_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-014.webp",
+      "sha256": "b178ab989660d52f74c140bb077d863098adb8017faace0fea086d98ff9af6f7",
+      "description": "Spring city",
+      "metadataStatus": "VERIFIED_DETAILS_FROM_APPROVED_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-015.webp",
+      "sha256": "86f03df5c486bcd25e6caaadc6f903b88a27100179873f43efca68611e6556f6",
+      "description": "Doctor at hospital",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-016.webp",
+      "sha256": "e087561187872304101bdb57f9b65d75ca97371717afd54388865a59f00bcbe6",
+      "description": "Academy uniform standing, revised image",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-017.webp",
+      "sha256": "777c1b106fb9bd1e23cc037cfeb00cd1c9445985797398e15c88927c55c1d8f4",
+      "description": "Academy uniform seated, revised image",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-018.webp",
+      "sha256": "502ef499d8284b7e2223e66bb68c219a740dcb2b753320fd582de2f8bc637b83",
+      "description": "Academy formal walk",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-019.webp",
+      "sha256": "f96cf0c99f1f52e8131e089ed612bdec12c7dcb0e7a3cb3ac18d33566127474a",
+      "description": "White-teal short nurse rescue dress, medical bag, gloved reach toward patient at spaceport sunset.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-020.webp",
+      "sha256": "b8a856289a7124674618ec4164c310f2ccd09d1237469bc596acc8b4e154c45d",
+      "description": "Homewear in room",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-021.webp",
+      "sha256": "8147fa803a955c930d7014540bccec8771f613190e9064834ea373854159180c",
+      "description": "New approved at-home night look",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "valentine-outfit-022.webp",
+      "sha256": "dba56f93c78967f825a50fe1b12a83d2ca6f4d34da2b209144d2421caf838acf",
+      "description": "Bikini trắng–teal, voan trắng, ngồi thư giãn trên ghế resort gần biển; tóc vàng dài, mắt xanh",
+      "metadataStatus": "VERIFIED_FROM_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-023.webp",
+      "sha256": "73a659aba327b67e37f2eeef66251cbd633807e2329c2bc6edc0229849b53a4b",
+      "description": "Đồ bơi một mảnh trắng–teal phối voan quấn, đứng dạo mép nước lúc hoàng hôn, cầm mũ cói",
+      "metadataStatus": "VERIFIED_FROM_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-024.webp",
+      "sha256": "444c995a600af6dad155c3fe7925a90b5539e3bab11ffc7078f4839c490a9e31",
+      "description": "Bikini hai mảnh trắng–teal, khăn voan hoa, ngồi bắt chéo chân trên ghế mây tại resort ban ngày",
+      "metadataStatus": "VERIFIED_FROM_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-025.webp",
+      "sha256": "f8e93371f65eb961829cfc02fbaa037103c54f363acaf3f9a06a8594d293670e",
+      "description": "Bikini hai mảnh màu xanh navy, ngồi trên ghế lounge tại resort ven biển về đêm, ánh đèn vàng và biển xanh, không áo choàng",
+      "metadataStatus": "VERIFIED_FROM_RENDER"
+    },
+    {
+      "filename": "valentine-outfit-026.webp",
+      "sha256": "393157353464efcbd0e9add40ff07f7125f4354aa133f7239ae9616f31d5e2bf",
+      "description": "Valentine trưởng thành trong bikini teal kín đáo viền ivory, bước chân trần trên cầu gỗ ven biển, cầm sandal, tóc vàng dài và mắt xanh; biển xanh, thuyền buồm, thành phố ven biển tương lai, ánh nắng chiều",
+      "metadataStatus": "VERIFIED_FROM_APPROVED_ASSET_AND_HANDOFF"
+    }
+  ],
+  "curatedMetadataSource": "CHATGPT_LIBRARY_SHA256_VERIFIED",
+  "curatedCount": 35
+}

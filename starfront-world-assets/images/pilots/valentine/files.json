@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "valentine",
+  "total": 35,
+  "files": [
+    {
+      "assetId": "valentine-activity-001",
+      "filename": "valentine-activity-001.webp",
+      "role": "activity-001",
+      "sha256": "6471a942dcab6f7d07f83b814ce5383d25afad9a3e9f54d47cbefa04c827e207",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-casual",
+      "filename": "valentine-casual.webp",
+      "role": "casual",
+      "sha256": "cc301d0ff596c4563cc6178cb154cd4bedf26e1b8815c13d03e7fc49753825ae",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-closeup",
+      "filename": "valentine-closeup.webp",
+      "role": "closeup",
+      "sha256": "02e12efa63b158fe71b3a6333a90e4aeb6222bd6bcb548bad0094da391255715",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-combat",
+      "filename": "valentine-combat.webp",
+      "role": "combat",
+      "sha256": "443953cffe133c4bdd531eefb90f5dff7aeac5cc091331fa95a7647ca065f630",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-event-001",
+      "filename": "valentine-event-001.webp",
+      "role": "event-001",
+      "sha256": "829852c62bc98e1f18c20b2a41923f5cccf05c77c0a72d85510212f8eca71f5a",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-fullbody",
+      "filename": "valentine-fullbody.webp",
+      "role": "fullbody",
+      "sha256": "77a5d00d66aeed9014c60cafa7a528e38826b0dce35c836ef2776c18f846c495",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-portrait",
+      "filename": "valentine-portrait.webp",
+      "role": "portrait",
+      "sha256": "e8439a87904127649e9bb72b6eb41c53d21176f83f0f1b885f2dc05bafa2bc11",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-story-001",
+      "filename": "valentine-story-001.webp",
+      "role": "story-001",
+      "sha256": "946fdf23df59e89159f51dc29bfd46376c6a353f14e6b6686749e8c126718386",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-uniform-001",
+      "filename": "valentine-uniform-001.webp",
+      "role": "uniform-001",
+      "sha256": "7da69f7960252c924ee78b258131b2543e384eb09cbb62797cbd04a9f5f033a0",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-001",
+      "filename": "valentine-outfit-001.webp",
+      "role": "outfit-001",
+      "sha256": "5098e803f37ca7555a0f4439608415809d146dca8d2196780f669882583a6a08",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-002",
+      "filename": "valentine-outfit-002.webp",
+      "role": "outfit-002",
+      "sha256": "2c725f77bd2918f9a6d9cb9426246068d03ef126466b838291e6b2788e4b918d",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-003",
+      "filename": "valentine-outfit-003.webp",
+      "role": "outfit-003",
+      "sha256": "b92d4d7e1439c8a71f91bc1f4512a205c7eda71c16f36af8de956aad8b8311e6",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-004",
+      "filename": "valentine-outfit-004.webp",
+      "role": "outfit-004",
+      "sha256": "9d5f860c9fc96176d51a7d58aa6a4be541b1990005874b3ef14833f5818205ac",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-005",
+      "filename": "valentine-outfit-005.webp",
+      "role": "outfit-005",
+      "sha256": "ff260d1d07cbc7675272f95a17a0d9752922645a8bc27703a44bf52ca390ff41",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "valentine-outfit-006",
+      "filename": "valentine-outfit-006.webp",
+      "role": "outfit-006",
+      "sha256": "d2eabb58af5229468a09ffd7d690ae5fc4ebee2789d997af24a0ed7747a2c04a",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-007",
+      "filename": "valentine-outfit-007.webp",
+      "role": "outfit-007",
+      "sha256": "19f2fae54d47442f940f798bea738650e079492b6d5198476dab1b9e509d733a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "valentine-outfit-008",
+      "filename": "valentine-outfit-008.webp",
+      "role": "outfit-008",
+      "sha256": "704c1b9d1f75bec7a0db76d87bb08f19c6d4e17652cd8237b9d1f6e287a15b71",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-009",
+      "filename": "valentine-outfit-009.webp",
+      "role": "outfit-009",
+      "sha256": "b664b5e8e5e895179143cc586874cb9020eaef8df3375b48a9675437ba531b94",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-010",
+      "filename": "valentine-outfit-010.webp",
+      "role": "outfit-010",
+      "sha256": "f16db946b4e0c1c464703eafd2e0f169503bff05ecfd12cad5968584eb246839",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-011",
+      "filename": "valentine-outfit-011.webp",
+      "role": "outfit-011",
+      "sha256": "000338adc9bd03dac09c9b960443eb69c681a9b92fdd334195a49b7d1efc0c19",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-012",
+      "filename": "valentine-outfit-012.webp",
+      "role": "outfit-012",
+      "sha256": "015a04fd97054c45cf65b9d8d497e4181b56648bc173b637c73c3a3eb9047b4d",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-013",
+      "filename": "valentine-outfit-013.webp",
+      "role": "outfit-013",
+      "sha256": "3f682fff2d4bcebc3e3c19fbf560873462329f3ff3843b8de7dc3c37c894b27a",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-014",
+      "filename": "valentine-outfit-014.webp",
+      "role": "outfit-014",
+      "sha256": "b178ab989660d52f74c140bb077d863098adb8017faace0fea086d98ff9af6f7",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-015",
+      "filename": "valentine-outfit-015.webp",
+      "role": "outfit-015",
+      "sha256": "86f03df5c486bcd25e6caaadc6f903b88a27100179873f43efca68611e6556f6",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-016",
+      "filename": "valentine-outfit-016.webp",
+      "role": "outfit-016",
+      "sha256": "e087561187872304101bdb57f9b65d75ca97371717afd54388865a59f00bcbe6",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-017",
+      "filename": "valentine-outfit-017.webp",
+      "role": "outfit-017",
+      "sha256": "777c1b106fb9bd1e23cc037cfeb00cd1c9445985797398e15c88927c55c1d8f4",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-018",
+      "filename": "valentine-outfit-018.webp",
+      "role": "outfit-018",
+      "sha256": "502ef499d8284b7e2223e66bb68c219a740dcb2b753320fd582de2f8bc637b83",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-019",
+      "filename": "valentine-outfit-019.webp",
+      "role": "outfit-019",
+      "sha256": "f96cf0c99f1f52e8131e089ed612bdec12c7dcb0e7a3cb3ac18d33566127474a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "valentine-outfit-020",
+      "filename": "valentine-outfit-020.webp",
+      "role": "outfit-020",
+      "sha256": "b8a856289a7124674618ec4164c310f2ccd09d1237469bc596acc8b4e154c45d",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "valentine-outfit-021",
+      "filename": "valentine-outfit-021.webp",
+      "role": "outfit-021",
+      "sha256": "8147fa803a955c930d7014540bccec8771f613190e9064834ea373854159180c",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "valentine-outfit-022",
+      "filename": "valentine-outfit-022.webp",
+      "role": "outfit-022",
+      "sha256": "dba56f93c78967f825a50fe1b12a83d2ca6f4d34da2b209144d2421caf838acf",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-023",
+      "filename": "valentine-outfit-023.webp",
+      "role": "outfit-023",
+      "sha256": "73a659aba327b67e37f2eeef66251cbd633807e2329c2bc6edc0229849b53a4b",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-024",
+      "filename": "valentine-outfit-024.webp",
+      "role": "outfit-024",
+      "sha256": "444c995a600af6dad155c3fe7925a90b5539e3bab11ffc7078f4839c490a9e31",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-025",
+      "filename": "valentine-outfit-025.webp",
+      "role": "outfit-025",
+      "sha256": "f8e93371f65eb961829cfc02fbaa037103c54f363acaf3f9a06a8594d293670e",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "valentine-outfit-026",
+      "filename": "valentine-outfit-026.webp",
+      "role": "outfit-026",
+      "sha256": "393157353464efcbd0e9add40ff07f7125f4354aa133f7239ae9616f31d5e2bf",
+      "width": 1024,
+      "height": 1536
+    }
+  ]
+}

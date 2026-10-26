@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "starfront-gallery-v3",
+  "pilotId": "victor",
+  "pilotName": "Victor Cross",
+  "totalAssets": 2,
+  "approvedAssets": 2,
+  "coreMapping": {
+    "portrait": "victor-portrait.webp",
+    "fullbody": "victor-fullbody.webp"
+  },
+  "artworks": [
+    {
+      "assetId": "victor-portrait",
+      "filename": "victor-portrait.webp",
+      "path": "images/victor-portrait.webp",
+      "role": "core_portrait",
+      "category": "core",
+      "title": "Chân Dung Đại Diện — Victor Cross",
+      "description": "Ảnh chân dung chuẩn canonical V1 của Victor Cross.",
+      "status": "approved",
+      "metadataStatus": "V1_REFERENCE_UNVERIFIED",
+      "assetAvailability": "REFERENCE_ONLY",
+      "metadataNeedsReview": true
+    },
+    {
+      "assetId": "victor-fullbody",
+      "filename": "victor-fullbody.webp",
+      "path": "images/victor-fullbody.webp",
+      "role": "core_fullbody",
+      "category": "core",
+      "title": "Tranh Toàn Thân — Victor Cross",
+      "description": "Bản vẽ toàn thân trang phục chiến đấu chuẩn của Victor Cross.",
+      "status": "approved",
+      "metadataStatus": "V1_REFERENCE_UNVERIFIED",
+      "assetAvailability": "REFERENCE_ONLY",
+      "metadataNeedsReview": true
+    }
+  ]
+}
