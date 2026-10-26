@@ -1,9 +1,14 @@
 {
   "schemaVersion": 1,
+  "releaseTag": "v3.0-assets-r3",
   "categories": [
     {
       "id": "pilots",
-      "manifest": "images/pilots/manifest.json"
+      "name": "Pilots Collection",
+      "manifest": "images/pilots/manifest.json",
+      "pilotCount": 12,
+      "totalAssets": 247,
+      "referenceOnlyAssets": 4
     }
   ]
 }
