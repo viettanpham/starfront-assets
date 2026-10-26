@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "starfront-curated-metadata-v1",
+  "pilotId": "selena",
+  "pilotName": "Selena Vega",
+  "callsign": "Crimson Spark",
+  "totalArtworks": 26,
+  "artworksMeta": {
+    "selena-activity.webp": {
+      "title": "Hoạt động",
+      "subtitle": "Selena",
+      "category": "activity",
+      "order": 1
+    },
+    "selena-closeup.webp": {
+      "title": "Cận cảnh",
+      "subtitle": "Selena",
+      "category": "closeup",
+      "order": 2
+    },
+    "selena-combat.webp": {
+      "title": "Chiến đấu",
+      "subtitle": "Selena",
+      "category": "combat",
+      "order": 3
+    },
+    "selena-fullbody.webp": {
+      "title": "Tranh toàn thân",
+      "subtitle": "Selena",
+      "category": "fullbody",
+      "order": 4
+    },
+    "selena-outfit-001.webp": {
+      "title": "Outfit 001",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 5
+    },
+    "selena-outfit-002.webp": {
+      "title": "Outfit 002",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 6
+    },
+    "selena-outfit-003.webp": {
+      "title": "Outfit 003",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 7
+    },
+    "selena-outfit-004.webp": {
+      "title": "Outfit 004",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 8
+    },
+    "selena-outfit-005.webp": {
+      "title": "Outfit 005",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 9
+    },
+    "selena-outfit-006.webp": {
+      "title": "Outfit 006",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 10
+    },
+    "selena-outfit-007.webp": {
+      "title": "Outfit 007",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 11
+    },
+    "selena-outfit-008.webp": {
+      "title": "Outfit 008",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 12
+    },
+    "selena-outfit-009.webp": {
+      "title": "Outfit 009",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 13
+    },
+    "selena-outfit-010.webp": {
+      "title": "Outfit 010",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 14
+    },
+    "selena-outfit-011.webp": {
+      "title": "Outfit 011",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 15
+    },
+    "selena-outfit-012.webp": {
+      "title": "Outfit 012",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 16
+    },
+    "selena-outfit-013.webp": {
+      "title": "Outfit 013",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 17
+    },
+    "selena-outfit-014.webp": {
+      "title": "Outfit 014",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 18
+    },
+    "selena-outfit-015.webp": {
+      "title": "Outfit 015",
+      "subtitle": "Selena",
+      "category": "outfit",
+      "order": 19
+    },
+    "selena-portrait.webp": {
+      "title": "Chân dung",
+      "subtitle": "Selena",
+      "category": "portrait",
+      "order": 20
+    }
+  },
+  "curatedImages": [
+    {
+      "filename": "selena-fullbody.webp",
+      "sha256": "1dabda2d381870b0e5bea444ba2cbcacf90052d852499eb883237dc40f190740",
+      "description": "Black/crimson/gold energy-officer bodysuit and long cloak in starship hangar",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-portrait.webp",
+      "sha256": "bf8d2c13cc6607cfd2e0847d69872b20fec820bd03cd0de4ce895871db8437fb",
+      "description": "Confident close portrait in energy-officer armored uniform",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-combat.webp",
+      "sha256": "1e37e8e04ac1bc5321e8862932ed9c08e91065ecab25f4517f67df7f2528613d",
+      "description": "Dynamic red-energy artillery action on sci-fi battlefield",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-closeup.webp",
+      "sha256": "1e949e4ae143bced00ec82f80eff4dd98ebe8b8e1960475e1a8bea893f7ea7fc",
+      "description": "Selena đứng tại bàn hologram chiến thuật trên cầu chỉ huy, tay trái trong ảnh chạm sơ đồ đội tàu, tay phải trong ảnh cầm tablet; khung dọc từ đùi lên, đen/đỏ burgundy/vàng/ivory.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "selena-activity.webp",
+      "sha256": "428d4713f7b573bce0d5c35cbe5879ac6fc6975a09bb6991b560c42e1b7a7a56",
+      "description": "Selena kiểm tra cụm động cơ GEAR mở nắp trong hangar, tay gần máy chạm linh kiện và tay còn lại cầm bảng chẩn đoán hologram; suit kỹ thuật trắng-đen-burgundy, góc dọc toàn thân.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "selena-outfit-001.webp",
+      "sha256": "d56a6cb2a5af947e6d4413ebc413bcd7e43569997cbc54451deccc716cc8cfdb",
+      "description": "White tailored academy uniform, red pleated skirt, dark hosiery in academy courtyard",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-002.webp",
+      "sha256": "b4443789dc3633c46e6f62f60762ca025d05282e15f3a4078f36aba182329fa7",
+      "description": "Selena seated in GEAR flight-simulator cockpit wearing ivory-white and burgundy fitted pilot suit; gloved hands hold twin controls, focused gaze toward HUD; blue instruments and cityport through canopy",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-003.webp",
+      "sha256": "ffb2a7cf326a60ccf0cb0d313307a754f3235d6262c386bf749c9acc4e1eb9a6",
+      "description": "Black-red fashionable short dress with boots, strolling futuristic city at sunset",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-004.webp",
+      "sha256": "c7df5f34c8f97a2009abc013018da3b6e9088b9240cc0af4ce8399543f8e06e1",
+      "description": "Black and ruby gala gown, seated in orbital night lounge",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-005.webp",
+      "sha256": "f43134a67e68f567ee2e7c45a8a6675cbb675a925a032d789dcc66de369ae31a",
+      "description": "Wine-red silk home dress and soft ivory robe, relaxed night interior",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-006.webp",
+      "sha256": "a3921fbc7a199ed26a3db59b4e3504dc5007287303a56f15d3f6a1203e50b1c8",
+      "description": "Selena walks down the steps of a futuristic shopping district at golden hour, wearing burgundy cropped jacket, ivory fitted top, short black A-line skirt, knee-high black boots, and carrying a burgundy handbag.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-007.webp",
+      "sha256": "51935c55cb9db076109a643ae392dcaccc9cf1c54038a099a2735c9871dcd58b",
+      "description": "Selena mặc váy burgundy đỏ dáng ôm ngắn, blazer trắng và giày cao gót đen; bắt tay sĩ quan cấp cao tóc bạc tại hội nghị ngoại giao, tay kia giữ tập hồ sơ, phòng hội nghị ánh sáng ban ngày.",
+      "metadataStatus": "VERIFIED_DETAILED"
+    },
+    {
+      "filename": "selena-outfit-008.webp",
+      "sha256": "002eb50bef022892aef2e7dfca6d9cca919c362f1c5f6f185ebbdfd4ca2f0664",
+      "description": "Dark charcoal-black fitted technical training suit with teal glowing trim and athletic armored sneakers, cropped flowing jacket; Suspended diagonally in zero-gravity training chamber, one bent leg, reaching hand, cool blue holograms; clearly dynamic not static",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-009.webp",
+      "sha256": "4dc39ff0ec144b9d78ec303f6c62acefaee1d80690e7f92b3f11cea46ced90ee",
+      "description": "Plum/violet ribbed fitted short knit dress with cream long white fur-trim winter coat, maroon scarf, dark sheer hosiery, high black boots; Snowy orbital observatory with telescope and planet in sky; standing/walking, coat billowing; planned trousers were NOT in the accepted render",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-010.webp",
+      "sha256": "8ef546f0317a7681d97a765e031dcfd050a7585fd2b0d2ac14f38daf05d1f339",
+      "description": "Sand/cream full-length fitted armoured desert flight/scout suit, russet panels and metallic protectors; dustproof gloves, rugged boots, burgundy sand cape/scarf; Striding along a dry alien canyon/outpost in dusty sunset, low forward camera; practical full coverage despite fitted silhouette",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-011.webp",
+      "sha256": "b6a0fbc67ddcb97dd9ab566848df7c030bb37300ce29389447a57b58e895bff3",
+      "description": "Regal ivory, midnight-navy and gold sculpted futuristic ceremonial armored bodysuit with long sweeping navy cape, high ornate heeled boots; Grand fleet hall with banners, ships and gathered personnel, elegant forward walking pose; NOT tailored trousers from the pre-render proposal",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-012.webp",
+      "sha256": "4e5a6beee8a1698ef024132ee9d565a8598106607136db378877f2d543549714",
+      "description": "Sculpted metallic silver/black exosuit with icy cyan energy seams, shoulder/hip armour and high boots; translucent light-fins; Active prototype energy-core lab, holding a glowing blue energy sphere; cool cyan lights and holographic curves",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-013.webp",
+      "sha256": "011960c71b8fbf71886211afbdef9ddc9cab9c5a9273b22e1690c125a7cee446",
+      "description": "Flowing ivory/pearl layered light ruffle holiday dress with floral/gold embroidery and semi-sheer draped sleeves; strappy high-heeled sandals and purse; Elegant bright hanging-garden space resort; one hand on balcony rail; NOT linen top and culottes from original plan",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-014.webp",
+      "sha256": "39033b33986d9484b2240e0217def0e69ad89e3abe68444e238fede7a2c23dfc",
+      "description": "Deep navy-black one-piece practical fitted maintenance jumpsuit with red accent piping, tech straps and tool belt; work gloves, robust lace-up boots; Standing at bright crimson reactor with technical holographic controls, pointing to blue panel, engineer-worksite scenery",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-015.webp",
+      "sha256": "441e75547476877c106600bb8a782a4e52c07b8551dead34c394039188466089",
+      "description": "Selena practices a floor-based mobility and flexibility drill at a futuristic training academy, wearing a white cropped zip sports top, white fitted training leggings with mesh panels and red-gold details, white-red sneakers, and a loose white warm-up jacket. One knee folds below her while the other leg extends forward; a hand steadies her on the floor, the other reaches above her head. Training displays and equipment in the background.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-016.webp",
+      "sha256": "9c149488a0d0889bbaf3f3f87bb59802bd2a3f12d7281f548cfabbe1644ac912",
+      "description": "Adult Selena in ivory short layered resort dress with burgundy sash, embroidered translucent cover-up, wide-brim straw hat and strapped sandals, one hand on balcony railing and another at hat, gazing out over sunlit futuristic coastal bay.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-017.webp",
+      "sha256": "0a635ac2b80f8f42c0c341279514c6799311762fe9f307d8b79a98bd041b9183",
+      "description": "Selena wearing an ivory-white one-piece swimsuit with fine gold trim and a sheer ivory embroidered cover-up, barefoot at the shallow turquoise shoreline of a futuristic seaside resort, one hand touching burgundy hair, the other holding sunglasses.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-018.webp",
+      "sha256": "981462a4871a040c4a884bc88fb7653922a6768c29cb81c2cced1f03a8a7515d",
+      "description": "Selena descends a grand marble staircase in a burgundy formal evening gown with gold embellishments and a flowing sheer train, holding a clutch and her skirt amid guests and a futuristic skyline.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-019.webp",
+      "sha256": "e3f74d00910c75f9d4c9feb75f7b542c4f2d671dc8d875fbaba4916b8625a271",
+      "description": "Selena in a fitted full-length ivory-white, burgundy and gold flight suit with completely covered thighs, armored boots and gloves, carrying a helmet on the launch platform beside GEAR fighters at sunset.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-020.webp",
+      "sha256": "c3ddcb09d948f021a8fbbec23eaa32cfbe91a1c330e77a8ec8a024ea5cac18b2",
+      "description": "Selena in a full-length fitted ivory and burgundy athletic performance suit with gold accents, extending one hand toward an orange holographic reflex target while dynamically balancing in a futuristic training arena.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    },
+    {
+      "filename": "selena-outfit-021.webp",
+      "sha256": "deb60ce7475d894864672fb5bf6e8b7cdaad9a44ca5f8aa0bef15fc1f40808ed",
+      "description": "Selena seated cross-legged at an orbital café, wearing a sapphire blue short fitted dress, ivory light jacket and dark heels; holding teacup and open book by panoramic futuristic city window at sunset.",
+      "metadataStatus": "VERIFIED_DETAILED_R3"
+    }
+  ],
+  "curatedMetadataSource": "CHATGPT_LIBRARY_SHA256_VERIFIED",
+  "curatedCount": 26
+}
