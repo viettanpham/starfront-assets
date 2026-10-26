@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "lyra",
+  "total": 30,
+  "files": [
+    {
+      "assetId": "lyra-fullbody",
+      "filename": "lyra-fullbody.webp",
+      "role": "fullbody",
+      "sha256": "3490889c351c2684787677e75bd14e89434448d6a7ca2cb3da1222d7637ba31b",
+      "width": 948,
+      "height": 1659,
+      "bytes": 547214
+    },
+    {
+      "assetId": "lyra-portrait",
+      "filename": "lyra-portrait.webp",
+      "role": "portrait",
+      "sha256": "86ba0a4ea8974016cd2812ee5210032f943e58ebeab5f8f8ac45759381f5bb50",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 421726
+    },
+    {
+      "assetId": "lyra-combat",
+      "filename": "lyra-combat.webp",
+      "role": "combat",
+      "sha256": "db2e76ca37c1313df667e152acf967c4cca11e427ee0f5ff736f2b16cff970e3",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 499840
+    },
+    {
+      "assetId": "lyra-closeup",
+      "filename": "lyra-closeup.webp",
+      "role": "closeup",
+      "sha256": "17eeff3dfd6ee07859a52fb16eef51dd37fd12e7889074aaa93e808067d55916",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 513430
+    },
+    {
+      "assetId": "lyra-activity",
+      "filename": "lyra-activity.webp",
+      "role": "activity",
+      "sha256": "288579084a3537ada6be07677e9e9637dc227d18bde04cf5026897063f155e83",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 543208
+    },
+    {
+      "assetId": "lyra-uniform-001",
+      "filename": "lyra-uniform-001.webp",
+      "role": "uniform-001",
+      "sha256": "8b560e9a5f8af94de150cc0818188216d775b8eb0b5d64fc826a642e69d98a3a",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 510052
+    },
+    {
+      "assetId": "lyra-uniform-002",
+      "filename": "lyra-uniform-002.webp",
+      "role": "uniform-002",
+      "sha256": "6f253543ab9da68ef0293b1c70b21b8c340c9d07f3ba3886097c6b09407fc23e",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 506936
+    },
+    {
+      "assetId": "lyra-pilot-001",
+      "filename": "lyra-pilot-001.webp",
+      "role": "pilot-001",
+      "sha256": "a6f739c40a02c40bec555fcb80d430a4e40caa229b6e5c92142daa042dda3e57",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 440700
+    },
+    {
+      "assetId": "lyra-outfit-001",
+      "filename": "lyra-outfit-001.webp",
+      "role": "outfit-001",
+      "sha256": "ab506d076a6c21f539d3012ce8b2d0e4523d0d8e9eb64ceabae6675952b51528",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 548756
+    },
+    {
+      "assetId": "lyra-casual",
+      "filename": "lyra-casual.webp",
+      "role": "casual",
+      "sha256": "b9bbb9da8578a0392fbcbd7d1a8f5bb55f66253ba93cb900dbed09d293735dfb",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 446692
+    },
+    {
+      "assetId": "lyra-outfit-002",
+      "filename": "lyra-outfit-002.webp",
+      "role": "outfit-002",
+      "sha256": "0d0d8c726d13f654c6dd88d6e5f5f60b106bc76f1606f37b6ac87c20f0da7bb6",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 506394
+    },
+    {
+      "assetId": "lyra-outfit-003",
+      "filename": "lyra-outfit-003.webp",
+      "role": "outfit-003",
+      "sha256": "b37bc738993e428af0145ba2dc4268c230b58689e75ada2bbd4e13f5909bbd97",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 431880
+    },
+    {
+      "assetId": "lyra-outfit-004",
+      "filename": "lyra-outfit-004.webp",
+      "role": "outfit-004",
+      "sha256": "9a5349d1da1b2f526da9769686f19efe2bdd59ac2e3a26fac16a469391dccc6c",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 445846
+    },
+    {
+      "assetId": "lyra-outfit-005",
+      "filename": "lyra-outfit-005.webp",
+      "role": "outfit-005",
+      "sha256": "84c1ca398f5ce382e3bbcfbb9e864c39315b4ee603383c15cb6c743b7e020f8d",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 586112
+    },
+    {
+      "assetId": "lyra-outfit-006",
+      "filename": "lyra-outfit-006.webp",
+      "role": "outfit-006",
+      "sha256": "8b46f96b74742666902952c037ac37505cf9fd55556e82477100f927823afad3",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 397760
+    },
+    {
+      "assetId": "lyra-outfit-007",
+      "filename": "lyra-outfit-007.webp",
+      "role": "outfit-007",
+      "sha256": "52fd1ce2a6a617b2f70e726936487b99efe65fdf110b27aa0a84b8c8d6d13b5d",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 421128
+    },
+    {
+      "assetId": "lyra-outfit-008",
+      "filename": "lyra-outfit-008.webp",
+      "role": "outfit-008",
+      "sha256": "6953a937da563e151e85d4d4affc66ca176c9f95fe6499851b594f9587ef76d0",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 379236
+    },
+    {
+      "assetId": "lyra-outfit-009",
+      "filename": "lyra-outfit-009.webp",
+      "role": "outfit-009",
+      "sha256": "af755514db2a4768503ebda1a2c54cc86e7662ba66fe030eb8922a1a452ce66b",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 370986
+    },
+    {
+      "assetId": "lyra-outfit-010",
+      "filename": "lyra-outfit-010.webp",
+      "role": "outfit-010",
+      "sha256": "57d6e0c90536a1a7588cf2a13c6507e79c256bb1435da6af469ef8f95ccb0475",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 374092
+    },
+    {
+      "assetId": "lyra-outfit-011",
+      "filename": "lyra-outfit-011.webp",
+      "role": "outfit-011",
+      "sha256": "9cca35b4452b6a9ca60c1142cf6a16532c62a99465c852a240996f7f8f219da8",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 609322
+    },
+    {
+      "assetId": "lyra-outfit-012",
+      "filename": "lyra-outfit-012.webp",
+      "role": "outfit-012",
+      "sha256": "0c400f754493fd777111b0b966be5b6952dc3a1de443f631546ccaf42140e344",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 482228
+    },
+    {
+      "assetId": "lyra-outfit-013",
+      "filename": "lyra-outfit-013.webp",
+      "role": "outfit-013",
+      "sha256": "8b54512a4b4ed277c77f8cd1c3ed0e4e75eecdaae20c67ab628ed88fdcae3bdb",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 384190
+    },
+    {
+      "assetId": "lyra-outfit-014",
+      "filename": "lyra-outfit-014.webp",
+      "role": "outfit-014",
+      "sha256": "f6ff75038a45a4c5db58a1a33adc9904a126e835d0646a732100a72d7eca5c56",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 553576
+    },
+    {
+      "assetId": "lyra-outfit-015",
+      "filename": "lyra-outfit-015.webp",
+      "role": "outfit-015",
+      "sha256": "af6c2d51685c83c799095b3615b3ebc973a17e2b92d1f4e65e658676ad6e9be8",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 532706
+    },
+    {
+      "assetId": "lyra-outfit-016",
+      "filename": "lyra-outfit-016.webp",
+      "role": "outfit-016",
+      "sha256": "a6c2ed77e817a3d7aa42e19ab8b058a842451b487e3c7643e957bea2daf28dbc",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 405574
+    },
+    {
+      "assetId": "lyra-outfit-017",
+      "filename": "lyra-outfit-017.webp",
+      "role": "outfit-017",
+      "sha256": "4eff340b27a3ec1b33cc41761853560d4a213e60dce8269a2741e805c7a625d3",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 339240
+    },
+    {
+      "assetId": "lyra-outfit-018",
+      "filename": "lyra-outfit-018.webp",
+      "role": "outfit-018",
+      "sha256": "8c3c3c626ce2dd59023b7217613b2e9898d51836843a70f1f783130ab9c6d93e",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 370990
+    },
+    {
+      "assetId": "lyra-outfit-019",
+      "filename": "lyra-outfit-019.webp",
+      "role": "outfit-019",
+      "sha256": "19bf619974e1952ca6b4e1f2cb2dffe986f3627f820966a5074fcaa4abdd1f85",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 577498
+    },
+    {
+      "assetId": "lyra-outfit-020",
+      "filename": "lyra-outfit-020.webp",
+      "role": "outfit-020",
+      "sha256": "e0ed53cf4b8fa05a66091d81bd25acf1af12f82474ef75399e4354aefe76f8c3",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 558678
+    },
+    {
+      "assetId": "lyra-outfit-021",
+      "filename": "lyra-outfit-021.webp",
+      "role": "outfit-021",
+      "sha256": "97cea4006e37ae7d9674b171189b593a605eaab4f90240419a120af6f273b5f4",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 550844
+    }
+  ]
+}
