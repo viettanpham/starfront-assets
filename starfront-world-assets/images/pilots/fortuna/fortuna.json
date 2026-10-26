@@ -1,0 +1,373 @@
+{
+  "schemaVersion": "starfront-curated-metadata-v1",
+  "pilotId": "fortuna",
+  "pilotName": "Fortuna",
+  "callsign": "Lady Luck",
+  "totalArtworks": 30,
+  "artworksMeta": {
+    "fortuna-activity.webp": {
+      "title": "Hoạt động",
+      "subtitle": "Fortuna",
+      "category": "activity",
+      "order": 1
+    },
+    "fortuna-closeup.webp": {
+      "title": "Cận cảnh",
+      "subtitle": "Fortuna",
+      "category": "closeup",
+      "order": 2
+    },
+    "fortuna-combat.webp": {
+      "title": "Chiến đấu",
+      "subtitle": "Fortuna",
+      "category": "combat",
+      "order": 3
+    },
+    "fortuna-fullbody.webp": {
+      "title": "Tranh toàn thân",
+      "subtitle": "Fortuna",
+      "category": "fullbody",
+      "order": 4
+    },
+    "fortuna-outfit-001.webp": {
+      "title": "Outfit 001",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 5
+    },
+    "fortuna-outfit-002.webp": {
+      "title": "Outfit 002",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 6
+    },
+    "fortuna-outfit-003.webp": {
+      "title": "Outfit 003",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 7
+    },
+    "fortuna-outfit-004.webp": {
+      "title": "Outfit 004",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 8
+    },
+    "fortuna-outfit-005.webp": {
+      "title": "Outfit 005",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 9
+    },
+    "fortuna-outfit-006.webp": {
+      "title": "Outfit 006",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 10
+    },
+    "fortuna-outfit-007.webp": {
+      "title": "Outfit 007",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 11
+    },
+    "fortuna-outfit-008.webp": {
+      "title": "Outfit 008",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 12
+    },
+    "fortuna-outfit-009.webp": {
+      "title": "Outfit 009",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 13
+    },
+    "fortuna-outfit-010.webp": {
+      "title": "Outfit 010",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 14
+    },
+    "fortuna-outfit-011.webp": {
+      "title": "Outfit 011",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 15
+    },
+    "fortuna-outfit-012.webp": {
+      "title": "Outfit 012",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 16
+    },
+    "fortuna-outfit-013.webp": {
+      "title": "Outfit 013",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 17
+    },
+    "fortuna-outfit-014.webp": {
+      "title": "Outfit 014",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 18
+    },
+    "fortuna-outfit-015.webp": {
+      "title": "Outfit 015",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 19
+    },
+    "fortuna-outfit-016.webp": {
+      "title": "Outfit 016",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 20
+    },
+    "fortuna-outfit-017.webp": {
+      "title": "Outfit 017",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 21
+    },
+    "fortuna-outfit-018.webp": {
+      "title": "Outfit 018",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 22
+    },
+    "fortuna-outfit-019.webp": {
+      "title": "Outfit 019",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 23
+    },
+    "fortuna-outfit-020.webp": {
+      "title": "Outfit 020",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 24
+    },
+    "fortuna-outfit-021.webp": {
+      "title": "Outfit 021",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 25
+    },
+    "fortuna-outfit-022.webp": {
+      "title": "Outfit 022",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 26
+    },
+    "fortuna-outfit-023.webp": {
+      "title": "Outfit 023",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 27
+    },
+    "fortuna-outfit-024.webp": {
+      "title": "Outfit 024",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 28
+    },
+    "fortuna-outfit-025.webp": {
+      "title": "Outfit 025",
+      "subtitle": "Fortuna",
+      "category": "outfit",
+      "order": 29
+    },
+    "fortuna-portrait.webp": {
+      "title": "Chân dung",
+      "subtitle": "Fortuna",
+      "category": "portrait",
+      "order": 30
+    }
+  },
+  "curatedImages": [
+    {
+      "filename": "fortuna-fullbody.webp",
+      "sha256": "876437784cefe996ef31d20a44938be7a8f4763c2acba0bb893cf08f9d0e2f53",
+      "description": "Trang phục: Sơ mi trắng cổ mở viền vàng, áo khoác chỉ huy đen dài viền vàng và cầu vai, corset eo đen, váy ngắn đen xẻ lệch, tất đùi màu khói có ren, giày mũi nhọn quai cổ chân.. Tư thế: Đứng nghiêng nhẹ tựa bàn, đầu nghiêng và nhìn thẳng người xem; khí chất điềm tĩnh.. Góc máy: Toàn thân, góc chụp hơi thấp, nhân vật chủ yếu ở trung tâm và chiếm chiều cao khung, nhìn 3/4 trước.. Bối cảnh: Văn phòng chỉ huy của tàu, bàn điều hành kim loại, cờ biểu tượng, ô cửa nhìn tàu chiến/hành tinh.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-portrait.webp",
+      "sha256": "a30deac8c9d2405150d71abc522a63704a6db8345c46f017acd5b0ffd7e42000",
+      "description": "Trang phục: Áo/váy chỉ huy trắng ngà cổ khoét rộng, nẹp và dây đai vàng-đen, áo choàng trắng phía sau. Tư thế: Đứng/dựa cạnh bàn, nhìn thẳng chếch xuống, vẻ bình tĩnh; Một tay tựa mép bàn, tay kia nâng gần cổ/tóc; Chân ngoài khung; giày NOT_VISIBLE. Góc máy: Khung dọc từ ngang đùi trở lên, góc ngang, chân dung môi trường. Bối cảnh: Đài quan sát quỹ đạo có hành tinh xanh và chiến hạm xa; Đèn nội thất vàng, ánh xanh từ cửa sổ, bàn kim loại.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-combat.webp",
+      "sha256": "4030bd8205bc29a0b656f3785b7a1f4ddb485be85f2df771c6f0d68e1e1b69f3",
+      "description": "Trang phục: Bộ chiến thuật đen vàng ôm eo kèm mảng giáp ở tay/chân, áo choàng vạt bay, găng tay, băng đùi và bốt chiến đấu cao; cổ trắng vẫn thấy ở thân trên.. Tư thế: Dáng lao chuyển ngang tích cực, tóc và áo choàng tung ngược hướng di chuyển, ánh nhìn tập trung.. Góc máy: Góc máy thấp nghiêng/động, fullbody gần, chân trước phóng đại theo phối cảnh.. Bối cảnh: Hangar/tàu chiến công nghiệp, robot hoặc lính phía sau, trần cao, máy bay.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-activity.webp",
+      "sha256": "888294f5bd27d4f10510af2cf314eba3c63c4e23593fee84ca1d918684f9a255",
+      "description": "Trang phục: Sơ mi/váy chỉ huy trắng ngà bóp eo ngắn, áo khoác trắng dài viền kim, tất màu nude khói và giày pump trắng gót nhọn, cầm tablet đen.. Tư thế: Đứng cạnh bàn hologram, cúi vai hơi về trước, chăm chú hoạch định.. Góc máy: Toàn thân, góc ngang-hơi thấp, camera nhìn từ mép bàn chếch lên; phối cảnh bàn chiếm tiền cảnh trái.. Bối cảnh: Phòng tác chiến đầy sơ đồ phi thuyền, cửa sổ sao và cờ quân.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-001.webp",
+      "sha256": "4c817f315ca4aa047a95bc592b5cf0b7e215e077d76df324d69d107205a44aec",
+      "description": "Trang phục: Đầm dạ hội xanh midnight dáng ôm corset, cổ trái tim sâu, chân váy đuôi dài nhiều lớp voan xuyên sáng viền vàng, xẻ tà một bên, sandal dây mảnh cao gót.. Tư thế: Đi bước nhẹ như tạo dáng ở đại tiệc, một vai hơi nâng, đầu nghiêng mỉm cười.. Góc máy: Fullbody dọc, góc ngang-hơi thấp, lấy tà váy rộng chuyển động sát rìa ảnh.. Bối cảnh: Sảnh tiệc nhìn ra hành tinh và tàu vũ trụ, cầu thang, đèn chùm, khách mời.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-006.webp",
+      "sha256": "e84ddd14ad2b221439760694c3f2cf5ce9e5866810b0e4837cffc21404cb483a",
+      "description": "Trang phục: Bộ áo len cổ cao đen ôm, quần tây dài đen ôm, trench coat trắng bạc dài mở vạt viền vàng, bốt cao cổ đen, kéo valise đen.. Tư thế: Sải bước chậm trong sảnh cảng, mặt quay nhẹ về phía người xem.. Góc máy: Toàn thân dọc, góc hơi thấp chính diện, kiến trúc cảng ở hậu cảnh.. Bối cảnh: Terminal không gian sáng, hành khách xa, khung thép và tàu lớn ngoài cửa.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-007.webp",
+      "sha256": "f6b4278164715f20773e5d3996924240ada67c3efc9cd159fc0d2ce059151131",
+      "description": "Trang phục: Đầm bodycon ngắn burgundy cổ sâu, trench da đen dài mở vạt viền vàng, tất đùi khói và ankle boot đen cao gót; cầm ô đỏ sẫm.. Tư thế: Đứng ở vỉa hè, thân xoay nhẹ, tay đặt ô cao, nhìn vào camera.. Góc máy: Toàn thân dọc, góc thấp nhẹ, khuôn hình đường phố chiều sâu đèn neon.. Bối cảnh: Đường tàu điện/tram đô thị tương lai dưới mưa, phương tiện bên phải ảnh, bảng hiệu đỏ.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-008.webp",
+      "sha256": "d044b2195cd9cb5a9373ec216edc4fd372c94f8dde71f74d0c49185ee0f82113",
+      "description": "Trang phục: Bộ jumpsuit phi công liền thân trắng bóng với mảng đen vàng, cổ dựng, dây giữ hông/đùi, quần ôm, bốt phi công cao cổ trắng; áo khoác choàng đen-vàng sau lưng.. Tư thế: Bước xuống cầu thang/ramp tàu, đầu hơi nghiêng và thân tạo đường chéo động.. Góc máy: Fullbody dọc, góc máy thấp từ cuối ramp hướng lên thân tàu; phối cảnh cầu thang mạnh.. Bối cảnh: Bệ phóng/cảng tàu vũ trụ, tàu trắng lớn và quân nhân hậu cảnh, cảnh quỹ đạo.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-009.webp",
+      "sha256": "3f6ba54052831dd561b34a36f0547281fd10f6280e37f60d269b3d1aea065719",
+      "description": "Trang phục: Đầm dạ hội xanh emerald trễ vai cổ cúp, eo có nếp corset, thân váy asym xếp lớp dài xẻ cao với đuôi trong mờ, sandal bạc quai mảnh.. Tư thế: Đứng sát bàn tròn tại vườn kính tiệc, một hông nghiêng, mặt hướng camera.. Góc máy: Fullbody góc ngang hơi thấp, tà váy trải dưới chân, nhân vật 3/4 trước.. Bối cảnh: Vườn kính đầy cây lá, nến, hoa trắng và bàn tiệc nhìn ra thành phố.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-010.webp",
+      "sha256": "bb727be9d581314f0b509d38afd86aa7c1909d1ea3bb37eb01466e77bca66365",
+      "description": "Trang phục: Áo len gân màu burgundy đỏ rượu cổ cao/cổ khoét trước, chân váy xếp ly ngắn đen, trench coat kem dài, khăn kẻ caro đỏ, tất đen và bốt đen cao gót.. Tư thế: Đi chậm giữa chợ đông, nhìn nghiêng mỉm cười; tóc xõa.. Góc máy: Toàn thân dọc, góc ngang hơi thấp, đường phố đông người làm nền.. Bối cảnh: Chợ mùa đông đèn vàng, vòng thông, quà tặng, người đi phía sau và tuyết trên lối đi.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-011.webp",
+      "sha256": "8a27955e747f005fe8d17347aad7152d0384fe50792d012f5c234d60ff6b22de",
+      "description": "Trang phục: Đầm xanh emerald cúp vai ngực corset, thân váy quấn eo xếp li và xẻ cao, đuôi voan phủ họa tiết vàng nhiều tầng; sandal cao gót mảnh vàng.. Tư thế: Đứng trên ban công kính, váy phất rộng hai bên, mắt nhìn nhẹ xuống camera.. Góc máy: Fullbody dọc, camera hơi thấp thẳng trước, tà váy chiếm nhiều diện tích hai cạnh.. Bối cảnh: Ban công trạm quỹ đạo, lan can vàng, thành phố sao và hành tinh lớn ngoài cửa.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-012.webp",
+      "sha256": "e37d7d3dc33fadb63599b452af7b40a098b503e0c6d32859428add0d470172e6",
+      "description": "Trang phục: Đầm len đen cổ lọ ôm sát, tay dài, dài tới đùi, trench trắng ngà có bờ lông giả dày khoác hờ hai khuỷu, tất khói, ankle boots đen gót cao.. Tư thế: Quay người hơi sang sau nhìn về camera, ôm áo khoác ngang cánh tay giữa trời lạnh.. Góc máy: Toàn thân 3/4 quay lưng, góc ngang hơi thấp, áo phủ hai mép khung.. Bối cảnh: Phố trạm quỹ đạo tuyết rơi, lan can và tòa nhà chọc trời trong không gian.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-013.webp",
+      "sha256": "49ba592fec554edf16801d2986fe55ff66da20097ff1f86acc29f393c975b76e",
+      "description": "Trang phục: Lễ phục đô đốc đen-trắng-vàng: áo quân phục vai cầu vai vàng lớn, phần ngực corset trắng, chân váy đen ngắn, dây đeo đùi, cape dài xanh navy vàng, bốt da đen cao gối.. Tư thế: Đứng cạnh bàn điều hành, tư thế nghiêm trang vẫn linh hoạt, mắt hướng xuống sa bàn.. Góc máy: Toàn thân, máy thấp vừa; lấy bảng hologram bên trái và cờ sau lưng.. Bối cảnh: Cầu chỉ huy hạm đội, nhiều phi thuyền ngoài cửa, sa bàn và cờ hiệu lớn.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-014.webp",
+      "sha256": "9b781d49d5196a9856317c01bb4e69a015a049c0c2f82c3ee046b6e2b531a8bf",
+      "description": "Trang phục: Đầm dạ tiệc champagne hồng nhạt thân ôm có thêu vàng, cúp ngực, đuôi nhiều lớp voan bất đối xứng và khăn voan hồng, giày pump mũi nhọn vàng.. Tư thế: Đứng cạnh ghế tiệc lưng cao, nghiêng vai, mỉm cười và cầm ly.. Góc máy: Toàn thân dọc góc ngang thấp nhẹ; ghế tiệc chiếm góc dưới trái.. Bối cảnh: Đại sảnh tiệc xa hoa với đèn chùm, bàn ăn hoa trắng, hành tinh ngoài cửa.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-015.webp",
+      "sha256": "d76fc60be9bb7f863cbeb60e4e72c6d902aa4fc044cb435e1996c4d4e7ca7581",
+      "description": "Trang phục: Bộ bodysuit chiến thuật đen graphite có khóa kéo và dây đai bảo hộ hông/đùi, áo trench dài màu đen viền vàng, găng tay, boots chiến thuật cao cổ, cầm vali thiết bị.. Tư thế: Sải bước tiến thẳng về phía camera qua hành lang dữ liệu, tóc và áo khoác bay.. Góc máy: Toàn thân, góc chụp thấp chính diện, phối cảnh sàn bóng và hàng màn hình đối xứng.. Bối cảnh: Hành lang máy chủ rộng với màn hình dữ liệu xanh hai bên, cờ chiến lược ở xa.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-016.webp",
+      "sha256": "693149c88ecde229e652e9af3b19b59c7a8c9818457d5ed741385aaa34c99949",
+      "description": "Trang phục: Đầm qipao cải biên màu tím mận đen cổ dựng, corset eo, tà xẻ cao, tay áo voan dài phủ, thêu hoa vàng, giày cao gót tối; cầm quạt gấp.. Tư thế: Đứng nghiêng trong phòng lồng đèn, một hông xoay, thân hơi nghiêng ra bàn.. Góc máy: Toàn thân 3/4 ngang, camera hơi thấp, tà áo xòe sang hai bên.. Bối cảnh: Phòng/sảnh kiểu Á Đông trên đô thị tương lai, đèn lồng đỏ, tranh/cành hoa mai.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-017.webp",
+      "sha256": "5ef871c5a5268607dece17fb98c4a312d43d5afc8ce40793e10b4b3a4c4b4cd0",
+      "description": "Trang phục: Đầm len rib cổ cao màu kem dáng ngắn ôm eo, áo trench dài ngà với cổ mềm, khăn quàng tua, tất khói nhạt và ankle boot màu kem cao gót.. Tư thế: Đứng trong vườn kính, chân bước chéo thư thái, gương mặt hướng camera.. Góc máy: Fullbody góc ngang hơi thấp, bàn trà nằm bên trái ảnh.. Bối cảnh: Quán trà sân vườn trong nhà kính nhiều cây hoa trắng, bàn bánh ngọt.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-018.webp",
+      "sha256": "35dad8d12e684d9a3970c033740300e6e73a455928553100055fba6cb47fad2b",
+      "description": "Trang phục: Bodysuit nghiên cứu trắng bạc liền thân có dây đai kỹ thuật vàng/đen, áo khoác trắng dài xẻ vạt, bốt trắng cao cổ, mang tablet.. Tư thế: Đứng cạnh mô hình sao hologram dạng cột, thân xoay nhẹ hướng bảng dữ liệu.. Góc máy: Toàn thân góc ngang-hơi thấp, khối hologram nằm ở bên phải ảnh.. Bối cảnh: Phòng phân tích thiên văn công nghệ cao với mái cửa nhìn hạm đội và mô hình sao ba chiều.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-019.webp",
+      "sha256": "3d89658cceebb8918c2dcb218bca507383e56ff19fd34b420d3b92603b6bbe91",
+      "description": "Trang phục: Đầm ngắn ôm black/burgundy cổ chữ V, trench dài đen viền đỏ rượu, tất đùi khói, bốt cao gót đen, găng tay và ô đỏ lớn.. Tư thế: Sải bước dưới mưa đêm, mặt thẳng về người xem, tóc tung theo tà áo.. Góc máy: Toàn thân dọc, máy thấp chính diện; ô đỏ ở nửa trên khung và tà coat xòe hai bên.. Bối cảnh: Cảng/ga tàu đô thị cyberpunk neon với xe bay và kiến trúc khung đêm.",
+      "metadataStatus": "OBSERVED_NESTED_MAPPED"
+    },
+    {
+      "filename": "fortuna-outfit-021.webp",
+      "sha256": "f5087339cdb2a973b7d84fb0af3f99d1f1c1c91ee84af7f371411f0f69aa7556",
+      "description": "Trang phục: Bộ chỉ huy chiến đấu đen ánh đồng, áo bodice ôm, váy ngắn và vạt áo khoác/cape dài bay rộng; dây đai đùi và tất mỏng. Tư thế: Bước mạnh về trước trên cầu chỉ huy, thân 3/4; Một tay nâng súng ngắn, tay kia mở về phía hologram ở bên phải; Hai chân sải, giày cao gót quai tối màu nhìn thấy. Góc máy: Ảnh dọc toàn thân, góc thấp động, sàn kim loại phản quang. Bối cảnh: Cầu chỉ huy chiến hạm, màn hình và giao tranh không gian sau cửa kính; Hologram xanh vàng, ánh đèn kim loại và tia sáng ngoài không gian.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-closeup.webp",
+      "sha256": "323452174f34f916cf3ccd87975dac2f13e0f1f7ee2791ee04b30ac9b6e112de",
+      "description": "Trang phục: Áo váy officer trắng cổ khoét sâu, cổ và nẹp vàng-đen, tay áo trắng, áo khoác ngoài. Tư thế: Ngồi ghế chỉ huy tựa lưng, bắt chéo chân, ánh mắt điềm tĩnh; Một tay chống nhẹ gần má, tay kia đặt lên tay vịn; Chân bắt chéo, vớ/tất đen; giày không thấy rõ. Góc máy: Khung dọc khoảng giữa đùi trở lên, góc ngang hơi chếch. Bối cảnh: Ghế chỉ huy trước cửa sổ không gian và màn hình phía sau; Ánh vàng cabin, ánh xanh từ hành tinh, tay vịn ghế.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-002.webp",
+      "sha256": "d7f57034b70860638393c7fa1bc76af24565007aa91b29e159edce9f7a087aa2",
+      "description": "Trang phục: Đồ thể thao không trọng lực trắng, crop top cổ sâu và short ôm, áo khoác trắng mở, băng tay. Tư thế: Bay người ngang qua khu luyện tập không trọng lực, một chân gập ra sau; Tay phải duỗi về phía màn hình, tay trái chống dưới sàn/máy; Một chân co lên, giày thể thao sáng màu. Góc máy: Góc thấp và nghiêng, ảnh dọc hành động, thân chiếm gần toàn khung. Bối cảnh: Phòng gym không trọng lực, tạ và màn hình xanh; Ánh cửa sổ xanh, máy tập và màn hình chỉ số.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-003.webp",
+      "sha256": "fc35935017d9b665e67556472c02b66aa085de86700d83cc947c8143af9c8805",
+      "description": "Trang phục: Trang phục thám hiểm cát: crop top sáng, áo khoác tan, quần cargo/short với dây đai và boots. Tư thế: Ngồi tựa trên mỏm đá, một chân co hướng ống kính; Một tay chạm tóc/đầu, tay kia chống đá; Boots leo địa hình tiền cảnh phóng đại do phối cảnh. Góc máy: Ảnh dọc, góc gần thấp, hiệu ứng chân tiền cảnh. Bối cảnh: Sa mạc đá cạnh trạm/phi thuyền khoa học viễn tưởng; Nắng ban ngày rõ, địa hình cát, thiết bị xa.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-004.webp",
+      "sha256": "5c4cfdf40ab1e32aff76d2e987fe8e59b777f7b361b08a1751c0314444914d2e",
+      "description": "Trang phục: Đồng phục nữ sĩ quan trắng, tay xắn, corset/bodice đen, váy ngắn và áo choàng rủ. Tư thế: Ngồi nghiêng trên mép bàn/ghế, hai chân lệch, nhìn màn hình; Một tay cầm bút hướng lên giao diện, tay còn lại đặt cạnh bàn; Đùi và vớ đen thấy rõ, giày ngoài khung. Góc máy: Khung dọc 3/4, góc ngang gần; cắt phía cẳng chân. Bối cảnh: Phòng tác chiến với màn hình sơ đồ quỹ đạo xanh; Ánh xanh hologram và đèn vàng nội thất, tablet/bảng điều khiển.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-005.webp",
+      "sha256": "a3a0c90a127ec99247f07b7204aa3365b796c7e6b3f02eae984e3f2405027a61",
+      "description": "Trang phục: Đồ nghỉ ngơi trong cabin, áo trắng cổ thấp, áo choàng satin trắng tím trễ vai, quần short sáng. Tư thế: Ngồi tựa sofa, hai chân bắt chéo trong tư thế thư giãn; Một tay nâng cốc uống, tay kia chống lên sofa; Chân bắt chéo; một bàn chân/chân dưới ngoài khung. Góc máy: Khung dọc 3/4 người, góc ngang gần. Bối cảnh: Phòng lounge phi thuyền có sofa và cửa sổ không gian; Đèn vàng ấm, ánh xanh ngoài cửa, cốc và gối.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-020.webp",
+      "sha256": "22ab2a8ce8c42f3571e0d4c93e882b96395b14f1fae73242c8583d2023c862bb",
+      "description": "Trang phục: Váy ngắn cocktail trắng ôm eo, cổ khoét và tay dài, áo choàng sáng viền đen-vàng. Tư thế: Đứng ở buổi tiếp tân, người quay 3/4 trao đổi cùng khách nam; Một tay giữ ly champagne, tay kia mở bàn tay cử chỉ trò chuyện; Hai chân đứng lệch, giày cao gót sáng một phần trong khung. Góc máy: Khung dọc từ đầu xuống gần đầu gối, góc ngang. Bối cảnh: Sảnh ngoại giao quỹ đạo có các khách mời và cửa kính; Đèn vàng sang trọng, đồ tiệc, hành tinh xanh ngoài kính.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-022.webp",
+      "sha256": "1bc89b73085e779e142e174f810941aa27c74b3408f2207c6a2843979615f387",
+      "description": "Trang phục: Suit chiến đấu trắng-đen ôm thân, mảng giáp cánh tay/chân và dây đai đùi, boots chiến thuật. Tư thế: Ngồi/bám trên khung máy giữa chiến trận, thân xoay hướng người xem; Một tay duỗi súng năng lượng lớn thẳng về tiền cảnh, tay còn lại giữ điểm tựa; Đùi và một chân bọc giáp hiện rõ, chân còn lại bị máy che. Góc máy: Ảnh dọc góc thấp cận động, người chiếm phần lớn khung. Bối cảnh: Khoang máy chiến đấu và chiến hạm giữa giao tranh không gian; Tia laser xanh, lửa và mảnh vụn, nòng súng phát sáng.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-023.webp",
+      "sha256": "9dead286d7687a5bce27b39a651cf0a35b8fc3f6799a01a6a5f76d87d9e3a088",
+      "description": "Trang phục: Bộ đồ bơi nghỉ dưỡng xanh ngọc phối vàng, áo choàng voan trắng thêu họa tiết, mũ rộng vành. Tư thế: Đứng trên nền đá cạnh hồ/biển, chân trước đặt chéo, nhìn xuống; Một tay nâng mép mũ, tay còn lại cầm kính râm gần vai; Hai chân thấy đủ, giày sandal cao gót dây vàng. Góc máy: Ảnh dọc toàn thân, góc ngang hơi thấp. Bối cảnh: Resort biển nhiệt đới cạnh bể bơi và bến du thuyền; Nắng sáng, trời xanh, mặt nước xanh và kiến trúc nghỉ dưỡng.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-024.webp",
+      "sha256": "e53c583ec95c792b203ed2a62d2d6cf02ba749744017631fb13e084ed9e8fb2e",
+      "description": "Trang phục: Bomber san hô khoác mở, crop top trắng, quần short sáng và dây túi đeo. Tư thế: Đứng trên phố thương mại không gian, thân nghiêng ba phần tư; Một tay vuốt tóc, tay kia giữ cốc đồ uống; Đùi thấy rõ, chân dưới bị cắt khỏi ảnh; giày NOT_VISIBLE. Góc máy: Ảnh dọc khung trung cảnh tới đùi, camera ngang hơi thấp. Bối cảnh: Phố thương mại trên trạm quỹ đạo, người qua lại, biển hiệu; Đèn đô thị phản chiếu, vệt sáng trời ngoài không gian, cốc uống.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "fortuna-outfit-025.webp",
+      "sha256": "3cd366c38ccbe361803567b51cd63db4c7dd6377e36c43e76c865a9233a9e55f",
+      "description": "Trang phục: Trang phục sci-fi trắng-đen ánh kim, bodice ôm với đai vàng, váy ngắn/cạp cao, tay áo xuyên sáng. Tư thế: Ngồi bên bàn điều khiển, thân nghiêng nhẹ, nhìn quả cầu phát sáng; Một tay đưa ngón gần quả cầu hologram xanh, tay kia tựa trên mép bàn; Đùi thấy, chân dưới và giày ngoài khung. Góc máy: Ảnh dọc khung từ đầu đến đùi, góc 3/4 ngang. Bối cảnh: Phòng nghiên cứu xác suất với màn hình xanh và phù hiệu Fortuna; Đèn cabin xanh vàng, quả cầu hologram và bảng điều khiển.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    }
+  ],
+  "curatedMetadataSource": "CHATGPT_LIBRARY_SHA256_VERIFIED",
+  "curatedCount": 30
+}

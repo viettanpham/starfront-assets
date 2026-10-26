@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "starfront-gallery-v3",
+  "pilotId": "eric",
+  "pilotName": "Eric Vance",
+  "totalAssets": 3,
+  "approvedAssets": 3,
+  "coreMapping": {
+    "portrait": "eric-portrait.webp",
+    "fullbody": "eric-fullbody.webp"
+  },
+  "artworks": [
+    {
+      "assetId": "eric-portrait",
+      "filename": "eric-portrait.webp",
+      "path": "images/pilots/eric/eric-portrait.webp",
+      "role": "portrait",
+      "category": "portrait",
+      "title": "Chân Dung Đại Diện — Eric Vance",
+      "description": "Hình ảnh đã duyệt của Eric: eric-portrait.webp.",
+      "status": "approved",
+      "metadataStatus": "FALLBACK_FROM_NAMING",
+      "assetAvailability": "BINARY_VERIFIED_IN_APPROVED_LIBRARY_ZIP",
+      "sha256": "384314ac8909c5229557a548d784e3d8ee8faa2ec18eb5828e21e022a4ba25ab",
+      "byteSize": 401330,
+      "metadataNeedsReview": true,
+      "metadataSource": "FALLBACK_FROM_NAMING",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": "1024:1536"
+    },
+    {
+      "assetId": "eric-combat",
+      "filename": "eric-combat.webp",
+      "path": "images/pilots/eric/eric-combat.webp",
+      "role": "combat",
+      "category": "combat",
+      "title": "Eric — Combat",
+      "description": "Hình ảnh đã duyệt của Eric: eric-combat.webp.",
+      "status": "approved",
+      "metadataStatus": "FALLBACK_FROM_NAMING",
+      "metadataNeedsReview": true,
+      "sha256": "8bbcd27187b3717f4075728155eaa57507a6e5890645b8b8ef8dfb3db707a9b5",
+      "byteSize": 417170,
+      "assetAvailability": "BINARY_VERIFIED_IN_APPROVED_LIBRARY_ZIP",
+      "metadataSource": "FALLBACK_FROM_NAMING",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": "1024:1536"
+    },
+    {
+      "assetId": "eric-fullbody",
+      "filename": "eric-fullbody.webp",
+      "path": "images/pilots/eric/eric-fullbody.webp",
+      "role": "fullbody",
+      "category": "fullbody",
+      "title": "Eric — Fullbody",
+      "status": "approved",
+      "sha256": "2e5e155e62262f4ee3a0c645f47f340c4761163fd33a7fb34e65c3f4046c72cb",
+      "byteSize": 386322,
+      "description": "Eric trong ảnh toàn thân đã được duyệt; chi tiết trang phục, tư thế và bối cảnh cần đối chiếu metadata quan sát.",
+      "metadataSource": "FALLBACK_FROM_NAMING",
+      "metadataStatus": "PENDING_OBSERVATION",
+      "metadataNeedsReview": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pilotId": "eric",
+  "note": "V1 Canonical core assets fallback",
+  "totalArtworks": 3,
+  "curatedImages": [
+    {
+      "filename": "eric-portrait.webp",
+      "sha256": "384314ac8909c5229557a548d784e3d8ee8faa2ec18eb5828e21e022a4ba25ab",
+      "description": "Hình ảnh đã duyệt của Eric: eric-portrait.webp.",
+      "metadataStatus": "FALLBACK_FROM_NAMING"
+    },
+    {
+      "filename": "eric-combat.webp",
+      "sha256": "8bbcd27187b3717f4075728155eaa57507a6e5890645b8b8ef8dfb3db707a9b5",
+      "description": "Hình ảnh đã duyệt của Eric: eric-combat.webp.",
+      "metadataStatus": "FALLBACK_FROM_NAMING"
+    },
+    {
+      "filename": "eric-fullbody.webp",
+      "sha256": "2e5e155e62262f4ee3a0c645f47f340c4761163fd33a7fb34e65c3f4046c72cb",
+      "description": "Eric trong ảnh toàn thân đã được duyệt; chi tiết trang phục, tư thế và bối cảnh cần đối chiếu metadata quan sát.",
+      "metadataStatus": "PENDING_OBSERVATION"
+    }
+  ],
+  "curatedCount": 0
+}

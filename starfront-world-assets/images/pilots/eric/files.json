@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "starfront-files-v1",
+  "pilotId": "eric",
+  "files": [
+    {
+      "assetId": "eric-portrait",
+      "filename": "eric-portrait.webp",
+      "role": "portrait",
+      "sha256": "384314ac8909c5229557a548d784e3d8ee8faa2ec18eb5828e21e022a4ba25ab",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 401330
+    },
+    {
+      "assetId": "eric-combat",
+      "filename": "eric-combat.webp",
+      "role": "combat",
+      "sha256": "8bbcd27187b3717f4075728155eaa57507a6e5890645b8b8ef8dfb3db707a9b5",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 417170
+    },
+    {
+      "assetId": "eric-fullbody",
+      "filename": "eric-fullbody.webp",
+      "role": "fullbody",
+      "bytes": 386322,
+      "sha256": "2e5e155e62262f4ee3a0c645f47f340c4761163fd33a7fb34e65c3f4046c72cb"
+    }
+  ],
+  "note": "No verified binary in R3. V1 paths remain gallery references only.",
+  "total": 3
+}
