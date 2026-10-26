@@ -1,0 +1,337 @@
+{
+  "schemaVersion": "starfront-curated-metadata-v1",
+  "pilotId": "kaelen",
+  "pilotName": "Kaelen Cross",
+  "callsign": "Shadow Fang",
+  "totalArtworks": 27,
+  "artworksMeta": {
+    "kaelen-activity.webp": {
+      "title": "Hoạt động",
+      "subtitle": "Kaelen",
+      "category": "activity",
+      "order": 1
+    },
+    "kaelen-closeup.webp": {
+      "title": "Cận cảnh",
+      "subtitle": "Kaelen",
+      "category": "closeup",
+      "order": 2
+    },
+    "kaelen-combat.webp": {
+      "title": "Chiến đấu",
+      "subtitle": "Kaelen",
+      "category": "combat",
+      "order": 3
+    },
+    "kaelen-fullbody.webp": {
+      "title": "Tranh toàn thân",
+      "subtitle": "Kaelen",
+      "category": "fullbody",
+      "order": 4
+    },
+    "kaelen-outfit-001.webp": {
+      "title": "Outfit 001",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 5
+    },
+    "kaelen-outfit-002.webp": {
+      "title": "Outfit 002",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 6
+    },
+    "kaelen-outfit-003.webp": {
+      "title": "Outfit 003",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 7
+    },
+    "kaelen-outfit-004.webp": {
+      "title": "Outfit 004",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 8
+    },
+    "kaelen-outfit-005.webp": {
+      "title": "Outfit 005",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 9
+    },
+    "kaelen-outfit-006.webp": {
+      "title": "Outfit 006",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 10
+    },
+    "kaelen-outfit-007.webp": {
+      "title": "Outfit 007",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 11
+    },
+    "kaelen-outfit-008.webp": {
+      "title": "Outfit 008",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 12
+    },
+    "kaelen-outfit-009.webp": {
+      "title": "Outfit 009",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 13
+    },
+    "kaelen-outfit-010.webp": {
+      "title": "Outfit 010",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 14
+    },
+    "kaelen-outfit-011.webp": {
+      "title": "Outfit 011",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 15
+    },
+    "kaelen-outfit-012.webp": {
+      "title": "Outfit 012",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 16
+    },
+    "kaelen-outfit-013.webp": {
+      "title": "Outfit 013",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 17
+    },
+    "kaelen-outfit-014.webp": {
+      "title": "Outfit 014",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 18
+    },
+    "kaelen-outfit-015.webp": {
+      "title": "Outfit 015",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 19
+    },
+    "kaelen-outfit-016.webp": {
+      "title": "Kaelen — Outfit 016",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 20
+    },
+    "kaelen-outfit-017.webp": {
+      "title": "Kaelen — Outfit 017",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 21
+    },
+    "kaelen-outfit-018.webp": {
+      "title": "Kaelen — Outfit 018",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 22
+    },
+    "kaelen-outfit-019.webp": {
+      "title": "Kaelen — Outfit 019",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 23
+    },
+    "kaelen-outfit-020.webp": {
+      "title": "Kaelen — Outfit 020",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 24
+    },
+    "kaelen-outfit-021.webp": {
+      "title": "Kaelen — Outfit 021",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 25
+    },
+    "kaelen-outfit-022.webp": {
+      "title": "Kaelen — Outfit 022",
+      "subtitle": "Kaelen",
+      "category": "outfit",
+      "order": 26
+    },
+    "kaelen-portrait.webp": {
+      "title": "Chân dung",
+      "subtitle": "Kaelen",
+      "category": "portrait",
+      "order": 27
+    }
+  },
+  "curatedImages": [
+    {
+      "filename": "kaelen-fullbody.webp",
+      "sha256": "5cf0932c63d3a4fc46897d5700887f1df9c46ca09ad69822c3e9f1e9b9afdde2",
+      "description": "Black–teal intelligence bodysuit; walking through spacecraft hangar",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-portrait.webp",
+      "sha256": "4c97d5df8576706e7fe3ae0f5b281d1470a62598e7e821b4f79175432c936821",
+      "description": "Calm intelligence-agent portrait; dark teal hair, teal-blue eyes, black tactical attire",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-combat.webp",
+      "sha256": "a9846a41d4a343705dcecb3bc6e533189532ac56790b83860d25c538df2d746f",
+      "description": "Dynamic armed infiltration in dark tactical suit; rapid movement",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-closeup.webp",
+      "sha256": "d6e89c2adfac2f0e39b4bb70571a4da83076525ba840bc5f6fbbcc2739513e55",
+      "description": "Tight expression study, gloved finger near lips, watchful gaze",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-activity.webp",
+      "sha256": "3afbf0a254249c4a9140160d7afe0666bfeae8b892ef99f7b83e5fa3002e55a5",
+      "description": "Seated at holographic intelligence console; analytical operations scene",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-001.webp",
+      "sha256": "e42514e69e060e2f40486a3c4806162c5a0cc27147033d12064e0602b5cf8aa0",
+      "description": "White/teal tailored academy jacket, short pleated uniform skirt and dark stockings",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-002.webp",
+      "sha256": "368bf1862bfb3238853ec86175ac843212825c60935f631f2089c347ff89a1d7",
+      "description": "Fitted white shirt and black skirt, seated in orbital command office",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-003.webp",
+      "sha256": "acd6c3ad6686fe3da19366f18a3692fe4456a3c877150ebf4d9484e177cc00ba",
+      "description": "Black cropped fashion top, short skirt, urban dusk backdrop",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-004.webp",
+      "sha256": "c068ba9df7d4159201f52d4f9c4ec2933a2ed78448972b3305bffc8294d6a69e",
+      "description": "Elegant dark gown, seated in illuminated orbital residence",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-005.webp",
+      "sha256": "0c1761ec9cf850efa1a044308ab5cf5fc8a5a04d3f664bae070cbf03f3ccebd7",
+      "description": "Dark satin homewear with cream knit cardigan, relaxing on sofa",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-006.webp",
+      "sha256": "edb6795c08d03e1fcb7f712f4f0ecd10f19706ba33843405f79f0d38eea8dee6",
+      "description": "White-gold formal officer dress uniform with teal accents at space-navy ceremony",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-007.webp",
+      "sha256": "e2b71f5e1f72a33f66945ba4c096b2518370094f672bf1d64064a90b78944d30",
+      "description": "Black hooded infiltrator suit on futuristic neon-lit rain-soaked streets",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-008.webp",
+      "sha256": "9ce2fe96a10b4a64f6f854b1812801c00cbb41723d200eafa956116a5f92ba66",
+      "description": "Streamlined white-black-teal pilot suit carrying helmet in spacecraft hangar",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-009.webp",
+      "sha256": "4b875ab83fa485fa552e390b9106e03edae96cd420ef50309564ba9f54f14989",
+      "description": "White blouse, tailored black corset skirt, tights, eyeglasses; seated at orbital office desk",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-010.webp",
+      "sha256": "593a8f934e397cee69b4235b249c4e8c57372e922539702a3aa5a2e9e04b7bfb",
+      "description": "Black cutout crop top, short tactical skirt and boots on sunset city walkway",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-011.webp",
+      "sha256": "fbdfb1c1c8139861b85c7c4cb7f50275c96c12086b2bc09958a224ec9c673cd5",
+      "description": "White fur-collared field coat over black-teal tactical suit in snowy outpost",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-012.webp",
+      "sha256": "4ff3f08feb92f96b07cddde33a9e2fcd80cad5e0a56abe220402e469f8c88a2f",
+      "description": "Dark sparkling formal dress in a high-rise lounge, seated with city view",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-013.webp",
+      "sha256": "fc28964be3e87a306dab8a2f35a1fc9af21435588e044efdc17a1a11d8bfa57a",
+      "description": "White-and-navy fitted academy jacket, pleated skirt and stockings in grand courtyard",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-014.webp",
+      "sha256": "35d9f22892bbbe43feac2b2a626ea6879bcdd2073cc110e145b27e44859aab58",
+      "description": "Sand-tan and black scout suit with scarf and cloak in desert outpost",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-015.webp",
+      "sha256": "15f3cf6bb3848c9dd3af01922c0acbd83277f3768f207c527be1d92a0cceb0a2",
+      "description": "Dark lace-trimmed satin lounge dress and robe, seated in a private room",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-016.webp",
+      "sha256": "5a76e8fd8ce0091fd5403798b525300bbd3ebb108c08cdca6fcc265e4810708e",
+      "description": "Trang phục: Bikini hai mảnh ivory viền teal, áo tam giác có dây vai và đai dưới ngực, quần bơi ivory có khóa nhỏ hai bên hông.. Tư thế: Đi dọc mép sóng, chân phía phải ảnh bước trước, chân kia phía sau; tay trái ảnh hạ cầm sandal, tay phải ảnh thả lỏng.. Góc máy: Khung dọc toàn thân thấy đầu và cả hai bàn chân; góc ngang tầm, ba phần tư phía trước.. Bối cảnh: Biển xanh sóng trắng chạm chân, cát và đá, cây dừa góc trên trái, resort trắng tương lai trên vách đá, trời xanh mây trắng và nắng sáng.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-017.webp",
+      "sha256": "647e86f2c6a4b4d68d76fd990a6f9ee57acc28a38205321d072c6ea769fbd466",
+      "description": "Trang phục: Bikini hai mảnh: áo coral viền navy có dây đôi qua vai, panel sườn tối; quần bikini navy viền coral và dải hông coral. Bản quần short trước đó không được chọn.. Tư thế: Thân cúi nhẹ về trước, hai gối khuỵu, hai chân mở rộng; hai cánh tay duỗi chụm trước thân, hai bàn tay đan/chụm để đỡ bóng.. Góc máy: Ảnh dọc toàn thân, góc trước ba phần tư, thấy đầu và hai bàn chân; bóng sát mép trên phải.. Bối cảnh: Sân cát có vạch xanh, lưới bóng chuyền phía sau, cột gỗ bên phải, cây dừa và dù biển bên trái, resort trắng tương lai và biển; nắng sáng trời xanh.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-018.webp",
+      "sha256": "b88f7b16bb0500df3a698bd8e2107977631e57a1aeffeb30f32aa5027bf11696",
+      "description": "Trang phục: Bikini hai mảnh màu trắng: áo tam giác viền và dây xanh navy đậm; quần bikini trắng viền xanh navy đậm, dây buộc hai bên hông.. Tư thế: Kaelen ngả thư giãn trong hồ; tay phải của nhân vật (bên trái ảnh) khoác lên phao tròn xanh nhạt, tay còn lại đưa qua mặt nước; thân trên ở trên nước, hai chân duỗi dưới làn nước trong.. Góc máy: Ảnh dọc, góc trước ba phần tư, thấy đầu, thân và hai chân đến bàn chân qua nước; mặt nước chiếm phần dưới ảnh.. Bối cảnh: Phao bơi tròn xanh nhạt cạnh Kaelen; hồ vô cực xanh trong, resort trắng kiểu tương lai trên vách núi, thác và cây cọ, vịnh biển với thuyền; nắng ngày sáng và trời xanh.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-019.webp",
+      "sha256": "7e422ed3e893cb13ebf6b173449e28d2716d0fa5154641ba47595ace99a0c18c",
+      "description": "Trang phục: Váy đi biển ngắn màu vàng nhạt, dây vai mảnh, thân trên ôm với nơ nhỏ giữa ngực, eo nhún, chân váy xòe nhẹ nhiều lớp; sandal quai mảnh màu trắng.. Tư thế: Kaelen đứng trên cầu gỗ, một chân đặt phía trước chân kia; tay bên trái ảnh cầm máy ảnh nhỏ ngang vai, tay còn lại đặt trên lan can; váy và tóc bay trong gió.. Góc máy: Ảnh dọc toàn thân góc trước ba phần tư; thấy đầu, hai chân và sandal; camera thấp nhẹ so với mắt.. Bối cảnh: Cầu gỗ và lan can dây thừng, đèn lồng kim loại, cây và nhà ven bờ; vịnh biển xanh với thuyền buồm, mỏm đá và hải đăng trắng ở xa; nắng chiều ấm và trời mây.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-020.webp",
+      "sha256": "5c47ab88265ae32e829a10457c29d49bdaab453d0f90ab27129f6c8cd80bbda2",
+      "description": "Trang phục: Bikini hai mảnh màu đen viền vàng mảnh: áo tam giác dây mảnh và quần bikini đen có vòng tròn kim loại màu vàng ở hai bên hông.. Tư thế: Kaelen đứng cạnh lan can du thuyền, một chân phía trước chân kia; tay bên trái ảnh nâng một ly nước cam, tay bên phải ảnh đặt lên tay vịn kim loại; hai chân và bàn chân đều thấy rõ.. Góc máy: Ảnh dọc toàn thân, góc trước ba phần tư, thấy từ đầu đến hai bàn chân trên boong; đường chân trời ở nửa trên ảnh.. Bối cảnh: Boong gỗ du thuyền có lan can kim loại và ghế trắng phía trái ảnh; biển có sóng nhẹ, dãy núi xa và mặt trời thấp phía phải ảnh; nắng vàng cam phản chiếu mặt nước, trời mây hoàng hôn.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-021.webp",
+      "sha256": "936f961194f6b9949b5f67af0832f9329752e6c7b5a82a8c28d089d133bc593d",
+      "description": "Trang phục: Váy ngắn xanh biển hơi xám, thân trên ôm, dây vai mảnh, viền trắng và nơ dây trắng ở ngực; chân váy xòe nhẹ, một bên xẻ/nút thắt dây trắng; sandal trắng quai chéo.. Tư thế: Đứng trên lối cát ven ghềnh đá, một chân hơi bước trước; hai tay nâng máy ảnh nhỏ ngang mặt để chụp biển, dây máy ảnh thả xuống.. Góc máy: Ảnh dọc toàn thân, góc trước ba phần tư; thấy đầu, hai tay, chân và sandal; máy ảnh nằm cạnh mặt nhưng không che hết gương mặt.. Bối cảnh: Lối cát có hoa thấp và ghềnh đá ven biển, sóng trắng đập vào đá, thuyền buồm nhỏ ngoài xa; trời xanh mây trắng, nắng ngày sáng.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    },
+    {
+      "filename": "kaelen-outfit-022.webp",
+      "sha256": "26d7622360f9d9a66fe3e88445688263e4f8ee2d67e5dd00a3632fce997a6101",
+      "description": "Trang phục: Váy trắng ngắn một mảnh, cổ vuông rộng có nơ nhỏ giữa ngực, tay ngắn bèo, eo nhún và chân váy xòe có tầng bèo; họa tiết thêu hoa xanh nhạt ở viền cổ, tay và gấu; sandal quai mảnh màu nâu nhạt. Bản sơ mi trắng và quần short navy trước đó không được chọn.. Tư thế: Ngồi nghiêng trên ghế mây, hai chân bắt chéo; một tay đặt ngón lên bản đồ mở trên bàn, tay còn lại giữ mép bản đồ gần ly nước cam; thân cúi nhẹ xem đường đi.. Góc máy: Ảnh dọc góc trước ba phần tư, thấy đầu, váy, hai chân và một sandal rõ; bàn chân phía dưới gần mép ảnh bị cắt một phần.. Bối cảnh: Quán cà phê ngoài trời cạnh cảng, ghế mây xanh-trắng và bàn gỗ; bản đồ giấy mở, ly nước cam có lát cam, ống hút và lá xanh; thuyền buồm, nhà ven bờ, ô che nắng và núi xa; nắng ngày sáng.",
+      "metadataStatus": "COMPLETE_OBSERVED"
+    }
+  ],
+  "curatedMetadataSource": "CHATGPT_LIBRARY_SHA256_VERIFIED",
+  "curatedCount": 27
+}
