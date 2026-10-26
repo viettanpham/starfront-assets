@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "rhea",
+  "total": 30,
+  "files": [
+    {
+      "assetId": "rhea-closeup",
+      "filename": "rhea-closeup.webp",
+      "role": "closeup",
+      "sha256": "411667aeb62be67371b4dd3136101b62be075ba02298dd7eca7fb11e12060197",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-command-perspective",
+      "filename": "rhea-command-perspective.webp",
+      "role": "command-perspective",
+      "sha256": "f38a1d2156f302e11ed57e3e4387c3d9de1552ff068d1460fefc8da0449ff43a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-fullbody",
+      "filename": "rhea-fullbody.webp",
+      "role": "fullbody",
+      "sha256": "f010ad263ab22d2413383d7529ce81c4d1e13a8d6d8931d23b75dca0976bf6c9",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-portrait-command",
+      "filename": "rhea-portrait-command.webp",
+      "role": "portrait-command",
+      "sha256": "9a81d3202863c505035bf1f72f45c7f669dde63df351efc3ce877c9e08a782e6",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "rhea-command-reach",
+      "filename": "rhea-command-reach.webp",
+      "role": "command-reach",
+      "sha256": "75f599b5e5dcbf6f95abefb0a6c0f57f970e64b902d9a00cbc585bbfc3bc0fad",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-001",
+      "filename": "rhea-outfit-001.webp",
+      "role": "outfit-001",
+      "sha256": "62d927a5587af10eb8b833864287d672203422dd4cb73c437460de11ac61f471",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-002",
+      "filename": "rhea-outfit-002.webp",
+      "role": "outfit-002",
+      "sha256": "b262fea2b70cadbf1df38fe12b5a75f1455207f60e7bbf76cf9e16b9edd29207",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-combat",
+      "filename": "rhea-combat.webp",
+      "role": "combat",
+      "sha256": "9669d59f9428c4decf085d65d16f437bfaf58483c9f9226fd5d167e66e535c36",
+      "width": 1072,
+      "height": 1467
+    },
+    {
+      "assetId": "rhea-activity",
+      "filename": "rhea-activity.webp",
+      "role": "activity",
+      "sha256": "68612fe1acc5ba8f2c54596d401fa583b2f2fd1575aaef2d21e4e0354b8d2223",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-003",
+      "filename": "rhea-outfit-003.webp",
+      "role": "outfit-003",
+      "sha256": "e984417a9fb1a933c33f1cb4240fb8f7f16de739b9206d4a15375f3c930e0804",
+      "width": 1072,
+      "height": 1467
+    },
+    {
+      "assetId": "rhea-outfit-004",
+      "filename": "rhea-outfit-004.webp",
+      "role": "outfit-004",
+      "sha256": "6e4b93788c89f1372c25e7767cb3acc3a2cccfadbbbed48ccd2ca493c6dc5e42",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-005",
+      "filename": "rhea-outfit-005.webp",
+      "role": "outfit-005",
+      "sha256": "efbc6733cdea31f29fbbb6858ed67fcf61ce1846d6d3c47a264d42ea86ebf5d6",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "assetId": "rhea-outfit-006",
+      "filename": "rhea-outfit-006.webp",
+      "role": "outfit-006",
+      "sha256": "9d604d7d74dfef7b1dc2e8b80cfdd51a36fc786812f804b61219d58b509dd858",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-007",
+      "filename": "rhea-outfit-007.webp",
+      "role": "outfit-007",
+      "sha256": "99617de4e918600fa3be0e5c1712e48b01acc91b16c4dd28f691293ee8b8325a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-008",
+      "filename": "rhea-outfit-008.webp",
+      "role": "outfit-008",
+      "sha256": "7eece019d5fd4496c3c22e4a286e7ac8a25af7adbb46b2dbd25c786e58ee445a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-009",
+      "filename": "rhea-outfit-009.webp",
+      "role": "outfit-009",
+      "sha256": "a67704e40cdee34e939ccf2842b947acdc3c1985f94932c17a11f1b0412c2339",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-010",
+      "filename": "rhea-outfit-010.webp",
+      "role": "outfit-010",
+      "sha256": "391908bdb93aa302ae60bd37276f3d58a765f7fae95c507d0ae9a05756ec3ee8",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-011",
+      "filename": "rhea-outfit-011.webp",
+      "role": "outfit-011",
+      "sha256": "500f48a5bd1bec343dfd846f95aa58321e414451e4011e8ec161e0c128732c9d",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-012",
+      "filename": "rhea-outfit-012.webp",
+      "role": "outfit-012",
+      "sha256": "139cce1f9af28d8138ce7a022f39a0d9bb32423482cb2a316ade5fdc94ff64cf",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-013",
+      "filename": "rhea-outfit-013.webp",
+      "role": "outfit-013",
+      "sha256": "9d08be69ece61d820e75d0079516d24d254f2514087d7ed27191bb66db8d5e0b",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-014",
+      "filename": "rhea-outfit-014.webp",
+      "role": "outfit-014",
+      "sha256": "9dd572d443fe27b250ee2e347845557218d6dbd642fb6d781de95f99576d4b66",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-015",
+      "filename": "rhea-outfit-015.webp",
+      "role": "outfit-015",
+      "sha256": "02c8017a4a977595e92964318a759b1d8503c75a1ad0530e8d86dc4e2724b862",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-016",
+      "filename": "rhea-outfit-016.webp",
+      "role": "outfit-016",
+      "sha256": "ced543fa825703286b0f07f08fdd8587244755a759611629533e996146e84895",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-017",
+      "filename": "rhea-outfit-017.webp",
+      "role": "outfit-017",
+      "sha256": "34e7747135996c5dc17cee6620cfca0599711bfdfce9e70cfd2b03c5996894da",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-018",
+      "filename": "rhea-outfit-018.webp",
+      "role": "outfit-018",
+      "sha256": "3b9914d6016f77147c50b75687163bc22c26b103b8dbb9fe0c524ec8234c940d",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-019",
+      "filename": "rhea-outfit-019.webp",
+      "role": "outfit-019",
+      "sha256": "9a9be6ef482ce00d1abe29870760be7c9fb9fec4a443995cda39ed1d73ba768d",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-020",
+      "filename": "rhea-outfit-020.webp",
+      "role": "outfit-020",
+      "sha256": "6b3a55987495ea50e5b12ff9d6e95c26a24f2b755680bbd812e51a0d8c034d92",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-021",
+      "filename": "rhea-outfit-021.webp",
+      "role": "outfit-021",
+      "sha256": "2f4502b7b8d598efc2f76aa70ed5f3a578ce78d4b440d3edcc370ce8d45e022a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-022",
+      "filename": "rhea-outfit-022.webp",
+      "role": "outfit-022",
+      "sha256": "3fa82f2f49f1d34718547bb76b3534f04a0d88e45e89cf99b336c196f264ca99",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "assetId": "rhea-outfit-023",
+      "filename": "rhea-outfit-023.webp",
+      "role": "outfit-023",
+      "sha256": "f03dcdfc317cd14f652aab6dbc4c700694e96a2b53bfcd2136182b8b887adaed",
+      "width": 1024,
+      "height": 1536
+    }
+  ]
+}
