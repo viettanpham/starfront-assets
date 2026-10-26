@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "nova",
+  "total": 26,
+  "files": [
+    {
+      "assetId": "nova-fullbody",
+      "filename": "nova-fullbody.webp",
+      "role": "fullbody",
+      "sha256": "9808933ecd07072a598f1b5966cb647a635bf6b1eb9686a783f6d97007aea3a1",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 488902
+    },
+    {
+      "assetId": "nova-portrait",
+      "filename": "nova-portrait.webp",
+      "role": "portrait",
+      "sha256": "df1ab2b60ed4a77f80327820df0c679d996447eefd7f375488c9aab59a9f7514",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 443518
+    },
+    {
+      "assetId": "nova-combat",
+      "filename": "nova-combat.webp",
+      "role": "combat",
+      "sha256": "b17240108ce48bd8a785dcd9a96d546a0d8d582fbd4b57a2acb7f85057eb6377",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 480396
+    },
+    {
+      "assetId": "nova-closeup",
+      "filename": "nova-closeup.webp",
+      "role": "closeup",
+      "sha256": "99c1a70bea253d90c847376132d9c1590e9242c80499cf778c15d40c6bd0b726",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 396808
+    },
+    {
+      "assetId": "nova-activity",
+      "filename": "nova-activity.webp",
+      "role": "activity",
+      "sha256": "b1d42cff7d1e6d348ac007b5f131eec1613b8e8bedbeb0010f610809c932e494",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 555686
+    },
+    {
+      "assetId": "nova-outfit-001",
+      "filename": "nova-outfit-001.webp",
+      "role": "outfit-001",
+      "sha256": "de8c30409129562dff0c076440c1d00f0cef94d862c8e5c5b66832dab457eca2",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 448640
+    },
+    {
+      "assetId": "nova-outfit-002",
+      "filename": "nova-outfit-002.webp",
+      "role": "outfit-002",
+      "sha256": "4c20ce8bbd004b5ee45391af352575847563507844b973a93b0d384a900635e7",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 508922
+    },
+    {
+      "assetId": "nova-outfit-003",
+      "filename": "nova-outfit-003.webp",
+      "role": "outfit-003",
+      "sha256": "feb2f90ea0ccea991fdb73c805772928702fe60834daa0128cfbbdb3956d22fe",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 527342
+    },
+    {
+      "assetId": "nova-outfit-004",
+      "filename": "nova-outfit-004.webp",
+      "role": "outfit-004",
+      "sha256": "ebb759d5dcd3a09d3c3627a558bb5b30c67656535e5c9b312e05c36dcb7dd3fc",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 453226
+    },
+    {
+      "assetId": "nova-outfit-005",
+      "filename": "nova-outfit-005.webp",
+      "role": "outfit-005",
+      "sha256": "90e67d33f22db353229cf5d4532370c0061f90bb08996ec9812fd3f25be7e0d0",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 417392
+    },
+    {
+      "assetId": "nova-outfit-006",
+      "filename": "nova-outfit-006.webp",
+      "role": "outfit-006",
+      "sha256": "57393c05ae910f6b671fdd7e7013bda778b4e92df6550f5a9cb6e5e7131f13db",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 407128
+    },
+    {
+      "assetId": "nova-outfit-007",
+      "filename": "nova-outfit-007.webp",
+      "role": "outfit-007",
+      "sha256": "368a3178957db46e73b88ade21559f9042d9d21841487b321ef356a4d69289ff",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 425792
+    },
+    {
+      "assetId": "nova-outfit-008",
+      "filename": "nova-outfit-008.webp",
+      "role": "outfit-008",
+      "sha256": "8272d0d03d62024bd61f5ca3775f5743abecc3d7afb7eca68d5cd51382ed208f",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 404048
+    },
+    {
+      "assetId": "nova-outfit-009",
+      "filename": "nova-outfit-009.webp",
+      "role": "outfit-009",
+      "sha256": "319f470101b84b9af88440b46e09e14e8c79742163590763102420fd48a7d7a2",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 351754
+    },
+    {
+      "assetId": "nova-outfit-010",
+      "filename": "nova-outfit-010.webp",
+      "role": "outfit-010",
+      "sha256": "9f4328475f08753f9c38bf28a3434b44ab96522a2aefd0854fb4eb7be6704d38",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 465252
+    },
+    {
+      "assetId": "nova-outfit-011",
+      "filename": "nova-outfit-011.webp",
+      "role": "outfit-011",
+      "sha256": "f1e52c7ca863373da84756031963131ec3d4bdd141477574923e3a3d504eabe3",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 565058
+    },
+    {
+      "assetId": "nova-outfit-012",
+      "filename": "nova-outfit-012.webp",
+      "role": "outfit-012",
+      "sha256": "a78684847cca851c33b3ef9e9d4c217c33af226f0c275dd2afdc3a3d904dd04d",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 533502
+    },
+    {
+      "assetId": "nova-outfit-013",
+      "filename": "nova-outfit-013.webp",
+      "role": "outfit-013",
+      "sha256": "d9edfa61a191b74cd8c461e78ddad968ab591a517f745cc1ef463f4f3ae75333",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 322710
+    },
+    {
+      "assetId": "nova-outfit-014",
+      "filename": "nova-outfit-014.webp",
+      "role": "outfit-014",
+      "sha256": "608a15456f3d361bc038d3c2bad1d3e0b25ca99fcad100474aacd26457c51ae0",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 522830
+    },
+    {
+      "assetId": "nova-outfit-015",
+      "filename": "nova-outfit-015.webp",
+      "role": "outfit-015",
+      "sha256": "a255439ee66bd957ed5c9d70378878568f317ade199e9401a42d877cbfe2c72e",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 388926
+    },
+    {
+      "assetId": "nova-outfit-016",
+      "filename": "nova-outfit-016.webp",
+      "role": "outfit-016",
+      "sha256": "a20d20f6b30624849a73f6d0efaf7bef07d365ba1464bd885ea3f99ddb711b67",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 419194
+    },
+    {
+      "assetId": "nova-outfit-017",
+      "filename": "nova-outfit-017.webp",
+      "role": "outfit-017",
+      "sha256": "54993a364d191f6a3876c6844e3eac5daab26e729b456129487e265c1604a449",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 340042
+    },
+    {
+      "assetId": "nova-outfit-018",
+      "filename": "nova-outfit-018.webp",
+      "role": "outfit-018",
+      "sha256": "4fb4e9138abf68aacaa90b4ad3b0b42ff38ee56e1d6aaaed86882285ba5bf35b",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 368262
+    },
+    {
+      "assetId": "nova-outfit-019",
+      "filename": "nova-outfit-019.webp",
+      "role": "outfit-019",
+      "sha256": "14944c8f2989ea7ff0b7d4108a136377e6cb0bb2aef8935d9eb898723f0049c6",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 403252
+    },
+    {
+      "assetId": "NOVA-OUTFIT-020",
+      "filename": "nova-outfit-020.webp",
+      "role": "outfit-020",
+      "sha256": "7373a4310e51427c267b18f3e46fceea15eae165050b641a4a53839c57557782",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 291336
+    },
+    {
+      "assetId": "NOVA-OUTFIT-021",
+      "filename": "nova-outfit-021.webp",
+      "role": "outfit-021",
+      "sha256": "91f95995c3a21cbda23dc54e6c3b94d0d50b1ade519605811c7bd47f38101425",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 519440
+    }
+  ]
+}

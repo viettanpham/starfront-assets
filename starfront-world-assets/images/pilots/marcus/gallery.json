@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "starfront-gallery-v3",
+  "pilotId": "marcus",
+  "pilotName": "Marcus Ray",
+  "totalAssets": 2,
+  "approvedAssets": 2,
+  "coreMapping": {
+    "portrait": "marcus-portrait.webp",
+    "fullbody": "marcus-fullbody.webp"
+  },
+  "artworks": [
+    {
+      "assetId": "marcus-portrait",
+      "filename": "marcus-portrait.webp",
+      "path": "images/marcus-portrait.webp",
+      "role": "core_portrait",
+      "category": "core",
+      "title": "Chân Dung Đại Diện — Marcus Ray",
+      "description": "Ảnh chân dung chuẩn canonical V1 của Marcus Ray.",
+      "status": "approved",
+      "metadataStatus": "V1_REFERENCE_UNVERIFIED",
+      "assetAvailability": "REFERENCE_ONLY",
+      "metadataNeedsReview": true
+    },
+    {
+      "assetId": "marcus-fullbody",
+      "filename": "marcus-fullbody.webp",
+      "path": "images/marcus-fullbody.webp",
+      "role": "core_fullbody",
+      "category": "core",
+      "title": "Tranh Toàn Thân — Marcus Ray",
+      "description": "Bản vẽ toàn thân trang phục chiến đấu chuẩn của Marcus Ray.",
+      "status": "approved",
+      "metadataStatus": "V1_REFERENCE_UNVERIFIED",
+      "assetAvailability": "REFERENCE_ONLY",
+      "metadataNeedsReview": true
+    }
+  ]
+}
