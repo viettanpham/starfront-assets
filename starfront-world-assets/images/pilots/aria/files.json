@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "aria",
+  "total": 30,
+  "files": [
+    {
+      "assetId": "aria-01",
+      "filename": "aria-fullbody.webp",
+      "role": "fullbody",
+      "sha256": "959997ab8693b504c01ae01567f03608052c648be92a3c7c36d2f321e111f48b",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-02",
+      "filename": "aria-portrait.webp",
+      "role": "portrait",
+      "sha256": "4c5b67edab7ef0c5c44c3ead921c511b06b25eb547cc4013c882be7f38050eb9",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-03",
+      "filename": "aria-combat.webp",
+      "role": "combat",
+      "sha256": "25bffbabd137edf3936e2f24e9408557e758b4824633eb48cd95284611320ddb",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-04",
+      "filename": "aria-closeup.webp",
+      "role": "closeup",
+      "sha256": "98f6f9f0544aa1064e366e904aa009f3c8a17234ee91e9756a1b195eaa4bca84",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 462362
+    },
+    {
+      "assetId": "aria-05",
+      "filename": "aria-activity.webp",
+      "role": "activity",
+      "sha256": "087da91aafe306be8b11de034714e2e23245696a39a103e218d5b2ad834f57b8",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-06",
+      "filename": "aria-outfit-001.webp",
+      "role": "outfit-001",
+      "sha256": "56f057c8f6d50d350a51ffc57ba180ab3e9dcf5d91f9d4d50f1b06318b784fa8",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 423576
+    },
+    {
+      "assetId": "aria-07",
+      "filename": "aria-outfit-002.webp",
+      "role": "outfit-002",
+      "sha256": "850d07b51c9558be65b2d5f901b752350d30572e58854b280b7af20b84e2d582",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-08",
+      "filename": "aria-outfit-003.webp",
+      "role": "outfit-003",
+      "sha256": "2e30663f84c7deabfa22b3beaafcee7cc64546c668b810b91c15bd93de1e081c",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-09",
+      "filename": "aria-outfit-004.webp",
+      "role": "outfit-004",
+      "sha256": "ae711f335e9252421e1fa1f876a74c33449cb59272566663edcfa3f3809649a9",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-10",
+      "filename": "aria-outfit-005.webp",
+      "role": "outfit-005",
+      "sha256": "88e021192b3a7bb9423b7017c62badae65157b61a641ba7e5599dbe415456e18",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-11",
+      "filename": "aria-outfit-006.webp",
+      "role": "outfit-006",
+      "sha256": "eab0b63df241cf0d806126b6302e7a4464c124af358fc153796877612bdab0b0",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-12",
+      "filename": "aria-outfit-007.webp",
+      "role": "outfit-007",
+      "sha256": "1d95846dc957ed93dbfc29edd3fa35ff91abdeb51b12a6c4eb6da4520da4dec9",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 351734
+    },
+    {
+      "assetId": "aria-13",
+      "filename": "aria-outfit-008.webp",
+      "role": "outfit-008",
+      "sha256": "46a0c6cd7b8db7e57d8b77146510b7f689c030508e37c306527426328a7d1adf",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-14",
+      "filename": "aria-outfit-009.webp",
+      "role": "outfit-009",
+      "sha256": "eb9a6ba4721b847878684c3b0950e33e79efff349cb3f14c101acc1c186bd523",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-15",
+      "filename": "aria-outfit-010.webp",
+      "role": "outfit-010",
+      "sha256": "dd20246e3cf6306ae973804f605c3d3dea17a6b45ceb51627a33ab7e7cc231b4",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-16",
+      "filename": "aria-outfit-011.webp",
+      "role": "outfit-011",
+      "sha256": "7024e44bd4f056ab44698b17dab5356aa15313880247db9e1c526281cc16170a",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-17",
+      "filename": "aria-outfit-012.webp",
+      "role": "outfit-012",
+      "sha256": "784c05d4e54e299db3d72468a5ce05be7ed2364b91cf0073981a1d25de9f452e",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-18",
+      "filename": "aria-outfit-013.webp",
+      "role": "outfit-013",
+      "sha256": "836b58e2152eb13978e14b0750cb95bd0db15514de2556c5df836e060e3eee32",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-19",
+      "filename": "aria-outfit-014.webp",
+      "role": "outfit-014",
+      "sha256": "a2e9a884858ba2fd20869ea2a3356664835e179eff4c8e0fc85314eb3809cb54",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-20",
+      "filename": "aria-outfit-015.webp",
+      "role": "outfit-015",
+      "sha256": "08549b9b520ee5e1c9cf2ee9dd2e0981b848b9e6d65a5e526ffdcf50902ec35c",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "assetId": "aria-21",
+      "filename": "aria-outfit-016.webp",
+      "role": "outfit-016",
+      "sha256": "1360d32d263eaf99216b81de993c0d2a0b1c86d168cc000341bb034e8aefc4b2",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 417322
+    },
+    {
+      "assetId": "aria-22",
+      "filename": "aria-outfit-017.webp",
+      "role": "outfit-017",
+      "sha256": "b6f81fb7b3bf56b9e82325a40e983e399f738fe1cb984da9ea67d1aa64bbfdd0",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 390246
+    },
+    {
+      "assetId": "aria-23",
+      "filename": "aria-outfit-018.webp",
+      "role": "outfit-018",
+      "sha256": "5e2c96611f0168d42c60fe64d70ca3767ef820104e87aee4ae5502fb7062c3b2",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 521520
+    },
+    {
+      "assetId": "aria-24",
+      "filename": "aria-outfit-019.webp",
+      "role": "outfit-019",
+      "sha256": "5e9743e45da561d7b1f04ec64f30cd891f17190b670fd993d8b5a49193d225eb",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 442970
+    },
+    {
+      "assetId": "aria-25",
+      "filename": "aria-outfit-020.webp",
+      "role": "outfit-020",
+      "sha256": "a910bad3fe8e28a3e57bd2c75413b15e9f9e23d89cb634bbf671147e43b4121f",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 410692
+    },
+    {
+      "assetId": "aria-26",
+      "filename": "aria-outfit-021.webp",
+      "role": "outfit-021",
+      "sha256": "55515ba26cd65688dfac3b3f3e057d61598c62092894b8d7bb2888814c69c7b7",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 513730
+    },
+    {
+      "assetId": "aria-27",
+      "filename": "aria-outfit-022.webp",
+      "role": "outfit-022",
+      "sha256": "00e877ab5929a40ef63f3c4b70236f4f017b812654b723f9996e26537e716e81",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 387160
+    },
+    {
+      "assetId": "aria-28",
+      "filename": "aria-outfit-023.webp",
+      "role": "outfit-023",
+      "sha256": "e6e9ea68afe1adebe0d0a5017263f4a1473cd6fe2edda64f236a61b495be9d75",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 292226
+    },
+    {
+      "assetId": "aria-29",
+      "filename": "aria-outfit-024.webp",
+      "role": "outfit-024",
+      "sha256": "47ff01323aef874203aff0949bf2b8d130b07a7e9999099364c50c09ff7312e4",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 424026
+    },
+    {
+      "assetId": "aria-30",
+      "filename": "aria-outfit-025.webp",
+      "role": "outfit-025",
+      "sha256": "1b4a67b0fc44ae2941e0b43ca7899ed08e1d01fa623e3dbd4f8791357a6329ef",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 430710
+    }
+  ]
+}
