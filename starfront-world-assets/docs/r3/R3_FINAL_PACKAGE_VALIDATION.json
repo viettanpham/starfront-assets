@@ -1,0 +1,27 @@
+{
+  "status": "PACKAGE_VALIDATED_NOT_PUBLISHED",
+  "sourceZip": "STARFRONT_R3_FULL_247_ASSETS_12_STORIES_CH01_07_20261026.zip",
+  "totalArtworkWebp": 247,
+  "actualWebpDirectory": "images/pilots/<pilotId>/",
+  "perPilotWebp": {
+    "marcus": 0,
+    "selena": 26,
+    "rhea": 30,
+    "fortuna": 30,
+    "nova": 26,
+    "eric": 3,
+    "kaelen": 27,
+    "aria": 30,
+    "victor": 0,
+    "alviss": 10,
+    "lyra": 30,
+    "valentine": 35
+  },
+  "sha256Verified": 247,
+  "pathsResolved": 247,
+  "storyPilotManifests": 12,
+  "storyChapterCatalogEntries": 84,
+  "v1ReferencesNotBundled": 4,
+  "githubIntegrationTest": "NOT_RUN",
+  "cdnPublication": "NOT_PUBLISHED"
+}

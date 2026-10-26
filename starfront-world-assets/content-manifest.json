@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "starfront-content-manifest-v3",
+  "releaseTag": "v3.0-assets-r3",
+  "generatedAt": "2026-10-24T17:46:07.276Z",
+  "sourceRepository": "viettanpham/starfront-assets",
+  "subsystems": {
+    "images": {
+      "status": "active",
+      "rootPath": "images",
+      "indexManifest": "images/manifest.json",
+      "totalPilots": 12,
+      "totalAssets": 247,
+      "referenceOnlyAssets": 4
+    },
+    "stories": {
+      "status": "active",
+      "rootPath": "stories",
+      "indexManifest": "stories/manifest.json",
+      "totalPilots": 12,
+      "totalPublishedChapters": 1,
+      "totalCatalogChapters": 87,
+      "contentDiscovery": "manifest-driven",
+      "visibilityAuthority": "ADMINCP"
+    }
+  },
+  "pilots": {
+    "alviss": {
+      "name": "Alviss Sterling",
+      "callsign": "Black Gale",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/alviss/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/alviss/manifest.json"
+    },
+    "eric": {
+      "name": "Eric Vance",
+      "callsign": "Iron Hammer",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/eric/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/eric/manifest.json"
+    },
+    "marcus": {
+      "name": "Marcus Ray",
+      "callsign": "Aegis Vanguard",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/marcus/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/marcus/manifest.json"
+    },
+    "victor": {
+      "name": "Victor Cross",
+      "callsign": "Titan Bastion",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/victor/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/victor/manifest.json"
+    },
+    "kaelen": {
+      "name": "Kaelen Cross",
+      "callsign": "Shadow Fang",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/kaelen/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/kaelen/manifest.json"
+    },
+    "lyra": {
+      "name": "Lyra Song",
+      "callsign": "Starling Swift",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/lyra/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/lyra/manifest.json"
+    },
+    "selena": {
+      "name": "Selena Vega",
+      "callsign": "Crimson Spark",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/selena/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/selena/manifest.json"
+    },
+    "valentine": {
+      "name": "Valentine Aurelia Vance",
+      "callsign": "Mercy Wing",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/valentine/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/valentine/manifest.json"
+    },
+    "fortuna": {
+      "name": "Fortuna",
+      "callsign": "Lady Luck",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/fortuna/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/fortuna/manifest.json"
+    },
+    "aria": {
+      "name": "Aria Sterling",
+      "callsign": "Blue Horizon",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/aria/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/aria/manifest.json"
+    },
+    "rhea": {
+      "name": "Rhea Silva",
+      "callsign": "Vanguard Aegis",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/rhea/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/rhea/manifest.json"
+    },
+    "nova": {
+      "name": "Nova Ray",
+      "callsign": "Solar Flare",
+      "hasGallery": true,
+      "galleryManifest": "images/pilots/nova/gallery.json",
+      "hasStories": true,
+      "storyManifest": "stories/pilots/nova/manifest.json"
+    }
+  }
+}

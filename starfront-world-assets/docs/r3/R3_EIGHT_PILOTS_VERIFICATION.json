@@ -1,0 +1,79 @@
+{
+  "pilots": {
+    "fortuna": {
+      "artworks": 30,
+      "before": 30,
+      "descriptions": 30,
+      "metadataNeedsReview": 11,
+      "binaryCompared": 30,
+      "note": ""
+    },
+    "rhea": {
+      "artworks": 23,
+      "before": 23,
+      "descriptions": 23,
+      "metadataNeedsReview": 0,
+      "binaryCompared": 23,
+      "note": ""
+    },
+    "selena": {
+      "artworks": 20,
+      "before": 20,
+      "descriptions": 20,
+      "metadataNeedsReview": 0,
+      "binaryCompared": 0,
+      "note": ""
+    },
+    "nova": {
+      "artworks": 22,
+      "before": 22,
+      "descriptions": 22,
+      "metadataNeedsReview": 0,
+      "binaryCompared": 22,
+      "note": ""
+    },
+    "alviss": {
+      "artworks": 10,
+      "before": 10,
+      "descriptions": 10,
+      "metadataNeedsReview": 10,
+      "binaryCompared": 10,
+      "note": ""
+    },
+    "eric": {
+      "artworks": 3,
+      "before": 2,
+      "descriptions": 3,
+      "metadataNeedsReview": 3,
+      "binaryCompared": 3,
+      "note": ""
+    },
+    "marcus": {
+      "artworks": 2,
+      "before": 2,
+      "descriptions": 2,
+      "metadataNeedsReview": 2,
+      "binaryCompared": 0,
+      "note": "V1 references only; no authoritative Library Pilot folder"
+    },
+    "victor": {
+      "artworks": 2,
+      "before": 2,
+      "descriptions": 2,
+      "metadataNeedsReview": 2,
+      "binaryCompared": 0,
+      "note": "V1 references only; no authoritative Library Pilot folder"
+    }
+  },
+  "assetsExcludingMarcusVictorV1Refs": 230,
+  "referenceOnlyAssets": 4,
+  "limitations": [
+    "This review package contains JSON and report only, no WebP",
+    "Five source ZIPs checked CRC + per-file SHA256 against manifest",
+    "Selena JSON source-only cross checked SHA; no direct binary zip check",
+    "Marcus and Victor are retained as V1 reference-only, no Library records",
+    "Eric fullbody validated in zip but path must be aligned in asset repo",
+    "Fortuna missing 11 source metadata records (25 source records with some stale filenames); manifest-derived fallback requires review"
+  ],
+  "cdnPublished": false
+}

@@ -1,0 +1,14 @@
+{
+  "verifiedWebP": 247,
+  "sha256Matched": 247,
+  "nonEmptyDescriptions": 247,
+  "v1ReferenceOnly": 4,
+  "storyPilots": 12,
+  "visibleCatalogChapters": 84,
+  "availableProseFiles": 1,
+  "valentineExtraChaptersHidden": 3,
+  "zipFiles": 311,
+  "storyContentBoundary": "ONLY_VALENTINE_CH01_HAS_FULL_PROSE",
+  "cdnPublished": false,
+  "integrationTestedOnGithub": false
+}

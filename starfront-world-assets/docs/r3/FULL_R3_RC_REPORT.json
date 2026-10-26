@@ -1,0 +1,169 @@
+{
+  "build": "FULL_R3_RC_2026-10-26",
+  "status": "RELEASE_CANDIDATE_REVIEW",
+  "pilots": {
+    "alviss": {
+      "items": 10,
+      "detailedOrSource": 5,
+      "fallback": 5,
+      "issues": []
+    },
+    "eric": {
+      "items": 3,
+      "detailedOrSource": 0,
+      "fallback": 3,
+      "issues": []
+    },
+    "marcus": {
+      "items": 2,
+      "mode": "V1_REFERENCE_ONLY",
+      "validatedMetadata": 0
+    },
+    "victor": {
+      "items": 2,
+      "mode": "V1_REFERENCE_ONLY",
+      "validatedMetadata": 0
+    },
+    "kaelen": {
+      "items": 27,
+      "detailedOrSource": 27,
+      "fallback": 0,
+      "issues": []
+    },
+    "lyra": {
+      "items": 30,
+      "detailedOrSource": 30,
+      "fallback": 0,
+      "issues": []
+    },
+    "selena": {
+      "items": 26,
+      "detailedOrSource": 26,
+      "fallback": 0,
+      "issues": []
+    },
+    "valentine": {
+      "items": 35,
+      "detailedOrSource": 35,
+      "fallback": 0,
+      "issues": []
+    },
+    "fortuna": {
+      "items": 30,
+      "detailedOrSource": 30,
+      "fallback": 0,
+      "issues": []
+    },
+    "aria": {
+      "items": 30,
+      "detailedOrSource": 30,
+      "fallback": 0,
+      "issues": []
+    },
+    "rhea": {
+      "items": 30,
+      "detailedOrSource": 30,
+      "fallback": 0,
+      "issues": []
+    },
+    "nova": {
+      "items": 26,
+      "detailedOrSource": 26,
+      "fallback": 0,
+      "issues": []
+    }
+  },
+  "metadataFallbackFilenames": [
+    "alviss/alviss-fullbody.webp",
+    "alviss/alviss-portrait.webp",
+    "alviss/alviss-combat.webp",
+    "alviss/alviss-outfit-003.webp",
+    "alviss/alviss-outfit-004.webp",
+    "eric/eric-portrait.webp",
+    "eric/eric-combat.webp",
+    "eric/eric-fullbody.webp"
+  ],
+  "metadataShaMismatches": [],
+  "notes": [
+    "R2 không bị chỉnh sửa",
+    "Marcus và Victor giữ V1 reference",
+    "Chưa publish GitHub/CDN",
+    "Artwork binary được kiểm tra riêng khi có ZIP gốc",
+    "Dữ liệu story giữ từ CP2.2-B, AdminCP quyết định hiển thị"
+  ],
+  "binaryArchiveValidation": {
+    "eric": {
+      "zipWebpCount": 3,
+      "galleryCount": 3,
+      "shaMatched": 3,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "alviss": {
+      "zipWebpCount": 10,
+      "galleryCount": 10,
+      "shaMatched": 10,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "selena": {
+      "zipWebpCount": 26,
+      "galleryCount": 26,
+      "shaMatched": 26,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "rhea": {
+      "zipWebpCount": 30,
+      "galleryCount": 30,
+      "shaMatched": 30,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "nova": {
+      "zipWebpCount": 26,
+      "galleryCount": 26,
+      "shaMatched": 26,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "lyra": {
+      "zipWebpCount": 30,
+      "galleryCount": 30,
+      "shaMatched": 30,
+      "missingBinary": [],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    },
+    "kaelen": {
+      "zipWebpCount": 25,
+      "galleryCount": 27,
+      "shaMatched": 25,
+      "missingBinary": [
+        "kaelen-outfit-021.webp",
+        "kaelen-outfit-022.webp"
+      ],
+      "zipExtra": [],
+      "shaMismatch": [],
+      "crcOk": true
+    }
+  },
+  "blockingBinaryMismatch": [
+    "kaelen"
+  ],
+  "totalApprovedR3": 247,
+  "totalReferenceOnlyV1": 4,
+  "finalCandidateStatus": "BINARY_CHECK_REQUIRED",
+  "metadataFallbackCount": 8
+}

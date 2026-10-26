@@ -1,0 +1,26 @@
+{
+  "status": "RELEASE_CANDIDATE_INTEGRATION_REQUIRED",
+  "totalApprovedR3": 247,
+  "totalIncludingV1References": 251,
+  "galleryCounts": {
+    "alviss": 10,
+    "aria": 30,
+    "eric": 3,
+    "fortuna": 30,
+    "kaelen": 27,
+    "lyra": 30,
+    "marcus": 2,
+    "nova": 26,
+    "rhea": 30,
+    "selena": 26,
+    "valentine": 35,
+    "victor": 2
+  },
+  "missingDescriptions": [],
+  "kaelen021022": "SHA256_MATCHED_MANIFEST",
+  "notes": [
+    "Hai Kaelen WebP riêng lẻ được đóng kèm, không có nghĩa gói chứa tất cả 247 WebP.",
+    "Chưa tích hợp vào nhánh GitHub và chưa chạy CI trên asset repo.",
+    "Marcus/Victor chỉ tham chiếu V1; không coi là asset R3 xác minh."
+  ]
+}

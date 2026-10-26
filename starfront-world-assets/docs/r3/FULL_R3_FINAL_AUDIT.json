@@ -1,0 +1,30 @@
+{
+  "status": "FILES_READY_REPO_INTEGRATION_NOT_TESTED",
+  "approvedArtworks": 247,
+  "assetImagesIncluded": 247,
+  "pilotCounts": {
+    "alviss": 10,
+    "aria": 30,
+    "eric": 3,
+    "fortuna": 30,
+    "kaelen": 27,
+    "lyra": 30,
+    "marcus": 2,
+    "nova": 26,
+    "rhea": 30,
+    "selena": 26,
+    "valentine": 35,
+    "victor": 2
+  },
+  "v1ReferencesNotBundled": 4,
+  "sha256Matched": 247,
+  "missingWebP": [],
+  "missingDescriptions": [],
+  "imageRepositoryLayout": "images/<filename>.webp",
+  "warnings": [
+    "R2 must not be deleted or overwritten blindly",
+    "Verify GitHub workflow and referenced paths before release",
+    "Only 247 approved WebP bundled; Marcus and Victor V1 are external references",
+    "Story public content and AdminCP visibility require independent verification"
+  ]
+}
