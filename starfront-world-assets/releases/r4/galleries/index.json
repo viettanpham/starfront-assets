@@ -3,7 +3,7 @@
   "status": "PARTIAL_SOURCE_BINARY_IMPORT",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 5,
+  "verifiedImageCount": 30,
   "items": [
     {
       "pilotId": "alviss",
@@ -33,7 +33,7 @@
       "pilotId": "kaelen",
       "manifestPath": "galleries/kaelen.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 5
+      "verifiedImageCount": 30
     },
     {
       "pilotId": "lyra",

@@ -30,7 +30,7 @@
   "artwork": {
     "source": "PILOT_REGISTER_AND_MANIFEST",
     "cdnManifestPath": "galleries/kaelen.json",
-    "cdnImportStatus": "PARTIAL_5_VERIFIED",
+    "cdnImportStatus": "VERIFIED_30_ASSETS",
     "coreSlots": [
       "fullbody",
       "portrait",
