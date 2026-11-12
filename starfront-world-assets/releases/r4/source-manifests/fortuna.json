@@ -1,0 +1,1137 @@
+{
+  "persona_id": "C09",
+  "code": "fortuna",
+  "name": "Fortuna",
+  "updated_at": "2026-10-24",
+  "source_rules": "PILOT_ARTWORK_RULES_V2.md V2.6; PILOT_ARTWORK_TASK_PROTOCOL.md V1.1",
+  "owner": "Fortuna artwork chat",
+  "identity_anchors": [
+    "/images/fortuna-portrait.webp",
+    "/images/fortuna-fullbody.webp",
+    "/images/fortuna-combat.webp",
+    "/images/fortuna-action.webp"
+  ],
+  "counts": {
+    "approved_individual_webp_total": 30,
+    "primary_accepted_gallery_count_excluding_five_pose_variants": 30,
+    "batch_01_required_approved": 10,
+    "batch_01_required": 10,
+    "batch_02_required_approved": 10,
+    "batch_02_required": 10,
+    "extra_outfits_016_to_019": 4,
+    "approved_non_slot_fullbody_variants": 0,
+    "approved_non_slot_lounge": 0,
+    "approved_non_slot_action": 0,
+    "batch_03_approved": 10,
+    "batch_03_required": 10,
+    "approved_non_slot_total": 0
+  },
+  "missing_required_batch01": [],
+  "next_unused_outfit": "fortuna-outfit-026.webp",
+  "gallery": [
+    "/images/fortuna-fullbody.webp",
+    "/images/fortuna-portrait.webp",
+    "/images/fortuna-combat.webp",
+    "/images/fortuna-closeup.webp",
+    "/images/fortuna-activity.webp",
+    "/images/fortuna-outfit-001.webp",
+    "/images/fortuna-outfit-002.webp",
+    "/images/fortuna-outfit-003.webp",
+    "/images/fortuna-outfit-004.webp",
+    "/images/fortuna-outfit-005.webp",
+    "/images/fortuna-outfit-006.webp",
+    "/images/fortuna-outfit-007.webp",
+    "/images/fortuna-outfit-008.webp",
+    "/images/fortuna-outfit-009.webp",
+    "/images/fortuna-outfit-010.webp",
+    "/images/fortuna-outfit-011.webp",
+    "/images/fortuna-outfit-012.webp",
+    "/images/fortuna-outfit-013.webp",
+    "/images/fortuna-outfit-014.webp",
+    "/images/fortuna-outfit-015.webp",
+    "/images/fortuna-outfit-016.webp",
+    "/images/fortuna-outfit-017.webp",
+    "/images/fortuna-outfit-018.webp",
+    "/images/fortuna-outfit-019.webp",
+    "/images/fortuna-outfit-020.webp",
+    "/images/fortuna-outfit-021.webp",
+    "/images/fortuna-outfit-022.webp",
+    "/images/fortuna-outfit-023.webp",
+    "/images/fortuna-outfit-024.webp",
+    "/images/fortuna-outfit-025.webp"
+  ],
+  "approved_artworks": [
+    {
+      "filename": "fortuna-fullbody.webp",
+      "batch": "B01",
+      "slot": "CORE/fullbody",
+      "family": "OFFICER/BUSINESS",
+      "garments": "Áo sơ mi trắng cổ mở + corset đen-vàng, váy ngắn xẻ, áo khoác quân phục dài, tất đen, giày cao gót mũi nhọn",
+      "palette": "Đen, trắng ngà, vàng ánh kim; satin/da",
+      "pose_environment": "Đứng nghiêng, cầm tablet trước bàn chỉ huy; kính nhìn ra hạm đội",
+      "continuity_note": "Anchor toàn thân; chuẩn công sở tác chiến",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "876437784cefe996ef31d20a44938be7a8f4763c2acba0bb893cf08f9d0e2f53",
+      "public_url": "/images/fortuna-fullbody.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-fullbody.webp",
+      "user_approved_date": "2026-10-22",
+      "size_bytes": 379184,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-fullbody.webp"
+    },
+    {
+      "filename": "fortuna-portrait.webp",
+      "batch": "B01",
+      "slot": "CORE/portrait",
+      "family": "OFFICER",
+      "garments": "Áo sơ mi trắng cổ mở, áo khoác đen epaulette viền vàng và vòng cổ đính ngôi sao",
+      "palette": "Đen/trắng/vàng",
+      "pose_environment": "Chân dung từ ngực trở lên, nghiêng đầu, kính sao hậu cảnh, không có tablet",
+      "continuity_note": "ANCHOR MẶT — khóa đường nét/mắt/tóc",
+      "status": "APPROVED",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "format": "WEBP",
+      "sha256": "a30deac8c9d2405150d71abc522a63704a6db8345c46f017acd5b0ffd7e42000",
+      "public_url": "/images/fortuna-portrait.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-portrait.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 466708,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-portrait.webp"
+    },
+    {
+      "filename": "fortuna-combat.webp",
+      "batch": "B01",
+      "slot": "CORE/combat",
+      "family": "TACTICAL",
+      "garments": "Áo corset giáp đen-vàng phủ blazer/cape, quần short giáp/strap đùi, găng, giáp ống chân, boots",
+      "palette": "Đen/trắng/vàng thép",
+      "pose_environment": "Dáng bước rộng/né đạn, một tay ngắm súng giữa khoang giao chiến",
+      "continuity_note": "Action chiến đấu, không lặp cảnh văn phòng",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4030bd8205bc29a0b656f3785b7a1f4ddb485be85f2df771c6f0d68e1e1b69f3",
+      "public_url": "/images/fortuna-combat.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-combat.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 541154,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-combat.webp"
+    },
+    {
+      "filename": "fortuna-activity.webp",
+      "batch": "B01",
+      "slot": "CORE/activity",
+      "family": "OFFICER/PROFESSION",
+      "garments": "Áo sơ mi/váy sơ-mi trắng ôm, khoác áo choàng chỉ huy trắng đính vàng, chân váy ngắn và cao gót trắng",
+      "palette": "Trắng ngà, vàng, xám đậm",
+      "pose_environment": "Chỉ lên bàn bản đồ tác chiến hologram, tablet ở tay còn lại",
+      "continuity_note": "Activity/chiến thuật, KHÁC action",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "888294f5bd27d4f10510af2cf314eba3c63c4e23593fee84ca1d918684f9a255",
+      "public_url": "/images/fortuna-activity.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-activity.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 509646,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-activity.webp"
+    },
+    {
+      "filename": "fortuna-outfit-001.webp",
+      "batch": "B01",
+      "slot": "OUTFIT-001",
+      "family": "EVENING",
+      "garments": "Váy dạ hội xanh navy không tay, corset thắt eo, tà dài xếp nhiều lớp xẻ cao, họa tiết sao vàng, giày sandal cao gót",
+      "palette": "Xanh navy, vàng kim, voan trong",
+      "pose_environment": "Bước trên sàn tiệc orbital, tay nâng một lớp tà váy",
+      "continuity_note": "GALA dài; không dùng lại mẫu vạt xếp này",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4c817f315ca4aa047a95bc592b5cf0b7e215e077d76df324d69d107205a44aec",
+      "public_url": "/images/fortuna-outfit-001.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-001.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 556056,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-001.webp"
+    },
+    {
+      "filename": "fortuna-outfit-006.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-006",
+      "family": "CASUAL/TRAVEL",
+      "garments": "Áo len cổ lọ ôm đen, quần tây đen dáng dài, trench trắng bạc có lót kim loại, bốt đen, va-li kéo",
+      "palette": "Đen, trắng bạc, vàng mảnh",
+      "pose_environment": "Đi bộ tại terminal/cảng vũ trụ kéo vali",
+      "continuity_note": "TRAVEL với quần dài, khác váy công sở",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e84ddd14ad2b221439760694c3f2cf5ce9e5866810b0e4837cffc21404cb483a",
+      "public_url": "/images/fortuna-outfit-006.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-006.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 418626,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-006.webp"
+    },
+    {
+      "filename": "fortuna-outfit-007.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-007",
+      "family": "SEASON/CITY",
+      "garments": "Đầm mini bodycon burgundy cổ sâu, trench da đen phủ ngoài, tất tối, boot cao gót, ô đỏ",
+      "palette": "Đỏ rượu/đen, ánh đỏ neon",
+      "pose_environment": "Đứng dưới mưa ven trạm tàu điện neon",
+      "continuity_note": "CẢNH MƯA, gần mood outfit019",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f6b4278164715f20773e5d3996924240ada67c3efc9cd159fc0d2ce059151131",
+      "public_url": "/images/fortuna-outfit-007.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-007.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 559576,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-007.webp"
+    },
+    {
+      "filename": "fortuna-outfit-008.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-008",
+      "family": "FLIGHT",
+      "garments": "Jumpsuit liền thân phi công trắng-vàng ôm dáng, đai hông/đùi kỹ thuật, bốt cao đến bắp, cầm mũ bảo hiểm",
+      "palette": "Trắng ngà, đen, vàng, bề mặt tổng hợp",
+      "pose_environment": "Bước xuống cầu thang tàu, cầm helmet",
+      "continuity_note": "FLIGHT thật; so với outfit018 nghề phân tích",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d044b2195cd9cb5a9373ec216edc4fd372c94f8dde71f74d0c49185ee0f82113",
+      "public_url": "/images/fortuna-outfit-008.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-008.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 462788,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-008.webp"
+    },
+    {
+      "filename": "fortuna-outfit-009.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-009",
+      "family": "EVENING",
+      "garments": "Đầm dạ tiệc xanh emerald cúp ngực và eo corset, tà dài bất đối xứng xẻ cao, giày sandal quai mảnh",
+      "palette": "Xanh ngọc lục bảo, ánh bạc vàng",
+      "pose_environment": "Tạo dáng trong vườn kính có hoa và bàn tiệc",
+      "continuity_note": "Dễ gần outfit011 màu xanh + váy dài — user duyệt cả hai",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3f6ba54052831dd561b34a36f0547281fd10f6280e37f60d269b3d1aea065719",
+      "public_url": "/images/fortuna-outfit-009.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-009.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 535222,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-009.webp"
+    },
+    {
+      "filename": "fortuna-outfit-010.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-010",
+      "family": "SEASON",
+      "garments": "Áo len ôm cổ cao màu rượu vang + chân váy đen xếp ly ngắn, áo khoác kem, khăn caro, tất tối, boots",
+      "palette": "Đỏ mận, đen, kem",
+      "pose_environment": "Cầm cốc nóng tại khu chợ tuyết và đèn lễ hội",
+      "continuity_note": "WINTER, dễ gần outfit012 — user duyệt",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bb727be9d581314f0b509d38afd86aa7c1909d1ea3bb37eb01466e77bca66365",
+      "public_url": "/images/fortuna-outfit-010.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-010.webp",
+      "user_approved_date": "2026-10-23",
+      "size_bytes": 527676,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-010.webp"
+    },
+    {
+      "filename": "fortuna-outfit-011.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-011",
+      "family": "EVENING",
+      "garments": "Đầm dạ tiệc satin xanh lục đậm cúp ngực, corset ôm eo, tà voan xếp tầng dài xẻ đùi, sandal quai vàng",
+      "palette": "Xanh emerald đậm, vàng, vải sa bóng",
+      "pose_environment": "Đứng nâng tà váy trên ban công trạm với địa cầu/phi thuyền",
+      "continuity_note": "CẢNH và chi tiết khác nhưng gần outfit009: NOTE near-repeat approved",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8a27955e747f005fe8d17347aad7152d0384fe50792d012f5c234d60ff6b22de",
+      "public_url": "/images/fortuna-outfit-011.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-011.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "nữ_thần_fortuna_giữa_đô_thị_vũ_trụ.png",
+      "size_bytes": 549864,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-011.webp"
+    },
+    {
+      "filename": "fortuna-outfit-012.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-012",
+      "family": "SEASON",
+      "garments": "Áo len đen ôm cổ cao dài tới đùi, áo khoác trắng kem lông viền dày choàng ngang khuỷu, tất đen, boot cao gót",
+      "palette": "Đen/kem/trắng, lông giả",
+      "pose_environment": "Đứng nghiêng ôm áo trong tuyết cạnh thành phố orbital",
+      "continuity_note": "Khác outfit010 phần áo váy nhưng cùng chủ đề mùa đông",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e37d7d3dc33fadb63599b452af7b40a098b503e0c6d32859428add0d470172e6",
+      "public_url": "/images/fortuna-outfit-012.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-012.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "quý_cô_tuyết_giữa_thành_phố_vũ_trụ.png",
+      "size_bytes": 499764,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-012.webp"
+    },
+    {
+      "filename": "fortuna-outfit-013.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-013",
+      "family": "OFFICER/CEREMONY",
+      "garments": "Quân phục trang trọng đen-trắng-vàng áo khoác choàng epaulette lớn, corset trắng, váy đen ngắn/strap đùi, bốt đen dài",
+      "palette": "Đen/trắng/vàng đồng; tà cape xanh đen",
+      "pose_environment": "Chỉ tay vào bản đồ hologram trên cầu chỉ huy đội tàu",
+      "continuity_note": "Lễ phục đô đốc; gần fullbody/combative captain, giữ vì user approved",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "49ba592fec554edf16801d2986fe55ff66da20097ff1f86acc29f393c975b76e",
+      "public_url": "/images/fortuna-outfit-013.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-013.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "nữ_đô_đốc_giữa_hạm_đội_sao.png",
+      "size_bytes": 548058,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-013.webp"
+    },
+    {
+      "filename": "fortuna-outfit-014.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-014",
+      "family": "EVENING",
+      "garments": "Đầm cocktail/dạ hội ánh champagne hồng phối trắng, corset nhấn vàng, chân váy xếp vạt bất đối xứng, khăn voan hồng mỏng, giày gót nhọn vàng",
+      "palette": "Hồng champagne/trắng/kim",
+      "pose_environment": "Tựa lưng ghế, cầm ly trong đại tiệc ánh đèn ấm",
+      "continuity_note": "Khác tiệc xanh navy outfit001 và xanh lục 011",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9b781d49d5196a9856317c01bb4e69a015a049c0c2f82c3ee046b6e2b531a8bf",
+      "public_url": "/images/fortuna-outfit-014.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-014.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "dạ_tiệc_thiên_hà_trong_ánh_vàng.png",
+      "size_bytes": 542286,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-014.webp"
+    },
+    {
+      "filename": "fortuna-outfit-015.webp",
+      "batch": "B02",
+      "slot": "OUTFIT-015",
+      "family": "TACTICAL",
+      "garments": "Bodysuit chiến thuật đen ôm liền thân, corset giáp và dây đai hông đùi, áo khoác dài đen bóng, găng, bốt cao gót chiến thuật, xách hộp thiết bị",
+      "palette": "Đen graphite/vàng",
+      "pose_environment": "Bước trong hành lang máy chủ với màn hiển thị dữ liệu hai bên",
+      "continuity_note": "TACTICAL covert; gần outfit006/combative nhưng váy vs jumpsuit khác",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d76fc60be9bb7f863cbeb60e4e72c6d902aa4fc044cb435e1996c4d4e7ca7581",
+      "public_url": "/images/fortuna-outfit-015.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-015.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "đặc_vụ_sao_vàng_trong_trạm_vũ_trụ.png",
+      "size_bytes": 563308,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-015.webp"
+    },
+    {
+      "filename": "fortuna-outfit-016.webp",
+      "batch": "EXTRA",
+      "slot": "OUTFIT-016",
+      "family": "CEREMONY/CULTURAL",
+      "garments": "Đầm qipao cách điệu tím mận/đen, cổ dựng, thân ôm xẻ cao, viền thêu hoa vàng, tay áo choàng voan dài; quạt gấp",
+      "palette": "Tím mận/burgundy/vàng",
+      "pose_environment": "Đứng giữa phòng đèn lồng, tay xòe quạt và tựa bàn",
+      "continuity_note": "Cultural ceremonial, cấu trúc khác evening gowns",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "693149c88ecde229e652e9af3b19b59c7a8c9818457d5ed741385aaa34c99949",
+      "public_url": "/images/fortuna-outfit-016.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-016.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "quý_nữ_hoàng_hôn_cyberpunk.png",
+      "size_bytes": 479570,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-016.webp"
+    },
+    {
+      "filename": "fortuna-outfit-017.webp",
+      "batch": "EXTRA",
+      "slot": "OUTFIT-017",
+      "family": "CASUAL/TEA",
+      "garments": "Váy len gân cổ lọ màu kem ngắn ôm, áo khoác kem dài mở vạt, khăn tua rua, tất sáng mờ, ankle boots trắng",
+      "palette": "Kem/trắng ngà, vải len, lụa",
+      "pose_environment": "Cầm tách trà tại sân vườn kính nắng vàng, cây hoa",
+      "continuity_note": "Casual garden/tea; khác outfit012 áo khoác lông mùa đông",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5ef871c5a5268607dece17fb98c4a312d43d5afc8ce40793e10b4b3a4c4b4cd0",
+      "public_url": "/images/fortuna-outfit-017.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-017.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "nàng_thơ_trong_quán_cà_phê_kính_nắng_vàng.png",
+      "size_bytes": 469402,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-017.webp"
+    },
+    {
+      "filename": "fortuna-outfit-018.webp",
+      "batch": "EXTRA",
+      "slot": "OUTFIT-018",
+      "family": "PROFESSION/TECH",
+      "garments": "Bodysuit kỹ thuật trắng ngọc, áo khoác dài trắng viền vàng, dây đai thiết bị đùi và hông, boots trắng, tablet",
+      "palette": "Trắng bạc/đen/vàng, da tổng hợp",
+      "pose_environment": "Tương tác khối hologram sao trong phòng phân tích/quỹ đạo",
+      "continuity_note": "TECH lab, khác flight suit 008 ở áo khoác + máy đo; gần silhouette cần lưu ý",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "35dad8d12e684d9a3970c033740300e6e73a455928553100055fba6cb47fad2b",
+      "public_url": "/images/fortuna-outfit-018.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-018.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "fortuna_trong_phòng_thí_nghiệm_vũ_trụ.png",
+      "size_bytes": 608864,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-018.webp"
+    },
+    {
+      "filename": "fortuna-outfit-019.webp",
+      "batch": "EXTRA",
+      "slot": "OUTFIT-019",
+      "family": "SEASON/CITY",
+      "garments": "Đầm ngắn đen ôm cổ chữ V, áo choàng trench dài đen lót đỏ thẫm và thắt eo, tất màu khói, boots đen cao, ô đỏ",
+      "palette": "Đen, đỏ thẫm, vàng đồng",
+      "pose_environment": "Sải bước dưới mưa neon với ô đỏ, góc nhìn toàn thân",
+      "continuity_note": "NEAR-REPEAT cảnh ô đỏ outfit007; user vẫn duyệt",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3d89658cceebb8918c2dcb218bca507383e56ff19fd34b420d3b92603b6bbe91",
+      "public_url": "/images/fortuna-outfit-019.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-019.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "nữ_bá_tước_bóng_đêm_dưới_mưa_neon.png",
+      "size_bytes": 575998,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-019.webp"
+    },
+    {
+      "filename": "fortuna-outfit-021.webp",
+      "batch": "B03",
+      "slot": "OUTFIT-021",
+      "family": "ACTION/OFFICER",
+      "garments": "Sơ mi trắng cổ mở + corset/váy chỉ huy ngắn đen-vàng, cape/áo khoác quân phục tung bay, tất màu khói, giày cao gót đen",
+      "palette": "Đen/trắng/vàng kim",
+      "pose_environment": "Toàn thân sải bước giữa cầu chỉ huy đang giao tranh; tay phải cầm súng ngắn, tay trái chỉ vào sa bàn hologram, hạm đội giao chiến ngoài kính",
+      "continuity_note": "ACTION mới được user APPROVED; KHÔNG dùng tên closeup",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f5087339cdb2a973b7d84fb0af3f99d1f1c1c91ee84af7f371411f0f69aa7556",
+      "public_url": "/images/fortuna-outfit-021.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-021.webp",
+      "user_approved_date": "2026-10-23",
+      "source_original": "nữ_chỉ_huy_fortuna_trên_cầu_tàu_vũ_trụ.png",
+      "finalLibraryPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-021.webp",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-021.webp",
+      "type": "OUTFIT",
+      "assetId": "fortuna-outfit-021",
+      "size_bytes": 616428
+    },
+    {
+      "filename": "fortuna-closeup.webp",
+      "batch": "B01",
+      "slot": "CORE/CLOSEUP",
+      "family": "CORE/CLOSEUP",
+      "garments": "Áo khoác chỉ huy trắng/tím với phụ kiện đen/vàng, tất tối",
+      "palette": "trắng, tím lavender, đen, vàng kim",
+      "pose_environment": "Khung gần đến đầu gối: Fortuna ngồi ghế trong phòng chỉ huy; chân bắt chéo, tay tựa cằm; giao diện chiến thuật và cửa sổ nhìn ra hành tinh",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "323452174f34f916cf3ccd87975dac2f13e0f1f7ee2791ee04b30ac9b6e112de",
+      "size_bytes": 391190,
+      "public_url": "/images/fortuna-closeup.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-closeup.webp",
+      "user_approved_date": "2026-10-24",
+      "source_original": "nữ_chỉ_huy_giữa_những_vì_sao.png",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-closeup.webp"
+    },
+    {
+      "filename": "fortuna-outfit-002.webp",
+      "batch": "B01",
+      "slot": "OUTFIT-002",
+      "status": "APPROVED",
+      "format": "WEBP",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-002.webp",
+      "public_url": "/images/fortuna-outfit-002.webp",
+      "continuity_note": "Zero-G Training; white/teal athletic wear, floating in starship training chamber",
+      "sha256": "d7f57034b70860638393c7fa1bc76af24565007aa91b29e159edce9f7a087aa2",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size_bytes": 335922,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-002.webp"
+    },
+    {
+      "filename": "fortuna-outfit-003.webp",
+      "batch": "B01",
+      "slot": "OUTFIT-003",
+      "status": "APPROVED",
+      "format": "WEBP",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-003.webp",
+      "public_url": "/images/fortuna-outfit-003.webp",
+      "continuity_note": "Desert Explorer; tan field jacket and cargo pants, seated in desert with rover",
+      "sha256": "fc35935017d9b665e67556472c02b66aa085de86700d83cc947c8143af9c8805",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size_bytes": 390638,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-003.webp"
+    },
+    {
+      "filename": "fortuna-outfit-004.webp",
+      "batch": "B01",
+      "slot": "OUTFIT-004",
+      "status": "APPROVED",
+      "format": "WEBP",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-004.webp",
+      "public_url": "/images/fortuna-outfit-004.webp",
+      "continuity_note": "Academy Mentor; white/lavender teaching jacket and shorter black skirt, seated with pointer and tablet",
+      "sha256": "5c4cfdf40ab1e32aff76d2e987fe8e59b777f7b361b08a1751c0314444914d2e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size_bytes": 312684,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-004.webp"
+    },
+    {
+      "filename": "fortuna-outfit-005.webp",
+      "batch": "B01",
+      "slot": "OUTFIT-005",
+      "status": "APPROVED",
+      "format": "WEBP",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-005.webp",
+      "public_url": "/images/fortuna-outfit-005.webp",
+      "continuity_note": "Private Cabin; cream cardigan, lilac nightwear, seated on bed with cup and chessboard",
+      "sha256": "a3a0c90a127ec99247f07b7204aa3365b796c7e6b3f02eae984e3f2405027a61",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size_bytes": 338320,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-005.webp"
+    },
+    {
+      "filename": "fortuna-outfit-020.webp",
+      "batch": "B03",
+      "slot": "OUTFIT-020",
+      "status": "APPROVED",
+      "format": "WEBP",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-020.webp",
+      "public_url": "/images/fortuna-outfit-020.webp",
+      "continuity_note": "Diplomatic Gambit revised and user-approved: standing in a bright orbital embassy reception, short fitted white diplomatic dress with navy drape and gold trim, holding a flute and gesturing in conversation to another official, amber eyes, dark flowing hair and gold ornament, three-quarter standing figure; distinct from rejected seated formal-gown draft.",
+      "sha256": "22ab2a8ce8c42f3571e0d4c93e882b96395b14f1fae73242c8583d2023c862bb",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size_bytes": 321466,
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-020.webp"
+    },
+    {
+      "filename": "fortuna-outfit-022.webp",
+      "batch": "B03",
+      "slot": "OUTFIT-022",
+      "family": "COMBAT/PILOT SUIT",
+      "garments": "Suit phi công chiến đấu trắng, đen, navy viền vàng; giáp bảo vệ tay/chân, thiết kế ôm dáng",
+      "palette": "Trắng ngà, đen, xanh navy, vàng kim",
+      "pose_environment": "Nữ phi công đang chiến đấu, giơ súng năng lượng về phía máy quay; tàu chiến, tia laser và cháy nổ ngoài không gian",
+      "continuity_note": "Adult Fortuna amber eyes, long dark hair, geometric gold hair ornament; distinct from seated activity variant",
+      "status": "APPROVED",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1bc89b73085e779e142e174f810941aa27c74b3408f2207c6a2843979615f387",
+      "bytes": 369968,
+      "public_url": "/images/fortuna-outfit-022.webp",
+      "finalLibraryPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-022.webp",
+      "size_bytes": 369968,
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-022.webp",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-022.webp"
+    },
+    {
+      "filename": "fortuna-outfit-023.webp",
+      "status": "APPROVED",
+      "batch": "B03",
+      "slot": "OUTFIT-023",
+      "family": "OCEAN RESORT",
+      "garments": "Bộ nghỉ dưỡng biển xanh ngọc phối trắng, áo choàng mỏng xuyên sáng, mũ vành rộng, sandal cao gót vàng và trang sức vàng",
+      "palette": "Xanh ngọc, trắng ngà, vàng kim",
+      "pose_environment": "Đứng tạo dáng trên sân hiên resort ven biển hành tinh nhiệt đới, tay giữ mũ, tay cầm kính râm; biển, tàu bay, đô thị ven biển",
+      "format": "WEBP",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "9dead286d7687a5bce27b39a651cf0a35b8fc3f6799a01a6a5f76d87d9e3a088",
+      "bytes": 502878,
+      "public_url": "/images/fortuna-outfit-023.webp",
+      "finalLibraryPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-023.webp",
+      "size_bytes": 502878,
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-023.webp",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-023.webp"
+    },
+    {
+      "filename": "fortuna-outfit-024.webp",
+      "status": "APPROVED",
+      "batch": "B03",
+      "slot": "OUTFIT-024",
+      "family": "Orbital Weekend",
+      "garments": "Áo khoác bomber san hô khoác hờ, crop top trắng, quần short trắng, thắt lưng và túi đeo chéo",
+      "palette": "San hô, trắng, đen, vàng kim",
+      "pose_environment": "Đứng trên phố thương mại quỹ đạo, một tay nâng tóc, tay kia cầm cốc nước; Phố mua sắm trạm quỹ đạo, cửa kính nhìn hành tinh, người đi lại",
+      "format": "WEBP",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "e53c583ec95c792b203ed2a62d2d6cf02ba749744017631fb13e084ed9e8fb2e",
+      "size_bytes": 430880,
+      "public_url": "/images/fortuna-outfit-024.webp",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-024.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-024.webp"
+    },
+    {
+      "filename": "fortuna-outfit-025.webp",
+      "status": "APPROVED",
+      "batch": "B03",
+      "slot": "OUTFIT-025",
+      "family": "Probability Prototype — Short Dress",
+      "garments": "Váy ngắn xếp tầng trắng-đen viền vàng, phần thân fitted kiểu sci-fi, tay áo trong mỏng, phụ kiện cổ và đùi",
+      "palette": "Trắng ngà, đen, vàng, xanh hologram",
+      "pose_environment": "Ngồi tựa trên bệ điều khiển, tay phải nâng quả cầu xác suất phát sáng, tay trái tựa bàn; Phòng thí nghiệm xác suất tàu vũ trụ, hologram vòng quỹ đạo và cửa kính nhìn không gian",
+      "format": "WEBP",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "3cd366c38ccbe361803567b51cd63db4c7dd6377e36c43e76c865a9233a9e55f",
+      "size_bytes": 401502,
+      "public_url": "/images/fortuna-outfit-025.webp",
+      "finalPath": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-025.webp",
+      "library_path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-outfit-025.webp"
+    }
+  ],
+  "notes": [
+    "Only actual user-approved assets in canonical gallery. 25 genuine individual WebPs, not 25 required batch slots.",
+    "Previously generated collage grids, closeup rejects and near-clone drafts excluded.",
+    "No original generator model or seed is known; use approved portrait and fullbody as image references.",
+    "Some similar garment themes were explicitly accepted; see Art Definition duplicate warnings."
+  ],
+  "batch_status": {
+    "batch01": {
+      "approved": 10,
+      "required": 10,
+      "missing": [],
+      "status": "COMPLETE"
+    },
+    "batch02": {
+      "approved": 10,
+      "required": 10,
+      "status": "APPROVED"
+    },
+    "extra_outfits": {
+      "approved": 4,
+      "files": [
+        "fortuna-outfit-016.webp",
+        "fortuna-outfit-017.webp",
+        "fortuna-outfit-018.webp",
+        "fortuna-outfit-019.webp"
+      ],
+      "historicalMeaning": "Previously described as additional beyond B02; standardized as B03 PARTIAL 4/10 under global V2.6, no asset renaming."
+    },
+    "batch03": {
+      "approved": 10,
+      "required": 10,
+      "planned_unapproved": 0,
+      "status": "COMPLETE",
+      "approvedIds": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "nextUnusedId": "026"
+    }
+  },
+  "batch_01": {
+    "required": 10,
+    "approved": 5,
+    "planned": 5,
+    "status": "INCOMPLETE",
+    "missing": [
+      "fortuna-closeup.webp",
+      "fortuna-outfit-002.webp",
+      "fortuna-outfit-003.webp",
+      "fortuna-outfit-004.webp",
+      "fortuna-outfit-005.webp"
+    ]
+  },
+  "batch_02": {
+    "required": 10,
+    "approved": 10,
+    "planned": 0,
+    "status": "APPROVED",
+    "notes": "User accepted 006–015; 016–019 are additional outside Batch02."
+  },
+  "canonical_gallery": [
+    "/images/fortuna-fullbody.webp",
+    "/images/fortuna-portrait.webp",
+    "/images/fortuna-combat.webp",
+    "/images/fortuna-closeup.webp",
+    "/images/fortuna-activity.webp",
+    "/images/fortuna-outfit-001.webp",
+    "/images/fortuna-outfit-002.webp",
+    "/images/fortuna-outfit-003.webp",
+    "/images/fortuna-outfit-004.webp",
+    "/images/fortuna-outfit-005.webp",
+    "/images/fortuna-outfit-006.webp",
+    "/images/fortuna-outfit-007.webp",
+    "/images/fortuna-outfit-008.webp",
+    "/images/fortuna-outfit-009.webp",
+    "/images/fortuna-outfit-010.webp",
+    "/images/fortuna-outfit-011.webp",
+    "/images/fortuna-outfit-012.webp",
+    "/images/fortuna-outfit-013.webp",
+    "/images/fortuna-outfit-014.webp",
+    "/images/fortuna-outfit-015.webp",
+    "/images/fortuna-outfit-016.webp",
+    "/images/fortuna-outfit-017.webp",
+    "/images/fortuna-outfit-018.webp",
+    "/images/fortuna-outfit-019.webp",
+    "/images/fortuna-outfit-020.webp",
+    "/images/fortuna-outfit-021.webp",
+    "/images/fortuna-outfit-022.webp",
+    "/images/fortuna-outfit-023.webp",
+    "/images/fortuna-outfit-024.webp",
+    "/images/fortuna-outfit-025.webp"
+  ],
+  "approved_assets_total": 30,
+  "batch_02_artworks": [
+    {
+      "type": "outfit-006",
+      "filename": "fortuna-outfit-006.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-006.webp",
+      "sha256": "e84ddd14ad2b221439760694c3f2cf5ce9e5866810b0e4837cffc21404cb483a"
+    },
+    {
+      "type": "outfit-007",
+      "filename": "fortuna-outfit-007.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-007.webp",
+      "sha256": "f6b4278164715f20773e5d3996924240ada67c3efc9cd159fc0d2ce059151131"
+    },
+    {
+      "type": "outfit-008",
+      "filename": "fortuna-outfit-008.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-008.webp",
+      "sha256": "d044b2195cd9cb5a9373ec216edc4fd372c94f8dde71f74d0c49185ee0f82113"
+    },
+    {
+      "type": "outfit-009",
+      "filename": "fortuna-outfit-009.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-009.webp",
+      "sha256": "3f6ba54052831dd561b34a36f0547281fd10f6280e37f60d269b3d1aea065719"
+    },
+    {
+      "type": "outfit-010",
+      "filename": "fortuna-outfit-010.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-010.webp",
+      "sha256": "bb727be9d581314f0b509d38afd86aa7c1909d1ea3bb37eb01466e77bca66365"
+    },
+    {
+      "type": "outfit-011",
+      "filename": "fortuna-outfit-011.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-011.webp",
+      "sha256": "8a27955e747f005fe8d17347aad7152d0384fe50792d012f5c234d60ff6b22de"
+    },
+    {
+      "type": "outfit-012",
+      "filename": "fortuna-outfit-012.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-012.webp",
+      "sha256": "e37d7d3dc33fadb63599b452af7b40a098b503e0c6d32859428add0d470172e6"
+    },
+    {
+      "type": "outfit-013",
+      "filename": "fortuna-outfit-013.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-013.webp",
+      "sha256": "49ba592fec554edf16801d2986fe55ff66da20097ff1f86acc29f393c975b76e"
+    },
+    {
+      "type": "outfit-014",
+      "filename": "fortuna-outfit-014.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-014.webp",
+      "sha256": "9b781d49d5196a9856317c01bb4e69a015a049c0c2f82c3ee046b6e2b531a8bf"
+    },
+    {
+      "type": "outfit-015",
+      "filename": "fortuna-outfit-015.webp",
+      "status": "APPROVED",
+      "available": true,
+      "public_url": "/images/fortuna-outfit-015.webp",
+      "sha256": "d76fc60be9bb7f863cbeb60e4e72c6d902aa4fc044cb435e1996c4d4e7ca7581"
+    }
+  ],
+  "requested_additional_slots": [
+    {
+      "type": "outfit-016",
+      "filename": "fortuna-outfit-016.webp",
+      "status": "APPROVED",
+      "available": true,
+      "batch": "B03_PARTIAL",
+      "public_url": "/images/fortuna-outfit-016.webp",
+      "originalApprovalContext": "EXTRA_AFTER_BATCH02; retained history; normalized slot numbering V2.6"
+    },
+    {
+      "type": "outfit-017",
+      "filename": "fortuna-outfit-017.webp",
+      "status": "APPROVED",
+      "available": true,
+      "batch": "B03_PARTIAL",
+      "public_url": "/images/fortuna-outfit-017.webp",
+      "originalApprovalContext": "EXTRA_AFTER_BATCH02; retained history; normalized slot numbering V2.6"
+    },
+    {
+      "type": "outfit-018",
+      "filename": "fortuna-outfit-018.webp",
+      "status": "APPROVED",
+      "available": true,
+      "batch": "B03_PARTIAL",
+      "public_url": "/images/fortuna-outfit-018.webp",
+      "originalApprovalContext": "EXTRA_AFTER_BATCH02; retained history; normalized slot numbering V2.6"
+    },
+    {
+      "type": "outfit-019",
+      "filename": "fortuna-outfit-019.webp",
+      "status": "APPROVED",
+      "available": true,
+      "batch": "B03_PARTIAL",
+      "public_url": "/images/fortuna-outfit-019.webp",
+      "originalApprovalContext": "EXTRA_AFTER_BATCH02; retained history; normalized slot numbering V2.6"
+    }
+  ],
+  "approved_fullbody_variants": [],
+  "artworks": [
+    {
+      "type": "fullbody",
+      "filename": "fortuna-fullbody.webp",
+      "public_url": "/images/fortuna-fullbody.webp",
+      "status": "APPROVED",
+      "available": true,
+      "sha256": "876437784cefe996ef31d20a44938be7a8f4763c2acba0bb893cf08f9d0e2f53",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "type": "portrait",
+      "filename": "fortuna-portrait.webp",
+      "public_url": "/images/fortuna-portrait.webp",
+      "status": "APPROVED",
+      "available": true,
+      "sha256": "e4839be9003492877e04e61362873b9a5ae84a5fc18f3193b39b9a78c840e7a2",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "type": "combat",
+      "filename": "fortuna-combat.webp",
+      "public_url": "/images/fortuna-combat.webp",
+      "status": "APPROVED",
+      "available": true,
+      "sha256": "4030bd8205bc29a0b656f3785b7a1f4ddb485be85f2df771c6f0d68e1e1b69f3",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "type": "closeup",
+      "filename": "fortuna-closeup.webp",
+      "public_url": "/images/fortuna-closeup.webp",
+      "status": "NOT_GENERATED",
+      "available": false
+    },
+    {
+      "type": "activity",
+      "filename": "fortuna-activity.webp",
+      "public_url": "/images/fortuna-activity.webp",
+      "status": "APPROVED",
+      "available": true,
+      "sha256": "888294f5bd27d4f10510af2cf314eba3c63c4e23593fee84ca1d918684f9a255",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "type": "outfit-001",
+      "filename": "fortuna-outfit-001.webp",
+      "public_url": "/images/fortuna-outfit-001.webp",
+      "status": "APPROVED",
+      "available": true,
+      "sha256": "4c817f315ca4aa047a95bc592b5cf0b7e215e077d76df324d69d107205a44aec",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "type": "outfit-002",
+      "filename": "fortuna-outfit-002.webp",
+      "public_url": "/images/fortuna-outfit-002.webp",
+      "status": "NOT_GENERATED",
+      "available": false
+    },
+    {
+      "type": "outfit-003",
+      "filename": "fortuna-outfit-003.webp",
+      "public_url": "/images/fortuna-outfit-003.webp",
+      "status": "NOT_GENERATED",
+      "available": false
+    },
+    {
+      "type": "outfit-004",
+      "filename": "fortuna-outfit-004.webp",
+      "public_url": "/images/fortuna-outfit-004.webp",
+      "status": "NOT_GENERATED",
+      "available": false
+    },
+    {
+      "type": "outfit-005",
+      "filename": "fortuna-outfit-005.webp",
+      "public_url": "/images/fortuna-outfit-005.webp",
+      "status": "NOT_GENERATED",
+      "available": false
+    }
+  ],
+  "additional_approved": [
+    {
+      "filename": "fortuna-lounge-variant-01.webp",
+      "status": "APPROVED",
+      "public_url": "/images/fortuna-lounge-variant-01.webp",
+      "reason": "User-approved seated medium portrait; repeated executive costume"
+    },
+    {
+      "filename": "fortuna-action.webp",
+      "status": "APPROVED",
+      "public_url": "/images/fortuna-action.webp",
+      "reason": "User-approved active command-bridge battle scene; not CLOSEUP"
+    }
+  ],
+  "metadataCoverage": "COMPLETE",
+  "batch_03": {
+    "required": 10,
+    "approved": 10,
+    "remaining": 0,
+    "status": "COMPLETE",
+    "approvedFiles": [
+      "fortuna-outfit-016.webp",
+      "fortuna-outfit-017.webp",
+      "fortuna-outfit-018.webp",
+      "fortuna-outfit-019.webp",
+      "fortuna-outfit-020.webp",
+      "fortuna-outfit-021.webp",
+      "fortuna-outfit-022.webp",
+      "fortuna-outfit-023.webp",
+      "fortuna-outfit-024.webp",
+      "fortuna-outfit-025.webp"
+    ],
+    "plannedConceptFiles": []
+  },
+  "sourceImportVerified": false,
+  "sourceImportStatus": "UNVERIFIED; assets physically in ChatGPT Library, app repository not checked",
+  "conceptPlan": {
+    "status": "PLANNED_CONCEPT_ONLY",
+    "file": "FORTUNA_OUTFIT_CONCEPT_PLAN_2026-10-23.md",
+    "json": "fortuna_outfit_concepts.json",
+    "filenames": [
+      "fortuna-outfit-002.webp",
+      "fortuna-outfit-003.webp",
+      "fortuna-outfit-004.webp",
+      "fortuna-outfit-005.webp",
+      "fortuna-outfit-020.webp",
+      "fortuna-outfit-021.webp",
+      "fortuna-outfit-022.webp",
+      "fortuna-outfit-023.webp",
+      "fortuna-outfit-024.webp",
+      "fortuna-outfit-025.webp"
+    ],
+    "includedInCanonicalGallery": false,
+    "userApproved": false,
+    "rendered": false
+  },
+  "user_rejected_fullbody_variants": [
+    {
+      "filename": "fortuna-fullbody-variant-01.webp",
+      "status": "REJECTED_BY_USER",
+      "reason": "Near-duplicate fullbody, explicitly excluded 2026-10-24",
+      "keep_source_archived": true
+    },
+    {
+      "filename": "fortuna-fullbody-variant-02.webp",
+      "status": "REJECTED_BY_USER",
+      "reason": "Near-duplicate fullbody, explicitly excluded 2026-10-24",
+      "keep_source_archived": true
+    },
+    {
+      "filename": "fortuna-fullbody-variant-03.webp",
+      "status": "REJECTED_BY_USER",
+      "reason": "Near-duplicate fullbody, explicitly excluded 2026-10-24",
+      "keep_source_archived": true
+    },
+    {
+      "filename": "fortuna-fullbody-variant-04.webp",
+      "status": "REJECTED_BY_USER",
+      "reason": "Near-duplicate fullbody, explicitly excluded 2026-10-24",
+      "keep_source_archived": true
+    }
+  ],
+  "pending_review_assets": [
+    {
+      "filename": "fortuna-outfit-002.webp",
+      "review_file": "fortuna_outfit_002_REVIEW.webp",
+      "status": "REVIEW",
+      "available_in_final": false,
+      "source": "independent single image; zero-G athletic outfit, not yet accepted"
+    }
+  ],
+  "final_approved_library_folder": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/",
+  "final_approved_library_folder_note": "Historical folder name retained, actual APPROVED files 21 after 4 user-rejected variants excluded.",
+  "latest_closeup_checkpoint": {
+    "filename": "fortuna-closeup.webp",
+    "status": "APPROVED",
+    "sha256": "323452174f34f916cf3ccd87975dac2f13e0f1f7ee2791ee04b30ac9b6e112de",
+    "path": "/STARFRONT_WORLD/PILOT/FORTUNA/FINAL_APPROVED_WEBP/fortuna-closeup.webp",
+    "note": "User approved seated medium close portrait replacing tight facial crop; original variations not approved.",
+    "library_final_folder_raw_named_files_count": 27,
+    "duplicate_alias_note": "fortuna-activity-variant-01.webp and fortuna-lounge-variant-01.webp appear to be identical size; treat second name as alias until hash check. Hence 27 filenames may represent 26 unique approved images."
+  },
+  "latest_approval": "2026-10-24: outfit020 standing white short-dress diplomatic reception APPROVED; seated variant rejected/superseded.",
+  "metadataApprovedAssetCount": 30,
+  "metadataVerifiedDetailedCount": 30,
+  "metadataSourceMappedCount": 30,
+  "galleryR3MetadataStatus": "GALLERY_R3_METADATA_READY",
+  "metadataAuditNote": "2026-10-25: 30/30 observed metadata verified; 12 previously PARTIAL records visually inspected and enriched; no artwork changes; React/CDN import unverified."
+}
