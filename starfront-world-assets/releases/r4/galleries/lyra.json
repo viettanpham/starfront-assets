@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/lyra.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 14,
+  "verifiedImageCount": 20,
   "images": [
     {
       "assetId": "lyra-fullbody",
@@ -651,8 +651,8 @@
       "expectedSha256": "af755514db2a4768503ebda1a2c54cc86e7662ba66fe030eb8922a1a452ce66b",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-009.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-009",
         "filename": "lyra-outfit-009.webp",
@@ -685,8 +685,8 @@
       "expectedSha256": "57d6e0c90536a1a7588cf2a13c6507e79c256bb1435da6af469ef8f95ccb0475",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-010.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-010",
         "filename": "lyra-outfit-010.webp",
@@ -719,8 +719,8 @@
       "expectedSha256": "9cca35b4452b6a9ca60c1142cf6a16532c62a99465c852a240996f7f8f219da8",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-011.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-011",
         "filename": "lyra-outfit-011.webp",
@@ -765,8 +765,8 @@
       "expectedSha256": "0c400f754493fd777111b0b966be5b6952dc3a1de443f631546ccaf42140e344",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-012.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-012",
         "filename": "lyra-outfit-012.webp",
@@ -805,8 +805,8 @@
       "expectedSha256": "8b54512a4b4ed277c77f8cd1c3ed0e4e75eecdaae20c67ab628ed88fdcae3bdb",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-013.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-013",
         "filename": "lyra-outfit-013.webp",
@@ -845,8 +845,8 @@
       "expectedSha256": "f6ff75038a45a4c5db58a1a33adc9904a126e835d0646a732100a72d7eca5c56",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-014.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-014",
         "filename": "lyra-outfit-014.webp",
