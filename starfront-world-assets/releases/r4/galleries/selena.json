@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "selena",
-  "status": "PARTIAL_CDN_STAGING",
+  "status": "READY",
   "sourceManifest": "source-manifests/selena.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 27,
+  "verifiedImageCount": 30,
   "images": [
     {
       "assetId": "selena-fullbody",
@@ -926,8 +926,8 @@
       "expectedSha256": "15d093c11f54c6041fedbf0114cd3e1cf861fd243feb3eb5f61d8b6204c03d4c",
       "width": 1072,
       "height": 1467,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-023.webp",
       "sourceMetadata": {
         "index": 28,
         "batch": 3,
@@ -960,8 +960,8 @@
       "expectedSha256": "5d3b6c071de149583cb200fe29b09fd9fadb962a3724b9f9b1e86a0fe415a1a6",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-024.webp",
       "sourceMetadata": {
         "index": 29,
         "batch": 3,
@@ -994,8 +994,8 @@
       "expectedSha256": "82cce80a107c29aff51aa1cd77b1384f683fe2ea67cef78b76d14c154822c2fe",
       "width": 1072,
       "height": 1467,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-025.webp",
       "sourceMetadata": {
         "index": 30,
         "batch": 3,
