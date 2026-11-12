@@ -3,7 +3,7 @@
   "status": "PARTIAL_SOURCE_BINARY_IMPORT",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 58,
+  "verifiedImageCount": 71,
   "items": [
     {
       "pilotId": "alviss",
@@ -15,7 +15,7 @@
       "pilotId": "eric",
       "manifestPath": "galleries/eric.json",
       "sourceRecordCount": 15,
-      "verifiedImageCount": 2
+      "verifiedImageCount": 15
     },
     {
       "pilotId": "marcus",

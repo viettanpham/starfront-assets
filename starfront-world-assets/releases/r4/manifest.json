@@ -24,7 +24,7 @@
     "storyPilotCount": 1,
     "storyChapters": 5,
     "sourceGalleryArtworkRecords": 297,
-    "physicallyVerifiedGalleryArtwork": 58
+    "physicallyVerifiedGalleryArtwork": 71
   },
   "releaseGate": {
     "required": "noPENDING_BINARY_IMPORT-for-expected-production-gallery-assets",
