@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/selena.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 12,
+  "verifiedImageCount": 17,
   "images": [
     {
       "assetId": "selena-fullbody",
@@ -418,8 +418,8 @@
       "expectedSha256": "002eb50bef022892aef2e7dfca6d9cca919c362f1c5f6f185ebbdfd4ca2f0664",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-008.webp",
       "sourceMetadata": {
         "index": 13,
         "batch": 2,
@@ -452,8 +452,8 @@
       "expectedSha256": "4dc39ff0ec144b9d78ec303f6c62acefaee1d80690e7f92b3f11cea46ced90ee",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-009.webp",
       "sourceMetadata": {
         "index": 14,
         "batch": 2,
@@ -486,8 +486,8 @@
       "expectedSha256": "8ef546f0317a7681d97a765e031dcfd050a7585fd2b0d2ac14f38daf05d1f339",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-010.webp",
       "sourceMetadata": {
         "index": 15,
         "batch": 2,
@@ -520,8 +520,8 @@
       "expectedSha256": "b6a0fbc67ddcb97dd9ab566848df7c030bb37300ce29389447a57b58e895bff3",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-011.webp",
       "sourceMetadata": {
         "index": 16,
         "batch": 2,
@@ -554,8 +554,8 @@
       "expectedSha256": "4e5a6beee8a1698ef024132ee9d565a8598106607136db378877f2d543549714",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-012.webp",
       "sourceMetadata": {
         "index": 17,
         "batch": 2,
