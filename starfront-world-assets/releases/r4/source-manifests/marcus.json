@@ -1,0 +1,99 @@
+{
+  "characterId": "C03",
+  "batch": "01",
+  "approvedCount": 10,
+  "releaseStatus": "APPROVED_ASSETS_PACKAGED",
+  "cdnImportStatus": "NOT_VERIFIED",
+  "assets": [
+    {
+      "filename": "marcus-fullbody.webp",
+      "path": "images/marcus-fullbody.webp",
+      "sha256": "b95f94ad1c1a21aa687197bc9b8214e94aec5c05bbada2b36f149c04c35ad8b6",
+      "bytes": 418410,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-portrait.webp",
+      "path": "images/marcus-portrait.webp",
+      "sha256": "39254547c01931bdf2fb029cdaf11519573977e37ab6586f906bfbbefea98f42",
+      "bytes": 318230,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-combat.webp",
+      "path": "images/marcus-combat.webp",
+      "sha256": "2f10393878168a656fcc3303a4eac5f4ec465f2f16225767b5daeae87dee811f",
+      "bytes": 329096,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-closeup.webp",
+      "path": "images/marcus-closeup.webp",
+      "sha256": "8a8691ac06a93c07e6d2bdf4ce8f392b3b86647ad04a4febd4d7268bb937236d",
+      "bytes": 377828,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-activity.webp",
+      "path": "images/marcus-activity.webp",
+      "sha256": "e0ccdcfa7c509cf8de8ceea03be0620d9961f9c097ac9bca58ba77bd428963af",
+      "bytes": 410556,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-outfit-001.webp",
+      "path": "images/marcus-outfit-001.webp",
+      "sha256": "5f02f9b5afbd79d79e56861e4b138d68b5af3ca3578715da112677f47984ae21",
+      "bytes": 386358,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-outfit-002.webp",
+      "path": "images/marcus-outfit-002.webp",
+      "sha256": "c79f4b5e09f673f00f6abf8efad077a43a5c8f5d8f1e4ffbbd09bc997927492f",
+      "bytes": 422028,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-outfit-003.webp",
+      "path": "images/marcus-outfit-003.webp",
+      "sha256": "29bdfd942364334a45d98ed162b5919251e6b1dc843d3ae2fc808b110f677589",
+      "bytes": 360726,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-outfit-004.webp",
+      "path": "images/marcus-outfit-004.webp",
+      "sha256": "aaeb510c30ae61f25d322883aadea7f503917815e643632ad711536cac5849d6",
+      "bytes": 340400,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    },
+    {
+      "filename": "marcus-outfit-005.webp",
+      "path": "images/marcus-outfit-005.webp",
+      "sha256": "46983e5c16a02ea1bebc11d53975a03125e8205bb6d8472b91ec9269dc985264",
+      "bytes": 426238,
+      "width": 1024,
+      "height": 1536,
+      "approvalStatus": "APPROVED"
+    }
+  ]
+}
