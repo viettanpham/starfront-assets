@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/lyra.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 20,
+  "verifiedImageCount": 25,
   "images": [
     {
       "assetId": "lyra-fullbody",
@@ -885,8 +885,8 @@
       "expectedSha256": "af6c2d51685c83c799095b3615b3ebc973a17e2b92d1f4e65e658676ad6e9be8",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-015.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-015",
         "filename": "lyra-outfit-015.webp",
@@ -925,8 +925,8 @@
       "expectedSha256": "a6c2ed77e817a3d7aa42e19ab8b058a842451b487e3c7643e957bea2daf28dbc",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-016.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-016",
         "filename": "lyra-outfit-016.webp",
@@ -965,8 +965,8 @@
       "expectedSha256": "4eff340b27a3ec1b33cc41761853560d4a213e60dce8269a2741e805c7a625d3",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-017.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-017",
         "filename": "lyra-outfit-017.webp",
@@ -1004,8 +1004,8 @@
       "expectedSha256": "8c3c3c626ce2dd59023b7217613b2e9898d51836843a70f1f783130ab9c6d93e",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-018.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-018",
         "filename": "lyra-outfit-018.webp",
@@ -1043,8 +1043,8 @@
       "expectedSha256": "19bf619974e1952ca6b4e1f2cb2dffe986f3627f820966a5074fcaa4abdd1f85",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-outfit-019.webp",
       "sourceMetadata": {
         "assetId": "lyra-outfit-019",
         "filename": "lyra-outfit-019.webp",

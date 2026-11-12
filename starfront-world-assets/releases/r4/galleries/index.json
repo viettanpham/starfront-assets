@@ -3,7 +3,7 @@
   "status": "PARTIAL_SOURCE_BINARY_IMPORT",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 97,
+  "verifiedImageCount": 102,
   "items": [
     {
       "pilotId": "alviss",
@@ -39,7 +39,7 @@
       "pilotId": "lyra",
       "manifestPath": "galleries/lyra.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 20
+      "verifiedImageCount": 25
     },
     {
       "pilotId": "selena",
