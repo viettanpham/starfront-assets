@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "aria",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/aria.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "aria-01",
@@ -17,8 +17,8 @@
       "expectedSha256": "959997ab8693b504c01ae01567f03608052c648be92a3c7c36d2f321e111f48b",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-fullbody.webp",
       "sourceMetadata": {
         "assetId": "aria-01",
         "classId": "aria",
@@ -58,8 +58,8 @@
       "expectedSha256": "4c5b67edab7ef0c5c44c3ead921c511b06b25eb547cc4013c882be7f38050eb9",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-portrait.webp",
       "sourceMetadata": {
         "assetId": "aria-02",
         "classId": "aria",

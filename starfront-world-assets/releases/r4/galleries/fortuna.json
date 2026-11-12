@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "fortuna",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/fortuna.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "fortuna-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "876437784cefe996ef31d20a44938be7a8f4763c2acba0bb893cf08f9d0e2f53",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/fortuna/fortuna-fullbody.webp",
       "sourceMetadata": {
         "filename": "fortuna-fullbody.webp",
         "batch": "B01",
@@ -53,8 +53,8 @@
       "expectedSha256": "a30deac8c9d2405150d71abc522a63704a6db8345c46f017acd5b0ffd7e42000",
       "width": 1086,
       "height": 1448,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/fortuna/fortuna-portrait.webp",
       "sourceMetadata": {
         "filename": "fortuna-portrait.webp",
         "batch": "B01",

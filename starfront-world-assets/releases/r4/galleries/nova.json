@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "nova",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/nova.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "nova-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "9808933ecd07072a598f1b5966cb647a635bf6b1eb9686a783f6d97007aea3a1",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/nova/nova-fullbody.webp",
       "sourceMetadata": {
         "assetId": "nova-fullbody",
         "classId": "nova",
@@ -67,8 +67,8 @@
       "expectedSha256": "df1ab2b60ed4a77f80327820df0c679d996447eefd7f375488c9aab59a9f7514",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/nova/nova-portrait.webp",
       "sourceMetadata": {
         "assetId": "nova-portrait",
         "classId": "nova",

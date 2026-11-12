@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "valentine",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/valentine.json",
   "sourceRecordCount": 42,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "valentine-activity-001",
@@ -146,8 +146,8 @@
       "expectedSha256": "77a5d00d66aeed9014c60cafa7a528e38826b0dce35c836ef2776c18f846c495",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/valentine/valentine-fullbody.webp",
       "sourceMetadata": {
         "id": "valentine-fullbody",
         "path": "/images/valentine-fullbody.webp",
@@ -173,8 +173,8 @@
       "expectedSha256": "e8439a87904127649e9bb72b6eb41c53d21176f83f0f1b885f2dc05bafa2bc11",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/valentine/valentine-portrait.webp",
       "sourceMetadata": {
         "id": "valentine-portrait",
         "path": "/images/valentine-portrait.webp",

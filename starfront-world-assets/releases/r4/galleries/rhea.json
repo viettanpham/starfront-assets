@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "rhea",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/rhea.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 1,
   "images": [
     {
       "assetId": "rhea-closeup",
@@ -141,8 +141,8 @@
       "expectedSha256": "f010ad263ab22d2413383d7529ce81c4d1e13a8d6d8931d23b75dca0976bf6c9",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/rhea/rhea-fullbody.webp",
       "sourceMetadata": {
         "index": 3,
         "source": "rhea-fullbody.png",
