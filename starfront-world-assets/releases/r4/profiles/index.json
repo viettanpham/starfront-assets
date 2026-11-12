@@ -17,8 +17,9 @@
       "profilePath": "profiles/alviss.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/alviss.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/alviss.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "eric",
@@ -28,8 +29,9 @@
       "profilePath": "profiles/eric.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/eric.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/eric.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "marcus",
@@ -39,8 +41,9 @@
       "profilePath": "profiles/marcus.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/marcus.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/marcus.json",
+      "availableGalleryImageCount": 1
     },
     {
       "pilotId": "victor",
@@ -50,8 +53,9 @@
       "profilePath": "profiles/victor.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/victor.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/victor.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "kaelen",
@@ -61,8 +65,9 @@
       "profilePath": "profiles/kaelen.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/kaelen.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/kaelen.json",
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "lyra",
@@ -72,8 +77,9 @@
       "profilePath": "profiles/lyra.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/lyra.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/lyra.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "selena",
@@ -83,8 +89,9 @@
       "profilePath": "profiles/selena.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/selena.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/selena.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "valentine",
@@ -94,8 +101,9 @@
       "profilePath": "profiles/valentine.json",
       "profileStatus": "REVIEW_SOURCE_CONSOLIDATION",
       "storyAvailable": true,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/valentine.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/valentine.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "fortuna",
@@ -105,8 +113,9 @@
       "profilePath": "profiles/fortuna.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/fortuna.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/fortuna.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "aria",
@@ -116,8 +125,9 @@
       "profilePath": "profiles/aria.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/aria.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/aria.json",
+      "availableGalleryImageCount": 2
     },
     {
       "pilotId": "rhea",
@@ -127,8 +137,9 @@
       "profilePath": "profiles/rhea.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/rhea.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/rhea.json",
+      "availableGalleryImageCount": 1
     },
     {
       "pilotId": "nova",
@@ -138,8 +149,9 @@
       "profilePath": "profiles/nova.json",
       "profileStatus": "DRAFT_REVIEW",
       "storyAvailable": false,
-      "galleryRuntimeReady": false,
-      "galleryPath": "galleries/nova.json"
+      "galleryRuntimeReady": true,
+      "galleryPath": "galleries/nova.json",
+      "availableGalleryImageCount": 2
     }
   ],
   "readerRules": {

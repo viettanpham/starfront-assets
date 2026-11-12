@@ -1,7 +1,7 @@
 {
   "schemaVersion": "starfront-content-release-v1",
   "releaseId": "r4",
-  "status": "STAGING_ASSET_IMPORT_INCOMPLETE",
+  "status": "PREVIEW_PARTIAL_ARTWORK_IMPORT",
   "createdOn": "2026-11-12",
   "root": "starfront-world-assets/releases/r4/",
   "entries": {
@@ -24,7 +24,7 @@
     "storyPilotCount": 1,
     "storyChapters": 5,
     "sourceGalleryArtworkRecords": 297,
-    "physicallyVerifiedGalleryArtwork": 30
+    "physicallyVerifiedGalleryArtwork": 50
   },
   "releaseGate": {
     "required": "noPENDING_BINARY_IMPORT-for-expected-production-gallery-assets",

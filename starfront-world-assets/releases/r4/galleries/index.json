@@ -3,31 +3,31 @@
   "status": "PARTIAL_SOURCE_BINARY_IMPORT",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 30,
+  "verifiedImageCount": 50,
   "items": [
     {
       "pilotId": "alviss",
       "manifestPath": "galleries/alviss.json",
       "sourceRecordCount": 10,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "eric",
       "manifestPath": "galleries/eric.json",
       "sourceRecordCount": 15,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "marcus",
       "manifestPath": "galleries/marcus.json",
       "sourceRecordCount": 10,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 1
     },
     {
       "pilotId": "victor",
       "manifestPath": "galleries/victor.json",
       "sourceRecordCount": 10,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "kaelen",
@@ -39,43 +39,43 @@
       "pilotId": "lyra",
       "manifestPath": "galleries/lyra.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "selena",
       "manifestPath": "galleries/selena.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "valentine",
       "manifestPath": "galleries/valentine.json",
       "sourceRecordCount": 42,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "fortuna",
       "manifestPath": "galleries/fortuna.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "aria",
       "manifestPath": "galleries/aria.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     },
     {
       "pilotId": "rhea",
       "manifestPath": "galleries/rhea.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 1
     },
     {
       "pilotId": "nova",
       "manifestPath": "galleries/nova.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 0
+      "verifiedImageCount": 2
     }
   ]
 }
