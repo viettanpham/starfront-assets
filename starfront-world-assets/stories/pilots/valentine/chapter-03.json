@@ -1,0 +1,535 @@
+{
+  "schemaVersion": "starfront-story-chapter-v1",
+  "pilotId": "valentine",
+  "chapterId": "chap-03",
+  "chapterNumber": 3,
+  "title": "NewHorizon — Nơi Bình Minh Trở Lại",
+  "canonicalLibraryTitle": "NewHorizon — Nơi Bình Minh Trở Lại",
+  "editorialStatus": "APPROVED",
+  "contentStatus": "FULL_PROSE",
+  "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+  "readingTimeMinutes": 14,
+  "wordCount": 3127,
+  "revision": "03",
+  "sourceNote": "Chapter 03 Revision 03 full prose; library approved snapshot.",
+  "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+  "blocks": [
+    {
+      "blockId": "b0001",
+      "type": "heading",
+      "level": 2,
+      "text": "01. Ngày rời Lumina"
+    },
+    {
+      "blockId": "b0002",
+      "type": "paragraph",
+      "text": "Buổi sáng cuối cùng tại Lumina bắt đầu bằng một cơn mưa rất nhẹ."
+    },
+    {
+      "blockId": "b0003",
+      "type": "paragraph",
+      "text": "Mưa không rơi từ bầu trời vũ trụ. Nó được tạo ra trong một khu vườn dưới mái vòm kính của thành phố, như một phần chu trình chăm sóc cây xanh. Từ cửa sổ phòng lưu trú, Valentine nhìn những giọt nước lăn xuống mặt lá, rồi ngước về phía khoảng tối thăm thẳm bên ngoài lớp kính chịu áp suất. Chỉ cách nhau một lớp công trình, một bên là khu vườn yên bình, bên kia là chân không của vành đai phòng thủ D10."
+    },
+    {
+      "blockId": "b0004",
+      "type": "paragraph",
+      "text": "Cô đã ở đây đủ lâu để không còn giật mình mỗi khi hành lang phát tiếng thông báo. Những ca trực hỗ trợ người sơ tán của cô cũng đã kết thúc theo lịch phân công. Tình trạng sức khỏe được xác nhận đủ điều kiện đi tàu dân sự; hồ sơ chuyển cư trú của cô hiện rõ ngày khởi hành do Ban điều phối tái định cư phê duyệt. Không có tấm vé nào cho phép cô tùy ý đổi điểm đến: như phần lớn người sống sót từ Elysia, Valentine được đưa về **NewHorizon**, thành phố dân cư tại vành đai D3, nơi chính quyền đã dành một phân khu cho cộng đồng của họ."
+    },
+    {
+      "blockId": "b0005",
+      "type": "paragraph",
+      "text": "Trong những ngày vừa qua, nhiều gia đình đã đi trước. Người cao tuổi và bệnh nhân cần theo dõi thêm được xếp lịch sau, hoặc tiếp tục điều trị theo quyết định y tế. Valentine đã xin đi cùng một trong các đoàn chuyển cư dân muộn để hỗ trợ khi được phân công. Hôm nay, đến lượt cô."
+    },
+    {
+      "blockId": "b0006",
+      "type": "paragraph",
+      "text": "Trước khi rời phòng, Valentine mở thông báo từ trung tâm tìm kiếm người mất liên lạc. Hồ sơ của các đồng đội ở khu số sáu vẫn ghi **CHƯA CÓ THÔNG TIN XÁC MINH MỚI**. Cô đọc lại một lần, xác nhận địa chỉ liên lạc mới tại NewHorizon rồi đóng màn hình. Không có phép màu nào xuất hiện trong đêm. Nhưng hồ sơ vẫn được tìm kiếm, và cô sẽ không để nó mất dấu chỉ vì mình đổi nơi ở."
+    },
+    {
+      "blockId": "b0007",
+      "type": "paragraph",
+      "text": "Ở cửa phòng, điều dưỡng Mai đứng đợi với hai chiếc túi nhỏ."
+    },
+    {
+      "blockId": "b0008",
+      "type": "paragraph",
+      "text": "“Em đã bàn giao xong hết chưa?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0009",
+      "type": "paragraph",
+      "text": "“Xong rồi chị. Người bên NewHorizon đã xác nhận đội y tế tiếp nhận đoàn mình. Còn chị?”"
+    },
+    {
+      "blockId": "b0010",
+      "type": "paragraph",
+      "text": "“Chị còn một lời cảm ơn.”"
+    },
+    {
+      "blockId": "b0011",
+      "type": "paragraph",
+      "text": "Cô ghé qua quầy nhân viên, chào những bác sĩ đã tiếp nhận bệnh nhân từ R-17, cảm ơn đội cứu trợ từng giúp một cụ ông tìm người thân và người hướng dẫn kiên nhẫn giải thích các thủ tục mới. Họ không hứa cuộc sống phía trước sẽ dễ dàng. Họ chỉ chúc cô có đủ thời gian để bắt đầu lại."
+    },
+    {
+      "blockId": "b0012",
+      "type": "paragraph",
+      "text": "Trên chuyến shuttle đi đến cảng nội vùng, thành phố Lumina lùi dần sau những hàng cây. Valentine nhớ lần đầu mình đến đây: một bác sĩ kiệt sức, vẫn giữ tay trên túi thuốc cấp cứu, tưởng rằng mọi nơi xa Elysia đều chỉ là chỗ tạm lánh. Bây giờ cô rời đi với một chiếc vali, một bộ váy trắng đã mua bằng khoản hỗ trợ sinh hoạt đầu tiên, và một địa chỉ cư trú thật sự đang chờ ở phía trước."
+    },
+    {
+      "blockId": "b0013",
+      "type": "heading",
+      "level": 2,
+      "text": "02. Chuyến tàu về phía hành tinh"
+    },
+    {
+      "blockId": "b0014",
+      "type": "paragraph",
+      "text": "Shuttle đưa họ đến khu dịch vụ cảng thuộc GIGA. Valentine nhìn qua những tầng hành lang thương mại sáng đèn, các quầy ăn uống mở cửa từ sớm và những gia đình kéo vali đi ngang qua quầy hướng dẫn. Sau mái kính kín áp suất, các tàu vận tải vẫn ra vào giữa nền sao thăm thẳm. Cô từng chỉ biết GIGA qua tiếng còi cấp cứu và những cầu cảng tiếp nhận bệnh nhân; hôm nay cô mới có dịp thấy một nhịp sống khác của quần thể ấy: hành khách trở về nhà, người đi công tác, nhân viên phục vụ và những cuộc chia tay bình thường."
+    },
+    {
+      "blockId": "b0015",
+      "type": "scene",
+      "sceneId": "val-ch03-image-01",
+      "sceneTitle": "Khu dịch vụ cảng của quần thể GIGA D10 — WORLD CC0-036 APPROVED",
+      "caption": "Khu dịch vụ cảng của quần thể GIGA D10 — WORLD CC0-036 APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-giga-port-service-city",
+          "placement": "inline",
+          "caption": "Khu dịch vụ cảng của quần thể GIGA D10 — WORLD CC0-036 APPROVED",
+          "path": "images/story/valentine/world-vss-cc0-giga-port-service-city.webp",
+          "filename": "world-vss-cc0-giga-port-service-city.webp",
+          "imageSha256": "1b9c015fefd0a35e9a2f7b2bed852502034019249b59ce81cc4ac000a3c8d777",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-giga-port-service-city.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0016",
+      "type": "paragraph",
+      "text": "Từ khu dịch vụ, Valentine và Mai đi theo bảng hướng dẫn tới nhà ga trung chuyển nội vùng. Nơi này khác những cảng hạm đội cô đã nhìn thấy lúc mới tới: không có chiến hạm đang thay giáp hay đội kỹ thuật chạy giữa các ụ neo. Qua những ô kính lớn là các tàu chở khách, khoang hành lý tự động và những gia đình xếp hàng theo chuyến. Nhân viên kiểm tra giấy phép di chuyển, giúp hành khách tìm đúng cổng và ưu tiên người cần hỗ trợ y tế."
+    },
+    {
+      "blockId": "b0017",
+      "type": "paragraph",
+      "text": "Khi Valentine đưa mã hành trình của mình, một nữ nhân viên nhìn lại lịch đã được cấp."
+    },
+    {
+      "blockId": "b0018",
+      "type": "paragraph",
+      "text": "“Chuyến đến NewHorizon. Cô đã được xếp cùng nhóm cư dân Elysia. Xin mời đi theo lối này.”"
+    },
+    {
+      "blockId": "b0019",
+      "type": "paragraph",
+      "text": "Trên tàu, các ghế được bố trí thành từng cụm để gia đình có thể ngồi cùng nhau. Một người mẹ bế đứa con đang ngủ; hai người đàn ông lớn tuổi bàn xem ở NewHorizon có nơi nào sửa lại những dụng cụ họ từng dùng ở Elysia. Vài đứa trẻ hỏi nhau có được đến trường ngay không. Lần đầu sau thảm họa, câu chuyện trong khoang không chỉ xoay quanh ai còn sống."
+    },
+    {
+      "blockId": "b0020",
+      "type": "paragraph",
+      "text": "Tàu rời GIGA theo tuyến vận tải nội vùng đã được kiểm soát. Những vành đai công trình của Defender 10 lùi lại; các trạm phòng thủ, đoàn tàu hàng và những điểm sáng của lực lượng tuần tra lần lượt trôi qua cửa sổ. Đây không phải hành trình HyperSpeed liên sao ba ngày như chuyến sơ tán. Họ đang di chuyển sâu vào vùng thủ phủ bằng mạng giao thông dân sự của Liên Minh, theo lộ trình và tốc độ do điều phối giao thông cấp phép."
+    },
+    {
+      "blockId": "b0021",
+      "type": "paragraph",
+      "text": "Màn hình hướng dẫn giới thiệu rằng **D3** là một vành đai gần hành tinh thủ phủ hơn nhiều so với D10. Ở đây tập trung các khu dân cư lớn, trường học, bệnh viện, cơ sở thương mại và mạng vận tải cho những người sinh sống, làm việc mỗi ngày. Những con số kỹ thuật được đặt nhỏ ở góc; ở giữa là tên thành phố và bản đồ các điểm dừng mà hành khách thực sự cần biết."
+    },
+    {
+      "blockId": "b0022",
+      "type": "paragraph",
+      "text": "Một cậu bé áp mặt vào cửa kính, chỉ về phía hành tinh xanh lam đang lớn dần ở xa."
+    },
+    {
+      "blockId": "b0023",
+      "type": "paragraph",
+      "text": "“Mẹ ơi, có phải nhà mới của mình ở dưới đó không?”"
+    },
+    {
+      "blockId": "b0024",
+      "type": "paragraph",
+      "text": "“Chưa, con. Thành phố của mình ở trên quỹ đạo. Nhưng lần này gần hành tinh hơn rồi.”"
+    },
+    {
+      "blockId": "b0025",
+      "type": "paragraph",
+      "text": "Valentine lặng lẽ nghe. Elysia từng là cả thế giới của họ. Giờ đây, ngay cả câu hỏi nhà mình nằm ở đâu cũng phải học lại từ đầu."
+    },
+    {
+      "blockId": "b0026",
+      "type": "paragraph",
+      "text": "Khi thành phố NewHorizon xuất hiện ở phía trước, một vòng đô thị sáng lên dưới những mái kính kín khí. Không phải pháo đài tiền đồn như GIGA, NewHorizon có nhiều dãy nhà ở, khu vườn, tuyến tàu điện và những quảng trường mở nối tiếp nhau. Các bến tàu khách ở rìa thành phố dẫn vào mạng giao thông nội đô. Xa hơn, hành tinh thủ phủ hiện rõ như một lời nhắc rằng họ đã đi sâu vào vùng bình yên của Liên Minh."
+    },
+    {
+      "blockId": "b0027",
+      "type": "scene",
+      "sceneId": "val-ch03-image-02",
+      "sceneTitle": "NewHorizon — đô thị dân cư D3 (WORLD CC0-016 APPROVED)",
+      "caption": "NewHorizon — đô thị dân cư D3 (WORLD CC0-016 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-habitat-city",
+          "placement": "inline",
+          "caption": "NewHorizon — đô thị dân cư D3 (WORLD CC0-016 APPROVED)",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-habitat-city.webp",
+          "filename": "world-vss-cc0-new-horizon-habitat-city.webp",
+          "imageSha256": "6c8c900d85254740ba28985be922ede4bd910511c08e48dfbfe255b48fd0b181",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-habitat-city.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0028",
+      "type": "paragraph",
+      "text": "Mai cúi sát cửa kính."
+    },
+    {
+      "blockId": "b0029",
+      "type": "paragraph",
+      "text": "“Chị Valentine… ở đây cũng có cả một thành phố dưới mái vòm.”"
+    },
+    {
+      "blockId": "b0030",
+      "type": "paragraph",
+      "text": "“Ừ,” Valentine đáp. “Nhưng lần này, người ta không đưa mình đến để chờ đi tiếp nữa.”"
+    },
+    {
+      "blockId": "b0031",
+      "type": "heading",
+      "level": 2,
+      "text": "03. Một địa chỉ mới"
+    },
+    {
+      "blockId": "b0032",
+      "type": "paragraph",
+      "text": "Khi đoàn tàu cập bến, Valentine bước xuống cùng dòng hành khách, kéo chiếc vali bạc qua hành lang sáng rộng. Một bảng chào mừng hiển thị hình ảnh công viên, các tuyến giao thông và dòng chữ **WELCOME TO NEW HORIZON CITY — A NEW BEGINNING**. Người ta không đặt mã hồ sơ hay tên vành đai dài dòng lên bảng chào khách; các chỉ dẫn cần thiết được ghi ở quầy tiếp nhận và vé hành trình."
+    },
+    {
+      "blockId": "b0033",
+      "type": "scene",
+      "sceneId": "val-ch03-image-03",
+      "sceneTitle": "Valentine tới nhà ga NewHorizon (ARTWORK CH03-01 APPROVED)",
+      "caption": "Valentine tới nhà ga NewHorizon (ARTWORK CH03-01 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "valentine-ch03-newhorizon-arrival-01",
+          "placement": "inline",
+          "caption": "Valentine tới nhà ga NewHorizon (ARTWORK CH03-01 APPROVED)",
+          "path": "images/story/valentine/valentine-ch03-newhorizon-arrival-01.webp",
+          "filename": "valentine-ch03-newhorizon-arrival-01.webp",
+          "imageSha256": "24606f43c70491e64425e6ffff8323469fb18b19e0a250088175147facdcf307",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch03-newhorizon-arrival-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0034",
+      "type": "paragraph",
+      "text": "Cô ngước nhìn lên khoảng mái kính vươn cao, phía sau là những ban công phủ cây xanh và các tầng tàu điện bắc ngang giữa những khối nhà trắng bạc. Âm thanh ở đây hoàn toàn khác cảng cấp cứu: tiếng vali lăn, tiếng gọi nhau của gia đình, bản thông báo đoàn tàu đến và tiếng nhạc phát rất khẽ từ một cửa hàng ven sảnh."
+    },
+    {
+      "blockId": "b0035",
+      "type": "paragraph",
+      "text": "Một nữ nhân viên của trung tâm hỗ trợ tái định cư đón nhóm Elysia, giới thiệu mình và đưa họ tới khu xác nhận nơi ở. Valentine để ý cách nhân viên kiểm tra tên với từng người thay vì chỉ đọc mã số. Một cụ ông không nghe rõ được hướng dẫn, cô nhân viên liền nói chậm lại và gọi người hỗ trợ, không bỏ mặc ông trước màn hình."
+    },
+    {
+      "blockId": "b0036",
+      "type": "paragraph",
+      "text": "Tại quầy, Valentine xác nhận danh tính, nhận giấy phép cư trú tại NewHorizon và địa chỉ căn hộ được phân bổ. Cô cũng nhận lịch hẹn với cơ sở y tế địa phương để cập nhật hồ sơ sức khỏe. Giấy phép chỉ xác nhận nơi cư trú đã được bố trí; các quyền hành nghề, học tập và điều chuyển công tác vẫn phải giải quyết qua những thủ tục riêng."
+    },
+    {
+      "blockId": "b0037",
+      "type": "paragraph",
+      "text": "“Phân khu Elysia nằm cách đây mấy trạm tàu điện?” cô hỏi."
+    },
+    {
+      "blockId": "b0038",
+      "type": "paragraph",
+      "text": "“Không xa,” người hướng dẫn đáp, chỉ lên bản đồ. “Các gia đình từ đoàn đầu đã chuyển đến. Ở đó có trường học, trạm y tế, trung tâm hỗ trợ việc làm, cửa hàng thực phẩm và một quảng trường cộng đồng. Cô đi tuyến nội đô này sẽ tới.”"
+    },
+    {
+      "blockId": "b0039",
+      "type": "paragraph",
+      "text": "“Cảm ơn chị.”"
+    },
+    {
+      "blockId": "b0040",
+      "type": "paragraph",
+      "text": "Nhân viên mỉm cười: “Chào mừng cô đến NewHorizon, bác sĩ Valentine.”"
+    },
+    {
+      "blockId": "b0041",
+      "type": "paragraph",
+      "text": "Hai chữ *chào mừng* khiến cô nhớ đến lời chào ở FarGate D12, rồi ở GIGA D10. Nhưng lần này, sau câu nói ấy là một chìa khóa cư trú, một số căn hộ và một khu phố nơi người ta đã chờ cô đến."
+    },
+    {
+      "blockId": "b0042",
+      "type": "heading",
+      "level": 2,
+      "text": "04. Elysia không chỉ còn trong ký ức"
+    },
+    {
+      "blockId": "b0043",
+      "type": "paragraph",
+      "text": "Tàu điện đưa Valentine và Mai đi qua những khu dân cư bao quanh bởi vườn cây, sân thể thao và lối dạo bộ. Có người chạy thể dục, người đi làm, người đẩy xe cho trẻ nhỏ. Trên các bức tường là bảng chỉ dẫn tới thư viện, trường học và trung tâm cộng đồng, chứ không phải lệnh sơ tán hay chỉ thị phòng thủ."
+    },
+    {
+      "blockId": "b0044",
+      "type": "scene",
+      "sceneId": "val-ch03-image-04",
+      "sceneTitle": "Vườn và khu dân cư NewHorizon (WORLD CC0-017 APPROVED)",
+      "caption": "Vườn và khu dân cư NewHorizon (WORLD CC0-017 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-residential-gardens",
+          "placement": "inline",
+          "caption": "Vườn và khu dân cư NewHorizon (WORLD CC0-017 APPROVED)",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-residential-gardens.webp",
+          "filename": "world-vss-cc0-new-horizon-residential-gardens.webp",
+          "imageSha256": "6821b5635a10bfb8e470e6956912da13807410481248af847365ef8a3b4d1603",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-residential-gardens.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0045",
+      "type": "paragraph",
+      "text": "Đến phân khu được dành cho người Elysia, Valentine nhận ra những gương mặt quen trước khi kịp đọc tên trên bảng hướng dẫn. Một người thợ cơ khí từng phụ sửa máy thở ở MED-04 đang đẩy xe đồ dùng tới căn hộ mới. Hai chị em mà cô đã chăm sóc ở khoang y tế đứng chờ trước quầy đăng ký trường học. Một gia đình vừa nhận chìa khóa phòng đang chia nhau những chiếc túi cuối cùng."
+    },
+    {
+      "blockId": "b0046",
+      "type": "paragraph",
+      "text": "“Bác sĩ Valentine!”"
+    },
+    {
+      "blockId": "b0047",
+      "type": "paragraph",
+      "text": "Một bé gái chạy về phía cô rồi chững lại, như sợ mình nhận nhầm người. Valentine cúi xuống, nắm lấy hai bàn tay nhỏ. Người mẹ đi theo phía sau, cùng một người đàn ông lớn tuổi vừa đặt vali xuống."
+    },
+    {
+      "blockId": "b0048",
+      "type": "scene",
+      "sceneId": "val-ch03-image-05",
+      "sceneTitle": "Valentine gặp lại người Elysia ở khu tái định cư (ARTWORK CH03-02 APPROVED)",
+      "caption": "Valentine gặp lại người Elysia ở khu tái định cư (ARTWORK CH03-02 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "valentine-ch03-elysia-community-01",
+          "placement": "inline",
+          "caption": "Valentine gặp lại người Elysia ở khu tái định cư (ARTWORK CH03-02 APPROVED)",
+          "path": "images/story/valentine/valentine-ch03-elysia-community-01.webp",
+          "filename": "valentine-ch03-elysia-community-01.webp",
+          "imageSha256": "587bf80788a288484a590e3979b45c15ea81c829ad937b428dc20b4bdd855542",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch03-elysia-community-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0049",
+      "type": "paragraph",
+      "text": "“Cháu khỏe rồi à?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0050",
+      "type": "paragraph",
+      "text": "Bé gật đầu thật mạnh. “Cháu được đi học lại rồi. Mẹ bảo ở đây có lớp mới, có sân chơi nữa.”"
+    },
+    {
+      "blockId": "b0051",
+      "type": "paragraph",
+      "text": "“Thế thì tốt quá.”"
+    },
+    {
+      "blockId": "b0052",
+      "type": "paragraph",
+      "text": "Người mẹ nắm tay cô, giọng hơi run: “Hồi ở trên tàu, tôi chỉ mong con bé qua khỏi. Không ngờ lại có ngày chúng tôi đứng đây để hỏi trường học ở đâu.”"
+    },
+    {
+      "blockId": "b0053",
+      "type": "paragraph",
+      "text": "Valentine muốn nói một điều gì thật đẹp đẽ, nhưng rồi cô chỉ đáp: “Tôi cũng mừng vì gặp lại mọi người.”"
+    },
+    {
+      "blockId": "b0054",
+      "type": "paragraph",
+      "text": "Chung quanh họ, cuộc sống mới vẫn còn lộn xộn. Có người vui vì được đoàn tụ; có người ngồi lặng bên hành lý vì người thân chưa được tìm thấy. Những căn hộ sạch sẽ không thể thay thế ngôi nhà đã mất tại Elysia, càng không thể làm biến mất những khoảng trống trong mỗi gia đình."
+    },
+    {
+      "blockId": "b0055",
+      "type": "paragraph",
+      "text": "Một buổi gặp mặt nhỏ được tổ chức ở quảng trường của phân khu. Đại diện hỗ trợ cộng đồng giải thích các thủ tục cần làm trong tuần đầu: xác nhận nơi ở, khám sức khỏe tiếp nối, đăng ký học cho trẻ, nhận tư vấn việc làm và hỗ trợ tài chính theo hồ sơ đã xét. Các nhóm dân cư có thể đề xuất hoạt động sinh hoạt chung; việc mở cửa hàng hay hành nghề phải theo quy định của NewHorizon, không tự nhiên có quyền chỉ vì từng làm nghề đó ở Elysia."
+    },
+    {
+      "blockId": "b0056",
+      "type": "paragraph",
+      "text": "Valentine thấy người thợ cơ khí xung phong giúp lắp các thiết bị sinh hoạt ở phòng sinh hoạt cộng đồng. Một giáo viên nhận hướng dẫn đăng ký chứng chỉ giảng dạy tương ứng. Những người quen từng sống cạnh nhau ở Elysia bắt đầu ghi tên để tổ chức bữa ăn chung cuối tuần."
+    },
+    {
+      "blockId": "b0057",
+      "type": "paragraph",
+      "text": "Elysia không thể được dựng lại bằng vài tòa nhà mới. Nhưng Valentine hiểu rằng quê hương còn nằm trong cách những con người này gọi tên nhau, nhớ nhau và giúp nhau đứng dậy."
+    },
+    {
+      "blockId": "b0058",
+      "type": "heading",
+      "level": 2,
+      "text": "05. Bình minh chưa đến trong một ngày"
+    },
+    {
+      "blockId": "b0059",
+      "type": "paragraph",
+      "text": "Buổi chiều, một nhân viên hỗ trợ đưa Valentine tới xem căn hộ đã phân cho cô. Nó không lớn, nhưng có cửa sổ nhìn ra một con đường phủ bóng cây; bên dưới là cửa hàng thực phẩm, phòng khám và một trạm tàu điện. Cô đặt vali cạnh giường, mở cửa sổ giả lập điều hòa không khí để nghe tiếng người ngoài phố vọng lên qua hệ thống thông gió, rồi đứng im một lúc."
+    },
+    {
+      "blockId": "b0060",
+      "type": "paragraph",
+      "text": "Không có còi báo động. Không có giọng yêu cầu sơ tán. Chỉ có những cuộc trò chuyện, tiếng trẻ em và âm thanh của một thành phố đang sống."
+    },
+    {
+      "blockId": "b0061",
+      "type": "paragraph",
+      "text": "Cô nhớ lại lời bác sĩ tư vấn ở Lumina về Học viện Quốc gia VSS. Hồ sơ xin xét tuyển vẫn đang được xử lý; chưa có quyết định trúng tuyển. Địa chỉ liên hệ đã được cập nhật tại NewHorizon, và một cơ sở hỗ trợ nghề nghiệp địa phương đã nhận lịch tư vấn của cô. Nếu muốn làm việc ở bệnh viện, Valentine cần hoàn tất việc đối chiếu chứng chỉ và được cơ sở tuyển dụng chấp thuận. Không ai tự động trao cho cô một chức vụ chỉ vì chiến dịch Elysia."
+    },
+    {
+      "blockId": "b0062",
+      "type": "paragraph",
+      "text": "Tối đó, Mai rủ cô đến khu văn hóa trung tâm. Valentine vốn định ở nhà, nhưng cuối cùng vẫn đi. Tại quảng trường, một buổi biểu diễn nhỏ đang diễn ra. Người dân đứng xem, trò chuyện, trẻ em ăn bánh và những nhóm bạn hẹn nhau bên các quán nước. Các sân khấu dùng hologram rất đẹp, nhưng âm nhạc được trình diễn trực tiếp; ánh mắt và tiếng vỗ tay của khán giả mới làm nơi ấy có sức sống."
+    },
+    {
+      "blockId": "b0063",
+      "type": "scene",
+      "sceneId": "val-ch03-image-06",
+      "sceneTitle": "Khu văn hóa cộng đồng NewHorizon (WORLD CC0-018 APPROVED)",
+      "caption": "Khu văn hóa cộng đồng NewHorizon (WORLD CC0-018 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-cultural-district",
+          "placement": "inline",
+          "caption": "Khu văn hóa cộng đồng NewHorizon (WORLD CC0-018 APPROVED)",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-cultural-district.webp",
+          "filename": "world-vss-cc0-new-horizon-cultural-district.webp",
+          "imageSha256": "d319d2aeb022fe7a2e1bef88fc4436cebc3c50c335575ae1e4da14a0c869d60c",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-cultural-district.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0064",
+      "type": "paragraph",
+      "text": "Valentine và Mai dừng lại ở rìa quảng trường, nhường lối cho một nhóm trẻ chạy về phía người thân. Trên sân khấu, người nghệ sĩ cúi chào sau bản nhạc cuối; đám đông vỗ tay, rồi thong thả tản ra các con đường có mái che và những quán ăn còn sáng đèn. Một gia đình Elysia đứng gần đó nhận ra Mai, vẫy tay chào. Họ kể đã tìm được lớp học cho con, nhưng người cha vẫn đang chờ buổi tư vấn nghề nghiệp đầu tiên. Mai hỏi thăm vài câu, không cố biến những khó khăn ấy thành chuyện đã giải quyết xong."
+    },
+    {
+      "blockId": "b0065",
+      "type": "paragraph",
+      "text": "Hai người đi tiếp theo lối dạo trên cao. Đường lên sân hiên len giữa những bồn hoa, nhìn xuống sân khấu vừa rời khỏi. Từ đây, Valentine mới thấy những đoàn tàu nội đô nối các khu nhà ở với quảng trường và trung tâm văn hóa, cùng những ánh đèn nhỏ trên từng ban công. Thành phố không im lặng sau buổi biểu diễn; chỉ đổi sang một nhịp chậm hơn. Mai chọn một chiếc bàn cạnh lan can, gọi hai ly nước ấm. Valentine ngồi xuống, tháo dây túi khỏi vai. Cô nhận ra đã rất lâu rồi mình mới ngồi ở nơi đông người mà không cần để mắt tới cửa thoát hiểm."
+    },
+    {
+      "blockId": "b0066",
+      "type": "scene",
+      "sceneId": "val-ch03-image-07",
+      "sceneTitle": "Sân hiên giải trí NewHorizon (WORLD CC0-019 APPROVED)",
+      "caption": "Sân hiên giải trí NewHorizon (WORLD CC0-019 APPROVED)",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-entertainment-terrace",
+          "placement": "inline",
+          "caption": "Sân hiên giải trí NewHorizon (WORLD CC0-019 APPROVED)",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-entertainment-terrace.webp",
+          "filename": "world-vss-cc0-new-horizon-entertainment-terrace.webp",
+          "imageSha256": "e3a1e22e8f6f1b1d3727b43203267fd89cfd64770adb643b6ebebd55aca48d68",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-entertainment-terrace.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0067",
+      "type": "paragraph",
+      "text": "“Chị nghĩ mình sẽ quen với nơi này chứ?” Mai hỏi."
+    },
+    {
+      "blockId": "b0068",
+      "type": "paragraph",
+      "text": "Valentine nhìn những chùm hoa trên lan can, rồi nhìn xuống quảng trường nơi nhiều người đang cười nói."
+    },
+    {
+      "blockId": "b0069",
+      "type": "paragraph",
+      "text": "“Chắc sẽ cần thời gian.”"
+    },
+    {
+      "blockId": "b0070",
+      "type": "paragraph",
+      "text": "“Em cứ tưởng đến đây là tự nhiên mọi thứ sẽ tốt lên.”"
+    },
+    {
+      "blockId": "b0071",
+      "type": "paragraph",
+      "text": "“Có lẽ mọi thứ không tốt lên cùng một lúc,” Valentine đáp. “Nhưng hôm nay mình có thể bắt đầu từ những việc nhỏ.”"
+    },
+    {
+      "blockId": "b0072",
+      "type": "paragraph",
+      "text": "Một thông báo từ trung tâm tìm kiếm người mất liên lạc vừa chuyển tới tài khoản của cô: hồ sơ đã được kết nối với địa chỉ cư trú mới, vẫn chưa có kết quả xác minh mới. Valentine đọc xong, lưu lại. Cô chưa nhận được tin về những người ở khu số sáu, cũng chưa biết điều gì đã xảy ra với Alexander Shilva. Cô không muốn ai gọi những cái tên ấy bằng một kết luận chưa có bằng chứng."
+    },
+    {
+      "blockId": "b0073",
+      "type": "paragraph",
+      "text": "Sau buổi biểu diễn, cô đi bộ về nhà. Trên con đường qua khu vườn, các gia đình Elysia đang bàn việc cùng nhau tổ chức một bữa ăn vào cuối tuần, mỗi người góp một món từng nấu ở quê. Có người hỏi Valentine có đến không. Cô hứa sẽ ghé."
+    },
+    {
+      "blockId": "b0074",
+      "type": "paragraph",
+      "text": "Trong phòng, cô đặt chiếc thẻ cư trú mới bên cạnh tấm ảnh cũ mang theo từ Elysia. Phía ngoài cửa sổ, đèn của NewHorizon sáng lên từng tầng, còn xa hơn là màu xanh của hành tinh thủ phủ."
+    },
+    {
+      "blockId": "b0075",
+      "type": "paragraph",
+      "text": "Cô không gọi nơi này là Elysia. Sẽ không bao giờ có một Elysia thứ hai hoàn toàn giống trước kia."
+    },
+    {
+      "blockId": "b0076",
+      "type": "paragraph",
+      "text": "Nhưng ở NewHorizon, những người sống sót đã có chỗ để ở cạnh nhau, có công việc cần tìm, có những đứa trẻ chuẩn bị đến lớp và có một ngày mai để chờ đợi."
+    },
+    {
+      "blockId": "b0077",
+      "type": "paragraph",
+      "text": "Valentine khẽ đặt tay lên thẻ cư trú. Ngày mai, cô sẽ đến cuộc hẹn tư vấn chuyên môn; ngày mai nữa, cô sẽ hỏi lại về những đồng đội mất tích. Còn tối nay, cô cho phép mình ngủ một giấc không phải trong khoang cấp cứu."
+    },
+    {
+      "blockId": "b0078",
+      "type": "paragraph",
+      "text": "Một bình minh mới không xóa đi đêm tối cũ."
+    },
+    {
+      "blockId": "b0079",
+      "type": "paragraph",
+      "text": "Nó chỉ cho con người một lý do để bước tiếp."
+    },
+    {
+      "blockId": "b0080",
+      "type": "paragraph",
+      "text": "**— HẾT CHƯƠNG 03: NEW HORIZON — NƠI BÌNH MINH TRỞ LẠI —**"
+    },
+    {
+      "blockId": "b0081",
+      "type": "paragraph",
+      "text": "---"
+    }
+  ],
+  "content": "01. Ngày rời Lumina\n\nBuổi sáng cuối cùng tại Lumina bắt đầu bằng một cơn mưa rất nhẹ.\n\nMưa không rơi từ bầu trời vũ trụ. Nó được tạo ra trong một khu vườn dưới mái vòm kính của thành phố, như một phần chu trình chăm sóc cây xanh. Từ cửa sổ phòng lưu trú, Valentine nhìn những giọt nước lăn xuống mặt lá, rồi ngước về phía khoảng tối thăm thẳm bên ngoài lớp kính chịu áp suất. Chỉ cách nhau một lớp công trình, một bên là khu vườn yên bình, bên kia là chân không của vành đai phòng thủ D10.\n\nCô đã ở đây đủ lâu để không còn giật mình mỗi khi hành lang phát tiếng thông báo. Những ca trực hỗ trợ người sơ tán của cô cũng đã kết thúc theo lịch phân công. Tình trạng sức khỏe được xác nhận đủ điều kiện đi tàu dân sự; hồ sơ chuyển cư trú của cô hiện rõ ngày khởi hành do Ban điều phối tái định cư phê duyệt. Không có tấm vé nào cho phép cô tùy ý đổi điểm đến: như phần lớn người sống sót từ Elysia, Valentine được đưa về **NewHorizon**, thành phố dân cư tại vành đai D3, nơi chính quyền đã dành một phân khu cho cộng đồng của họ.\n\nTrong những ngày vừa qua, nhiều gia đình đã đi trước. Người cao tuổi và bệnh nhân cần theo dõi thêm được xếp lịch sau, hoặc tiếp tục điều trị theo quyết định y tế. Valentine đã xin đi cùng một trong các đoàn chuyển cư dân muộn để hỗ trợ khi được phân công. Hôm nay, đến lượt cô.\n\nTrước khi rời phòng, Valentine mở thông báo từ trung tâm tìm kiếm người mất liên lạc. Hồ sơ của các đồng đội ở khu số sáu vẫn ghi **CHƯA CÓ THÔNG TIN XÁC MINH MỚI**. Cô đọc lại một lần, xác nhận địa chỉ liên lạc mới tại NewHorizon rồi đóng màn hình. Không có phép màu nào xuất hiện trong đêm. Nhưng hồ sơ vẫn được tìm kiếm, và cô sẽ không để nó mất dấu chỉ vì mình đổi nơi ở.\n\nỞ cửa phòng, điều dưỡng Mai đứng đợi với hai chiếc túi nhỏ.\n\n“Em đã bàn giao xong hết chưa?” Valentine hỏi.\n\n“Xong rồi chị. Người bên NewHorizon đã xác nhận đội y tế tiếp nhận đoàn mình. Còn chị?”\n\n“Chị còn một lời cảm ơn.”\n\nCô ghé qua quầy nhân viên, chào những bác sĩ đã tiếp nhận bệnh nhân từ R-17, cảm ơn đội cứu trợ từng giúp một cụ ông tìm người thân và người hướng dẫn kiên nhẫn giải thích các thủ tục mới. Họ không hứa cuộc sống phía trước sẽ dễ dàng. Họ chỉ chúc cô có đủ thời gian để bắt đầu lại.\n\nTrên chuyến shuttle đi đến cảng nội vùng, thành phố Lumina lùi dần sau những hàng cây. Valentine nhớ lần đầu mình đến đây: một bác sĩ kiệt sức, vẫn giữ tay trên túi thuốc cấp cứu, tưởng rằng mọi nơi xa Elysia đều chỉ là chỗ tạm lánh. Bây giờ cô rời đi với một chiếc vali, một bộ váy trắng đã mua bằng khoản hỗ trợ sinh hoạt đầu tiên, và một địa chỉ cư trú thật sự đang chờ ở phía trước.\n\n02. Chuyến tàu về phía hành tinh\n\nShuttle đưa họ đến khu dịch vụ cảng thuộc GIGA. Valentine nhìn qua những tầng hành lang thương mại sáng đèn, các quầy ăn uống mở cửa từ sớm và những gia đình kéo vali đi ngang qua quầy hướng dẫn. Sau mái kính kín áp suất, các tàu vận tải vẫn ra vào giữa nền sao thăm thẳm. Cô từng chỉ biết GIGA qua tiếng còi cấp cứu và những cầu cảng tiếp nhận bệnh nhân; hôm nay cô mới có dịp thấy một nhịp sống khác của quần thể ấy: hành khách trở về nhà, người đi công tác, nhân viên phục vụ và những cuộc chia tay bình thường.\n\nTừ khu dịch vụ, Valentine và Mai đi theo bảng hướng dẫn tới nhà ga trung chuyển nội vùng. Nơi này khác những cảng hạm đội cô đã nhìn thấy lúc mới tới: không có chiến hạm đang thay giáp hay đội kỹ thuật chạy giữa các ụ neo. Qua những ô kính lớn là các tàu chở khách, khoang hành lý tự động và những gia đình xếp hàng theo chuyến. Nhân viên kiểm tra giấy phép di chuyển, giúp hành khách tìm đúng cổng và ưu tiên người cần hỗ trợ y tế.\n\nKhi Valentine đưa mã hành trình của mình, một nữ nhân viên nhìn lại lịch đã được cấp.\n\n“Chuyến đến NewHorizon. Cô đã được xếp cùng nhóm cư dân Elysia. Xin mời đi theo lối này.”\n\nTrên tàu, các ghế được bố trí thành từng cụm để gia đình có thể ngồi cùng nhau. Một người mẹ bế đứa con đang ngủ; hai người đàn ông lớn tuổi bàn xem ở NewHorizon có nơi nào sửa lại những dụng cụ họ từng dùng ở Elysia. Vài đứa trẻ hỏi nhau có được đến trường ngay không. Lần đầu sau thảm họa, câu chuyện trong khoang không chỉ xoay quanh ai còn sống.\n\nTàu rời GIGA theo tuyến vận tải nội vùng đã được kiểm soát. Những vành đai công trình của Defender 10 lùi lại; các trạm phòng thủ, đoàn tàu hàng và những điểm sáng của lực lượng tuần tra lần lượt trôi qua cửa sổ. Đây không phải hành trình HyperSpeed liên sao ba ngày như chuyến sơ tán. Họ đang di chuyển sâu vào vùng thủ phủ bằng mạng giao thông dân sự của Liên Minh, theo lộ trình và tốc độ do điều phối giao thông cấp phép.\n\nMàn hình hướng dẫn giới thiệu rằng **D3** là một vành đai gần hành tinh thủ phủ hơn nhiều so với D10. Ở đây tập trung các khu dân cư lớn, trường học, bệnh viện, cơ sở thương mại và mạng vận tải cho những người sinh sống, làm việc mỗi ngày. Những con số kỹ thuật được đặt nhỏ ở góc; ở giữa là tên thành phố và bản đồ các điểm dừng mà hành khách thực sự cần biết.\n\nMột cậu bé áp mặt vào cửa kính, chỉ về phía hành tinh xanh lam đang lớn dần ở xa.\n\n“Mẹ ơi, có phải nhà mới của mình ở dưới đó không?”\n\n“Chưa, con. Thành phố của mình ở trên quỹ đạo. Nhưng lần này gần hành tinh hơn rồi.”\n\nValentine lặng lẽ nghe. Elysia từng là cả thế giới của họ. Giờ đây, ngay cả câu hỏi nhà mình nằm ở đâu cũng phải học lại từ đầu.\n\nKhi thành phố NewHorizon xuất hiện ở phía trước, một vòng đô thị sáng lên dưới những mái kính kín khí. Không phải pháo đài tiền đồn như GIGA, NewHorizon có nhiều dãy nhà ở, khu vườn, tuyến tàu điện và những quảng trường mở nối tiếp nhau. Các bến tàu khách ở rìa thành phố dẫn vào mạng giao thông nội đô. Xa hơn, hành tinh thủ phủ hiện rõ như một lời nhắc rằng họ đã đi sâu vào vùng bình yên của Liên Minh.\n\nMai cúi sát cửa kính.\n\n“Chị Valentine… ở đây cũng có cả một thành phố dưới mái vòm.”\n\n“Ừ,” Valentine đáp. “Nhưng lần này, người ta không đưa mình đến để chờ đi tiếp nữa.”\n\n03. Một địa chỉ mới\n\nKhi đoàn tàu cập bến, Valentine bước xuống cùng dòng hành khách, kéo chiếc vali bạc qua hành lang sáng rộng. Một bảng chào mừng hiển thị hình ảnh công viên, các tuyến giao thông và dòng chữ **WELCOME TO NEW HORIZON CITY — A NEW BEGINNING**. Người ta không đặt mã hồ sơ hay tên vành đai dài dòng lên bảng chào khách; các chỉ dẫn cần thiết được ghi ở quầy tiếp nhận và vé hành trình.\n\nCô ngước nhìn lên khoảng mái kính vươn cao, phía sau là những ban công phủ cây xanh và các tầng tàu điện bắc ngang giữa những khối nhà trắng bạc. Âm thanh ở đây hoàn toàn khác cảng cấp cứu: tiếng vali lăn, tiếng gọi nhau của gia đình, bản thông báo đoàn tàu đến và tiếng nhạc phát rất khẽ từ một cửa hàng ven sảnh.\n\nMột nữ nhân viên của trung tâm hỗ trợ tái định cư đón nhóm Elysia, giới thiệu mình và đưa họ tới khu xác nhận nơi ở. Valentine để ý cách nhân viên kiểm tra tên với từng người thay vì chỉ đọc mã số. Một cụ ông không nghe rõ được hướng dẫn, cô nhân viên liền nói chậm lại và gọi người hỗ trợ, không bỏ mặc ông trước màn hình.\n\nTại quầy, Valentine xác nhận danh tính, nhận giấy phép cư trú tại NewHorizon và địa chỉ căn hộ được phân bổ. Cô cũng nhận lịch hẹn với cơ sở y tế địa phương để cập nhật hồ sơ sức khỏe. Giấy phép chỉ xác nhận nơi cư trú đã được bố trí; các quyền hành nghề, học tập và điều chuyển công tác vẫn phải giải quyết qua những thủ tục riêng.\n\n“Phân khu Elysia nằm cách đây mấy trạm tàu điện?” cô hỏi.\n\n“Không xa,” người hướng dẫn đáp, chỉ lên bản đồ. “Các gia đình từ đoàn đầu đã chuyển đến. Ở đó có trường học, trạm y tế, trung tâm hỗ trợ việc làm, cửa hàng thực phẩm và một quảng trường cộng đồng. Cô đi tuyến nội đô này sẽ tới.”\n\n“Cảm ơn chị.”\n\nNhân viên mỉm cười: “Chào mừng cô đến NewHorizon, bác sĩ Valentine.”\n\nHai chữ *chào mừng* khiến cô nhớ đến lời chào ở FarGate D12, rồi ở GIGA D10. Nhưng lần này, sau câu nói ấy là một chìa khóa cư trú, một số căn hộ và một khu phố nơi người ta đã chờ cô đến.\n\n04. Elysia không chỉ còn trong ký ức\n\nTàu điện đưa Valentine và Mai đi qua những khu dân cư bao quanh bởi vườn cây, sân thể thao và lối dạo bộ. Có người chạy thể dục, người đi làm, người đẩy xe cho trẻ nhỏ. Trên các bức tường là bảng chỉ dẫn tới thư viện, trường học và trung tâm cộng đồng, chứ không phải lệnh sơ tán hay chỉ thị phòng thủ.\n\nĐến phân khu được dành cho người Elysia, Valentine nhận ra những gương mặt quen trước khi kịp đọc tên trên bảng hướng dẫn. Một người thợ cơ khí từng phụ sửa máy thở ở MED-04 đang đẩy xe đồ dùng tới căn hộ mới. Hai chị em mà cô đã chăm sóc ở khoang y tế đứng chờ trước quầy đăng ký trường học. Một gia đình vừa nhận chìa khóa phòng đang chia nhau những chiếc túi cuối cùng.\n\n“Bác sĩ Valentine!”\n\nMột bé gái chạy về phía cô rồi chững lại, như sợ mình nhận nhầm người. Valentine cúi xuống, nắm lấy hai bàn tay nhỏ. Người mẹ đi theo phía sau, cùng một người đàn ông lớn tuổi vừa đặt vali xuống.\n\n“Cháu khỏe rồi à?” Valentine hỏi.\n\nBé gật đầu thật mạnh. “Cháu được đi học lại rồi. Mẹ bảo ở đây có lớp mới, có sân chơi nữa.”\n\n“Thế thì tốt quá.”\n\nNgười mẹ nắm tay cô, giọng hơi run: “Hồi ở trên tàu, tôi chỉ mong con bé qua khỏi. Không ngờ lại có ngày chúng tôi đứng đây để hỏi trường học ở đâu.”\n\nValentine muốn nói một điều gì thật đẹp đẽ, nhưng rồi cô chỉ đáp: “Tôi cũng mừng vì gặp lại mọi người.”\n\nChung quanh họ, cuộc sống mới vẫn còn lộn xộn. Có người vui vì được đoàn tụ; có người ngồi lặng bên hành lý vì người thân chưa được tìm thấy. Những căn hộ sạch sẽ không thể thay thế ngôi nhà đã mất tại Elysia, càng không thể làm biến mất những khoảng trống trong mỗi gia đình.\n\nMột buổi gặp mặt nhỏ được tổ chức ở quảng trường của phân khu. Đại diện hỗ trợ cộng đồng giải thích các thủ tục cần làm trong tuần đầu: xác nhận nơi ở, khám sức khỏe tiếp nối, đăng ký học cho trẻ, nhận tư vấn việc làm và hỗ trợ tài chính theo hồ sơ đã xét. Các nhóm dân cư có thể đề xuất hoạt động sinh hoạt chung; việc mở cửa hàng hay hành nghề phải theo quy định của NewHorizon, không tự nhiên có quyền chỉ vì từng làm nghề đó ở Elysia.\n\nValentine thấy người thợ cơ khí xung phong giúp lắp các thiết bị sinh hoạt ở phòng sinh hoạt cộng đồng. Một giáo viên nhận hướng dẫn đăng ký chứng chỉ giảng dạy tương ứng. Những người quen từng sống cạnh nhau ở Elysia bắt đầu ghi tên để tổ chức bữa ăn chung cuối tuần.\n\nElysia không thể được dựng lại bằng vài tòa nhà mới. Nhưng Valentine hiểu rằng quê hương còn nằm trong cách những con người này gọi tên nhau, nhớ nhau và giúp nhau đứng dậy.\n\n05. Bình minh chưa đến trong một ngày\n\nBuổi chiều, một nhân viên hỗ trợ đưa Valentine tới xem căn hộ đã phân cho cô. Nó không lớn, nhưng có cửa sổ nhìn ra một con đường phủ bóng cây; bên dưới là cửa hàng thực phẩm, phòng khám và một trạm tàu điện. Cô đặt vali cạnh giường, mở cửa sổ giả lập điều hòa không khí để nghe tiếng người ngoài phố vọng lên qua hệ thống thông gió, rồi đứng im một lúc.\n\nKhông có còi báo động. Không có giọng yêu cầu sơ tán. Chỉ có những cuộc trò chuyện, tiếng trẻ em và âm thanh của một thành phố đang sống.\n\nCô nhớ lại lời bác sĩ tư vấn ở Lumina về Học viện Quốc gia VSS. Hồ sơ xin xét tuyển vẫn đang được xử lý; chưa có quyết định trúng tuyển. Địa chỉ liên hệ đã được cập nhật tại NewHorizon, và một cơ sở hỗ trợ nghề nghiệp địa phương đã nhận lịch tư vấn của cô. Nếu muốn làm việc ở bệnh viện, Valentine cần hoàn tất việc đối chiếu chứng chỉ và được cơ sở tuyển dụng chấp thuận. Không ai tự động trao cho cô một chức vụ chỉ vì chiến dịch Elysia.\n\nTối đó, Mai rủ cô đến khu văn hóa trung tâm. Valentine vốn định ở nhà, nhưng cuối cùng vẫn đi. Tại quảng trường, một buổi biểu diễn nhỏ đang diễn ra. Người dân đứng xem, trò chuyện, trẻ em ăn bánh và những nhóm bạn hẹn nhau bên các quán nước. Các sân khấu dùng hologram rất đẹp, nhưng âm nhạc được trình diễn trực tiếp; ánh mắt và tiếng vỗ tay của khán giả mới làm nơi ấy có sức sống.\n\nValentine và Mai dừng lại ở rìa quảng trường, nhường lối cho một nhóm trẻ chạy về phía người thân. Trên sân khấu, người nghệ sĩ cúi chào sau bản nhạc cuối; đám đông vỗ tay, rồi thong thả tản ra các con đường có mái che và những quán ăn còn sáng đèn. Một gia đình Elysia đứng gần đó nhận ra Mai, vẫy tay chào. Họ kể đã tìm được lớp học cho con, nhưng người cha vẫn đang chờ buổi tư vấn nghề nghiệp đầu tiên. Mai hỏi thăm vài câu, không cố biến những khó khăn ấy thành chuyện đã giải quyết xong.\n\nHai người đi tiếp theo lối dạo trên cao. Đường lên sân hiên len giữa những bồn hoa, nhìn xuống sân khấu vừa rời khỏi. Từ đây, Valentine mới thấy những đoàn tàu nội đô nối các khu nhà ở với quảng trường và trung tâm văn hóa, cùng những ánh đèn nhỏ trên từng ban công. Thành phố không im lặng sau buổi biểu diễn; chỉ đổi sang một nhịp chậm hơn. Mai chọn một chiếc bàn cạnh lan can, gọi hai ly nước ấm. Valentine ngồi xuống, tháo dây túi khỏi vai. Cô nhận ra đã rất lâu rồi mình mới ngồi ở nơi đông người mà không cần để mắt tới cửa thoát hiểm.\n\n“Chị nghĩ mình sẽ quen với nơi này chứ?” Mai hỏi.\n\nValentine nhìn những chùm hoa trên lan can, rồi nhìn xuống quảng trường nơi nhiều người đang cười nói.\n\n“Chắc sẽ cần thời gian.”\n\n“Em cứ tưởng đến đây là tự nhiên mọi thứ sẽ tốt lên.”\n\n“Có lẽ mọi thứ không tốt lên cùng một lúc,” Valentine đáp. “Nhưng hôm nay mình có thể bắt đầu từ những việc nhỏ.”\n\nMột thông báo từ trung tâm tìm kiếm người mất liên lạc vừa chuyển tới tài khoản của cô: hồ sơ đã được kết nối với địa chỉ cư trú mới, vẫn chưa có kết quả xác minh mới. Valentine đọc xong, lưu lại. Cô chưa nhận được tin về những người ở khu số sáu, cũng chưa biết điều gì đã xảy ra với Alexander Shilva. Cô không muốn ai gọi những cái tên ấy bằng một kết luận chưa có bằng chứng.\n\nSau buổi biểu diễn, cô đi bộ về nhà. Trên con đường qua khu vườn, các gia đình Elysia đang bàn việc cùng nhau tổ chức một bữa ăn vào cuối tuần, mỗi người góp một món từng nấu ở quê. Có người hỏi Valentine có đến không. Cô hứa sẽ ghé.\n\nTrong phòng, cô đặt chiếc thẻ cư trú mới bên cạnh tấm ảnh cũ mang theo từ Elysia. Phía ngoài cửa sổ, đèn của NewHorizon sáng lên từng tầng, còn xa hơn là màu xanh của hành tinh thủ phủ.\n\nCô không gọi nơi này là Elysia. Sẽ không bao giờ có một Elysia thứ hai hoàn toàn giống trước kia.\n\nNhưng ở NewHorizon, những người sống sót đã có chỗ để ở cạnh nhau, có công việc cần tìm, có những đứa trẻ chuẩn bị đến lớp và có một ngày mai để chờ đợi.\n\nValentine khẽ đặt tay lên thẻ cư trú. Ngày mai, cô sẽ đến cuộc hẹn tư vấn chuyên môn; ngày mai nữa, cô sẽ hỏi lại về những đồng đội mất tích. Còn tối nay, cô cho phép mình ngủ một giấc không phải trong khoang cấp cứu.\n\nMột bình minh mới không xóa đi đêm tối cũ.\n\nNó chỉ cho con người một lý do để bước tiếp.\n\n**— HẾT CHƯƠNG 03: NEW HORIZON — NƠI BÌNH MINH TRỞ LẠI —**\n\n---",
+  "sha256": "01042be15b580e9b4ca4c1436cc1390b6f73b4f44f1dc8f496867633501fcad2"
+}

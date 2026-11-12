@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "starfront-story-manifest-preview-v1",
+  "pilotId": "valentine",
+  "pilotName": "Valentine",
+  "status": "PROVISIONAL_REVIEW_PUBLIC_PREVIEW",
+  "releaseDate": "2026-11-12",
+  "immutableCandidate": true,
+  "chapters": [
+    {
+      "chapterId": "chap-01",
+      "chapterNumber": 1,
+      "title": "Ánh Sáng Cuối Cùng Tại Elysia",
+      "revision": "16",
+      "editorialStatus": "PROVISIONAL",
+      "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+      "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+      "path": "chapter-01.json",
+      "artworkCount": 5
+    },
+    {
+      "chapterId": "chap-02",
+      "chapterNumber": 2,
+      "title": "Lời Thề Dưới Những Vì Sao",
+      "revision": "10",
+      "editorialStatus": "APPROVED",
+      "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+      "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+      "path": "chapter-02.json",
+      "artworkCount": 9
+    },
+    {
+      "chapterId": "chap-03",
+      "chapterNumber": 3,
+      "title": "NewHorizon — Nơi Bình Minh Trở Lại",
+      "revision": "03",
+      "editorialStatus": "APPROVED",
+      "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+      "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+      "path": "chapter-03.json",
+      "artworkCount": 7
+    },
+    {
+      "chapterId": "chap-04",
+      "chapterNumber": 4,
+      "title": "Một Ngày Không Tiếng Còi Báo Động",
+      "revision": "03_RECONSTRUCTION",
+      "editorialStatus": "REVIEW",
+      "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+      "sourceIntegrity": "RECONSTRUCTED_NOT_APPROVED",
+      "path": "chapter-04.json",
+      "artworkCount": 5
+    },
+    {
+      "chapterId": "chap-05",
+      "chapterNumber": 5,
+      "title": "Kỳ Nghỉ Dưới Những Vì Sao",
+      "revision": "02",
+      "editorialStatus": "REVIEW",
+      "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+      "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+      "path": "chapter-05.json",
+      "artworkCount": 14
+    }
+  ],
+  "notes": [
+    "No approval of CH04/CH05 canon implied",
+    "CH04 text is a reconstruction; exact approved Rev03 is missing",
+    "CH05 uses FULL PROSE R02, not legacy R01",
+    "Images are references only; this GitHub repository currently lacks referenced story image objects",
+    "Unverified artwork runtime URLs must not be advertised as working"
+  ]
+}

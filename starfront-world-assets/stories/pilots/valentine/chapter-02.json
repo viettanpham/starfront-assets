@@ -1,0 +1,1050 @@
+{
+  "schemaVersion": "starfront-story-chapter-v1",
+  "pilotId": "valentine",
+  "chapterId": "chap-02",
+  "chapterNumber": 2,
+  "title": "Lời Thề Dưới Những Vì Sao",
+  "canonicalLibraryTitle": "Lời Thề Dưới Những Vì Sao",
+  "editorialStatus": "APPROVED",
+  "contentStatus": "FULL_PROSE",
+  "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+  "readingTimeMinutes": 32,
+  "wordCount": 7284,
+  "revision": "10",
+  "sourceNote": "Chapter 02 Revision 10 full prose; later user approval recorded in project context.",
+  "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+  "blocks": [
+    {
+      "blockId": "b0001",
+      "type": "heading",
+      "level": 2,
+      "text": "01. Trái Tim Của Liên Minh VSS"
+    },
+    {
+      "blockId": "b0002",
+      "type": "scene",
+      "sceneId": "val-ch02-image-01",
+      "sceneTitle": "Hành tinh thủ phủ và những tuyến phòng thủ quỹ đạo — WORLD/CC0 APPROVED",
+      "caption": "Hành tinh thủ phủ và những tuyến phòng thủ quỹ đạo — WORLD/CC0 APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-planet-overview",
+          "placement": "inline",
+          "caption": "Hành tinh thủ phủ và những tuyến phòng thủ quỹ đạo — WORLD/CC0 APPROVED",
+          "path": "images/story/valentine/world-vss-cc0-planet-overview.webp",
+          "filename": "world-vss-cc0-planet-overview.webp",
+          "imageSha256": "a409c51950b0a10eff206d652df71fc61c896060ea13290691f45f4b09213ea2",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-planet-overview.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0003",
+      "type": "paragraph",
+      "text": "Ba ngày kể từ lúc đoàn tàu rời vùng không gian gần Elysia, Valentine đã gần quen với sắc sáng xanh bạc trải dài bên ngoài cửa sổ. Các con tàu đang đi trong **HyperSpeed Space** — hành lang siêu gia tốc do hệ thống Fargate thiết lập và ổn định. Trong vùng ấy, khoảng cách giữa những hệ sao được vượt qua nhờ trường dịch chuyển làm biến dạng không-thời gian quanh đội tàu; hành khách không phải chịu cảm giác bị ép vào ghế bởi một gia tốc khủng khiếp. Người trên tàu vẫn có thể đi lại, ngủ, chăm sóc người bị thương, dù không một ai quên được họ vừa bỏ lại điều gì phía sau."
+    },
+    {
+      "blockId": "b0004",
+      "type": "paragraph",
+      "text": "Valentine đang thay băng cho một bệnh nhân khi ánh sáng dịu trên trần khoang chậm rãi chuyển sang màu trắng. Trên tất cả chiến hạm, tuần dương hạm, tàu khu trục, tàu bệnh viện và tàu dân sự thuộc **đoàn hộ tống sơ tán Elysia — RED CODE, giai đoạn 2**, các màn hình hologram đồng loạt sáng lên. Giao diện chia thành hai phần: bên trái là tuyến đường có một điểm sáng đang di chuyển; bên phải là thông báo dành cho hành khách, được đọc bằng giọng nói rõ ràng, ấm áp."
+    },
+    {
+      "blockId": "b0005",
+      "type": "paragraph",
+      "text": "**Hologram hành trình — Đoàn sơ tán Elysia:**"
+    },
+    {
+      "blockId": "b0006",
+      "type": "paragraph",
+      "text": "> **ELYSIA** — Điểm xuất phát sơ tán  \n> ↓ **ANTIGRAVITY** — Thành phố quân sự; điểm tiếp cận tuyến HyperSpeed  \n> ↓ **HYPERSPEED SPACE** — Hành trình liên sao, ba ngày  \n> ↓ **VÙNG THỦ PHỦ VSS · DEFENDER D15** — **VỊ TRÍ TUYẾN ĐƯỜNG HIỆN TẠI · 99%**  \n> ↓ **GATEWAY FARGATE GIGA SPEED D12GiG92029192** — Điểm thoát HyperSpeed tại Defender 12  \n> ↓ **VSS GIGA RESCUE D10-A1** — Điểm đến tiếp nhận, cứu hộ và hồi phục"
+    },
+    {
+      "blockId": "b0007",
+      "type": "paragraph",
+      "text": "Dải định tuyến uốn từ vùng ngoài D15 về phía một biểu tượng cổng sáng rực ở D12. Ở góc màn hình, chú thích giải thích rằng **D15 là lớp phòng thủ ngoài cùng mà lộ trình đang đi qua**, còn **D12 là nơi đoàn tàu sẽ ra khỏi hành lang HyperSpeed**. Dòng *99%* biểu thị phần hành trình siêu tốc đã hoàn thành, không phải khoảng cách đến thành phố tiếp nhận cuối cùng."
+    },
+    {
+      "blockId": "b0008",
+      "type": "paragraph",
+      "text": "**Hologram thông báo — Điều phối hành khách:**"
+    },
+    {
+      "blockId": "b0009",
+      "type": "paragraph",
+      "text": "> **CHÀO MỪNG CÁC BẠN ĐÃ ĐẾN VỚI VÙNG THỦ PHỦ LIÊN MINH VSS.**\n>\n> Đoàn sơ tán Elysia đã tiến vào phạm vi bảo vệ của thủ phủ. **Vị trí định tuyến hiện tại: Defender 15 — D15**, vành đai cảnh giới ngoài cùng.\n>\n> **Đoàn chúng ta dự kiến rời HyperSpeed Space sau khoảng ba phút**, qua **Gateway FarGate Giga Speed D12GiG92029192**, cửa ngõ liên sao được bảo vệ tại **Defender Zone 12 — D12**.\n>\n> Vui lòng giữ vị trí an toàn, cố định vật dụng cá nhân và hỗ trợ người cần chăm sóc. Nhân viên y tế tiếp tục làm việc theo hướng dẫn của trưởng khoang."
+    },
+    {
+      "blockId": "b0010",
+      "type": "paragraph",
+      "text": "Giọng thông báo ngừng một nhịp. Trên phần sơ đồ, điểm sáng tiến gần biểu tượng cổng, còn khung bên phải chuyển sang bảng đếm ngược. Khi đồng hồ bước vào những giây cuối, một thông báo khác vang lên — lần này là từ hệ thống điều hướng, không phải lời chào dành cho hành khách:"
+    },
+    {
+      "blockId": "b0011",
+      "type": "paragraph",
+      "text": "> **CHUYỂN TIẾP HYPERSPEED — CHUẨN BỊ GIẢM TỐC TRƯỜNG HYPERWRAP.**  \n> **Ba… hai… một…**  \n> **Bắt đầu chu trình giảm cường độ trường dịch chuyển.**  \n> **Xin giữ vị trí an toàn và chờ chỉ dẫn điều phối.**"
+    },
+    {
+      "blockId": "b0012",
+      "type": "paragraph",
+      "text": "Một vài người trong khoang ngước lên. Đứa bé đang ngủ trên vai mẹ mở mắt, hỏi rất nhỏ: “Mình về tới nhà rồi hả mẹ?” Người phụ nữ ôm con chặt hơn. “Chưa phải nhà mình,” chị nói, giọng nghẹn đi, “nhưng đến nơi an toàn rồi con.”"
+    },
+    {
+      "blockId": "b0013",
+      "type": "paragraph",
+      "text": "Valentine nhìn lên sau khi hoàn tất thao tác cố định dây truyền cho bệnh nhân. Qua cửa sổ khoang, những vệt sáng dài quanh thân tàu co lại thành các sợi mảnh. Dải ánh sáng HyperSpeed nhạt dần; rồi, trong một khoảnh khắc yên tĩnh gần như tuyệt đối, bầu trời sao thật trở lại."
+    },
+    {
+      "blockId": "b0014",
+      "type": "paragraph",
+      "text": "Trước đoàn tàu là **FarGate D12**. Cánh cổng liên sao đồ sộ đứng giữa một quần thể những vòng dẫn hướng và trụ phát trường khổng lồ, ánh đèn đánh dấu nhấp nháy dọc theo từng kết cấu. Bên ngoài nó, ba căn cứ quân sự lớn tạo thành mạng bảo vệ nhiều hướng. Từng đội chiến hạm tiền tiêu tuần tra trong các hành lang được kiểm soát; ở phía xa, một **Mega Transit Base** rực sáng đón tàu hàng, tàu khách và các đoàn vận tải từ những vùng sao khác đến."
+    },
+    {
+      "blockId": "b0015",
+      "type": "paragraph",
+      "text": "“Đẹp quá…” một điều dưỡng thì thầm."
+    },
+    {
+      "blockId": "b0016",
+      "type": "paragraph",
+      "text": "Valentine không biết phải gọi cảnh tượng ấy là gì. Cô từng thấy những cảng lớn ở Elysia, nhưng chưa từng thấy một cửa ngõ giao thông được bảo vệ bởi nhiều công trình và chiến hạm đến vậy. Đây mới chỉ là nơi để người ta **bước vào** vùng thủ phủ, chưa phải nơi cư dân của họ sẽ ở."
+    },
+    {
+      "blockId": "b0017",
+      "type": "paragraph",
+      "text": "Sau khi đoàn tàu rời hành lang HyperSpeed, bảng hành trình chuyển sang sơ đồ các lớp phòng thủ, giúp hành khách hiểu chặng đường còn lại. Ở tận giữa là hành tinh thủ phủ. Bao quanh nó là những vùng quỹ đạo được đánh số từ **D0** gần hành tinh đến **D10** ở rất xa. Xa hơn nữa, các vành đai **D11 đến D15** trải rộng trong không gian sâu, nơi đặt những cửa ngõ liên sao và các lực lượng bảo vệ tuyến tiếp cận. Chữ **D** là *Defender*: mỗi số chỉ một vành đai bảo vệ và điều phối, **không phải số tầng của một tòa nhà**. Thoát khỏi hành lang siêu tốc tại D12 nghĩa là đoàn tàu đã đến một cửa ngõ do quân đội VSS kiểm soát chặt chẽ; để tới khu đô thị tiếp nhận của họ ở D10, vẫn còn một chặng nữa."
+    },
+    {
+      "blockId": "b0018",
+      "type": "paragraph",
+      "text": "Đoàn hộ tống không ghé Mega Transit Base. Từ đài điều phối D12, các hoa tiêu nhận một tuyến đường riêng dẫn qua công trình kiểm tra nhập cảnh liên sao. Qua cửa quan sát, Valentine thấy những khung kim loại sáng bạc nối tiếp nhau, đủ rộng cho các tàu lớn đi qua. Cô không thể biết bên trong hệ thống đang kiểm tra những gì; trên màn hình hành khách chỉ hiện các mục dễ hiểu: **an toàn thân tàu, an ninh, hàng hóa khai báo và kiểm soát nguy cơ sinh học**. Riêng tại khoang y tế, điều dưỡng trưởng nhận được thông báo rằng khu vực bệnh nhân được phép tiếp tục chăm sóc bình thường trong lúc đoàn tàu được kiểm tra."
+    },
+    {
+      "blockId": "b0019",
+      "type": "paragraph",
+      "text": "Trên màn hình, một dòng chữ hiện lên: **ĐANG XÁC MINH AN TOÀN ĐOÀN TÀU — VUI LÒNG GIỮ NGUYÊN HÀNH LANG**."
+    },
+    {
+      "blockId": "b0020",
+      "type": "paragraph",
+      "text": "“Chúng ta có bị giữ lại không bác sĩ?” cụ ông Valentine từng chăm sóc hỏi."
+    },
+    {
+      "blockId": "b0021",
+      "type": "paragraph",
+      "text": "Valentine nhìn lên dòng hướng dẫn dành cho hành khách rồi đáp: “Theo thông báo, đây là bước kiểm tra an toàn trước khi được vào vùng thủ phủ. Cháu cũng chưa từng đi qua cửa kiểm soát lớn thế này, nhưng họ đã cho phép các phòng y tế tiếp tục làm việc. Nếu có vấn đề, người điều phối sẽ hướng dẫn chúng ta.”"
+    },
+    {
+      "blockId": "b0022",
+      "type": "paragraph",
+      "text": "Đoàn tàu giảm tốc và trôi qua khu quét. Không còi báo động, không một phát súng. Chỉ có tiếng nhân viên điều phối bình tĩnh xác nhận các bước. Khi lượt cuối cùng hoàn tất, thông báo mới hiện lên: **ĐÃ XÁC NHẬN — CHO PHÉP NHẬP VÙNG THỦ PHỦ VSS**."
+    },
+    {
+      "blockId": "b0023",
+      "type": "paragraph",
+      "text": "Tín hiệu dẫn đường chuyển từ màu vàng sang xanh. Một lệnh hành trình được gửi đồng thời đến ba hạm đội hộ tống và các tàu dân sự:"
+    },
+    {
+      "blockId": "b0024",
+      "type": "paragraph",
+      "text": "> **ĐÍCH ĐẾN: VSS GIGA RESCUE D10-A1**\n>\n> **Tên đầy đủ: VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION**\n>\n> **Thời gian hành trình dự kiến bằng Cruise Engine: khoảng 60 phút.**"
+    },
+    {
+      "blockId": "b0025",
+      "type": "paragraph",
+      "text": "Khi đoàn tàu kích hoạt **Cruise Engine** — chế độ hành trình tốc độ cao trong không gian thông thường, khác với HyperSpeed Space vừa rời khỏi — những đốm sáng xanh lại hiện lên ở đuôi động cơ. Không ai cần quay lại cổng FarGate; cả đoàn đã được chấp thuận đi thẳng về căn cứ D10."
+    },
+    {
+      "blockId": "b0026",
+      "type": "paragraph",
+      "text": "Khi các bệnh nhân trong ca đã được theo dõi ổn định và bàn giao cho đồng nghiệp, Valentine mới có thể đứng bên cửa sổ trong một phần chặng bay kéo dài khoảng một giờ. Qua mỗi đoạn hành lang bay, cô lại thấy một cảnh tượng khác: trạm cảnh giới hướng những ăng-ten dài vào vùng tối; những chiến hạm đồ sộ đứng yên bên ụ tiếp liệu; các căn cứ độc lập nối với nhau bằng tuyến tàu vận tải và những chấm sáng từ xa hóa ra là cả một đội tuần tra. Từng lớp phòng thủ chồng lên nhau đến nỗi cô không thể biết đâu là điểm kết thúc của một căn cứ và đâu là điểm bắt đầu của căn cứ tiếp theo."
+    },
+    {
+      "blockId": "b0027",
+      "type": "paragraph",
+      "text": "Một sĩ quan giải thích cho nhóm hành khách đứng cạnh cửa sổ: “Bảo vệ thủ phủ không phải dựng một bức tường rồi hy vọng nó đứng vững. Các vành đai ngoài theo dõi từ rất xa. Nếu có nguy cơ, lực lượng ở đó xử lý trước khi nó tới gần khu dân cư. Càng vào trong, các tuyến vận tải và thành phố càng được bảo vệ nhiều lớp hơn.”"
+    },
+    {
+      "blockId": "b0028",
+      "type": "paragraph",
+      "text": "“Vậy tất cả những tàu này đều để đánh nhau ạ?” đứa bé nọ hỏi."
+    },
+    {
+      "blockId": "b0029",
+      "type": "paragraph",
+      "text": "“Để mọi người **không phải** đánh nhau ở nhà mình,” người sĩ quan đáp, cúi xuống ngang tầm mắt em."
+    },
+    {
+      "blockId": "b0030",
+      "type": "paragraph",
+      "text": "Valentine thấy người mẹ khẽ mỉm cười. Sau nhiều ngày chỉ nghe thông báo sơ tán, một lời giải thích đơn giản như thế khiến ai cũng dễ thở hơn."
+    },
+    {
+      "blockId": "b0031",
+      "type": "paragraph",
+      "text": "Đúng khoảng một giờ sau, ánh sáng dày lên ở phía trước. Ban đầu, Valentine tưởng mình đang nhìn thấy một cụm hạm đội tập hợp quanh một ngôi sao nhân tạo. Nhưng rồi những vòng sáng tách ra: đó là các vành đai kiến trúc, các cây cầu cảng nhô xa vào không gian, những dãy ụ bảo dưỡng cùng các tháp cảnh giới dựng đứng, tất cả tạo thành một quần thể lớn tới mức con tàu phải tiếp tục tiến gần mới nhìn rõ được lõi trung tâm."
+    },
+    {
+      "blockId": "b0032",
+      "type": "scene",
+      "sceneId": "val-ch02-image-02",
+      "sceneTitle": "Ngoại cảnh VSS GIGA RESCUE D10-A1 ở không gian sâu — artwork APPROVED",
+      "caption": "Ngoại cảnh VSS GIGA RESCUE D10-A1 ở không gian sâu — artwork APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-d10-concept-02-exterior-approved",
+          "placement": "inline",
+          "caption": "Ngoại cảnh VSS GIGA RESCUE D10-A1 ở không gian sâu — artwork APPROVED",
+          "path": "images/story/valentine/world-vss-d10-concept-02-exterior-approved.webp",
+          "filename": "world-vss-d10-concept-02-exterior-approved.webp",
+          "imageSha256": "b3889b5d83c0b5f777c62a4704372754db51ead978441dcc7081ba31fbd0373c",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-d10-concept-02-exterior-approved.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0033",
+      "type": "paragraph",
+      "text": "Giữa những vòng công trình là một **đại đô thị được che chở bởi mái vòm kính kín khí**. Ánh sáng trải trên hồ nước và các dải cây xanh; những tòa nhà cao vút hiện lên như một đường chân trời không thuộc về không gian. Bên ngoài khu dân cư, các cầu cảng nhận tàu liên sao, khu sửa chữa chiến hạm và cụm radar phòng thủ tiếp tục hoạt động. Đằng sau tất cả không phải một hành tinh khổng lồ treo sát mái nhà — thủ phủ còn ở rất xa — mà là nền sao mênh mông và ánh sáng của ngôi sao trung tâm."
+    },
+    {
+      "blockId": "b0034",
+      "type": "paragraph",
+      "text": "Phía trước quần thể, **biểu tượng Liên Minh VSS** hiện lên dưới dạng hologram lớn, sáng rõ giữa các tuyến tàu đang ra vào. Không chỉ để phô trương: đó cũng là cột mốc dẫn đường mà mọi đoàn tàu trở về từ không gian sâu đều nhận ra."
+    },
+    {
+      "blockId": "b0035",
+      "type": "paragraph",
+      "text": "Các màn hình trong đội hình chuyển cảnh. Cửa sổ quan sát được mở chế độ nhìn rộng; giọng điều phối vang lên:"
+    },
+    {
+      "blockId": "b0036",
+      "type": "paragraph",
+      "text": "> **CHÀO MỪNG ĐẾN VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION — VSS GIGA RESCUE D10-A1.**\n>\n> **Quần thể tiếp nhận, cứu hộ, sửa chữa và đô thị trọng điểm thuộc vành đai phòng thủ Defender 10 của hành tinh thủ phủ VSS.**\n>\n> **Kính mời các tàu tuân thủ hướng dẫn phân cảng.**"
+    },
+    {
+      "blockId": "b0037",
+      "type": "paragraph",
+      "text": "Valentine đọc lại cái tên dài trên màn hình. Một nữ điều dưỡng khẽ cười: “Cái tên này chắc người ở đây không gọi hết nổi mỗi ngày.”"
+    },
+    {
+      "blockId": "b0038",
+      "type": "paragraph",
+      "text": "Người phụ trách liên lạc của tàu, vốn đang kiểm tra hướng dẫn cập cảng vừa nhận từ GIGA, quay lại giải thích: “Trong tài liệu dành cho hành khách họ gọi ngắn cả quần thể là **GIGA D10-A1**. Còn thành phố dân cư dưới mái kính tên **Lumina** — cái tên được người dân đề xuất và chính quyền VSS công nhận. Đây là hai nơi lồng vào nhau, không phải hai điểm đến tách biệt.”"
+    },
+    {
+      "blockId": "b0039",
+      "type": "paragraph",
+      "text": "Người phụ trách mở bản giới thiệu công khai của GIGA cho mọi người xem. Từng hình ảnh hiện lên: bệnh viện, trường học, khu mua sắm, sân thể thao, một khu rừng được chăm sóc qua nhiều thế hệ và cả bãi biển nhân tạo. Valentine mới hiểu đây không phải chỉ là điểm dừng cho người sơ tán. **Lumina là một thành phố có người sinh ra, lớn lên, làm việc và sống cả đời**. Còn bên ngoài mái kính, GIGA vận hành những cảng, ụ sửa chữa và công trình phòng thủ để bảo vệ nhịp sống ấy."
+    },
+    {
+      "blockId": "b0040",
+      "type": "paragraph",
+      "text": "“D10 là tên một thành phố khác à?” cụ ông hỏi."
+    },
+    {
+      "blockId": "b0041",
+      "type": "paragraph",
+      "text": "Valentine nhìn lại sơ đồ vừa được người phụ trách chỉ cho xem. “Theo bản đồ này, D10 là tên vành đai phòng thủ. GIGA D10-A1 là cả quần thể, còn Lumina là thành phố bên trong mái kính, bác ạ.”"
+    },
+    {
+      "blockId": "b0042",
+      "type": "paragraph",
+      "text": "“À,” ông gật gù. “Vậy là chúng ta không phải sống trong một doanh trại.”"
+    },
+    {
+      "blockId": "b0043",
+      "type": "paragraph",
+      "text": "“Chắc là không ạ,” cô đáp, mỉm cười với ông. “Hình giới thiệu còn có cả rừng và công viên. Khi xuống tàu, chúng ta sẽ biết rõ hơn.”"
+    },
+    {
+      "blockId": "b0044",
+      "type": "paragraph",
+      "text": "Bấy giờ, một gương mặt quen thuộc hiện trên màn hình chung. **Chỉ huy William** đứng trong khoang chỉ huy với bộ đồng phục đã qua nhiều ngày chiến đấu. Sau lưng ông không còn ánh đỏ báo động. Ông nhìn vào ống kính một lúc, như cố tìm lời đủ đơn giản để nói với hàng nghìn người đang nghe:"
+    },
+    {
+      "blockId": "b0045",
+      "type": "paragraph",
+      "text": "“Thưa đồng bào Elysia, thưa các đồng đội. Chúng ta đã đến GIGA D10-A1, vùng tiếp nhận an toàn của thủ phủ Liên Minh VSS. Từ thời điểm này, chiến dịch RED CODE sẽ bước sang **giai đoạn ba: chăm sóc phục hồi và ổn định nơi định cư**.”"
+    },
+    {
+      "blockId": "b0046",
+      "type": "paragraph",
+      "text": "Ông dừng lại."
+    },
+    {
+      "blockId": "b0047",
+      "type": "paragraph",
+      "text": "“Chúng ta đã mất quá nhiều trên đường đi. Có những người chưa thể trở về cùng chúng ta, và những người đang được tiếp tục tìm kiếm. Tôi biết một thông báo không thể làm vơi đi nỗi đau ấy. Nhưng nhiệm vụ đưa đoàn sơ tán đến vùng thủ phủ đã hoàn thành. Từ đây, các bác sĩ, nhân viên cứu trợ và chính quyền VSS sẽ tiếp nhận mọi người. Xin hãy nghỉ ngơi, chăm sóc nhau và đừng ngại yêu cầu giúp đỡ. Các bạn không còn phải chạy trốn nữa.”"
+    },
+    {
+      "blockId": "b0048",
+      "type": "paragraph",
+      "text": "Không có tiếng reo hò lớn. Có người khép mắt, có người khóc, có người cứ nhìn vào màn hình như chưa tin lời ông. Rồi từng tiếng vỗ tay nhỏ vang lên, lan dọc khoang. Valentine đứng im. Cô nghĩ đến MED-04, khu số sáu và những tín hiệu chưa có lời đáp. William không nói rằng tất cả đã bình an. Ông chỉ xác nhận rằng **những người đang ở đây cuối cùng đã được bảo vệ**. Với Valentine, lúc này như vậy đã là rất nhiều."
+    },
+    {
+      "blockId": "b0049",
+      "type": "paragraph",
+      "text": "Trên tuyến vào cảng, các chiến hạm **VSS HYPER GUARDIAN**, **VSS HYPER SPEED** và **VSS FARGARE 2** bắt đầu tách sang các hành lang quân sự. Cả ba là những đơn vị thuộc **mười hai căn cứ hạm đội thường trú** tại GIGA. Họ đã rời nhà để cứu Elysia, rồi mang những người sống sót trở về chính nơi đóng quân của mình. Những chiến hạm bị hư hại được ưu tiên về ụ sửa chữa; các tàu bệnh viện hướng thẳng đến cầu cảng y tế, nơi đội cấp cứu đã chuẩn bị sẵn."
+    },
+    {
+      "blockId": "b0050",
+      "type": "paragraph",
+      "text": "Xa hơn, Valentine thấy các ụ neo đủ lớn đón chiến hạm hạng nặng và tàu khách liên sao; những cánh tay máy dịch chuyển quanh một thân tàu đang chờ thay giáp. Có những tàu hàng mang thuốc và thực phẩm từ các khu đô thị phía trong, có tàu chuyển vật tư bằng hệ thống **VSS Hyper Speed Transport** từ hành tinh thủ phủ và căn cứ lân cận. Mọi hoạt động ấy diễn ra như nhịp thở thường ngày của một đại đô thị — chỉ riêng ngày hôm nay, nhịp thở ấy còn dành thêm chỗ cho Elysia."
+    },
+    {
+      "blockId": "b0051",
+      "type": "paragraph",
+      "text": "Trong khoang y tế của R-17, điều dưỡng trẻ tên Mai kiểm tra lần cuối số túi thuốc còn lại, rồi nhìn những chỉ dẫn mới trên bảng bàn giao."
+    },
+    {
+      "blockId": "b0052",
+      "type": "paragraph",
+      "text": "“Chị Valentine, bên GIGA đã phân sẵn giường cho bệnh nhân của mình. Họ làm sao biết ai cần mổ, ai phải dùng thuốc đặc biệt khi tàu còn chưa cập cảng?”"
+    },
+    {
+      "blockId": "b0053",
+      "type": "paragraph",
+      "text": "Valentine nhìn bảng danh sách vừa đồng bộ. Cô cũng đang tự hỏi điều ấy."
+    },
+    {
+      "blockId": "b0054",
+      "type": "paragraph",
+      "text": "“Chị chưa biết,” cô đáp. “Có lẽ lúc bàn giao mình nên hỏi đội tiếp nhận. Đừng đoán rồi hướng dẫn sai bệnh nhân.”"
+    },
+    {
+      "blockId": "b0055",
+      "type": "paragraph",
+      "text": "Tàu R-17 sau đó mới ghép nối với cảng y tế. Khi hai bên hoàn tất cân bằng áp suất, cửa nối mở ra. Valentine cùng Mai đưa bệnh nhân qua hành lang nhận ca. Một bác sĩ của GIGA đã chờ ở đó, tay cầm bảng hồ sơ. Anh kiểm tra vòng nhận dạng của người bệnh rồi hỏi tên và tình trạng hiện tại, dù thông tin tóm tắt đã hiện sẵn trên màn hình."
+    },
+    {
+      "blockId": "b0056",
+      "type": "paragraph",
+      "text": "“Bệnh nhân này có đợt khó thở trong ngày thứ hai,” Valentine nói. “Tạm ổn, nhưng cần theo dõi sát.”"
+    },
+    {
+      "blockId": "b0057",
+      "type": "paragraph",
+      "text": "“Chúng tôi đã chuẩn bị giường theo dõi và thuốc dự phòng,” bác sĩ đáp. “Cảm ơn cô. Tôi sẽ xác nhận lại mọi chỉ định trước khi nhận ca.”"
+    },
+    {
+      "blockId": "b0058",
+      "type": "paragraph",
+      "text": "Mai tranh thủ hỏi: “Xin lỗi bác sĩ, hồ sơ của chúng tôi đến đây bằng cách nào nhanh thế ạ?”"
+    },
+    {
+      "blockId": "b0059",
+      "type": "paragraph",
+      "text": "Người bác sĩ chỉ vào biểu tượng **VQN** trên bảng điều phối. “Đây là **VSS Quantum Network**. Có thể hình dung như một mạng thông tin nối các cơ sở của Liên Minh trên khắp thiên hà. VSS xây dựng và vận hành nó; các dữ liệu được phép chia sẻ đi tới nơi cần nhận với độ trễ rất thấp. Trong chuyến đi, đội điều phối đã gửi trước hồ sơ cấp cứu, nên chúng tôi có thời gian chuẩn bị giường, thuốc và nhân lực.”"
+    },
+    {
+      "blockId": "b0060",
+      "type": "paragraph",
+      "text": "“Vậy bệnh viện nào cũng nhìn thấy hết hồ sơ của bệnh nhân sao?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0061",
+      "type": "paragraph",
+      "text": "“Không,” anh lắc đầu. “Mỗi người chỉ được xem phần cần cho nhiệm vụ và đã được cấp quyền. Hồ sơ gửi nhanh không thay thế việc chúng tôi khám lại, xác nhận danh tính hay hỏi ý kiến người bệnh. Mạng có thể giúp một lời cầu cứu tới nơi kịp lúc; **chăm sóc và quyết định điều trị vẫn do con người chịu trách nhiệm**.”"
+    },
+    {
+      "blockId": "b0062",
+      "type": "paragraph",
+      "text": "Valentine nhìn sang Mai. Cả hai đã hiểu vì sao công việc ở đây có thể chuẩn bị sớm đến vậy. Nhưng điều khiến cô yên tâm hơn là vị bác sĩ đã hỏi bệnh nhân trước khi nhìn lâu vào màn hình."
+    },
+    {
+      "blockId": "b0063",
+      "type": "paragraph",
+      "text": "Ở sảnh tiếp nhận ngay sau hành lang y tế, một nhân viên cứu trợ đang quỳ xuống buộc lại dây giày cho đứa trẻ. Bên cạnh thiết bị tự động hướng dẫn hành khách, các nhân viên khác vẫn ngồi trực để trò chuyện với người mất thiết bị, không đọc được chữ hoặc chỉ cần có người lắng nghe. Valentine nhận ra ở GIGA, công nghệ được dùng để đưa sự giúp đỡ đến nhanh hơn, **không phải để thay thế sự hiện diện của con người**."
+    },
+    {
+      "blockId": "b0064",
+      "type": "paragraph",
+      "text": "“Bác sĩ, chúng ta đã đến nơi thật rồi sao?” ông hỏi."
+    },
+    {
+      "blockId": "b0065",
+      "type": "paragraph",
+      "text": "“Vâng,” Valentine đáp. “Chúng ta đã đến GIGA. Ông sẽ được nghỉ ngơi rồi.”"
+    },
+    {
+      "blockId": "b0066",
+      "type": "paragraph",
+      "text": "Valentine trao bảng bàn giao, nhìn theo cáng bệnh nhân đi khuất. Cô quay lại bên ô kính lớn của sảnh tiếp nhận. Ngoài kia, các vành đai phòng thủ và thành phố Lumina vẫn sáng giữa không gian đen thẳm. Hàng nghìn người bên trong đang có một ngày làm việc, một buổi hẹn hoặc một bữa cơm gia đình bình thường."
+    },
+    {
+      "blockId": "b0067",
+      "type": "paragraph",
+      "text": "Nếu **một thành phố tiền đồn** của VSS đã hùng vĩ đến thế, Valentine không tưởng tượng nổi hành tinh thủ phủ thực sự còn như thế nào."
+    },
+    {
+      "blockId": "b0068",
+      "type": "paragraph",
+      "text": "Và lần đầu tiên kể từ Elysia, cô đứng ở một nơi mà tiếng loa phát ra không phải lệnh chạy trốn, mà là lời mời mọi người nghỉ ngơi."
+    },
+    {
+      "blockId": "b0069",
+      "type": "scene",
+      "sceneId": "val-ch02-image-03",
+      "sceneTitle": "Valentine lần đầu nhìn thấy vùng thủ phủ VSS từ tàu cứu hộ — CH02 FOCUS APPROVED",
+      "caption": "Valentine lần đầu nhìn thấy vùng thủ phủ VSS từ tàu cứu hộ — CH02 FOCUS APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch02-focus-01",
+          "placement": "inline",
+          "caption": "Valentine lần đầu nhìn thấy vùng thủ phủ VSS từ tàu cứu hộ — CH02 FOCUS APPROVED",
+          "path": "images/story/valentine/valentine-ch02-focus-01.webp",
+          "filename": "valentine-ch02-focus-01.webp",
+          "imageSha256": "1371252eea63075a32f426558b66672097984c2ff6d2727a98a0287b03fcf135",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch02-focus-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0070",
+      "type": "heading",
+      "level": 2,
+      "text": "02. Những cái tên trên danh sách"
+    },
+    {
+      "blockId": "b0071",
+      "type": "paragraph",
+      "text": "Sau khi ký hoàn tất bàn giao y tế tại cầu cảng, Valentine được hướng dẫn tới **sảnh dân sự của quần thể GIGA D10-A1** để đăng ký thông tin tạm trú và tìm người mất liên lạc. Tại đây, các đội cứu trợ đang phân luồng: người cần điều trị chuyên sâu đến bệnh viện, gia đình đến quầy cư trú, trẻ em không có người thân đi cùng được tiếp nhận bởi đội bảo trợ dân sự."
+    },
+    {
+      "blockId": "b0072",
+      "type": "paragraph",
+      "text": "Khi trở ra hành lang, cô nhìn thấy một hàng người dài trước bàn tìm kiếm thân nhân. Mỗi người cầm một danh sách, một bức ảnh hoặc số hiệu của chuyến tàu mà họ nghĩ người thân đã lên."
+    },
+    {
+      "blockId": "b0073",
+      "type": "paragraph",
+      "text": "Nhờ phần giải thích của bác sĩ GIGA lúc bàn giao, Valentine đã biết vì sao hồ sơ có thể đến trước con người. Tuy nhiên, bảng tra cứu ở đây còn liên quan tới những thông tin rất riêng tư; chỉ nhân viên phụ trách mới được mở các hồ sơ chi tiết. Nhưng ở đây, người ta không phải hiểu công nghệ mới được giúp đỡ. Nhân viên luôn có mặt bên các quầy để đọc danh sách cùng gia đình, viết hộ đơn tìm người và giải thích từng kết quả. Những ai mất thiết bị trong cuộc sơ tán được phát HUD tạm hoặc nhận bản giấy nếu muốn."
+    },
+    {
+      "blockId": "b0074",
+      "type": "paragraph",
+      "text": "Valentine thử dùng HUD y tế của mình để tra cứu, nhưng quyền truy cập ấy chỉ phục vụ chăm sóc bệnh nhân, không cho phép xem danh sách tìm người toàn vùng. Cô tắt giao diện rồi đứng vào hàng ở quầy cứu trợ, nơi mỗi yêu cầu được nhân viên có thẩm quyền tiếp nhận và đối chiếu."
+    },
+    {
+      "blockId": "b0075",
+      "type": "paragraph",
+      "text": "Ở bảng thông tin, những kết quả mới liên tục được cập nhật: **ĐÃ XÁC NHẬN AN TOÀN**, **ĐANG ĐỐI CHIẾU**, **CHƯA CÓ THÔNG TIN**."
+    },
+    {
+      "blockId": "b0076",
+      "type": "paragraph",
+      "text": "Đến lượt mình, cô đưa số hiệu đội cứu hộ từng mất liên lạc tại **khu số sáu của Elysia**. Người phụ trách nhập mã, yêu cầu cô xác nhận tên và thời điểm liên lạc cuối cùng, rồi lắc đầu: chưa có kết quả xác minh."
+    },
+    {
+      "blockId": "b0077",
+      "type": "paragraph",
+      "text": "Valentine xin kiểm tra lại một lần nữa. Nhân viên kiên nhẫn đối chiếu cả mã đơn vị lẫn vị trí cuối, nhưng kết quả vẫn vậy."
+    },
+    {
+      "blockId": "b0078",
+      "type": "paragraph",
+      "text": "“Cô cũng đang tìm người sao?” một nhân viên cứu trợ hỏi."
+    },
+    {
+      "blockId": "b0079",
+      "type": "paragraph",
+      "text": "“Đồng đội của tôi. Họ mất liên lạc lúc chúng tôi đang thực hiện nhiệm vụ.”"
+    },
+    {
+      "blockId": "b0080",
+      "type": "paragraph",
+      "text": "“Cô có thể bổ sung tên, vị trí cuối cùng và thời điểm nhận tín hiệu. Những hồ sơ này sẽ được đối chiếu với danh sách người điều trị chưa xác định danh tính ở tất cả các trạm.”"
+    },
+    {
+      "blockId": "b0081",
+      "type": "paragraph",
+      "text": "Valentine ghi từng thông tin thật cẩn thận. Cô nhớ giọng nói qua bộ đàm, nhớ câu cuối cùng họ bảo cô đi cứu MED-04. Cô không ghi chữ *đã hy sinh*. Không ai có bằng chứng cho kết luận ấy."
+    },
+    {
+      "blockId": "b0082",
+      "type": "paragraph",
+      "text": "Khi nộp hồ sơ, cô nói:"
+    },
+    {
+      "blockId": "b0083",
+      "type": "paragraph",
+      "text": "“Nếu có tin tức, xin liên lạc với tôi. Bất kể kết quả thế nào.”"
+    },
+    {
+      "blockId": "b0084",
+      "type": "paragraph",
+      "text": "“Chúng tôi sẽ làm vậy. Nếu có tin, cô sẽ nhận được lời nhắn ngay. Và nếu cô muốn, chúng tôi sẽ có người trực tiếp báo cho cô, giải thích rõ ràng. Không ai ở đây phải tự đọc một kết quả đau lòng rồi xoay xở một mình.”"
+    },
+    {
+      "blockId": "b0085",
+      "type": "paragraph",
+      "text": "Trước khi rời quầy, Valentine nhận thêm một bản hướng dẫn mang dấu xác nhận của **Ban điều phối tái định cư Liên Minh VSS**. Trang đầu không phải đơn lựa chọn thành phố, mà là quyết định bố trí nơi ở cho toàn bộ cộng đồng sơ tán Elysia theo **REDCODE — giai đoạn 3**."
+    },
+    {
+      "blockId": "b0086",
+      "type": "paragraph",
+      "text": "**Điểm đến định cư chính thức: thành phố quỹ đạo NewHorizon — MEGA HABITAT ORBIT CITY, mã D3_HABI_MEGACIT_MK3, thuộc vành đai D3.**"
+    },
+    {
+      "blockId": "b0087",
+      "type": "paragraph",
+      "text": "D3 nằm gần hành tinh thủ phủ hơn nhiều so với D10. Khác với vành đai tiền đồn có nhiều cảng chiến hạm và căn cứ sửa chữa như GIGA, các đô thị tại D3 được quy hoạch chủ yếu cho đời sống dân cư: gia đình, trường học, bệnh viện, việc làm, thương mại, ngân hàng, giải trí và những tuyến giao thông thuận tiện đi đến hành tinh thủ phủ. NewHorizon là một đại đô thị hoàn chỉnh, đủ rộng để chính quyền dành riêng **một phân khu tiếp nhận cộng đồng Elysia**, giúp các gia đình, người quen và những người cùng trải qua thảm họa có thể sống gần nhau, hỗ trợ nhau xây dựng lại cuộc đời."
+    },
+    {
+      "blockId": "b0088",
+      "type": "paragraph",
+      "text": "Trên bản hướng dẫn, một dòng chữ được in nổi bật: **LUMINA — CƠ SỞ TIẾP NHẬN VÀ PHỤC HỒI TẠM THỜI; THỜI HẠN LƯU TRÚ TỐI ĐA 30 NGÀY.**"
+    },
+    {
+      "blockId": "b0089",
+      "type": "paragraph",
+      "text": "Valentine hơi cau mày, bèn hỏi người phụ trách:"
+    },
+    {
+      "blockId": "b0090",
+      "type": "paragraph",
+      "text": "“Vậy mọi người sẽ không ở lại Lumina lâu dài sao?”"
+    },
+    {
+      "blockId": "b0091",
+      "type": "paragraph",
+      "text": "“Không phải theo kế hoạch sơ tán này, bác sĩ,” người nhân viên đáp. “GIGA là nơi đón đoàn, cứu chữa, nghỉ ngơi và hoàn tất hồ sơ. **NewHorizon mới là nơi Liên Minh đã chuẩn bị để cư dân Elysia định cư.** Người khỏe và đủ giấy tờ có thể đi trước, không cần chờ cả đoàn. Người đang điều trị sẽ được sắp xếp chuyến chuyển viện hoặc vận chuyển phù hợp khi bác sĩ xác nhận an toàn.”"
+    },
+    {
+      "blockId": "b0092",
+      "type": "paragraph",
+      "text": "“Còn những người muốn ở lại thành phố này?”"
+    },
+    {
+      "blockId": "b0093",
+      "type": "paragraph",
+      "text": "“Họ không thể tự đổi nơi cư trú chỉ vì thích Lumina hơn. Ai muốn xin chuyển phải có lý do chính đáng, chẳng hạn nhiệm vụ công vụ, nhu cầu chuyên môn, một vị trí công tác được phê chuẩn hoặc quyết định riêng của cơ quan quản lý dân số và chính quyền liên quan. Những trường hợp chưa đủ sức di chuyển được xem xét **gia hạn y tế bằng quyết định riêng**, chứ không bị đưa lên tàu khi còn nguy hiểm.”"
+    },
+    {
+      "blockId": "b0094",
+      "type": "paragraph",
+      "text": "Cô đưa Valentine xem lịch vận tải. Hàng ngày sẽ có nhiều chuyến **Internal VSS Hyper Speed Transport** nối GIGA D10-A1 với NewHorizon ở D3. Người sơ tán được cấp hành trình, khu nhà tạm đầu tiên, cơ sở y tế tiếp nối và đầu mối hỗ trợ tìm việc. Các gia đình được ưu tiên đi cùng nhau; trường hợp có người thân đang nằm viện sẽ có nhân viên xã hội liên hệ để lên lịch phù hợp."
+    },
+    {
+      "blockId": "b0095",
+      "type": "paragraph",
+      "text": "“Có nghĩa là Liên Minh đã sắp xếp cả chỗ ở và công việc hỗ trợ ban đầu rồi?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0096",
+      "type": "paragraph",
+      "text": "“Chúng tôi đã chuẩn bị **hạ tầng, suất cư trú và hệ thống kết nối việc làm**. Không phải ai cũng có công việc ngay ngày đầu, nhưng ở NewHorizon có các trung tâm giới thiệu việc làm, đào tạo lại, hỗ trợ tài chính và trường học cho trẻ em. Người dân không phải tự mình tìm một góc trống giữa vùng thủ phủ rộng lớn để bắt đầu lại.”"
+    },
+    {
+      "blockId": "b0097",
+      "type": "paragraph",
+      "text": "Valentine nhìn tấm sơ đồ phân khu dành cho Elysia. Những dãy nhà, công viên, bệnh viện và trường học được đánh dấu quanh một quảng trường cộng đồng. Cô bỗng nghĩ tới những người quen vẫn đang lang thang tìm nhau trong khu tiếp nhận. Được ở gần nhau không làm Elysia trở lại; nhưng có lẽ đó là cách để những người còn sống giữ được một phần quê hương."
+    },
+    {
+      "blockId": "b0098",
+      "type": "paragraph",
+      "text": "Valentine rời quầy với một mã hồ sơ tìm kiếm trong tay. Đó chưa phải câu trả lời, nhưng ít nhất những người mất liên lạc đã có một nơi để tiếp tục được tìm kiếm."
+    },
+    {
+      "blockId": "b0099",
+      "type": "heading",
+      "level": 2,
+      "text": "03. Lumina — thành phố dưới bầu trời kính"
+    },
+    {
+      "blockId": "b0100",
+      "type": "paragraph",
+      "text": "Trong những ngày chờ đến lượt chuyển về **NewHorizon tại D3**, cư dân Elysia được bố trí nơi ở tạm và các khu phục hồi tại **thành phố Lumina trong quần thể GIGA D10**. Có gia đình chỉ lưu lại vài ngày trước khi lên chuyến tàu tiếp theo; người cao tuổi, trẻ nhỏ hoặc người bị thương được theo dõi lâu hơn tùy tình trạng. Những người mất người thân được hỗ trợ tâm lý và tiếp tục đăng ký tìm kiếm. **Ba mươi ngày là giới hạn lưu trú tạm thời thông thường**, không phải lời hứa rằng ai cũng có thể ở đúng ba mươi ngày hay phải rời viện khi chưa đủ sức khỏe."
+    },
+    {
+      "blockId": "b0101",
+      "type": "paragraph",
+      "text": "Bản tin cộng đồng treo ở sảnh liên tục cập nhật những chuyến tàu về NewHorizon. Ảnh giới thiệu thành phố D3 hiện lên: các khu nhà ở rộng rãi, đại lộ xanh, trường học, trung tâm y tế, khu dịch vụ, ngân hàng, phố mua sắm và bến trung chuyển xuống hành tinh thủ phủ. Tại đó, chính quyền đã dành một phân khu để người Elysia sống gần nhau, khôi phục mạng lưới gia đình, hàng xóm và cộng đồng nghề nghiệp. Nhiều người lần đầu kể từ cuộc sơ tán bắt đầu bàn với nhau chuyện tìm việc, cho con đi học và mở lại một cửa hàng nhỏ."
+    },
+    {
+      "blockId": "b0102",
+      "type": "paragraph",
+      "text": "Theo lịch phân bổ từ Ban tái định cư, Valentine nhận phòng **tạm thời** dành cho nhân viên y tế sơ tán. Điểm định cư của cô vẫn là NewHorizon. Nhân viên phụ trách cho biết cô có thể **đăng ký nguyện vọng ngày khởi hành trong khoảng lưu trú tối đa ba mươi ngày**, nhưng lịch cuối cùng phải do trung tâm điều phối xác nhận, đồng thời đáp ứng điều kiện sức khỏe. Lần đầu tiên sau nhiều ngày, cô có một căn phòng riêng và một đêm không phải ngủ cạnh tiếng máy theo dõi sinh tồn."
+    },
+    {
+      "blockId": "b0103",
+      "type": "paragraph",
+      "text": "Nhưng cô tỉnh giấc hai lần vì tưởng nghe thấy còi báo động."
+    },
+    {
+      "blockId": "b0104",
+      "type": "paragraph",
+      "text": "Buổi sáng, nhân viên lưu trú kích hoạt quyền đi lại trong khu dân sự Lumina trên HUD của cô và chuyển một giấy hẹn tư vấn chuyên môn y tế do bộ phận hỗ trợ nhân sự sơ tán gửi đến. Bảng chỉ đường trên HUD đề xuất tuyến tàu tự động nhanh nhất, nhưng Valentine chọn xuống sớm một trạm để đi bộ. Cô muốn nhìn thật kỹ thành phố mà người ta vừa gọi là nơi an toàn."
+    },
+    {
+      "blockId": "b0105",
+      "type": "paragraph",
+      "text": "Cô bước qua những hành lang rộng mở, các tuyến tàu tự động và những quảng trường nằm dưới mái vòm quan sát bầu trời. Các công trình vươn cao đến choáng ngợp, nhưng ở chân những tòa tháp vẫn là công viên, lối đi lát đá, hồ nước và tán cây lớn. Thiết bị HUD chỉ đường cho ai cần; nhiều người đã tắt màn hình để trò chuyện, đi dạo và tận hưởng buổi sáng."
+    },
+    {
+      "blockId": "b0106",
+      "type": "scene",
+      "sceneId": "val-ch02-image-04",
+      "sceneTitle": "Minh họa phong cách đại đô thị VSS ban ngày — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+      "caption": "Minh họa phong cách đại đô thị VSS ban ngày — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-skyline-day",
+          "placement": "inline",
+          "caption": "Minh họa phong cách đại đô thị VSS ban ngày — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+          "path": "images/story/valentine/world-vss-cc0-skyline-day.webp",
+          "filename": "world-vss-cc0-skyline-day.webp",
+          "imageSha256": "bc6cc92ae530daf8e9c2675be9acee56cd99867ef8e8c4fe54962f96474c295e",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-skyline-day.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0107",
+      "type": "scene",
+      "sceneId": "val-ch02-image-05",
+      "sceneTitle": "Minh họa nhịp sống đô thị VSS — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+      "caption": "Minh họa nhịp sống đô thị VSS — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-morning-commute",
+          "placement": "inline",
+          "caption": "Minh họa nhịp sống đô thị VSS — WORLD/CC0 APPROVED; không phải ảnh xác nhận Lumina",
+          "path": "images/story/valentine/world-vss-cc0-morning-commute.webp",
+          "filename": "world-vss-cc0-morning-commute.webp",
+          "imageSha256": "a4cccc9fc5b34175fde8c21b24ad2bb460dd6c3ad9cc9a1c63c40c978d1d2a56",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-morning-commute.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0108",
+      "type": "paragraph",
+      "text": "Không gian ở đây khác Elysia. Những bệnh viện lớn nối trực tiếp với các tuyến vận chuyển cấp cứu; thiết bị tự hành đưa thuốc và vật tư qua những hành lang chuyên dụng; bảng chỉ dẫn hiển thị nhiều ngôn ngữ từ các khu vực trong Liên Minh."
+    },
+    {
+      "blockId": "b0109",
+      "type": "paragraph",
+      "text": "Nhưng điều Valentine nhớ nhất lại không phải công nghệ. Cô thấy những gia đình dừng chân ăn sáng dưới bóng cây, các đôi bạn trẻ mặc quần áo đi chơi rực rỡ chụp ảnh cạnh đài phun nước, một người cha kiên nhẫn tập cho con đạp chiếc xe nhỏ trong công viên. Một bà cụ đang tưới giàn hoa trước quán trà, mặc cho robot chăm sóc cây đứng ngay bên cạnh."
+    },
+    {
+      "blockId": "b0110",
+      "type": "paragraph",
+      "text": "“Cháu để bác tự tưới một chút,” bà cười khi thiết bị đề nghị giúp. “Làm vườn là thú vui của bác.”"
+    },
+    {
+      "blockId": "b0111",
+      "type": "paragraph",
+      "text": "Valentine bất giác mỉm cười. Công nghệ ở đây hiện diện ở khắp nơi, nhưng không buộc con người phải sống xa nhau hay rời khỏi thiên nhiên. Người ta vẫn chọn điều mình thích, từ một bộ váy đẹp để dạo phố đến một buổi ngồi trò chuyện thật lâu."
+    },
+    {
+      "blockId": "b0112",
+      "type": "paragraph",
+      "text": "Một nhóm sinh viên mặc đồng phục học viện đi ngang qua, cười nói về một kỳ thi sắp tới. Valentine dõi nhìn họ. Cô từng tưởng tượng mình sẽ đến thủ phủ trong một chuyến học tập, với hành lý và niềm háo hức của một người chuẩn bị bước vào cuộc sống mới."
+    },
+    {
+      "blockId": "b0113",
+      "type": "paragraph",
+      "text": "Giờ đây, hành lý của cô chỉ có vài bộ đồ được cấp lại, hồ sơ quân y và một danh sách những người mất liên lạc."
+    },
+    {
+      "blockId": "b0114",
+      "type": "scene",
+      "sceneId": "val-ch02-image-06",
+      "sceneTitle": "Valentine bước vào khu đô thị GIGA — ảnh FOCUS Chapter 02",
+      "caption": "Valentine bước vào khu đô thị GIGA — ảnh FOCUS Chapter 02",
+      "artworks": [
+        {
+          "assetId": "valentine-ch02-focus-02",
+          "placement": "inline",
+          "caption": "Valentine bước vào khu đô thị GIGA — ảnh FOCUS Chapter 02",
+          "path": "images/story/valentine/valentine-ch02-focus-02.webp",
+          "filename": "valentine-ch02-focus-02.webp",
+          "imageSha256": "9a0a55aad5affab06a01bb444f070e854752c3a6d2a66c3fd1ef1c30b578b4d0",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch02-focus-02.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0115",
+      "type": "scene",
+      "sceneId": "val-ch02-image-07",
+      "sceneTitle": "Trục quảng trường dân sự của đại đô thị — WORLD/CC0, cần xác minh trạng thái duyệt trước khi phát hành",
+      "caption": "Trục quảng trường dân sự của đại đô thị — WORLD/CC0, cần xác minh trạng thái duyệt trước khi phát hành",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-central-civic-axis",
+          "placement": "inline",
+          "caption": "Trục quảng trường dân sự của đại đô thị — WORLD/CC0, cần xác minh trạng thái duyệt trước khi phát hành",
+          "path": "images/story/valentine/world-vss-cc0-central-civic-axis.webp",
+          "filename": "world-vss-cc0-central-civic-axis.webp",
+          "imageSha256": "a87015c1869214b2ce2ec4b4d6fc8703fff736b4c4540c0703a74c44a2c34f1f",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-central-civic-axis.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0116",
+      "type": "paragraph",
+      "text": "Ở quảng trường gần trung tâm hỗ trợ, Valentine đứng lại trước một khu tưởng niệm tạm thời được đội cứu trợ và cộng đồng người Elysia vừa lập trong những ngày đầu. Trên đó là tên các đơn vị đã tham gia chiến dịch sơ tán Elysia: đội phòng vệ địa phương, nhân viên cứu hộ, các tàu dân sự, **VSS HYPER GUARDIAN** và những phi công của LAST STAND."
+    },
+    {
+      "blockId": "b0117",
+      "type": "paragraph",
+      "text": "Dưới biểu tượng BlackShark, người ta đặt những bó hoa nhỏ. Bên cạnh tên Alexander Shilva vẫn là dòng chữ **MẤT LIÊN LẠC — ĐANG TÌM KIẾM**, không phải xác nhận hy sinh."
+    },
+    {
+      "blockId": "b0118",
+      "type": "paragraph",
+      "text": "Một bé gái đang giữ tay mẹ, chỉ vào tên Alexander Shilva."
+    },
+    {
+      "blockId": "b0119",
+      "type": "paragraph",
+      "text": "“Mẹ ơi, đây có phải chú đã cứu tàu của mình không?”"
+    },
+    {
+      "blockId": "b0120",
+      "type": "paragraph",
+      "text": "Người mẹ cúi xuống."
+    },
+    {
+      "blockId": "b0121",
+      "type": "paragraph",
+      "text": "“Phải, con.”"
+    },
+    {
+      "blockId": "b0122",
+      "type": "paragraph",
+      "text": "“Chú ấy có về không?”"
+    },
+    {
+      "blockId": "b0123",
+      "type": "paragraph",
+      "text": "Người mẹ không trả lời ngay."
+    },
+    {
+      "blockId": "b0124",
+      "type": "paragraph",
+      "text": "“Người ta vẫn chưa tìm thấy chú ấy.”"
+    },
+    {
+      "blockId": "b0125",
+      "type": "paragraph",
+      "text": "Valentine đứng cách họ vài bước. Cô cũng không biết câu trả lời. Nhưng cô nhớ trên EVAC-07 đã có 1.184 người được cứu, và nhớ biết bao người khác đã ở lại để giữ hành lang sơ tán."
+    },
+    {
+      "blockId": "b0126",
+      "type": "paragraph",
+      "text": "Cô đặt một bông hoa trắng bên cạnh những bó hoa đã có, rồi tiếp tục đi đến trung tâm y tế."
+    },
+    {
+      "blockId": "b0127",
+      "type": "heading",
+      "level": 2,
+      "text": "04. Một cánh cửa mới"
+    },
+    {
+      "blockId": "b0128",
+      "type": "paragraph",
+      "text": "Tại trung tâm hỗ trợ, một bác sĩ phụ trách chương trình tiếp nhận nhân sự sơ tán xem lại hồ sơ của Valentine."
+    },
+    {
+      "blockId": "b0129",
+      "type": "paragraph",
+      "text": "“Cô là bác sĩ quân y của Elysia, từng tham gia các chuyến cứu hộ trong cuộc tập kích?”"
+    },
+    {
+      "blockId": "b0130",
+      "type": "paragraph",
+      "text": "“Vâng.”"
+    },
+    {
+      "blockId": "b0131",
+      "type": "paragraph",
+      "text": "“Chúng tôi đã nhận được xác nhận từ đơn vị điều phối y tế. Cô có kinh nghiệm cấp cứu và vận chuyển bệnh nhân trong môi trường không gian.”"
+    },
+    {
+      "blockId": "b0132",
+      "type": "paragraph",
+      "text": "“Nhưng tôi chưa hoàn tất chương trình chuyên sâu mà mình muốn theo học,” Valentine đáp. “Ở Elysia, tôi chưa có cơ hội.”"
+    },
+    {
+      "blockId": "b0133",
+      "type": "paragraph",
+      "text": "Vị bác sĩ mở một tài liệu khác."
+    },
+    {
+      "blockId": "b0134",
+      "type": "paragraph",
+      "text": "“Liên Minh đang triển khai hỗ trợ học tập và phục hồi nghề nghiệp cho nhân viên y tế sơ tán. Hồ sơ của cô đáp ứng điều kiện xem xét học bổng tại **Học viện Quốc gia VSS**.”"
+    },
+    {
+      "blockId": "b0135",
+      "type": "paragraph",
+      "text": "Valentine ngẩng lên."
+    },
+    {
+      "blockId": "b0136",
+      "type": "paragraph",
+      "text": "“Học viện Quốc gia VSS ạ?”"
+    },
+    {
+      "blockId": "b0137",
+      "type": "paragraph",
+      "text": "“Đúng. Nhưng tôi muốn cô hiểu đây là một cơ hội học tập, không phải phần thưởng cho những gì cô đã trải qua. Nếu cô tham gia, chương trình sẽ có đánh giá năng lực và các yêu cầu đào tạo như mọi học viên khác.”"
+    },
+    {
+      "blockId": "b0138",
+      "type": "paragraph",
+      "text": "“Tôi hiểu.”"
+    },
+    {
+      "blockId": "b0139",
+      "type": "paragraph",
+      "text": "“Cô có thể dành thời gian suy nghĩ về hướng học tập. Theo phương án tái định cư, cô sẽ chuyển về NewHorizon ở D3. Nếu tham gia chương trình ở thủ phủ hoặc được cơ sở y tế khác tuyển dụng, chúng tôi sẽ hỗ trợ hồ sơ điều chuyển hợp lệ; còn trước mắt, cô có thể tiếp tục công việc y tế trong thời gian lưu trú phục hồi tại Lumina.”"
+    },
+    {
+      "blockId": "b0140",
+      "type": "paragraph",
+      "text": "Sau khi Valentine xác nhận đồng ý nhận tài liệu, vị bác sĩ gửi bản giới thiệu chương trình đến tài khoản của cô qua hệ thống truyền tin VQN. Cô có thể xem chương trình học, mô phỏng cơ sở nghiên cứu và lịch tuyển sinh ngay tại chỗ; nhưng ông vẫn dành thời gian giải thích từng lựa chọn, đợi cô đọc kỹ, không thúc giục."
+    },
+    {
+      "blockId": "b0141",
+      "type": "paragraph",
+      "text": "Valentine nhìn bản giới thiệu chương trình. Những ngành học mà cô từng đọc qua trên các tài liệu gửi đến Elysia hiện ra trước mắt: cấp cứu thảm họa, y học không gian, hỗ trợ sinh tồn trong môi trường nguy hiểm và điều phối cứu hộ liên hạm đội."
+    },
+    {
+      "blockId": "b0142",
+      "type": "paragraph",
+      "text": "“Trước đây tôi rất muốn đến đây,” cô nói nhỏ. “Tôi cứ nghĩ sẽ học xong rồi trở về.”"
+    },
+    {
+      "blockId": "b0143",
+      "type": "paragraph",
+      "text": "Vị bác sĩ đặt tài liệu xuống."
+    },
+    {
+      "blockId": "b0144",
+      "type": "paragraph",
+      "text": "“Cô không cần quyết định tương lai của cả cuộc đời mình trong hôm nay.”"
+    },
+    {
+      "blockId": "b0145",
+      "type": "paragraph",
+      "text": "Valentine gật đầu. Cô xin bản thông tin, cảm ơn và rời khỏi phòng tư vấn."
+    },
+    {
+      "blockId": "b0146",
+      "type": "paragraph",
+      "text": "Chiều hôm ấy, cô nộp đơn xin hỗ trợ tự nguyện tại khu điều trị dành cho người sơ tán Elysia trong thời gian lưu trú tại Lumina. Điều phối viên giải thích rằng cô chỉ có thể tham gia sau khi đơn vị tiếp nhận xác minh chứng chỉ, tình trạng sức khỏe và phân công nhiệm vụ. Cô cũng gửi nguyện vọng **đi NewHorizon cùng một trong những đoàn chuyển cư dân cuối của đợt**, vì muốn tiếp tục hỗ trợ nếu được phép. Nhân viên điều phối chỉ xác nhận đã nhận đề nghị, chưa hứa chấp thuận; lịch rời GIGA vẫn phải nằm trong hạn cư trú và được phê duyệt theo sức khỏe, năng lực tiếp nhận của NewHorizon."
+    },
+    {
+      "blockId": "b0147",
+      "type": "paragraph",
+      "text": "Cô cần được làm việc. Không phải để quên những chuyện đã xảy ra, mà vì những người trước mặt vẫn đang cần một bác sĩ."
+    },
+    {
+      "blockId": "b0148",
+      "type": "heading",
+      "level": 2,
+      "text": "05. Lời thề dưới những vì sao"
+    },
+    {
+      "blockId": "b0149",
+      "type": "scene",
+      "sceneId": "val-ch02-image-08",
+      "sceneTitle": "Minh họa nhịp sống VSS về đêm — WORLD/CC0 APPROVED; không phải ảnh Lumina",
+      "caption": "Minh họa nhịp sống VSS về đêm — WORLD/CC0 APPROVED; không phải ảnh Lumina",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-skyline-night",
+          "placement": "inline",
+          "caption": "Minh họa nhịp sống VSS về đêm — WORLD/CC0 APPROVED; không phải ảnh Lumina",
+          "path": "images/story/valentine/world-vss-cc0-skyline-night.webp",
+          "filename": "world-vss-cc0-skyline-night.webp",
+          "imageSha256": "5d8052d935fea9c638ec10d94a155a24804bdb2440d853e26a4f14fb0d72025e",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-skyline-night.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0150",
+      "type": "paragraph",
+      "text": "Trước khi đêm xuống, Valentine đi ngang một khu vườn trên cao. Bên dưới những tán cây là những nhóm bạn đang ăn tối, những người yêu nhau tay trong tay và một ban nhạc nhỏ biểu diễn trực tiếp. Ánh hologram dùng để chỉ đường được giảm xuống vừa đủ; tiếng đàn thật và tiếng người trò chuyện mới là âm thanh nổi bật."
+    },
+    {
+      "blockId": "b0151",
+      "type": "scene",
+      "sceneId": "val-ch02-image-09",
+      "sceneTitle": "Minh họa môi trường đô thị VSS — ảnh tham chiếu WORLD/CC0, không phải ảnh Lumina",
+      "caption": "Minh họa môi trường đô thị VSS — ảnh tham chiếu WORLD/CC0, không phải ảnh Lumina",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-golden-horizon",
+          "placement": "inline",
+          "caption": "Minh họa môi trường đô thị VSS — ảnh tham chiếu WORLD/CC0, không phải ảnh Lumina",
+          "path": "images/story/valentine/world-vss-cc0-golden-horizon.webp",
+          "filename": "world-vss-cc0-golden-horizon.webp",
+          "imageSha256": "33b0f19476261eb5fd9460c542441e4b9453c0a991bac06e8c9ee0ea2205db7d",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-golden-horizon.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0152",
+      "type": "paragraph",
+      "text": "Đêm xuống trong mái vòm của thành phố Lumina. Valentine biết những con phố rực sáng này chỉ là chặng nghỉ chân của mình; sau ít ngày hoặc vài tuần, cô sẽ rời GIGA để cùng cộng đồng Elysia bắt đầu cuộc sống mới tại NewHorizon. Bên ngoài lớp kính kín áp suất là chân không và những tuyến phòng thủ; bên trong, các công viên đã chuyển sang chu kỳ ánh sáng ban đêm, dòng người thong thả trở về nhà. Tàu điện kín vẫn hoạt động, nhưng những khu vườn và quán ăn không vắng bóng người. Valentine hiểu rằng những gì cô từng gọi là “cơ sở trung chuyển” thực ra là cả một thế giới có thể sinh sống lâu dài."
+    },
+    {
+      "blockId": "b0153",
+      "type": "paragraph",
+      "text": "Từ khu quan sát của bệnh viện, Valentine nhìn thấy ánh đèn trên các tuyến giao thông và những vòng công trình xa xa. Phía sau chúng là bầu trời đầy sao."
+    },
+    {
+      "blockId": "b0154",
+      "type": "paragraph",
+      "text": "Một người đàn ông lớn tuổi mà cô đã chăm sóc từ chuyến sơ tán bước đến bên cửa kính. Ông vừa nhận được tin một người họ hàng đã được tìm thấy tại khu tiếp nhận khác."
+    },
+    {
+      "blockId": "b0155",
+      "type": "paragraph",
+      "text": "“Không phải vợ tôi,” ông nói trước khi Valentine kịp hỏi. “Nhưng ít nhất gia đình tôi cũng có thêm một người trở về.”"
+    },
+    {
+      "blockId": "b0156",
+      "type": "paragraph",
+      "text": "“Đó là tin tốt,” cô đáp."
+    },
+    {
+      "blockId": "b0157",
+      "type": "paragraph",
+      "text": "“Ngày nào tôi cũng nhìn danh sách. Bác sĩ biết mà.”"
+    },
+    {
+      "blockId": "b0158",
+      "type": "paragraph",
+      "text": "“Vâng.”"
+    },
+    {
+      "blockId": "b0159",
+      "type": "paragraph",
+      "text": "“Tôi thấy cô cũng vậy.”"
+    },
+    {
+      "blockId": "b0160",
+      "type": "paragraph",
+      "text": "Valentine không phủ nhận."
+    },
+    {
+      "blockId": "b0161",
+      "type": "paragraph",
+      "text": "Người đàn ông nhìn cô một lúc."
+    },
+    {
+      "blockId": "b0162",
+      "type": "paragraph",
+      "text": "“Đừng vì những người chưa tìm được mà quên những người cô đã cứu, bác sĩ.”"
+    },
+    {
+      "blockId": "b0163",
+      "type": "paragraph",
+      "text": "Ông nói lời chào rồi trở về phòng điều trị. Valentine ở lại một mình."
+    },
+    {
+      "blockId": "b0164",
+      "type": "paragraph",
+      "text": "Trong trí nhớ cô, mọi âm thanh của Elysia vẫn còn rõ ràng: tiếng báo động, những bước chân vội, giọng người phi công R-17 xác nhận lệnh, tiếng gọi cuối cùng từ khu số sáu. Cô nhớ hơn hai trăm bệnh nhân trên MED-04, nhớ những người cô chưa kịp biết tên, và nhớ những đoàn tàu đã rời Elysia dưới sự bảo vệ của những phi công không còn tín hiệu trở về."
+    },
+    {
+      "blockId": "b0165",
+      "type": "paragraph",
+      "text": "Cô không muốn biến những mất mát ấy thành một lời hứa rằng từ nay mình sẽ cứu được tất cả. Không bác sĩ nào có thể làm được điều đó."
+    },
+    {
+      "blockId": "b0166",
+      "type": "paragraph",
+      "text": "Nhưng cô có thể học thêm. Có thể trở nên giỏi hơn. Có thể chuẩn bị tốt hơn cho lần tiếp theo, để khi ai đó gọi cầu cứu, cô có nhiều lựa chọn hơn là chỉ nghe tín hiệu biến mất."
+    },
+    {
+      "blockId": "b0167",
+      "type": "paragraph",
+      "text": "Valentine chạm nhẹ vào HUD, mở bản hướng dẫn đăng ký **Học viện Quốc gia VSS** mà vị bác sĩ đã gửi sau buổi tư vấn. Hệ thống hiển thị các mục cần cung cấp và yêu cầu cô đồng ý cho truy xuất từng nhóm giấy tờ đã được xác minh. Cô đọc kỹ rồi mới cho phép điền thông tin phù hợp; riêng lý do theo học, cô phải tự viết."
+    },
+    {
+      "blockId": "b0168",
+      "type": "paragraph",
+      "text": "Cô đọc kỹ các yêu cầu, điền những thông tin đầu tiên và dừng lại trước mục *Lý do đăng ký*. Trên đầu biểu mẫu ghi rõ đây là **hồ sơ xin xét tuyển**, chưa phải giấy báo nhập học."
+    },
+    {
+      "blockId": "b0169",
+      "type": "paragraph",
+      "text": "Sau một lúc, cô viết:"
+    },
+    {
+      "blockId": "b0170",
+      "type": "paragraph",
+      "text": "*“Tôi muốn học để có thể cứu được nhiều người hơn, kể cả ở những nơi mà sự giúp đỡ khó đến nhất. Tôi không thể thay đổi những gì đã xảy ra tại Elysia, nhưng tôi có thể chuẩn bị tốt hơn cho những sinh mạng sẽ được giao phó cho mình.”*"
+    },
+    {
+      "blockId": "b0171",
+      "type": "paragraph",
+      "text": "Cô nhìn dòng chữ rất lâu trước khi nhấn gửi hồ sơ xét tuyển."
+    },
+    {
+      "blockId": "b0172",
+      "type": "paragraph",
+      "text": "Ngoài cửa kính, những đoàn tàu vẫn đi về trên các quỹ đạo an toàn. Hàng triệu người tiếp tục sống cuộc sống thường ngày, học tập, làm việc và trở về nhà sau một ngày dài."
+    },
+    {
+      "blockId": "b0173",
+      "type": "paragraph",
+      "text": "Valentine vẫn chưa biết khi nào mình sẽ nhận được câu trả lời từ học viện. Cô biết trước mắt mình sẽ về NewHorizon ở D3, nơi cộng đồng Elysia được bố trí định cư; điều chưa rõ chỉ là con đường học tập và công việc sẽ mở ra sau đó. Cô cũng không biết bao giờ mới có tin về đồng đội ở khu số sáu, hay ngày nào Elysia có thể được xây dựng lại."
+    },
+    {
+      "blockId": "b0174",
+      "type": "paragraph",
+      "text": "Nhưng lần đầu tiên kể từ buổi sáng 08:42 ấy, cô đã có thể nhìn về phía trước mà không cảm thấy mình đang bỏ lại quê hương."
+    },
+    {
+      "blockId": "b0175",
+      "type": "paragraph",
+      "text": "Bởi con đường cô muốn đi không bắt đầu bằng việc quên Elysia."
+    },
+    {
+      "blockId": "b0176",
+      "type": "paragraph",
+      "text": "Nó bắt đầu bằng việc nhớ lấy Elysia, và tiếp tục sống để cứu người."
+    },
+    {
+      "blockId": "b0177",
+      "type": "paragraph",
+      "text": "**— HẾT CHƯƠNG 02: LỜI THỀ DƯỚI NHỮNG VÌ SAO —**"
+    },
+    {
+      "blockId": "b0178",
+      "type": "paragraph",
+      "text": "---"
+    }
+  ],
+  "content": "01. Trái Tim Của Liên Minh VSS\n\nBa ngày kể từ lúc đoàn tàu rời vùng không gian gần Elysia, Valentine đã gần quen với sắc sáng xanh bạc trải dài bên ngoài cửa sổ. Các con tàu đang đi trong **HyperSpeed Space** — hành lang siêu gia tốc do hệ thống Fargate thiết lập và ổn định. Trong vùng ấy, khoảng cách giữa những hệ sao được vượt qua nhờ trường dịch chuyển làm biến dạng không-thời gian quanh đội tàu; hành khách không phải chịu cảm giác bị ép vào ghế bởi một gia tốc khủng khiếp. Người trên tàu vẫn có thể đi lại, ngủ, chăm sóc người bị thương, dù không một ai quên được họ vừa bỏ lại điều gì phía sau.\n\nValentine đang thay băng cho một bệnh nhân khi ánh sáng dịu trên trần khoang chậm rãi chuyển sang màu trắng. Trên tất cả chiến hạm, tuần dương hạm, tàu khu trục, tàu bệnh viện và tàu dân sự thuộc **đoàn hộ tống sơ tán Elysia — RED CODE, giai đoạn 2**, các màn hình hologram đồng loạt sáng lên. Giao diện chia thành hai phần: bên trái là tuyến đường có một điểm sáng đang di chuyển; bên phải là thông báo dành cho hành khách, được đọc bằng giọng nói rõ ràng, ấm áp.\n\n**Hologram hành trình — Đoàn sơ tán Elysia:**\n\n> **ELYSIA** — Điểm xuất phát sơ tán  \n> ↓ **ANTIGRAVITY** — Thành phố quân sự; điểm tiếp cận tuyến HyperSpeed  \n> ↓ **HYPERSPEED SPACE** — Hành trình liên sao, ba ngày  \n> ↓ **VÙNG THỦ PHỦ VSS · DEFENDER D15** — **VỊ TRÍ TUYẾN ĐƯỜNG HIỆN TẠI · 99%**  \n> ↓ **GATEWAY FARGATE GIGA SPEED D12GiG92029192** — Điểm thoát HyperSpeed tại Defender 12  \n> ↓ **VSS GIGA RESCUE D10-A1** — Điểm đến tiếp nhận, cứu hộ và hồi phục\n\nDải định tuyến uốn từ vùng ngoài D15 về phía một biểu tượng cổng sáng rực ở D12. Ở góc màn hình, chú thích giải thích rằng **D15 là lớp phòng thủ ngoài cùng mà lộ trình đang đi qua**, còn **D12 là nơi đoàn tàu sẽ ra khỏi hành lang HyperSpeed**. Dòng *99%* biểu thị phần hành trình siêu tốc đã hoàn thành, không phải khoảng cách đến thành phố tiếp nhận cuối cùng.\n\n**Hologram thông báo — Điều phối hành khách:**\n\n> **CHÀO MỪNG CÁC BẠN ĐÃ ĐẾN VỚI VÙNG THỦ PHỦ LIÊN MINH VSS.**\n>\n> Đoàn sơ tán Elysia đã tiến vào phạm vi bảo vệ của thủ phủ. **Vị trí định tuyến hiện tại: Defender 15 — D15**, vành đai cảnh giới ngoài cùng.\n>\n> **Đoàn chúng ta dự kiến rời HyperSpeed Space sau khoảng ba phút**, qua **Gateway FarGate Giga Speed D12GiG92029192**, cửa ngõ liên sao được bảo vệ tại **Defender Zone 12 — D12**.\n>\n> Vui lòng giữ vị trí an toàn, cố định vật dụng cá nhân và hỗ trợ người cần chăm sóc. Nhân viên y tế tiếp tục làm việc theo hướng dẫn của trưởng khoang.\n\nGiọng thông báo ngừng một nhịp. Trên phần sơ đồ, điểm sáng tiến gần biểu tượng cổng, còn khung bên phải chuyển sang bảng đếm ngược. Khi đồng hồ bước vào những giây cuối, một thông báo khác vang lên — lần này là từ hệ thống điều hướng, không phải lời chào dành cho hành khách:\n\n> **CHUYỂN TIẾP HYPERSPEED — CHUẨN BỊ GIẢM TỐC TRƯỜNG HYPERWRAP.**  \n> **Ba… hai… một…**  \n> **Bắt đầu chu trình giảm cường độ trường dịch chuyển.**  \n> **Xin giữ vị trí an toàn và chờ chỉ dẫn điều phối.**\n\nMột vài người trong khoang ngước lên. Đứa bé đang ngủ trên vai mẹ mở mắt, hỏi rất nhỏ: “Mình về tới nhà rồi hả mẹ?” Người phụ nữ ôm con chặt hơn. “Chưa phải nhà mình,” chị nói, giọng nghẹn đi, “nhưng đến nơi an toàn rồi con.”\n\nValentine nhìn lên sau khi hoàn tất thao tác cố định dây truyền cho bệnh nhân. Qua cửa sổ khoang, những vệt sáng dài quanh thân tàu co lại thành các sợi mảnh. Dải ánh sáng HyperSpeed nhạt dần; rồi, trong một khoảnh khắc yên tĩnh gần như tuyệt đối, bầu trời sao thật trở lại.\n\nTrước đoàn tàu là **FarGate D12**. Cánh cổng liên sao đồ sộ đứng giữa một quần thể những vòng dẫn hướng và trụ phát trường khổng lồ, ánh đèn đánh dấu nhấp nháy dọc theo từng kết cấu. Bên ngoài nó, ba căn cứ quân sự lớn tạo thành mạng bảo vệ nhiều hướng. Từng đội chiến hạm tiền tiêu tuần tra trong các hành lang được kiểm soát; ở phía xa, một **Mega Transit Base** rực sáng đón tàu hàng, tàu khách và các đoàn vận tải từ những vùng sao khác đến.\n\n“Đẹp quá…” một điều dưỡng thì thầm.\n\nValentine không biết phải gọi cảnh tượng ấy là gì. Cô từng thấy những cảng lớn ở Elysia, nhưng chưa từng thấy một cửa ngõ giao thông được bảo vệ bởi nhiều công trình và chiến hạm đến vậy. Đây mới chỉ là nơi để người ta **bước vào** vùng thủ phủ, chưa phải nơi cư dân của họ sẽ ở.\n\nSau khi đoàn tàu rời hành lang HyperSpeed, bảng hành trình chuyển sang sơ đồ các lớp phòng thủ, giúp hành khách hiểu chặng đường còn lại. Ở tận giữa là hành tinh thủ phủ. Bao quanh nó là những vùng quỹ đạo được đánh số từ **D0** gần hành tinh đến **D10** ở rất xa. Xa hơn nữa, các vành đai **D11 đến D15** trải rộng trong không gian sâu, nơi đặt những cửa ngõ liên sao và các lực lượng bảo vệ tuyến tiếp cận. Chữ **D** là *Defender*: mỗi số chỉ một vành đai bảo vệ và điều phối, **không phải số tầng của một tòa nhà**. Thoát khỏi hành lang siêu tốc tại D12 nghĩa là đoàn tàu đã đến một cửa ngõ do quân đội VSS kiểm soát chặt chẽ; để tới khu đô thị tiếp nhận của họ ở D10, vẫn còn một chặng nữa.\n\nĐoàn hộ tống không ghé Mega Transit Base. Từ đài điều phối D12, các hoa tiêu nhận một tuyến đường riêng dẫn qua công trình kiểm tra nhập cảnh liên sao. Qua cửa quan sát, Valentine thấy những khung kim loại sáng bạc nối tiếp nhau, đủ rộng cho các tàu lớn đi qua. Cô không thể biết bên trong hệ thống đang kiểm tra những gì; trên màn hình hành khách chỉ hiện các mục dễ hiểu: **an toàn thân tàu, an ninh, hàng hóa khai báo và kiểm soát nguy cơ sinh học**. Riêng tại khoang y tế, điều dưỡng trưởng nhận được thông báo rằng khu vực bệnh nhân được phép tiếp tục chăm sóc bình thường trong lúc đoàn tàu được kiểm tra.\n\nTrên màn hình, một dòng chữ hiện lên: **ĐANG XÁC MINH AN TOÀN ĐOÀN TÀU — VUI LÒNG GIỮ NGUYÊN HÀNH LANG**.\n\n“Chúng ta có bị giữ lại không bác sĩ?” cụ ông Valentine từng chăm sóc hỏi.\n\nValentine nhìn lên dòng hướng dẫn dành cho hành khách rồi đáp: “Theo thông báo, đây là bước kiểm tra an toàn trước khi được vào vùng thủ phủ. Cháu cũng chưa từng đi qua cửa kiểm soát lớn thế này, nhưng họ đã cho phép các phòng y tế tiếp tục làm việc. Nếu có vấn đề, người điều phối sẽ hướng dẫn chúng ta.”\n\nĐoàn tàu giảm tốc và trôi qua khu quét. Không còi báo động, không một phát súng. Chỉ có tiếng nhân viên điều phối bình tĩnh xác nhận các bước. Khi lượt cuối cùng hoàn tất, thông báo mới hiện lên: **ĐÃ XÁC NHẬN — CHO PHÉP NHẬP VÙNG THỦ PHỦ VSS**.\n\nTín hiệu dẫn đường chuyển từ màu vàng sang xanh. Một lệnh hành trình được gửi đồng thời đến ba hạm đội hộ tống và các tàu dân sự:\n\n> **ĐÍCH ĐẾN: VSS GIGA RESCUE D10-A1**\n>\n> **Tên đầy đủ: VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION**\n>\n> **Thời gian hành trình dự kiến bằng Cruise Engine: khoảng 60 phút.**\n\nKhi đoàn tàu kích hoạt **Cruise Engine** — chế độ hành trình tốc độ cao trong không gian thông thường, khác với HyperSpeed Space vừa rời khỏi — những đốm sáng xanh lại hiện lên ở đuôi động cơ. Không ai cần quay lại cổng FarGate; cả đoàn đã được chấp thuận đi thẳng về căn cứ D10.\n\nKhi các bệnh nhân trong ca đã được theo dõi ổn định và bàn giao cho đồng nghiệp, Valentine mới có thể đứng bên cửa sổ trong một phần chặng bay kéo dài khoảng một giờ. Qua mỗi đoạn hành lang bay, cô lại thấy một cảnh tượng khác: trạm cảnh giới hướng những ăng-ten dài vào vùng tối; những chiến hạm đồ sộ đứng yên bên ụ tiếp liệu; các căn cứ độc lập nối với nhau bằng tuyến tàu vận tải và những chấm sáng từ xa hóa ra là cả một đội tuần tra. Từng lớp phòng thủ chồng lên nhau đến nỗi cô không thể biết đâu là điểm kết thúc của một căn cứ và đâu là điểm bắt đầu của căn cứ tiếp theo.\n\nMột sĩ quan giải thích cho nhóm hành khách đứng cạnh cửa sổ: “Bảo vệ thủ phủ không phải dựng một bức tường rồi hy vọng nó đứng vững. Các vành đai ngoài theo dõi từ rất xa. Nếu có nguy cơ, lực lượng ở đó xử lý trước khi nó tới gần khu dân cư. Càng vào trong, các tuyến vận tải và thành phố càng được bảo vệ nhiều lớp hơn.”\n\n“Vậy tất cả những tàu này đều để đánh nhau ạ?” đứa bé nọ hỏi.\n\n“Để mọi người **không phải** đánh nhau ở nhà mình,” người sĩ quan đáp, cúi xuống ngang tầm mắt em.\n\nValentine thấy người mẹ khẽ mỉm cười. Sau nhiều ngày chỉ nghe thông báo sơ tán, một lời giải thích đơn giản như thế khiến ai cũng dễ thở hơn.\n\nĐúng khoảng một giờ sau, ánh sáng dày lên ở phía trước. Ban đầu, Valentine tưởng mình đang nhìn thấy một cụm hạm đội tập hợp quanh một ngôi sao nhân tạo. Nhưng rồi những vòng sáng tách ra: đó là các vành đai kiến trúc, các cây cầu cảng nhô xa vào không gian, những dãy ụ bảo dưỡng cùng các tháp cảnh giới dựng đứng, tất cả tạo thành một quần thể lớn tới mức con tàu phải tiếp tục tiến gần mới nhìn rõ được lõi trung tâm.\n\nGiữa những vòng công trình là một **đại đô thị được che chở bởi mái vòm kính kín khí**. Ánh sáng trải trên hồ nước và các dải cây xanh; những tòa nhà cao vút hiện lên như một đường chân trời không thuộc về không gian. Bên ngoài khu dân cư, các cầu cảng nhận tàu liên sao, khu sửa chữa chiến hạm và cụm radar phòng thủ tiếp tục hoạt động. Đằng sau tất cả không phải một hành tinh khổng lồ treo sát mái nhà — thủ phủ còn ở rất xa — mà là nền sao mênh mông và ánh sáng của ngôi sao trung tâm.\n\nPhía trước quần thể, **biểu tượng Liên Minh VSS** hiện lên dưới dạng hologram lớn, sáng rõ giữa các tuyến tàu đang ra vào. Không chỉ để phô trương: đó cũng là cột mốc dẫn đường mà mọi đoàn tàu trở về từ không gian sâu đều nhận ra.\n\nCác màn hình trong đội hình chuyển cảnh. Cửa sổ quan sát được mở chế độ nhìn rộng; giọng điều phối vang lên:\n\n> **CHÀO MỪNG ĐẾN VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION — VSS GIGA RESCUE D10-A1.**\n>\n> **Quần thể tiếp nhận, cứu hộ, sửa chữa và đô thị trọng điểm thuộc vành đai phòng thủ Defender 10 của hành tinh thủ phủ VSS.**\n>\n> **Kính mời các tàu tuân thủ hướng dẫn phân cảng.**\n\nValentine đọc lại cái tên dài trên màn hình. Một nữ điều dưỡng khẽ cười: “Cái tên này chắc người ở đây không gọi hết nổi mỗi ngày.”\n\nNgười phụ trách liên lạc của tàu, vốn đang kiểm tra hướng dẫn cập cảng vừa nhận từ GIGA, quay lại giải thích: “Trong tài liệu dành cho hành khách họ gọi ngắn cả quần thể là **GIGA D10-A1**. Còn thành phố dân cư dưới mái kính tên **Lumina** — cái tên được người dân đề xuất và chính quyền VSS công nhận. Đây là hai nơi lồng vào nhau, không phải hai điểm đến tách biệt.”\n\nNgười phụ trách mở bản giới thiệu công khai của GIGA cho mọi người xem. Từng hình ảnh hiện lên: bệnh viện, trường học, khu mua sắm, sân thể thao, một khu rừng được chăm sóc qua nhiều thế hệ và cả bãi biển nhân tạo. Valentine mới hiểu đây không phải chỉ là điểm dừng cho người sơ tán. **Lumina là một thành phố có người sinh ra, lớn lên, làm việc và sống cả đời**. Còn bên ngoài mái kính, GIGA vận hành những cảng, ụ sửa chữa và công trình phòng thủ để bảo vệ nhịp sống ấy.\n\n“D10 là tên một thành phố khác à?” cụ ông hỏi.\n\nValentine nhìn lại sơ đồ vừa được người phụ trách chỉ cho xem. “Theo bản đồ này, D10 là tên vành đai phòng thủ. GIGA D10-A1 là cả quần thể, còn Lumina là thành phố bên trong mái kính, bác ạ.”\n\n“À,” ông gật gù. “Vậy là chúng ta không phải sống trong một doanh trại.”\n\n“Chắc là không ạ,” cô đáp, mỉm cười với ông. “Hình giới thiệu còn có cả rừng và công viên. Khi xuống tàu, chúng ta sẽ biết rõ hơn.”\n\nBấy giờ, một gương mặt quen thuộc hiện trên màn hình chung. **Chỉ huy William** đứng trong khoang chỉ huy với bộ đồng phục đã qua nhiều ngày chiến đấu. Sau lưng ông không còn ánh đỏ báo động. Ông nhìn vào ống kính một lúc, như cố tìm lời đủ đơn giản để nói với hàng nghìn người đang nghe:\n\n“Thưa đồng bào Elysia, thưa các đồng đội. Chúng ta đã đến GIGA D10-A1, vùng tiếp nhận an toàn của thủ phủ Liên Minh VSS. Từ thời điểm này, chiến dịch RED CODE sẽ bước sang **giai đoạn ba: chăm sóc phục hồi và ổn định nơi định cư**.”\n\nÔng dừng lại.\n\n“Chúng ta đã mất quá nhiều trên đường đi. Có những người chưa thể trở về cùng chúng ta, và những người đang được tiếp tục tìm kiếm. Tôi biết một thông báo không thể làm vơi đi nỗi đau ấy. Nhưng nhiệm vụ đưa đoàn sơ tán đến vùng thủ phủ đã hoàn thành. Từ đây, các bác sĩ, nhân viên cứu trợ và chính quyền VSS sẽ tiếp nhận mọi người. Xin hãy nghỉ ngơi, chăm sóc nhau và đừng ngại yêu cầu giúp đỡ. Các bạn không còn phải chạy trốn nữa.”\n\nKhông có tiếng reo hò lớn. Có người khép mắt, có người khóc, có người cứ nhìn vào màn hình như chưa tin lời ông. Rồi từng tiếng vỗ tay nhỏ vang lên, lan dọc khoang. Valentine đứng im. Cô nghĩ đến MED-04, khu số sáu và những tín hiệu chưa có lời đáp. William không nói rằng tất cả đã bình an. Ông chỉ xác nhận rằng **những người đang ở đây cuối cùng đã được bảo vệ**. Với Valentine, lúc này như vậy đã là rất nhiều.\n\nTrên tuyến vào cảng, các chiến hạm **VSS HYPER GUARDIAN**, **VSS HYPER SPEED** và **VSS FARGARE 2** bắt đầu tách sang các hành lang quân sự. Cả ba là những đơn vị thuộc **mười hai căn cứ hạm đội thường trú** tại GIGA. Họ đã rời nhà để cứu Elysia, rồi mang những người sống sót trở về chính nơi đóng quân của mình. Những chiến hạm bị hư hại được ưu tiên về ụ sửa chữa; các tàu bệnh viện hướng thẳng đến cầu cảng y tế, nơi đội cấp cứu đã chuẩn bị sẵn.\n\nXa hơn, Valentine thấy các ụ neo đủ lớn đón chiến hạm hạng nặng và tàu khách liên sao; những cánh tay máy dịch chuyển quanh một thân tàu đang chờ thay giáp. Có những tàu hàng mang thuốc và thực phẩm từ các khu đô thị phía trong, có tàu chuyển vật tư bằng hệ thống **VSS Hyper Speed Transport** từ hành tinh thủ phủ và căn cứ lân cận. Mọi hoạt động ấy diễn ra như nhịp thở thường ngày của một đại đô thị — chỉ riêng ngày hôm nay, nhịp thở ấy còn dành thêm chỗ cho Elysia.\n\nTrong khoang y tế của R-17, điều dưỡng trẻ tên Mai kiểm tra lần cuối số túi thuốc còn lại, rồi nhìn những chỉ dẫn mới trên bảng bàn giao.\n\n“Chị Valentine, bên GIGA đã phân sẵn giường cho bệnh nhân của mình. Họ làm sao biết ai cần mổ, ai phải dùng thuốc đặc biệt khi tàu còn chưa cập cảng?”\n\nValentine nhìn bảng danh sách vừa đồng bộ. Cô cũng đang tự hỏi điều ấy.\n\n“Chị chưa biết,” cô đáp. “Có lẽ lúc bàn giao mình nên hỏi đội tiếp nhận. Đừng đoán rồi hướng dẫn sai bệnh nhân.”\n\nTàu R-17 sau đó mới ghép nối với cảng y tế. Khi hai bên hoàn tất cân bằng áp suất, cửa nối mở ra. Valentine cùng Mai đưa bệnh nhân qua hành lang nhận ca. Một bác sĩ của GIGA đã chờ ở đó, tay cầm bảng hồ sơ. Anh kiểm tra vòng nhận dạng của người bệnh rồi hỏi tên và tình trạng hiện tại, dù thông tin tóm tắt đã hiện sẵn trên màn hình.\n\n“Bệnh nhân này có đợt khó thở trong ngày thứ hai,” Valentine nói. “Tạm ổn, nhưng cần theo dõi sát.”\n\n“Chúng tôi đã chuẩn bị giường theo dõi và thuốc dự phòng,” bác sĩ đáp. “Cảm ơn cô. Tôi sẽ xác nhận lại mọi chỉ định trước khi nhận ca.”\n\nMai tranh thủ hỏi: “Xin lỗi bác sĩ, hồ sơ của chúng tôi đến đây bằng cách nào nhanh thế ạ?”\n\nNgười bác sĩ chỉ vào biểu tượng **VQN** trên bảng điều phối. “Đây là **VSS Quantum Network**. Có thể hình dung như một mạng thông tin nối các cơ sở của Liên Minh trên khắp thiên hà. VSS xây dựng và vận hành nó; các dữ liệu được phép chia sẻ đi tới nơi cần nhận với độ trễ rất thấp. Trong chuyến đi, đội điều phối đã gửi trước hồ sơ cấp cứu, nên chúng tôi có thời gian chuẩn bị giường, thuốc và nhân lực.”\n\n“Vậy bệnh viện nào cũng nhìn thấy hết hồ sơ của bệnh nhân sao?” Valentine hỏi.\n\n“Không,” anh lắc đầu. “Mỗi người chỉ được xem phần cần cho nhiệm vụ và đã được cấp quyền. Hồ sơ gửi nhanh không thay thế việc chúng tôi khám lại, xác nhận danh tính hay hỏi ý kiến người bệnh. Mạng có thể giúp một lời cầu cứu tới nơi kịp lúc; **chăm sóc và quyết định điều trị vẫn do con người chịu trách nhiệm**.”\n\nValentine nhìn sang Mai. Cả hai đã hiểu vì sao công việc ở đây có thể chuẩn bị sớm đến vậy. Nhưng điều khiến cô yên tâm hơn là vị bác sĩ đã hỏi bệnh nhân trước khi nhìn lâu vào màn hình.\n\nỞ sảnh tiếp nhận ngay sau hành lang y tế, một nhân viên cứu trợ đang quỳ xuống buộc lại dây giày cho đứa trẻ. Bên cạnh thiết bị tự động hướng dẫn hành khách, các nhân viên khác vẫn ngồi trực để trò chuyện với người mất thiết bị, không đọc được chữ hoặc chỉ cần có người lắng nghe. Valentine nhận ra ở GIGA, công nghệ được dùng để đưa sự giúp đỡ đến nhanh hơn, **không phải để thay thế sự hiện diện của con người**.\n\n“Bác sĩ, chúng ta đã đến nơi thật rồi sao?” ông hỏi.\n\n“Vâng,” Valentine đáp. “Chúng ta đã đến GIGA. Ông sẽ được nghỉ ngơi rồi.”\n\nValentine trao bảng bàn giao, nhìn theo cáng bệnh nhân đi khuất. Cô quay lại bên ô kính lớn của sảnh tiếp nhận. Ngoài kia, các vành đai phòng thủ và thành phố Lumina vẫn sáng giữa không gian đen thẳm. Hàng nghìn người bên trong đang có một ngày làm việc, một buổi hẹn hoặc một bữa cơm gia đình bình thường.\n\nNếu **một thành phố tiền đồn** của VSS đã hùng vĩ đến thế, Valentine không tưởng tượng nổi hành tinh thủ phủ thực sự còn như thế nào.\n\nVà lần đầu tiên kể từ Elysia, cô đứng ở một nơi mà tiếng loa phát ra không phải lệnh chạy trốn, mà là lời mời mọi người nghỉ ngơi.\n\n02. Những cái tên trên danh sách\n\nSau khi ký hoàn tất bàn giao y tế tại cầu cảng, Valentine được hướng dẫn tới **sảnh dân sự của quần thể GIGA D10-A1** để đăng ký thông tin tạm trú và tìm người mất liên lạc. Tại đây, các đội cứu trợ đang phân luồng: người cần điều trị chuyên sâu đến bệnh viện, gia đình đến quầy cư trú, trẻ em không có người thân đi cùng được tiếp nhận bởi đội bảo trợ dân sự.\n\nKhi trở ra hành lang, cô nhìn thấy một hàng người dài trước bàn tìm kiếm thân nhân. Mỗi người cầm một danh sách, một bức ảnh hoặc số hiệu của chuyến tàu mà họ nghĩ người thân đã lên.\n\nNhờ phần giải thích của bác sĩ GIGA lúc bàn giao, Valentine đã biết vì sao hồ sơ có thể đến trước con người. Tuy nhiên, bảng tra cứu ở đây còn liên quan tới những thông tin rất riêng tư; chỉ nhân viên phụ trách mới được mở các hồ sơ chi tiết. Nhưng ở đây, người ta không phải hiểu công nghệ mới được giúp đỡ. Nhân viên luôn có mặt bên các quầy để đọc danh sách cùng gia đình, viết hộ đơn tìm người và giải thích từng kết quả. Những ai mất thiết bị trong cuộc sơ tán được phát HUD tạm hoặc nhận bản giấy nếu muốn.\n\nValentine thử dùng HUD y tế của mình để tra cứu, nhưng quyền truy cập ấy chỉ phục vụ chăm sóc bệnh nhân, không cho phép xem danh sách tìm người toàn vùng. Cô tắt giao diện rồi đứng vào hàng ở quầy cứu trợ, nơi mỗi yêu cầu được nhân viên có thẩm quyền tiếp nhận và đối chiếu.\n\nỞ bảng thông tin, những kết quả mới liên tục được cập nhật: **ĐÃ XÁC NHẬN AN TOÀN**, **ĐANG ĐỐI CHIẾU**, **CHƯA CÓ THÔNG TIN**.\n\nĐến lượt mình, cô đưa số hiệu đội cứu hộ từng mất liên lạc tại **khu số sáu của Elysia**. Người phụ trách nhập mã, yêu cầu cô xác nhận tên và thời điểm liên lạc cuối cùng, rồi lắc đầu: chưa có kết quả xác minh.\n\nValentine xin kiểm tra lại một lần nữa. Nhân viên kiên nhẫn đối chiếu cả mã đơn vị lẫn vị trí cuối, nhưng kết quả vẫn vậy.\n\n“Cô cũng đang tìm người sao?” một nhân viên cứu trợ hỏi.\n\n“Đồng đội của tôi. Họ mất liên lạc lúc chúng tôi đang thực hiện nhiệm vụ.”\n\n“Cô có thể bổ sung tên, vị trí cuối cùng và thời điểm nhận tín hiệu. Những hồ sơ này sẽ được đối chiếu với danh sách người điều trị chưa xác định danh tính ở tất cả các trạm.”\n\nValentine ghi từng thông tin thật cẩn thận. Cô nhớ giọng nói qua bộ đàm, nhớ câu cuối cùng họ bảo cô đi cứu MED-04. Cô không ghi chữ *đã hy sinh*. Không ai có bằng chứng cho kết luận ấy.\n\nKhi nộp hồ sơ, cô nói:\n\n“Nếu có tin tức, xin liên lạc với tôi. Bất kể kết quả thế nào.”\n\n“Chúng tôi sẽ làm vậy. Nếu có tin, cô sẽ nhận được lời nhắn ngay. Và nếu cô muốn, chúng tôi sẽ có người trực tiếp báo cho cô, giải thích rõ ràng. Không ai ở đây phải tự đọc một kết quả đau lòng rồi xoay xở một mình.”\n\nTrước khi rời quầy, Valentine nhận thêm một bản hướng dẫn mang dấu xác nhận của **Ban điều phối tái định cư Liên Minh VSS**. Trang đầu không phải đơn lựa chọn thành phố, mà là quyết định bố trí nơi ở cho toàn bộ cộng đồng sơ tán Elysia theo **REDCODE — giai đoạn 3**.\n\n**Điểm đến định cư chính thức: thành phố quỹ đạo NewHorizon — MEGA HABITAT ORBIT CITY, mã D3_HABI_MEGACIT_MK3, thuộc vành đai D3.**\n\nD3 nằm gần hành tinh thủ phủ hơn nhiều so với D10. Khác với vành đai tiền đồn có nhiều cảng chiến hạm và căn cứ sửa chữa như GIGA, các đô thị tại D3 được quy hoạch chủ yếu cho đời sống dân cư: gia đình, trường học, bệnh viện, việc làm, thương mại, ngân hàng, giải trí và những tuyến giao thông thuận tiện đi đến hành tinh thủ phủ. NewHorizon là một đại đô thị hoàn chỉnh, đủ rộng để chính quyền dành riêng **một phân khu tiếp nhận cộng đồng Elysia**, giúp các gia đình, người quen và những người cùng trải qua thảm họa có thể sống gần nhau, hỗ trợ nhau xây dựng lại cuộc đời.\n\nTrên bản hướng dẫn, một dòng chữ được in nổi bật: **LUMINA — CƠ SỞ TIẾP NHẬN VÀ PHỤC HỒI TẠM THỜI; THỜI HẠN LƯU TRÚ TỐI ĐA 30 NGÀY.**\n\nValentine hơi cau mày, bèn hỏi người phụ trách:\n\n“Vậy mọi người sẽ không ở lại Lumina lâu dài sao?”\n\n“Không phải theo kế hoạch sơ tán này, bác sĩ,” người nhân viên đáp. “GIGA là nơi đón đoàn, cứu chữa, nghỉ ngơi và hoàn tất hồ sơ. **NewHorizon mới là nơi Liên Minh đã chuẩn bị để cư dân Elysia định cư.** Người khỏe và đủ giấy tờ có thể đi trước, không cần chờ cả đoàn. Người đang điều trị sẽ được sắp xếp chuyến chuyển viện hoặc vận chuyển phù hợp khi bác sĩ xác nhận an toàn.”\n\n“Còn những người muốn ở lại thành phố này?”\n\n“Họ không thể tự đổi nơi cư trú chỉ vì thích Lumina hơn. Ai muốn xin chuyển phải có lý do chính đáng, chẳng hạn nhiệm vụ công vụ, nhu cầu chuyên môn, một vị trí công tác được phê chuẩn hoặc quyết định riêng của cơ quan quản lý dân số và chính quyền liên quan. Những trường hợp chưa đủ sức di chuyển được xem xét **gia hạn y tế bằng quyết định riêng**, chứ không bị đưa lên tàu khi còn nguy hiểm.”\n\nCô đưa Valentine xem lịch vận tải. Hàng ngày sẽ có nhiều chuyến **Internal VSS Hyper Speed Transport** nối GIGA D10-A1 với NewHorizon ở D3. Người sơ tán được cấp hành trình, khu nhà tạm đầu tiên, cơ sở y tế tiếp nối và đầu mối hỗ trợ tìm việc. Các gia đình được ưu tiên đi cùng nhau; trường hợp có người thân đang nằm viện sẽ có nhân viên xã hội liên hệ để lên lịch phù hợp.\n\n“Có nghĩa là Liên Minh đã sắp xếp cả chỗ ở và công việc hỗ trợ ban đầu rồi?” Valentine hỏi.\n\n“Chúng tôi đã chuẩn bị **hạ tầng, suất cư trú và hệ thống kết nối việc làm**. Không phải ai cũng có công việc ngay ngày đầu, nhưng ở NewHorizon có các trung tâm giới thiệu việc làm, đào tạo lại, hỗ trợ tài chính và trường học cho trẻ em. Người dân không phải tự mình tìm một góc trống giữa vùng thủ phủ rộng lớn để bắt đầu lại.”\n\nValentine nhìn tấm sơ đồ phân khu dành cho Elysia. Những dãy nhà, công viên, bệnh viện và trường học được đánh dấu quanh một quảng trường cộng đồng. Cô bỗng nghĩ tới những người quen vẫn đang lang thang tìm nhau trong khu tiếp nhận. Được ở gần nhau không làm Elysia trở lại; nhưng có lẽ đó là cách để những người còn sống giữ được một phần quê hương.\n\nValentine rời quầy với một mã hồ sơ tìm kiếm trong tay. Đó chưa phải câu trả lời, nhưng ít nhất những người mất liên lạc đã có một nơi để tiếp tục được tìm kiếm.\n\n03. Lumina — thành phố dưới bầu trời kính\n\nTrong những ngày chờ đến lượt chuyển về **NewHorizon tại D3**, cư dân Elysia được bố trí nơi ở tạm và các khu phục hồi tại **thành phố Lumina trong quần thể GIGA D10**. Có gia đình chỉ lưu lại vài ngày trước khi lên chuyến tàu tiếp theo; người cao tuổi, trẻ nhỏ hoặc người bị thương được theo dõi lâu hơn tùy tình trạng. Những người mất người thân được hỗ trợ tâm lý và tiếp tục đăng ký tìm kiếm. **Ba mươi ngày là giới hạn lưu trú tạm thời thông thường**, không phải lời hứa rằng ai cũng có thể ở đúng ba mươi ngày hay phải rời viện khi chưa đủ sức khỏe.\n\nBản tin cộng đồng treo ở sảnh liên tục cập nhật những chuyến tàu về NewHorizon. Ảnh giới thiệu thành phố D3 hiện lên: các khu nhà ở rộng rãi, đại lộ xanh, trường học, trung tâm y tế, khu dịch vụ, ngân hàng, phố mua sắm và bến trung chuyển xuống hành tinh thủ phủ. Tại đó, chính quyền đã dành một phân khu để người Elysia sống gần nhau, khôi phục mạng lưới gia đình, hàng xóm và cộng đồng nghề nghiệp. Nhiều người lần đầu kể từ cuộc sơ tán bắt đầu bàn với nhau chuyện tìm việc, cho con đi học và mở lại một cửa hàng nhỏ.\n\nTheo lịch phân bổ từ Ban tái định cư, Valentine nhận phòng **tạm thời** dành cho nhân viên y tế sơ tán. Điểm định cư của cô vẫn là NewHorizon. Nhân viên phụ trách cho biết cô có thể **đăng ký nguyện vọng ngày khởi hành trong khoảng lưu trú tối đa ba mươi ngày**, nhưng lịch cuối cùng phải do trung tâm điều phối xác nhận, đồng thời đáp ứng điều kiện sức khỏe. Lần đầu tiên sau nhiều ngày, cô có một căn phòng riêng và một đêm không phải ngủ cạnh tiếng máy theo dõi sinh tồn.\n\nNhưng cô tỉnh giấc hai lần vì tưởng nghe thấy còi báo động.\n\nBuổi sáng, nhân viên lưu trú kích hoạt quyền đi lại trong khu dân sự Lumina trên HUD của cô và chuyển một giấy hẹn tư vấn chuyên môn y tế do bộ phận hỗ trợ nhân sự sơ tán gửi đến. Bảng chỉ đường trên HUD đề xuất tuyến tàu tự động nhanh nhất, nhưng Valentine chọn xuống sớm một trạm để đi bộ. Cô muốn nhìn thật kỹ thành phố mà người ta vừa gọi là nơi an toàn.\n\nCô bước qua những hành lang rộng mở, các tuyến tàu tự động và những quảng trường nằm dưới mái vòm quan sát bầu trời. Các công trình vươn cao đến choáng ngợp, nhưng ở chân những tòa tháp vẫn là công viên, lối đi lát đá, hồ nước và tán cây lớn. Thiết bị HUD chỉ đường cho ai cần; nhiều người đã tắt màn hình để trò chuyện, đi dạo và tận hưởng buổi sáng.\n\nKhông gian ở đây khác Elysia. Những bệnh viện lớn nối trực tiếp với các tuyến vận chuyển cấp cứu; thiết bị tự hành đưa thuốc và vật tư qua những hành lang chuyên dụng; bảng chỉ dẫn hiển thị nhiều ngôn ngữ từ các khu vực trong Liên Minh.\n\nNhưng điều Valentine nhớ nhất lại không phải công nghệ. Cô thấy những gia đình dừng chân ăn sáng dưới bóng cây, các đôi bạn trẻ mặc quần áo đi chơi rực rỡ chụp ảnh cạnh đài phun nước, một người cha kiên nhẫn tập cho con đạp chiếc xe nhỏ trong công viên. Một bà cụ đang tưới giàn hoa trước quán trà, mặc cho robot chăm sóc cây đứng ngay bên cạnh.\n\n“Cháu để bác tự tưới một chút,” bà cười khi thiết bị đề nghị giúp. “Làm vườn là thú vui của bác.”\n\nValentine bất giác mỉm cười. Công nghệ ở đây hiện diện ở khắp nơi, nhưng không buộc con người phải sống xa nhau hay rời khỏi thiên nhiên. Người ta vẫn chọn điều mình thích, từ một bộ váy đẹp để dạo phố đến một buổi ngồi trò chuyện thật lâu.\n\nMột nhóm sinh viên mặc đồng phục học viện đi ngang qua, cười nói về một kỳ thi sắp tới. Valentine dõi nhìn họ. Cô từng tưởng tượng mình sẽ đến thủ phủ trong một chuyến học tập, với hành lý và niềm háo hức của một người chuẩn bị bước vào cuộc sống mới.\n\nGiờ đây, hành lý của cô chỉ có vài bộ đồ được cấp lại, hồ sơ quân y và một danh sách những người mất liên lạc.\n\nỞ quảng trường gần trung tâm hỗ trợ, Valentine đứng lại trước một khu tưởng niệm tạm thời được đội cứu trợ và cộng đồng người Elysia vừa lập trong những ngày đầu. Trên đó là tên các đơn vị đã tham gia chiến dịch sơ tán Elysia: đội phòng vệ địa phương, nhân viên cứu hộ, các tàu dân sự, **VSS HYPER GUARDIAN** và những phi công của LAST STAND.\n\nDưới biểu tượng BlackShark, người ta đặt những bó hoa nhỏ. Bên cạnh tên Alexander Shilva vẫn là dòng chữ **MẤT LIÊN LẠC — ĐANG TÌM KIẾM**, không phải xác nhận hy sinh.\n\nMột bé gái đang giữ tay mẹ, chỉ vào tên Alexander Shilva.\n\n“Mẹ ơi, đây có phải chú đã cứu tàu của mình không?”\n\nNgười mẹ cúi xuống.\n\n“Phải, con.”\n\n“Chú ấy có về không?”\n\nNgười mẹ không trả lời ngay.\n\n“Người ta vẫn chưa tìm thấy chú ấy.”\n\nValentine đứng cách họ vài bước. Cô cũng không biết câu trả lời. Nhưng cô nhớ trên EVAC-07 đã có 1.184 người được cứu, và nhớ biết bao người khác đã ở lại để giữ hành lang sơ tán.\n\nCô đặt một bông hoa trắng bên cạnh những bó hoa đã có, rồi tiếp tục đi đến trung tâm y tế.\n\n04. Một cánh cửa mới\n\nTại trung tâm hỗ trợ, một bác sĩ phụ trách chương trình tiếp nhận nhân sự sơ tán xem lại hồ sơ của Valentine.\n\n“Cô là bác sĩ quân y của Elysia, từng tham gia các chuyến cứu hộ trong cuộc tập kích?”\n\n“Vâng.”\n\n“Chúng tôi đã nhận được xác nhận từ đơn vị điều phối y tế. Cô có kinh nghiệm cấp cứu và vận chuyển bệnh nhân trong môi trường không gian.”\n\n“Nhưng tôi chưa hoàn tất chương trình chuyên sâu mà mình muốn theo học,” Valentine đáp. “Ở Elysia, tôi chưa có cơ hội.”\n\nVị bác sĩ mở một tài liệu khác.\n\n“Liên Minh đang triển khai hỗ trợ học tập và phục hồi nghề nghiệp cho nhân viên y tế sơ tán. Hồ sơ của cô đáp ứng điều kiện xem xét học bổng tại **Học viện Quốc gia VSS**.”\n\nValentine ngẩng lên.\n\n“Học viện Quốc gia VSS ạ?”\n\n“Đúng. Nhưng tôi muốn cô hiểu đây là một cơ hội học tập, không phải phần thưởng cho những gì cô đã trải qua. Nếu cô tham gia, chương trình sẽ có đánh giá năng lực và các yêu cầu đào tạo như mọi học viên khác.”\n\n“Tôi hiểu.”\n\n“Cô có thể dành thời gian suy nghĩ về hướng học tập. Theo phương án tái định cư, cô sẽ chuyển về NewHorizon ở D3. Nếu tham gia chương trình ở thủ phủ hoặc được cơ sở y tế khác tuyển dụng, chúng tôi sẽ hỗ trợ hồ sơ điều chuyển hợp lệ; còn trước mắt, cô có thể tiếp tục công việc y tế trong thời gian lưu trú phục hồi tại Lumina.”\n\nSau khi Valentine xác nhận đồng ý nhận tài liệu, vị bác sĩ gửi bản giới thiệu chương trình đến tài khoản của cô qua hệ thống truyền tin VQN. Cô có thể xem chương trình học, mô phỏng cơ sở nghiên cứu và lịch tuyển sinh ngay tại chỗ; nhưng ông vẫn dành thời gian giải thích từng lựa chọn, đợi cô đọc kỹ, không thúc giục.\n\nValentine nhìn bản giới thiệu chương trình. Những ngành học mà cô từng đọc qua trên các tài liệu gửi đến Elysia hiện ra trước mắt: cấp cứu thảm họa, y học không gian, hỗ trợ sinh tồn trong môi trường nguy hiểm và điều phối cứu hộ liên hạm đội.\n\n“Trước đây tôi rất muốn đến đây,” cô nói nhỏ. “Tôi cứ nghĩ sẽ học xong rồi trở về.”\n\nVị bác sĩ đặt tài liệu xuống.\n\n“Cô không cần quyết định tương lai của cả cuộc đời mình trong hôm nay.”\n\nValentine gật đầu. Cô xin bản thông tin, cảm ơn và rời khỏi phòng tư vấn.\n\nChiều hôm ấy, cô nộp đơn xin hỗ trợ tự nguyện tại khu điều trị dành cho người sơ tán Elysia trong thời gian lưu trú tại Lumina. Điều phối viên giải thích rằng cô chỉ có thể tham gia sau khi đơn vị tiếp nhận xác minh chứng chỉ, tình trạng sức khỏe và phân công nhiệm vụ. Cô cũng gửi nguyện vọng **đi NewHorizon cùng một trong những đoàn chuyển cư dân cuối của đợt**, vì muốn tiếp tục hỗ trợ nếu được phép. Nhân viên điều phối chỉ xác nhận đã nhận đề nghị, chưa hứa chấp thuận; lịch rời GIGA vẫn phải nằm trong hạn cư trú và được phê duyệt theo sức khỏe, năng lực tiếp nhận của NewHorizon.\n\nCô cần được làm việc. Không phải để quên những chuyện đã xảy ra, mà vì những người trước mặt vẫn đang cần một bác sĩ.\n\n05. Lời thề dưới những vì sao\n\nTrước khi đêm xuống, Valentine đi ngang một khu vườn trên cao. Bên dưới những tán cây là những nhóm bạn đang ăn tối, những người yêu nhau tay trong tay và một ban nhạc nhỏ biểu diễn trực tiếp. Ánh hologram dùng để chỉ đường được giảm xuống vừa đủ; tiếng đàn thật và tiếng người trò chuyện mới là âm thanh nổi bật.\n\nĐêm xuống trong mái vòm của thành phố Lumina. Valentine biết những con phố rực sáng này chỉ là chặng nghỉ chân của mình; sau ít ngày hoặc vài tuần, cô sẽ rời GIGA để cùng cộng đồng Elysia bắt đầu cuộc sống mới tại NewHorizon. Bên ngoài lớp kính kín áp suất là chân không và những tuyến phòng thủ; bên trong, các công viên đã chuyển sang chu kỳ ánh sáng ban đêm, dòng người thong thả trở về nhà. Tàu điện kín vẫn hoạt động, nhưng những khu vườn và quán ăn không vắng bóng người. Valentine hiểu rằng những gì cô từng gọi là “cơ sở trung chuyển” thực ra là cả một thế giới có thể sinh sống lâu dài.\n\nTừ khu quan sát của bệnh viện, Valentine nhìn thấy ánh đèn trên các tuyến giao thông và những vòng công trình xa xa. Phía sau chúng là bầu trời đầy sao.\n\nMột người đàn ông lớn tuổi mà cô đã chăm sóc từ chuyến sơ tán bước đến bên cửa kính. Ông vừa nhận được tin một người họ hàng đã được tìm thấy tại khu tiếp nhận khác.\n\n“Không phải vợ tôi,” ông nói trước khi Valentine kịp hỏi. “Nhưng ít nhất gia đình tôi cũng có thêm một người trở về.”\n\n“Đó là tin tốt,” cô đáp.\n\n“Ngày nào tôi cũng nhìn danh sách. Bác sĩ biết mà.”\n\n“Vâng.”\n\n“Tôi thấy cô cũng vậy.”\n\nValentine không phủ nhận.\n\nNgười đàn ông nhìn cô một lúc.\n\n“Đừng vì những người chưa tìm được mà quên những người cô đã cứu, bác sĩ.”\n\nÔng nói lời chào rồi trở về phòng điều trị. Valentine ở lại một mình.\n\nTrong trí nhớ cô, mọi âm thanh của Elysia vẫn còn rõ ràng: tiếng báo động, những bước chân vội, giọng người phi công R-17 xác nhận lệnh, tiếng gọi cuối cùng từ khu số sáu. Cô nhớ hơn hai trăm bệnh nhân trên MED-04, nhớ những người cô chưa kịp biết tên, và nhớ những đoàn tàu đã rời Elysia dưới sự bảo vệ của những phi công không còn tín hiệu trở về.\n\nCô không muốn biến những mất mát ấy thành một lời hứa rằng từ nay mình sẽ cứu được tất cả. Không bác sĩ nào có thể làm được điều đó.\n\nNhưng cô có thể học thêm. Có thể trở nên giỏi hơn. Có thể chuẩn bị tốt hơn cho lần tiếp theo, để khi ai đó gọi cầu cứu, cô có nhiều lựa chọn hơn là chỉ nghe tín hiệu biến mất.\n\nValentine chạm nhẹ vào HUD, mở bản hướng dẫn đăng ký **Học viện Quốc gia VSS** mà vị bác sĩ đã gửi sau buổi tư vấn. Hệ thống hiển thị các mục cần cung cấp và yêu cầu cô đồng ý cho truy xuất từng nhóm giấy tờ đã được xác minh. Cô đọc kỹ rồi mới cho phép điền thông tin phù hợp; riêng lý do theo học, cô phải tự viết.\n\nCô đọc kỹ các yêu cầu, điền những thông tin đầu tiên và dừng lại trước mục *Lý do đăng ký*. Trên đầu biểu mẫu ghi rõ đây là **hồ sơ xin xét tuyển**, chưa phải giấy báo nhập học.\n\nSau một lúc, cô viết:\n\n*“Tôi muốn học để có thể cứu được nhiều người hơn, kể cả ở những nơi mà sự giúp đỡ khó đến nhất. Tôi không thể thay đổi những gì đã xảy ra tại Elysia, nhưng tôi có thể chuẩn bị tốt hơn cho những sinh mạng sẽ được giao phó cho mình.”*\n\nCô nhìn dòng chữ rất lâu trước khi nhấn gửi hồ sơ xét tuyển.\n\nNgoài cửa kính, những đoàn tàu vẫn đi về trên các quỹ đạo an toàn. Hàng triệu người tiếp tục sống cuộc sống thường ngày, học tập, làm việc và trở về nhà sau một ngày dài.\n\nValentine vẫn chưa biết khi nào mình sẽ nhận được câu trả lời từ học viện. Cô biết trước mắt mình sẽ về NewHorizon ở D3, nơi cộng đồng Elysia được bố trí định cư; điều chưa rõ chỉ là con đường học tập và công việc sẽ mở ra sau đó. Cô cũng không biết bao giờ mới có tin về đồng đội ở khu số sáu, hay ngày nào Elysia có thể được xây dựng lại.\n\nNhưng lần đầu tiên kể từ buổi sáng 08:42 ấy, cô đã có thể nhìn về phía trước mà không cảm thấy mình đang bỏ lại quê hương.\n\nBởi con đường cô muốn đi không bắt đầu bằng việc quên Elysia.\n\nNó bắt đầu bằng việc nhớ lấy Elysia, và tiếp tục sống để cứu người.\n\n**— HẾT CHƯƠNG 02: LỜI THỀ DƯỚI NHỮNG VÌ SAO —**\n\n---",
+  "sha256": "70e747310565dc85e851f6a89330d59bac5d8b1c5837a43940ff1dbf35e885d6"
+}
