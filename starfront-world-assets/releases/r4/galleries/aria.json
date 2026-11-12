@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/aria.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 10,
+  "verifiedImageCount": 20,
   "images": [
     {
       "assetId": "aria-01",
@@ -431,8 +431,8 @@
       "expectedSha256": "eab0b63df241cf0d806126b6302e7a4464c124af358fc153796877612bdab0b0",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-006.webp",
       "sourceMetadata": {
         "assetId": "aria-11",
         "classId": "aria",
@@ -470,8 +470,8 @@
       "expectedSha256": "1d95846dc957ed93dbfc29edd3fa35ff91abdeb51b12a6c4eb6da4520da4dec9",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-007.webp",
       "sourceMetadata": {
         "assetId": "aria-12",
         "classId": "aria",
@@ -519,8 +519,8 @@
       "expectedSha256": "46a0c6cd7b8db7e57d8b77146510b7f689c030508e37c306527426328a7d1adf",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-008.webp",
       "sourceMetadata": {
         "assetId": "aria-13",
         "classId": "aria",
@@ -558,8 +558,8 @@
       "expectedSha256": "eb9a6ba4721b847878684c3b0950e33e79efff349cb3f14c101acc1c186bd523",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-009.webp",
       "sourceMetadata": {
         "assetId": "aria-14",
         "classId": "aria",
@@ -597,8 +597,8 @@
       "expectedSha256": "dd20246e3cf6306ae973804f605c3d3dea17a6b45ceb51627a33ab7e7cc231b4",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-010.webp",
       "sourceMetadata": {
         "assetId": "aria-15",
         "classId": "aria",
@@ -636,8 +636,8 @@
       "expectedSha256": "7024e44bd4f056ab44698b17dab5356aa15313880247db9e1c526281cc16170a",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-011.webp",
       "sourceMetadata": {
         "assetId": "aria-16",
         "classId": "aria",
@@ -675,8 +675,8 @@
       "expectedSha256": "784c05d4e54e299db3d72468a5ce05be7ed2364b91cf0073981a1d25de9f452e",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-012.webp",
       "sourceMetadata": {
         "assetId": "aria-17",
         "classId": "aria",
@@ -714,8 +714,8 @@
       "expectedSha256": "836b58e2152eb13978e14b0750cb95bd0db15514de2556c5df836e060e3eee32",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-013.webp",
       "sourceMetadata": {
         "assetId": "aria-18",
         "classId": "aria",
@@ -753,8 +753,8 @@
       "expectedSha256": "a2e9a884858ba2fd20869ea2a3356664835e179eff4c8e0fc85314eb3809cb54",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-014.webp",
       "sourceMetadata": {
         "assetId": "aria-19",
         "classId": "aria",
@@ -793,8 +793,8 @@
       "expectedSha256": "08549b9b520ee5e1c9cf2ee9dd2e0981b848b9e6d65a5e526ffdcf50902ec35c",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/aria/aria-outfit-015.webp",
       "sourceMetadata": {
         "assetId": "aria-20",
         "classId": "aria",
