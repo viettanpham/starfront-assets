@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/lyra.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "lyra-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "3490889c351c2684787677e75bd14e89434448d6a7ca2cb3da1222d7637ba31b",
       "width": 948,
       "height": 1659,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-fullbody.webp",
       "sourceMetadata": {
         "assetId": "lyra-fullbody",
         "filename": "lyra-fullbody.webp",
@@ -63,8 +63,8 @@
       "expectedSha256": "86ba0a4ea8974016cd2812ee5210032f943e58ebeab5f8f8ac45759381f5bb50",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/lyra/lyra-portrait.webp",
       "sourceMetadata": {
         "assetId": "lyra-portrait",
         "filename": "lyra-portrait.webp",

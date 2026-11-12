@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/alviss.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "alviss-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "17172b9636c1467f448c66c399026c2d46a3eff01c9b53f135aceff782078c69",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-fullbody.webp",
       "sourceMetadata": {
         "filename": "alviss-fullbody.webp",
         "batch": "B01",
@@ -44,8 +44,8 @@
       "expectedSha256": "51ba2cd5206f8c64835339ce79436c3fd82fc28f0f5716d93e26a0583046f21a",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-portrait.webp",
       "sourceMetadata": {
         "filename": "alviss-portrait.webp",
         "batch": "B01",

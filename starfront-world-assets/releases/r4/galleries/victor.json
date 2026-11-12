@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/victor.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "victor-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "cf66f71e7e30002f46016a2e5f9adf9f6ac2e35a4a45c790fdf772f5e81c46f5",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-fullbody.webp",
       "sourceMetadata": {
         "filename": "victor-fullbody.webp",
         "relativePath": "images/BATCH_01/victor-fullbody.webp",
@@ -41,8 +41,8 @@
       "expectedSha256": "80cfd82277f1149778779662bc746a70bf307be6cf94814eeb318558a0b50134",
       "width": 1086,
       "height": 1448,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-portrait.webp",
       "sourceMetadata": {
         "filename": "victor-portrait.webp",
         "relativePath": "images/BATCH_01/victor-portrait.webp",

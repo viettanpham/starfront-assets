@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/eric.json",
   "sourceRecordCount": 15,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "eric-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "2e5e155e62262f4ee3a0c645f47f340c4761163fd33a7fb34e65c3f4046c72cb",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/eric/eric-fullbody.webp",
       "sourceMetadata": {
         "index": 1,
         "filename": "eric-fullbody.webp",
@@ -42,8 +42,8 @@
       "expectedSha256": "384314ac8909c5229557a548d784e3d8ee8faa2ec18eb5828e21e022a4ba25ab",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/eric/eric-portrait.webp",
       "sourceMetadata": {
         "index": 2,
         "filename": "eric-portrait.webp",

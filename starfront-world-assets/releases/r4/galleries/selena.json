@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "selena",
-  "status": "PENDING_BINARY_IMPORT",
+  "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/selena.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 2,
   "images": [
     {
       "assetId": "selena-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "1dabda2d381870b0e5bea444ba2cbcacf90052d852499eb883237dc40f190740",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-fullbody.webp",
       "sourceMetadata": {
         "index": 1,
         "batch": 1,
@@ -50,8 +50,8 @@
       "expectedSha256": "bf8d2c13cc6607cfd2e0847d69872b20fec820bd03cd0de4ce895871db8437fb",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-portrait.webp",
       "sourceMetadata": {
         "index": 2,
         "batch": 1,

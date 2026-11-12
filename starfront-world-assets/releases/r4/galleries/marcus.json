@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/marcus.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 0,
+  "verifiedImageCount": 1,
   "images": [
     {
       "assetId": "marcus-fullbody",
@@ -17,8 +17,8 @@
       "expectedSha256": "b95f94ad1c1a21aa687197bc9b8214e94aec5c05bbada2b36f149c04c35ad8b6",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-fullbody.webp",
       "sourceMetadata": {
         "filename": "marcus-fullbody.webp",
         "path": "images/marcus-fullbody.webp",
