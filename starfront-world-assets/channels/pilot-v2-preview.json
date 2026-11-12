@@ -2,15 +2,16 @@
   "schemaVersion": "starfront-content-channel-v1",
   "channel": "pilot-v2-preview",
   "releaseVersion": "r4",
-  "releaseCommitSha": "cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f",
-  "releaseManifestUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f/starfront-world-assets/releases/r4/manifest.json",
-  "releaseBaseUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f/starfront-world-assets/releases/r4/",
+  "releaseCommitSha": "3a3a4f267ebb7beb357d3cff39cd33382612f1d0",
+  "releaseManifestUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@3a3a4f267ebb7beb357d3cff39cd33382612f1d0/starfront-world-assets/releases/r4/manifest.json",
+  "releaseBaseUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@3a3a4f267ebb7beb357d3cff39cd33382612f1d0/starfront-world-assets/releases/r4/",
   "status": "PREVIEW_PARTIAL_ARTWORK_IMPORT",
   "updatedAt": "2026-11-12",
   "previewOnly": true,
   "notes": [
-    "Use this file as the stable app-config entrypoint. Resolve all relative URLs from releaseBaseUrl; never hardcode pilot/chapter/image lists.",
-    "R4 has 12 profiles, 12 Gallery metadata files, Valentine 5 chapters; only Kaelen 30/30 Gallery images have verified physical CDN assets.",
-    "R5 requires creating a new immutable release and updating THIS pointer atomically after release validation; no source-code edits for new content."
+    "Immutable R4 snapshot. 12 Pilot profiles, 12 Gallery manifests, Valentine 5 provisional chapters.",
+    "50 exact V2 WebPs hash-verified in Git: Kaelen30 and 20 other CORE images; 247 Gallery source records still pending binary import.",
+    "Only images with cdnStatus VERIFIED are renderable; never substitute V1.",
+    "R5 can add chapters/artwork/pilots by updating release manifest then atomically changing this pointer."
   ]
 }
