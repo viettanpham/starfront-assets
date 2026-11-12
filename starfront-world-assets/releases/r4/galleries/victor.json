@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "victor",
-  "status": "PARTIAL_CDN_STAGING",
+  "status": "READY",
   "sourceManifest": "source-manifests/victor.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 2,
+  "verifiedImageCount": 10,
   "images": [
     {
       "assetId": "victor-fullbody",
@@ -65,8 +65,8 @@
       "expectedSha256": "628e4ce58a2b457b59bd062726ee6a6ca01fe95dec73217e87431d112fb6685f",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-combat.webp",
       "sourceMetadata": {
         "filename": "victor-combat.webp",
         "relativePath": "images/BATCH_01/victor-combat.webp",
@@ -89,8 +89,8 @@
       "expectedSha256": "d6845f6f402affaecbf1735158b82cc015776e9b764723b14a8f7611d3fa8e69",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-closeup.webp",
       "sourceMetadata": {
         "filename": "victor-closeup.webp",
         "relativePath": "images/BATCH_01/victor-closeup.webp",
@@ -113,8 +113,8 @@
       "expectedSha256": "dc920c7c7a43512f0053d90993b87111059cea2fe3553e799b8884172f854451",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-activity.webp",
       "sourceMetadata": {
         "filename": "victor-activity.webp",
         "relativePath": "images/BATCH_01/victor-activity.webp",
@@ -137,8 +137,8 @@
       "expectedSha256": "5b43072d1dca7ebb4eca7a25837c67ace1bb744a5a7fd59fc4948a99efba97e1",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-outfit-001.webp",
       "sourceMetadata": {
         "filename": "victor-outfit-001.webp",
         "relativePath": "images/BATCH_01/victor-outfit-001.webp",
@@ -161,8 +161,8 @@
       "expectedSha256": "110caa5f0a6222cdef874bab438c51621dad4c46d55a2156039e2a34897d6542",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-outfit-002.webp",
       "sourceMetadata": {
         "filename": "victor-outfit-002.webp",
         "relativePath": "images/BATCH_01/victor-outfit-002.webp",
@@ -185,8 +185,8 @@
       "expectedSha256": "3b08ca3698c77e1857ea1d3794fd8a9fd800673a1de696fe56bf5797d57b6565",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-outfit-003.webp",
       "sourceMetadata": {
         "filename": "victor-outfit-003.webp",
         "relativePath": "images/BATCH_01/victor-outfit-003.webp",
@@ -209,8 +209,8 @@
       "expectedSha256": "cd2d6f40ede43ec09c235a5c9b142304c402b0fd26c763baaa858483a780ed38",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-outfit-004.webp",
       "sourceMetadata": {
         "filename": "victor-outfit-004.webp",
         "relativePath": "images/BATCH_01/victor-outfit-004.webp",
@@ -233,8 +233,8 @@
       "expectedSha256": "33f393893a8a8b85fd6870acb2ae600d787b9da6f1cb55db7c020c918829b70e",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/victor/victor-outfit-005.webp",
       "sourceMetadata": {
         "filename": "victor-outfit-005.webp",
         "relativePath": "images/BATCH_01/victor-outfit-005.webp",
