@@ -4,7 +4,7 @@
   "status": "PARTIAL_CDN_STAGING",
   "sourceManifest": "source-manifests/selena.json",
   "sourceRecordCount": 30,
-  "verifiedImageCount": 2,
+  "verifiedImageCount": 7,
   "images": [
     {
       "assetId": "selena-fullbody",
@@ -83,8 +83,8 @@
       "expectedSha256": "1e37e8e04ac1bc5321e8862932ed9c08e91065ecab25f4517f67df7f2528613d",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-combat.webp",
       "sourceMetadata": {
         "index": 3,
         "batch": 1,
@@ -116,8 +116,8 @@
       "expectedSha256": "1e949e4ae143bced00ec82f80eff4dd98ebe8b8e1960475e1a8bea893f7ea7fc",
       "width": 1072,
       "height": 1467,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-closeup.webp",
       "sourceMetadata": {
         "index": 4,
         "batch": 1,
@@ -150,8 +150,8 @@
       "expectedSha256": "428d4713f7b573bce0d5c35cbe5879ac6fc6975a09bb6991b560c42e1b7a7a56",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-activity.webp",
       "sourceMetadata": {
         "index": 5,
         "batch": 1,
@@ -184,8 +184,8 @@
       "expectedSha256": "d56a6cb2a5af947e6d4413ebc413bcd7e43569997cbc54451deccc716cc8cfdb",
       "width": 1122,
       "height": 1402,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-001.webp",
       "sourceMetadata": {
         "index": 6,
         "batch": 1,
@@ -217,8 +217,8 @@
       "expectedSha256": "b4443789dc3633c46e6f62f60762ca025d05282e15f3a4078f36aba182329fa7",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/selena/selena-outfit-002.webp",
       "sourceMetadata": {
         "index": 7,
         "batch": 1,
