@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "lyra",
+  "personaCode": "C06",
+  "classCharacterName": "Lyra",
+  "displayName": "Lyra",
+  "fullName": "Song Lyra",
+  "gender": "Nữ",
+  "role": "Phi công cơ động tốc độ cao",
+  "personality": "Tươi sáng, tự tin, linh hoạt",
+  "shortDescription": "Lyra mang nguồn năng lượng tươi vui vào những buổi huấn luyện căng thẳng. Cô yêu sự linh hoạt, học rất nhanh từ những đường bay khó và luôn tìm cách khiến đồng đội bớt áp lực mà vẫn tập trung vào nhiệm vụ.",
+  "characterQuote": "Bầu trời rộng thế này, sao mình chỉ chọn một đường bay?",
+  "specialties": [
+    "Cơ động tốc độ cao",
+    "né tránh",
+    "thích nghi"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Lyra mang nguồn năng lượng tươi vui vào những buổi huấn luyện căng thẳng. Cô yêu sự linh hoạt, học rất nhanh từ những đường bay khó và luôn tìm cách khiến đồng đội bớt áp lực mà vẫn tập trung vào nhiệm vụ."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": "galleries/lyra.json",
+    "cdnImportStatus": "PENDING_BINARY_IMPORT",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

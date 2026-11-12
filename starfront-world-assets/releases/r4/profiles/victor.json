@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "victor",
+  "personaCode": "C04",
+  "classCharacterName": "Victor",
+  "displayName": "Victor",
+  "fullName": "Shilva Victor",
+  "gender": "Nam",
+  "role": "Chuyên viên phòng thủ và hộ tống",
+  "personality": "Kiên định, vững vàng, bảo vệ đồng đội",
+  "shortDescription": "Victor là điểm tựa trong các đội hình cần chịu áp lực lâu dài. Anh ưu tiên giữ vị trí, tạo khoảng an toàn cho những người phía sau và bình tĩnh đánh giá khi nào nên tiến, khi nào phải che chắn.",
+  "characterQuote": "Tôi không cần đứng đầu. Tôi cần chắc rằng không ai bị bỏ lại.",
+  "specialties": [
+    "Phòng thủ trọng điểm",
+    "che chắn",
+    "hộ tống"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Victor là điểm tựa trong các đội hình cần chịu áp lực lâu dài. Anh ưu tiên giữ vị trí, tạo khoảng an toàn cho những người phía sau và bình tĩnh đánh giá khi nào nên tiến, khi nào phải che chắn."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": "galleries/victor.json",
+    "cdnImportStatus": "PENDING_BINARY_IMPORT",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}
