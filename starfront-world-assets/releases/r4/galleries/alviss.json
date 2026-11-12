@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "alviss",
-  "status": "PARTIAL_CDN_STAGING",
+  "status": "READY",
   "sourceManifest": "source-manifests/alviss.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 2,
+  "verifiedImageCount": 10,
   "images": [
     {
       "assetId": "alviss-fullbody",
@@ -71,8 +71,8 @@
       "expectedSha256": "91c32ad55319df7804329b7ceb9f561788c08b36891d5da4463ea43e8e044c04",
       "width": 1086,
       "height": 1448,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-combat.webp",
       "sourceMetadata": {
         "filename": "alviss-combat.webp",
         "batch": "B01",
@@ -98,8 +98,8 @@
       "expectedSha256": "56ba6c67e7ed8ec83bdcec7a0354936eede48d02b3a8b1d41e248b19e736d1bc",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-closeup.webp",
       "sourceMetadata": {
         "filename": "alviss-closeup.webp",
         "batch": "B01",
@@ -126,8 +126,8 @@
       "expectedSha256": "278d388fb65704434f49a3e4327ed3a856e910179e227b1ac16cb309b621db26",
       "width": 1536,
       "height": 1024,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-activity.webp",
       "sourceMetadata": {
         "filename": "alviss-activity.webp",
         "batch": "B01",
@@ -154,8 +154,8 @@
       "expectedSha256": "038dab55f3fadd214681089cd625e5e00a2911616370f86a2908f71dea35dfb6",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-outfit-001.webp",
       "sourceMetadata": {
         "filename": "alviss-outfit-001.webp",
         "batch": "B01",
@@ -182,8 +182,8 @@
       "expectedSha256": "f7fe8b4990bfeb074ffd03daefb06b55f59d5706da7e53783433b920c1d4da63",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-outfit-002.webp",
       "sourceMetadata": {
         "filename": "alviss-outfit-002.webp",
         "batch": "B01",
@@ -210,8 +210,8 @@
       "expectedSha256": "deaaac66e6a075fba8c57ccc2e82a1e225aba59a8ae52c7704d793e995d866b6",
       "width": 1536,
       "height": 1024,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-outfit-003.webp",
       "sourceMetadata": {
         "filename": "alviss-outfit-003.webp",
         "batch": "B01",
@@ -238,8 +238,8 @@
       "expectedSha256": "78b9b93a0b8e196be48ebb4b7a5772d7c717ba345fc62a9a0b9fabaa741ff460",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-outfit-004.webp",
       "sourceMetadata": {
         "filename": "alviss-outfit-004.webp",
         "batch": "B01",
@@ -266,8 +266,8 @@
       "expectedSha256": "26131dd55efe8f9855b9cbe2bc11345a3a5533a25c3e90f4f8b340ad2069ff6f",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/alviss/alviss-outfit-005.webp",
       "sourceMetadata": {
         "filename": "alviss-outfit-005.webp",
         "batch": "B01",
