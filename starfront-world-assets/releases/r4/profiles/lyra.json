@@ -30,7 +30,7 @@
   "artwork": {
     "source": "PILOT_REGISTER_AND_MANIFEST",
     "cdnManifestPath": "galleries/lyra.json",
-    "cdnImportStatus": "PARTIAL_25_VERIFIED",
+    "cdnImportStatus": "VERIFIED_30_ASSETS",
     "coreSlots": [
       "fullbody",
       "portrait",
