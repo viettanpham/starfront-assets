@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "starfront-content-channel-v1",
+  "channel": "pilot-v2-preview",
+  "releaseVersion": "r4",
+  "releaseCommitSha": "cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f",
+  "releaseManifestUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f/starfront-world-assets/releases/r4/manifest.json",
+  "releaseBaseUrl": "https://cdn.jsdelivr.net/gh/viettanpham/starfront-assets@cb2cb3a29b8f6862e17b10caa4c2621c41cbb46f/starfront-world-assets/releases/r4/",
+  "status": "PREVIEW_PARTIAL_ARTWORK_IMPORT",
+  "updatedAt": "2026-11-12",
+  "previewOnly": true,
+  "notes": [
+    "Use this file as the stable app-config entrypoint. Resolve all relative URLs from releaseBaseUrl; never hardcode pilot/chapter/image lists.",
+    "R4 has 12 profiles, 12 Gallery metadata files, Valentine 5 chapters; only Kaelen 30/30 Gallery images have verified physical CDN assets.",
+    "R5 requires creating a new immutable release and updating THIS pointer atomically after release validation; no source-code edits for new content."
+  ]
+}
