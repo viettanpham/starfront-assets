@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "aria",
+  "personaCode": "C10",
+  "classCharacterName": "Aria",
+  "displayName": "Aria",
+  "fullName": "Sterling Aria",
+  "gender": "Nữ",
+  "role": "Sĩ quan điều phối bay và hỗ trợ chiến thuật",
+  "personality": "Năng động, cởi mở, tỉ mỉ",
+  "shortDescription": "Aria yêu thích nhịp vận hành của những tuyến bay bận rộn. Cô kết nối thông tin, sắp xếp ưu tiên và hỗ trợ đồng đội ra quyết định nhanh mà không bỏ sót những chi tiết quan trọng.",
+  "characterQuote": "Một tuyến bay tốt bắt đầu từ việc mọi người hiểu nhau.",
+  "specialties": [
+    "Điều phối bay",
+    "truyền đạt thông tin",
+    "hỗ trợ tác chiến"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Aria yêu thích nhịp vận hành của những tuyến bay bận rộn. Cô kết nối thông tin, sắp xếp ưu tiên và hỗ trợ đồng đội ra quyết định nhanh mà không bỏ sót những chi tiết quan trọng."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": "galleries/aria.json",
+    "cdnImportStatus": "PENDING_BINARY_IMPORT",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}
