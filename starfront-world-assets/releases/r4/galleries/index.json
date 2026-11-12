@@ -3,7 +3,7 @@
   "status": "PARTIAL_SOURCE_BINARY_IMPORT",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 107,
+  "verifiedImageCount": 112,
   "items": [
     {
       "pilotId": "alviss",
@@ -45,7 +45,7 @@
       "pilotId": "selena",
       "manifestPath": "galleries/selena.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 7
+      "verifiedImageCount": 12
     },
     {
       "pilotId": "valentine",
