@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "nova",
+  "personaCode": "C12",
+  "classCharacterName": "Nova",
+  "displayName": "Nova",
+  "fullName": "Angel Nova",
+  "gender": "Nữ",
+  "role": "Phi công thử nghiệm và đột kích",
+  "personality": "Sáng tạo, độc lập, ham khám phá",
+  "shortDescription": "Nova bị thu hút bởi công nghệ bay mới và những phương án chưa từng được kiểm chứng đầy đủ. Cô thích thử nghiệm có kiểm soát, học qua thực hành và tìm cách biến sự linh hoạt thành ưu thế trong nhiệm vụ.",
+  "characterQuote": "Nếu còn cách tốt hơn, tôi muốn là người tìm ra nó.",
+  "specialties": [
+    "Thử nghiệm thiết bị",
+    "đột kích linh hoạt",
+    "cải tiến phương án"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Nova bị thu hút bởi công nghệ bay mới và những phương án chưa từng được kiểm chứng đầy đủ. Cô thích thử nghiệm có kiểm soát, học qua thực hành và tìm cách biến sự linh hoạt thành ưu thế trong nhiệm vụ."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

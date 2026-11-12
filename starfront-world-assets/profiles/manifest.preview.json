@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "starfront-v2-pilot-catalog-preview-v1",
+  "status": "PREVIEW_PARTIAL_ASSETS",
+  "edition": "2026-11-12-pilot-profile-draft-01",
+  "identitySource": "PILOT_CANONICAL_NAMES_2026-10-28.md",
+  "identitySourceDriveId": "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+  "dataRoot": "starfront-world-assets/",
+  "total": 12,
+  "storyPilotCount": 1,
+  "profileRecordCount": 12,
+  "entries": [
+    {
+      "pilotId": "alviss",
+      "personaCode": "C01",
+      "displayName": "Alviss",
+      "fullName": "Sterling Alviss",
+      "profilePath": "profiles/pilots/alviss.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "eric",
+      "personaCode": "C02",
+      "displayName": "Eric",
+      "fullName": "Cross Eric",
+      "profilePath": "profiles/pilots/eric.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "marcus",
+      "personaCode": "C03",
+      "displayName": "Marcus",
+      "fullName": "Water Marcus",
+      "profilePath": "profiles/pilots/marcus.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "victor",
+      "personaCode": "C04",
+      "displayName": "Victor",
+      "fullName": "Shilva Victor",
+      "profilePath": "profiles/pilots/victor.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "kaelen",
+      "personaCode": "C05",
+      "displayName": "Kaelen",
+      "fullName": "Kathy Kaelen",
+      "profilePath": "profiles/pilots/kaelen.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "lyra",
+      "personaCode": "C06",
+      "displayName": "Lyra",
+      "fullName": "Song Lyra",
+      "profilePath": "profiles/pilots/lyra.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "selena",
+      "personaCode": "C07",
+      "displayName": "Selena",
+      "fullName": "Vega Selena",
+      "profilePath": "profiles/pilots/selena.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "valentine",
+      "personaCode": "C08",
+      "displayName": "Valentine",
+      "fullName": "Aurelia Valentine",
+      "profilePath": "profiles/pilots/valentine.json",
+      "profileStatus": "REVIEW_SOURCE_CONSOLIDATION",
+      "storyAvailable": true,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "fortuna",
+      "personaCode": "C09",
+      "displayName": "Fortuna",
+      "fullName": "Christina Fortuna",
+      "profilePath": "profiles/pilots/fortuna.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "aria",
+      "personaCode": "C10",
+      "displayName": "Aria",
+      "fullName": "Sterling Aria",
+      "profilePath": "profiles/pilots/aria.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "rhea",
+      "personaCode": "C11",
+      "displayName": "Rhea",
+      "fullName": "Elena Rhea",
+      "profilePath": "profiles/pilots/rhea.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "nova",
+      "personaCode": "C12",
+      "displayName": "Nova",
+      "fullName": "Angel Nova",
+      "profilePath": "profiles/pilots/nova.json",
+      "profileStatus": "DRAFT_REVIEW",
+      "storyAvailable": false,
+      "galleryRuntimeReady": false
+    }
+  ],
+  "readerRules": {
+    "profileSource": "CDN_JSON_ONLY",
+    "storySource": "CDN_JSON_ONLY",
+    "gallerySource": "CDN_APPROVED_ASSET_MANIFEST_ONLY",
+    "neverHardcodeInApp": true,
+    "defaultStory": "EMPTY_IF_NO_STORY",
+    "imageState": "HIDE_UNVERIFIED",
+    "separateClassPersonaFromPilotInstance": true
+  },
+  "notes": [
+    "All 11 non-Valentine biographies/quotes are REVIEW drafts, not new Canon",
+    "Character class stats, trait effects, and GEAR compatibility cannot be inferred from profile proposal",
+    "No gallery files falsely marked available; physical CDN asset sync remains separate",
+    "Valentine chapter 04 is reconstruction preview, chapter 05 R02 draft"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "alviss",
+  "personaCode": "C01",
+  "classCharacterName": "Alviss",
+  "displayName": "Alviss",
+  "fullName": "Sterling Alviss",
+  "gender": "Nam",
+  "role": "Phi công tấn công cơ động",
+  "personality": "Táo bạo, ham thử thách, phản ứng nhanh",
+  "shortDescription": "Alviss ưu tiên tốc độ, góc tiếp cận và những quyết định chính xác trong các trận không chiến. Anh thích tự mình tìm lối đi khi tình huống thay đổi, nhưng sự táo bạo luôn phải đi cùng trách nhiệm với đội hình.",
+  "characterQuote": "Tốc độ chỉ có giá trị khi cả đội còn theo kịp.",
+  "specialties": [
+    "Cơ động trên không",
+    "tiếp cận nhanh",
+    "tấn công chủ động"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Alviss ưu tiên tốc độ, góc tiếp cận và những quyết định chính xác trong các trận không chiến. Anh thích tự mình tìm lối đi khi tình huống thay đổi, nhưng sự táo bạo luôn phải đi cùng trách nhiệm với đội hình."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

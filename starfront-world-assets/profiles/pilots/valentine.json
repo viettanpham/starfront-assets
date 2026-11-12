@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "valentine",
+  "personaCode": "C08",
+  "classCharacterName": "Valentine",
+  "displayName": "Valentine",
+  "fullName": "Aurelia Valentine",
+  "gender": "Nữ",
+  "role": "Quân y và cứu hộ chiến trường",
+  "personality": "Ân cần, kiên trì, có trách nhiệm",
+  "shortDescription": "Sinh trưởng tại Elysia, Valentine được đào tạo y khoa trước khi trải qua biến cố sơ tán và tiếp tục con đường phục vụ cứu hộ. Cô mang theo ký ức về những người mất liên lạc, nhưng vẫn tận tụy với những người có thể được cứu chữa ở hiện tại.",
+  "characterQuote": "Chừng nào còn một tín hiệu cầu cứu, tôi sẽ không bỏ lại ai phía sau.",
+  "specialties": [
+    "Quân y",
+    "cứu hộ",
+    "hỗ trợ bảo vệ"
+  ],
+  "contentStatus": "REVIEW_SOURCE_CONSOLIDATION",
+  "proseApproval": "MIXED_SOURCE_PROVENANCE",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "SOURCE_CHAPTERS_01_05",
+    "text": "Sinh trưởng tại Elysia, Valentine được đào tạo y khoa trước khi trải qua biến cố sơ tán và tiếp tục con đường phục vụ cứu hộ. Cô mang theo ký ức về những người mất liên lạc, nhưng vẫn tận tụy với những người có thể được cứu chữa ở hiện tại."
+  },
+  "origin": "Elysia",
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": true,
+    "chapterCount": 5,
+    "manifestPath": "stories/pilots/valentine/manifest.preview.json",
+    "status": "PROVISIONAL_REVIEW"
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1D3UUFW6TM0zZNJaMuWEuibXLlcf2zc-5",
+    "1xiS0TYDoNQd-hS3lrvwCQofhixAJd8IS"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

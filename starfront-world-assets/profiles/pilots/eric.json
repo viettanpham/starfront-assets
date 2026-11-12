@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "eric",
+  "personaCode": "C02",
+  "classCharacterName": "Eric",
+  "displayName": "Eric",
+  "fullName": "Cross Eric",
+  "gender": "Nam",
+  "role": "Phi công hỏa lực xung kích",
+  "personality": "Mạnh mẽ, thẳng thắn, quyết liệt",
+  "shortDescription": "Eric nổi bật ở khả năng duy trì áp lực hỏa lực và giữ vững tinh thần khi đội hình gặp sức ép. Anh hành động dứt khoát, coi việc bảo vệ đồng đội trong tuyến giao tranh là thước đo thực sự của sức mạnh.",
+  "characterQuote": "Nếu đã bước vào tuyến đầu, tôi sẽ giữ nó cho đến cùng.",
+  "specialties": [
+    "Đột kích trực diện",
+    "áp chế hỏa lực",
+    "phối hợp hạng nặng"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Eric nổi bật ở khả năng duy trì áp lực hỏa lực và giữ vững tinh thần khi đội hình gặp sức ép. Anh hành động dứt khoát, coi việc bảo vệ đồng đội trong tuyến giao tranh là thước đo thực sự của sức mạnh."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

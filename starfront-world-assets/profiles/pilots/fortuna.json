@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "fortuna",
+  "personaCode": "C09",
+  "classCharacterName": "Fortuna",
+  "displayName": "Fortuna",
+  "fullName": "Christina Fortuna",
+  "gender": "Nữ",
+  "role": "Chuyên viên chiến lược và xử lý cơ hội",
+  "personality": "Bí ẩn, tinh tế, tự tin",
+  "shortDescription": "Fortuna chú ý đến những cơ hội mà người khác thường bỏ qua. Cô kết hợp sự quan sát, khả năng lập phương án và lựa chọn thời điểm để chuyển một tình thế bất lợi thành lợi thế cho tập thể.",
+  "characterQuote": "May mắn thích người đã chuẩn bị sẵn đường lui.",
+  "specialties": [
+    "Đánh giá cơ hội",
+    "xử lý chiến thuật",
+    "ứng biến"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Fortuna chú ý đến những cơ hội mà người khác thường bỏ qua. Cô kết hợp sự quan sát, khả năng lập phương án và lựa chọn thời điểm để chuyển một tình thế bất lợi thành lợi thế cho tập thể."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}

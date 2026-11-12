@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "starfront-v2-pilot-profile-preview-v1",
+  "pilotId": "kaelen",
+  "personaCode": "C05",
+  "classCharacterName": "Kaelen",
+  "displayName": "Kaelen",
+  "fullName": "Kathy Kaelen",
+  "gender": "Nữ",
+  "role": "Phi công trinh sát và tình báo",
+  "personality": "Kín đáo, sắc sảo, quan sát tinh tế",
+  "shortDescription": "Kaelen quen với những nhiệm vụ đòi hỏi im lặng và khả năng đọc dấu hiệu rất nhỏ. Cô thường thu thập đủ dữ kiện trước khi hành động, chọn đường tiếp cận kín đáo và tránh những rủi ro không cần thiết.",
+  "characterQuote": "Điều quan trọng nhất thường nằm ở thứ chưa ai nhìn thấy.",
+  "specialties": [
+    "Trinh sát",
+    "cơ động né tránh",
+    "xử lý tình huống bí mật"
+  ],
+  "contentStatus": "DRAFT_REVIEW",
+  "proseApproval": "NOT_APPROVED",
+  "loreScope": "CLASS_PERSONA_NOT_PLAYER_INSTANCE",
+  "biography": {
+    "status": "DRAFT_SUMMARY_ONLY",
+    "text": "Kaelen quen với những nhiệm vụ đòi hỏi im lặng và khả năng đọc dấu hiệu rất nhỏ. Cô thường thu thập đủ dữ kiện trước khi hành động, chọn đường tiếp cận kín đáo và tránh những rủi ro không cần thiết."
+  },
+  "origin": null,
+  "training": null,
+  "traitDefinitionIds": null,
+  "baseAttributes": null,
+  "gearCompatibility": null,
+  "artwork": {
+    "source": "PILOT_REGISTER_AND_MANIFEST",
+    "cdnManifestPath": null,
+    "cdnImportStatus": "NOT_VERIFIED",
+    "coreSlots": [
+      "fullbody",
+      "portrait",
+      "combat",
+      "closeup",
+      "activity"
+    ],
+    "items": [],
+    "note": "Do not synthesize artwork URLs or treat Library approval as CDN deployment"
+  },
+  "story": {
+    "available": false,
+    "chapterCount": 0,
+    "manifestPath": null,
+    "status": "NO_STORY_WRITTEN",
+    "emptyState": "Truyện của nhân vật này đang được phát triển."
+  },
+  "sourceIds": [
+    "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
+    "1UyPu33WRXv2DxzG89bHccsv3-3QfCr7-"
+  ],
+  "safetyNote": "Persona descriptions and quotes newly drafted for UI REVIEW, not an alteration of approved lore or gameplay; proposed specialist role not automatically a class/stat/trait canon."
+}
