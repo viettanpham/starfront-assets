@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "starfront-gallery-source-inventory-v1",
+  "status": "SOURCE_DRIVE_VERIFIED__CDN_BYTES_PENDING",
+  "totalPilotCount": 12,
+  "totalSourceArtworkRecords": 297,
+  "sourceDate": "2026-11-12",
+  "assetPolicy": "Do not show missing/unverified WebPs; never hardcode gallery assets in React; Gallery imports reference exact approved filenames/hash and release tag.",
+  "pilots": [
+    {
+      "pilotId": "alviss",
+      "sourceManifestRecordCount": 10,
+      "driveSourceManifestId": "1jMjC4O_P0GQop_N-d2bT2p41H_h8FCZL",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "eric",
+      "sourceManifestRecordCount": 15,
+      "driveSourceManifestId": "175feYIQ6Fnb-SSo__S97vRVpK3T7WUkW",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "marcus",
+      "sourceManifestRecordCount": 10,
+      "driveSourceManifestId": "1tkK8n34tcAiHC1VJBHKKkgDdBe1hcucX",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "victor",
+      "sourceManifestRecordCount": 10,
+      "driveSourceManifestId": "13eDecisjj0yvNi_tAHbQqUdvYDtYUHib",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "kaelen",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1pUKz7g4OUl874tXqaYhgDH-nobnWVYrz",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "lyra",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1kaRVDbrEzh2vqG68LjMb48ezsEtNw5eU",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "selena",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1HO32VTH72U0lM4fQlt15NY_eACc2sCoK",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "valentine",
+      "sourceManifestRecordCount": 42,
+      "driveSourceManifestId": "10kyO53_ZN6KszZFKs1YXTeCGa6unNU4K",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "fortuna",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "13xfDVOeckRCyIq_Kf2XZj5U0W7XfTXq_",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "aria",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1B-t_yz8LyF7sQ_1HEDEJil3A5AjMgDV0",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "rhea",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1jen9WdqqVr5anLQXJ56D_JPclobYXleD",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    },
+    {
+      "pilotId": "nova",
+      "sourceManifestRecordCount": 30,
+      "driveSourceManifestId": "1anagNxLgiHQxQplP--yzYqVbAVnvwfkv",
+      "cdnImportStatus": "NOT_VERIFIED",
+      "galleryRuntimeReady": false
+    }
+  ],
+  "nextAction": "Import and verify actual approved WebP bytes and per-image SHA in repo, then create versioned physical gallery manifests; test FND8 UI."
+}
