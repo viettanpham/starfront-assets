@@ -1,0 +1,378 @@
+{
+  "schemaVersion": "starfront-story-chapter-v1",
+  "pilotId": "valentine",
+  "chapterId": "chap-04",
+  "chapterNumber": 4,
+  "title": "Một Ngày Không Tiếng Còi Báo Động",
+  "canonicalLibraryTitle": "Một Ngày Không Tiếng Còi Báo Động",
+  "editorialStatus": "REVIEW",
+  "contentStatus": "FULL_PROSE",
+  "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+  "readingTimeMinutes": 9,
+  "wordCount": 2057,
+  "revision": "03_RECONSTRUCTION",
+  "sourceNote": "Preview reconstruction only. Approved CH04 Rev03 exact verbatim text unavailable; NEVER represent as approved Rev03.",
+  "sourceIntegrity": "RECONSTRUCTED_NOT_APPROVED",
+  "blocks": [
+    {
+      "blockId": "b0001",
+      "type": "paragraph",
+      "text": "BẢN DỰNG LẠI ĐỂ ĐỌC THỬ — KHÔNG PHẢI NGUYÊN VĂN REV03 ĐÃ DUYỆT. Library hiện có biên bản duyệt và artwork nhưng chưa lưu toàn văn Chapter 04 hợp nhất. Phần này nối theo các mốc anh xác nhận: NewHorizon, bốn năm học viện, hai năm Rescue LightSpeed, Silent Beacon và MED-E/17. Không được dùng làm nguồn Canon xuất bản."
+    },
+    {
+      "blockId": "b0002",
+      "type": "heading",
+      "level": 2,
+      "text": "01. Những ngày bình yên ở NewHorizon"
+    },
+    {
+      "blockId": "b0003",
+      "type": "paragraph",
+      "text": "Những buổi sáng ở NewHorizon bắt đầu bằng tiếng tàu điện chạy qua khu vườn treo, tiếng cửa hàng mở cửa và những lời chào giữa các gia đình đã dần quen với cuộc sống mới. Sau quãng thời gian lưu trú tạm thời ở Lumina, Valentine biết ơn vì có thể thức dậy mà không cần nhìn vào bảng cảnh báo áp suất, không phải đếm số bệnh nhân trong một khoang sơ tán và cũng không nghe còi báo động."
+    },
+    {
+      "blockId": "b0004",
+      "type": "scene",
+      "sceneId": "val-ch04-image-01",
+      "sceneTitle": "Đại đô thị NewHorizon dưới ánh sáng của một ngày bình yên",
+      "caption": "Đại đô thị NewHorizon dưới ánh sáng của một ngày bình yên",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-habitat-city",
+          "placement": "inline",
+          "caption": "Đại đô thị NewHorizon dưới ánh sáng của một ngày bình yên",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-habitat-city.webp",
+          "filename": "world-vss-cc0-new-horizon-habitat-city.webp",
+          "imageSha256": "6c8c900d85254740ba28985be922ede4bd910511c08e48dfbfe255b48fd0b181",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-habitat-city.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0005",
+      "type": "paragraph",
+      "text": "Cô có một căn phòng đủ sáng, vài người bạn ở gần và một lịch sinh hoạt bắt đầu giống những gì người ta vẫn gọi là bình thường. Những ngày đầu, thỉnh thoảng Valentine vẫn giật mình khi có âm báo vang lên từ thiết bị cá nhân. Rồi cô nhận ra phần lớn chúng chỉ là lời nhắc lịch hẹn, thông báo giao thông hoặc thư của Mai."
+    },
+    {
+      "blockId": "b0006",
+      "type": "paragraph",
+      "text": "Ở sân vườn khu dân cư, có người trồng thêm hoa trước nhà. Những gia đình Elysia cùng nhau sửa soạn một góc sinh hoạt chung; trẻ nhỏ học cách gọi NewHorizon là nhà, dù người lớn vẫn giữ tên quê cũ trong câu chuyện mỗi tối."
+    },
+    {
+      "blockId": "b0007",
+      "type": "scene",
+      "sceneId": "val-ch04-image-02",
+      "sceneTitle": "Khu vườn dân cư NewHorizon và những gia đình đang xây lại cuộc sống",
+      "caption": "Khu vườn dân cư NewHorizon và những gia đình đang xây lại cuộc sống",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-residential-gardens",
+          "placement": "inline",
+          "caption": "Khu vườn dân cư NewHorizon và những gia đình đang xây lại cuộc sống",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-residential-gardens.webp",
+          "filename": "world-vss-cc0-new-horizon-residential-gardens.webp",
+          "imageSha256": "6821b5635a10bfb8e470e6956912da13807410481248af847365ef8a3b4d1603",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-residential-gardens.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0008",
+      "type": "paragraph",
+      "text": "Valentine tham gia một vài buổi gặp mặt cộng đồng và hỗ trợ những công việc y tế phù hợp với giấy phép hiện tại. Cô không còn muốn mỗi ngày chỉ sống giữa danh sách mất tích, nhưng cũng chưa bao giờ gạch bỏ những cái tên chưa có kết luận."
+    },
+    {
+      "blockId": "b0009",
+      "type": "paragraph",
+      "text": "Ngày hội “Sắc Màu Elysia” do cộng đồng tổ chức mang đến một niềm vui giản dị. Có những món ăn quen, những câu chuyện về các khu phố cũ và những tiết mục do chính cư dân biểu diễn. Những người chưa từng đến Elysia vẫn ghé xem, hỏi chuyện, chia sẻ và dần nhận ra những người tị nạn không chỉ mang theo một thảm họa — họ còn mang theo cả một nền văn hóa."
+    },
+    {
+      "blockId": "b0010",
+      "type": "scene",
+      "sceneId": "val-ch04-image-03",
+      "sceneTitle": "Bãi biển nhân tạo nơi cư dân NewHorizon có thể nghỉ ngơi",
+      "caption": "Bãi biển nhân tạo nơi cư dân NewHorizon có thể nghỉ ngơi",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-indoor-beach",
+          "placement": "inline",
+          "caption": "Bãi biển nhân tạo nơi cư dân NewHorizon có thể nghỉ ngơi",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-indoor-beach.webp",
+          "filename": "world-vss-cc0-new-horizon-indoor-beach.webp",
+          "imageSha256": "094b36a695ec9cf71eec34115145bcbab89423ab1ceb66f77bf252edff7c1579",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-indoor-beach.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0011",
+      "type": "paragraph",
+      "text": "Valentine cùng bạn bè đi qua khu giải trí, ghé khu bãi biển nhân tạo và dừng bên những cửa hàng nhỏ. Đôi khi cô bất giác nghĩ tới các bạn đồng nghiệp cũ ở bệnh viện Elysia. Cô không biết họ sẽ thích nơi này ra sao; chính vì không biết, cô càng trân trọng những người đang ở cạnh mình."
+    },
+    {
+      "blockId": "b0012",
+      "type": "scene",
+      "sceneId": "val-ch04-image-04",
+      "sceneTitle": "Không gian văn hóa và giao lưu cộng đồng ở NewHorizon",
+      "caption": "Không gian văn hóa và giao lưu cộng đồng ở NewHorizon",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-new-horizon-cultural-district",
+          "placement": "inline",
+          "caption": "Không gian văn hóa và giao lưu cộng đồng ở NewHorizon",
+          "path": "images/story/valentine/world-vss-cc0-new-horizon-cultural-district.webp",
+          "filename": "world-vss-cc0-new-horizon-cultural-district.webp",
+          "imageSha256": "d319d2aeb022fe7a2e1bef88fc4436cebc3c50c335575ae1e4da14a0c869d60c",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-new-horizon-cultural-district.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0013",
+      "type": "paragraph",
+      "text": "Trong một chuyến đi đến khu vực thủ phủ, Valentine gặp lại Mira. Hai người ngồi uống trà, kể về cuộc sống mới và con đường Valentine muốn tiếp tục. Cô đã hoàn thành đào tạo y khoa cơ bản tại Học viện Quân y địa phương Elysia trước thảm họa, nhưng để tham gia hệ thống quân y – cứu hộ cấp cao của VSS, cô vẫn phải trải qua tuyển chọn và đào tạo mới."
+    },
+    {
+      "blockId": "b0014",
+      "type": "scene",
+      "sceneId": "val-ch04-image-05",
+      "sceneTitle": "Khoảnh khắc Valentine nghỉ ngơi, trò chuyện trong chuyến thăm thủ phủ",
+      "caption": "Khoảnh khắc Valentine nghỉ ngơi, trò chuyện trong chuyến thăm thủ phủ",
+      "artworks": [
+        {
+          "assetId": "valentine-ch04-peaceful-afternoon-01",
+          "placement": "inline",
+          "caption": "Khoảnh khắc Valentine nghỉ ngơi, trò chuyện trong chuyến thăm thủ phủ",
+          "path": "images/story/valentine/valentine-ch04-peaceful-afternoon-01.webp",
+          "filename": "valentine-ch04-peaceful-afternoon-01.webp",
+          "imageSha256": "eb32fb6eedefb8ee51d3faf0eb7eb8f9bbe3e3ef48d8aa4da3848984561b61f8",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch04-peaceful-afternoon-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0015",
+      "type": "paragraph",
+      "text": "Thư xét tuyển khi ấy vẫn chưa đến. Valentine trở về nhà, đi ngang những ô cửa sáng đèn và nghĩ rằng, cho dù tương lai đưa mình đến đâu, cô vẫn có quyền mong chờ một ngày tốt đẹp."
+    },
+    {
+      "blockId": "b0016",
+      "type": "heading",
+      "level": 2,
+      "text": "02. Cánh cửa mở ra"
+    },
+    {
+      "blockId": "b0017",
+      "type": "paragraph",
+      "text": "Một buổi sáng khác, chiếc thiết bị cá nhân báo có thư chính thức từ VSS Supreme Medical & Rescue Academy — Học viện Quân y & Cứu hộ Tối cao VSS . Cô nhìn dòng thông báo được chấp thuận nhập học, lặng đi một lúc rồi bật cười vì niềm vui đến quá bất ngờ."
+    },
+    {
+      "blockId": "b0018",
+      "type": "paragraph",
+      "text": "Mai là người đầu tiên được cô báo tin. Buổi tối, những người hàng xóm và đồng đội cũ ở NewHorizon cùng chúc mừng. Trong tiếng cười, Valentine hiểu rằng bước tiếp không có nghĩa là quên đi nơi đã mất."
+    },
+    {
+      "blockId": "b0019",
+      "type": "paragraph",
+      "text": "Ngày rời NewHorizon, cô mang theo những vật dụng cần thiết, một tấm ảnh quê nhà và lời hứa sẽ quay lại thăm mọi người. Lần này là một chuyến đi mà cô được chủ động lựa chọn, không phải một cuộc sơ tán chạy đua với thời gian."
+    },
+    {
+      "blockId": "b0020",
+      "type": "heading",
+      "level": 2,
+      "text": "03. Bốn năm để trưởng thành"
+    },
+    {
+      "blockId": "b0021",
+      "type": "paragraph",
+      "text": "Học viện mở ra trước Valentine một thế giới rộng lớn: những phòng mô phỏng tai nạn không gian, trung tâm điều trị chuyên sâu, hệ thống phối hợp liên hạm đội và các nhà chứa phương tiện cứu hộ."
+    },
+    {
+      "blockId": "b0022",
+      "type": "paragraph",
+      "text": "Năm đầu, cô phải học lại cách đánh giá tình huống theo những tiêu chuẩn khắt khe hơn. Kiến thức nền tảng từ Elysia giúp cô không bỡ ngỡ với việc chăm sóc bệnh nhân, nhưng những thử thách mới buộc cô phải nghĩ xa hơn một bàn điều trị."
+    },
+    {
+      "blockId": "b0023",
+      "type": "paragraph",
+      "text": "Trong một bài mô phỏng, nguồn lực cứu hộ không đủ cho tất cả các khu vực. Valentine đã lựa chọn thứ tự ưu tiên dựa trên cơ hội sống và mức nguy hiểm, rồi xin thêm dữ liệu để tìm tuyến tiếp cận khác. Bài thi nhắc cô rằng lòng nhân ái cần đi cùng kỹ thuật và trách nhiệm."
+    },
+    {
+      "blockId": "b0024",
+      "type": "paragraph",
+      "text": "Đến năm thứ ba, Valentine được làm quen với Medic GEAR ASTER — một chiến cơ cứu hộ y tế chuyên dụng, không phải robot hình người . ASTER mang cảm biến sinh hiệu, drone hỗ trợ và những thiết bị giúp đội cứu nạn tiếp cận nơi tàu lớn khó tới. Nó không thay thế tàu mẹ trong hành trình liên sao và cũng không được thiết kế để lao vào giao tranh như một chiến cơ tấn công."
+    },
+    {
+      "blockId": "b0025",
+      "type": "paragraph",
+      "text": "Cô học cách tin vào đội điều phối, kỹ thuật viên và đồng đội cũng như tin vào quyết định của chính mình. Từng buổi tập, từng lần sửa lỗi khiến Valentine dần bớt nóng vội và biết điều hành một đội cứu hộ bằng sự bình tĩnh."
+    },
+    {
+      "blockId": "b0026",
+      "type": "paragraph",
+      "text": "Bốn năm sau, cô tốt nghiệp với vị trí thủ khoa toàn khóa . Giữa tiếng vỗ tay, Valentine chỉ ước một vài đồng nghiệp ở Elysia có thể nhìn thấy khoảnh khắc này."
+    },
+    {
+      "blockId": "b0027",
+      "type": "heading",
+      "level": 2,
+      "text": "04. Lời mời không ngờ"
+    },
+    {
+      "blockId": "b0028",
+      "type": "paragraph",
+      "text": "Ba ngày sau lễ tốt nghiệp, Valentine nhận thư mời tham gia tuyển chọn của VSS Rescue LightSpeed , hạm đội cứu hộ tinh nhuệ trong hệ thống trực thuộc Bộ Chỉ huy Tối cao."
+    },
+    {
+      "blockId": "b0029",
+      "type": "paragraph",
+      "text": "Thành tích thủ khoa không tự động bảo đảm được tiếp nhận. Cô vẫn phải trải qua các bước đánh giá chuyên môn, năng lực xử lý tình huống và phẩm chất khi thực hiện nhiệm vụ."
+    },
+    {
+      "blockId": "b0030",
+      "type": "paragraph",
+      "text": "Một người thầy nói với cô: “Điểm số khiến họ chú ý. Nhưng khi mạng sống của người khác phụ thuộc vào quyết định của em, họ muốn biết em sẽ làm gì.”"
+    },
+    {
+      "blockId": "b0031",
+      "type": "paragraph",
+      "text": "Valentine được tiếp nhận sau khi hoàn tất quá trình tuyển chọn. Cô tự nhủ rằng, nếu đây là cơ hội để có thêm một phương tiện, thêm một người đồng đội và thêm vài phút quý giá cho những bệnh nhân chưa gặp, cô sẽ không lãng phí nó."
+    },
+    {
+      "blockId": "b0032",
+      "type": "heading",
+      "level": 2,
+      "text": "05. Hai năm cùng Rescue LightSpeed"
+    },
+    {
+      "blockId": "b0033",
+      "type": "paragraph",
+      "text": "Hai năm phục vụ đem đến những nhiệm vụ không hề giống bài thi. Đó là các trạm khai thác gặp sự cố, tàu dân sự cần sơ tán, các khoang mất áp suất và những ca trực kéo dài đến khi mọi người đều kiệt sức."
+    },
+    {
+      "blockId": "b0034",
+      "type": "paragraph",
+      "text": "Có lần Valentine điều khiển ASTER tiếp cận hiện trường từ tàu mẹ; có lần cô ở khu điều trị, chờ những người khác đưa bệnh nhân trở về. Cô không làm mọi việc một mình. Giỏi cứu hộ nghĩa là biết phối hợp và hiểu giới hạn của từng thành viên."
+    },
+    {
+      "blockId": "b0035",
+      "type": "paragraph",
+      "text": "Sau hai năm, cô trở thành một sĩ quan quân y mà đồng đội có thể tin cậy. Từ tấm bằng ở học viện đến từng nhiệm vụ thực tế, sự trưởng thành của Valentine không nằm ở việc cô không còn sợ mất người, mà ở việc cô biết phải làm gì ngay cả khi nỗi sợ còn đó."
+    },
+    {
+      "blockId": "b0036",
+      "type": "paragraph",
+      "text": "Rồi một lịch điều động mới đưa cô đến gần cái tên đã ở trong ký ức suốt sáu năm: Aureon — Elysia ."
+    },
+    {
+      "blockId": "b0037",
+      "type": "heading",
+      "level": 2,
+      "text": "06. Elysia trong vùng tối"
+    },
+    {
+      "blockId": "b0038",
+      "type": "paragraph",
+      "text": "Elysia chưa được giải phóng. Sau cuộc tấn công, lực lượng địch đã kiểm soát những công trình trọng yếu và tận dụng các cảng còn sử dụng được làm cơ sở hậu cần."
+    },
+    {
+      "blockId": "b0039",
+      "type": "paragraph",
+      "text": "VSS từng triển khai năm hạm đội phản công nhưng không đạt mục tiêu vì phòng tuyến đối phương mạnh hơn dự kiến. Từ đó, chiến lược chuyển sang giám sát, kiềm chế, trinh sát và chỉ hành động khi có căn cứ đáng tin cậy."
+    },
+    {
+      "blockId": "b0040",
+      "type": "paragraph",
+      "text": "Không có thông tin đủ chắc chắn để khẳng định những đồng nghiệp mất tích của Valentine còn sống. Nhưng danh sách tù nhân do phía địch công bố cũng không đầy đủ, và không có cơ sở để kết luận tất cả đã chết. Alexander Shilva vẫn ở trạng thái mất liên lạc."
+    },
+    {
+      "blockId": "b0041",
+      "type": "paragraph",
+      "text": "Đợt triển khai mới mang mật danh Operation Silent Beacon — Hải Đăng Thầm Lặng , với ba hạm đội phối hợp: VSS Vanguard thực hiện trinh sát và phân tích tín hiệu; VSS Sentinel Horizon đảm trách cảnh giới, phòng vệ và tuyến rút; VSS Rescue LightSpeed chuẩn bị nguồn lực y tế và cứu hộ."
+    },
+    {
+      "blockId": "b0042",
+      "type": "paragraph",
+      "text": "Tại thủ phủ, Fleet Logistics Command lo vật tư, nhiên liệu, lịch bảo trì, phương tiện vận tải và mức độ sẵn sàng. Đây không phải bộ chỉ huy chiến thuật; kế hoạch tác chiến và quyền quyết định thuộc các cơ quan chỉ huy có thẩm quyền."
+    },
+    {
+      "blockId": "b0043",
+      "type": "heading",
+      "level": 2,
+      "text": "07. Tín hiệu chưa có tên người"
+    },
+    {
+      "blockId": "b0044",
+      "type": "paragraph",
+      "text": "Khi Silent Beacon bắt đầu, Vanguard thu thập dữ liệu từ cảm biến thụ động, trạm không gian sâu và các drone khảo sát. Nhiều gói dữ liệu không trọn vẹn, có bản được lưu từ trước rồi mới chuyển tiếp về sau."
+    },
+    {
+      "blockId": "b0045",
+      "type": "paragraph",
+      "text": "Ở VSS Orbital Traffic Control, các tuyến giao thông và dữ liệu điều phối được duy trì đúng phạm vi cấp phép. Nhân viên nơi đây không phải những người kết luận nguồn phát tình báo."
+    },
+    {
+      "blockId": "b0046",
+      "type": "paragraph",
+      "text": "Valentine tham gia đánh giá những trường dữ liệu y tế được phân quyền. Một chuỗi ký tự khiến cô dừng lại: MED-E/17 . Nó đi cùng dấu định tuyến chưa hoàn chỉnh liên quan tới LIORA — một tên tham chiếu mà hiện chưa thể xác định rõ là người, địa điểm hay mạng kỹ thuật."
+    },
+    {
+      "blockId": "b0047",
+      "type": "paragraph",
+      "text": "Cô báo cáo cho sĩ quan phụ trách. Không ai được phép biến một mã cũ thành lời khẳng định có người sống sót. Thời điểm hệ thống thu nhận một tín hiệu cũng có thể khác xa thời điểm tín hiệu ấy được phát đi."
+    },
+    {
+      "blockId": "b0048",
+      "type": "paragraph",
+      "text": "Việc đối chiếu tiếp theo chưa xác minh được nguồn phát, sinh hiệu hay dấu vết cư trú. Hồ sơ MED-E/17 được giữ lại để theo dõi và kiểm chứng chuyên sâu, không trở thành lý do cho một cuộc giải cứu tự phát."
+    },
+    {
+      "blockId": "b0049",
+      "type": "heading",
+      "level": 2,
+      "text": "08. Những người chưa trở về"
+    },
+    {
+      "blockId": "b0050",
+      "type": "paragraph",
+      "text": "Khi rời ca trực, Valentine đứng trước cửa quan sát. Những đốm sáng ngoài xa không đủ cho cô biết đâu là những ngôi nhà Elysia cũ, đâu là vùng không gian mà đối phương vẫn đang chiếm đóng."
+    },
+    {
+      "blockId": "b0051",
+      "type": "paragraph",
+      "text": "Cô đã đi một quãng đường dài từ cô bác sĩ trẻ trong bệnh viện Elysia tới một sĩ quan của Rescue LightSpeed. Cô có đồng đội, có phương tiện, có kiến thức tốt hơn. Nhưng cô vẫn chưa tìm được câu trả lời về những người ở lại."
+    },
+    {
+      "blockId": "b0052",
+      "type": "paragraph",
+      "text": "Valentine mở hồ sơ mất liên lạc, ghi nhận yêu cầu xác minh MED-E/17 đúng quy trình, rồi đóng thiết bị lại. Cô không đánh dấu ai đã chết. Cũng không tự tuyên bố ai còn sống."
+    },
+    {
+      "blockId": "b0053",
+      "type": "paragraph",
+      "text": "“Em vẫn đang tìm mọi người,” cô nói rất khẽ."
+    },
+    {
+      "blockId": "b0054",
+      "type": "paragraph",
+      "text": "Phía ngoài cửa kính, các con tàu tiếp tục hành trình giữa bầu trời tối. Có những hy vọng không ồn ào, nhưng cũng chưa bao giờ biến mất."
+    },
+    {
+      "blockId": "b0055",
+      "type": "paragraph",
+      "text": "— HẾT CHAPTER 04 — BẢN DỰNG LẠI CHỜ ĐỐI CHIẾU NGUYÊN VĂN —"
+    }
+  ],
+  "content": "BẢN DỰNG LẠI ĐỂ ĐỌC THỬ — KHÔNG PHẢI NGUYÊN VĂN REV03 ĐÃ DUYỆT. Library hiện có biên bản duyệt và artwork nhưng chưa lưu toàn văn Chapter 04 hợp nhất. Phần này nối theo các mốc anh xác nhận: NewHorizon, bốn năm học viện, hai năm Rescue LightSpeed, Silent Beacon và MED-E/17. Không được dùng làm nguồn Canon xuất bản.\n\n01. Những ngày bình yên ở NewHorizon\n\nNhững buổi sáng ở NewHorizon bắt đầu bằng tiếng tàu điện chạy qua khu vườn treo, tiếng cửa hàng mở cửa và những lời chào giữa các gia đình đã dần quen với cuộc sống mới. Sau quãng thời gian lưu trú tạm thời ở Lumina, Valentine biết ơn vì có thể thức dậy mà không cần nhìn vào bảng cảnh báo áp suất, không phải đếm số bệnh nhân trong một khoang sơ tán và cũng không nghe còi báo động.\n\nCô có một căn phòng đủ sáng, vài người bạn ở gần và một lịch sinh hoạt bắt đầu giống những gì người ta vẫn gọi là bình thường. Những ngày đầu, thỉnh thoảng Valentine vẫn giật mình khi có âm báo vang lên từ thiết bị cá nhân. Rồi cô nhận ra phần lớn chúng chỉ là lời nhắc lịch hẹn, thông báo giao thông hoặc thư của Mai.\n\nỞ sân vườn khu dân cư, có người trồng thêm hoa trước nhà. Những gia đình Elysia cùng nhau sửa soạn một góc sinh hoạt chung; trẻ nhỏ học cách gọi NewHorizon là nhà, dù người lớn vẫn giữ tên quê cũ trong câu chuyện mỗi tối.\n\nValentine tham gia một vài buổi gặp mặt cộng đồng và hỗ trợ những công việc y tế phù hợp với giấy phép hiện tại. Cô không còn muốn mỗi ngày chỉ sống giữa danh sách mất tích, nhưng cũng chưa bao giờ gạch bỏ những cái tên chưa có kết luận.\n\nNgày hội “Sắc Màu Elysia” do cộng đồng tổ chức mang đến một niềm vui giản dị. Có những món ăn quen, những câu chuyện về các khu phố cũ và những tiết mục do chính cư dân biểu diễn. Những người chưa từng đến Elysia vẫn ghé xem, hỏi chuyện, chia sẻ và dần nhận ra những người tị nạn không chỉ mang theo một thảm họa — họ còn mang theo cả một nền văn hóa.\n\nValentine cùng bạn bè đi qua khu giải trí, ghé khu bãi biển nhân tạo và dừng bên những cửa hàng nhỏ. Đôi khi cô bất giác nghĩ tới các bạn đồng nghiệp cũ ở bệnh viện Elysia. Cô không biết họ sẽ thích nơi này ra sao; chính vì không biết, cô càng trân trọng những người đang ở cạnh mình.\n\nTrong một chuyến đi đến khu vực thủ phủ, Valentine gặp lại Mira. Hai người ngồi uống trà, kể về cuộc sống mới và con đường Valentine muốn tiếp tục. Cô đã hoàn thành đào tạo y khoa cơ bản tại Học viện Quân y địa phương Elysia trước thảm họa, nhưng để tham gia hệ thống quân y – cứu hộ cấp cao của VSS, cô vẫn phải trải qua tuyển chọn và đào tạo mới.\n\nThư xét tuyển khi ấy vẫn chưa đến. Valentine trở về nhà, đi ngang những ô cửa sáng đèn và nghĩ rằng, cho dù tương lai đưa mình đến đâu, cô vẫn có quyền mong chờ một ngày tốt đẹp.\n\n02. Cánh cửa mở ra\n\nMột buổi sáng khác, chiếc thiết bị cá nhân báo có thư chính thức từ VSS Supreme Medical & Rescue Academy — Học viện Quân y & Cứu hộ Tối cao VSS . Cô nhìn dòng thông báo được chấp thuận nhập học, lặng đi một lúc rồi bật cười vì niềm vui đến quá bất ngờ.\n\nMai là người đầu tiên được cô báo tin. Buổi tối, những người hàng xóm và đồng đội cũ ở NewHorizon cùng chúc mừng. Trong tiếng cười, Valentine hiểu rằng bước tiếp không có nghĩa là quên đi nơi đã mất.\n\nNgày rời NewHorizon, cô mang theo những vật dụng cần thiết, một tấm ảnh quê nhà và lời hứa sẽ quay lại thăm mọi người. Lần này là một chuyến đi mà cô được chủ động lựa chọn, không phải một cuộc sơ tán chạy đua với thời gian.\n\n03. Bốn năm để trưởng thành\n\nHọc viện mở ra trước Valentine một thế giới rộng lớn: những phòng mô phỏng tai nạn không gian, trung tâm điều trị chuyên sâu, hệ thống phối hợp liên hạm đội và các nhà chứa phương tiện cứu hộ.\n\nNăm đầu, cô phải học lại cách đánh giá tình huống theo những tiêu chuẩn khắt khe hơn. Kiến thức nền tảng từ Elysia giúp cô không bỡ ngỡ với việc chăm sóc bệnh nhân, nhưng những thử thách mới buộc cô phải nghĩ xa hơn một bàn điều trị.\n\nTrong một bài mô phỏng, nguồn lực cứu hộ không đủ cho tất cả các khu vực. Valentine đã lựa chọn thứ tự ưu tiên dựa trên cơ hội sống và mức nguy hiểm, rồi xin thêm dữ liệu để tìm tuyến tiếp cận khác. Bài thi nhắc cô rằng lòng nhân ái cần đi cùng kỹ thuật và trách nhiệm.\n\nĐến năm thứ ba, Valentine được làm quen với Medic GEAR ASTER — một chiến cơ cứu hộ y tế chuyên dụng, không phải robot hình người . ASTER mang cảm biến sinh hiệu, drone hỗ trợ và những thiết bị giúp đội cứu nạn tiếp cận nơi tàu lớn khó tới. Nó không thay thế tàu mẹ trong hành trình liên sao và cũng không được thiết kế để lao vào giao tranh như một chiến cơ tấn công.\n\nCô học cách tin vào đội điều phối, kỹ thuật viên và đồng đội cũng như tin vào quyết định của chính mình. Từng buổi tập, từng lần sửa lỗi khiến Valentine dần bớt nóng vội và biết điều hành một đội cứu hộ bằng sự bình tĩnh.\n\nBốn năm sau, cô tốt nghiệp với vị trí thủ khoa toàn khóa . Giữa tiếng vỗ tay, Valentine chỉ ước một vài đồng nghiệp ở Elysia có thể nhìn thấy khoảnh khắc này.\n\n04. Lời mời không ngờ\n\nBa ngày sau lễ tốt nghiệp, Valentine nhận thư mời tham gia tuyển chọn của VSS Rescue LightSpeed , hạm đội cứu hộ tinh nhuệ trong hệ thống trực thuộc Bộ Chỉ huy Tối cao.\n\nThành tích thủ khoa không tự động bảo đảm được tiếp nhận. Cô vẫn phải trải qua các bước đánh giá chuyên môn, năng lực xử lý tình huống và phẩm chất khi thực hiện nhiệm vụ.\n\nMột người thầy nói với cô: “Điểm số khiến họ chú ý. Nhưng khi mạng sống của người khác phụ thuộc vào quyết định của em, họ muốn biết em sẽ làm gì.”\n\nValentine được tiếp nhận sau khi hoàn tất quá trình tuyển chọn. Cô tự nhủ rằng, nếu đây là cơ hội để có thêm một phương tiện, thêm một người đồng đội và thêm vài phút quý giá cho những bệnh nhân chưa gặp, cô sẽ không lãng phí nó.\n\n05. Hai năm cùng Rescue LightSpeed\n\nHai năm phục vụ đem đến những nhiệm vụ không hề giống bài thi. Đó là các trạm khai thác gặp sự cố, tàu dân sự cần sơ tán, các khoang mất áp suất và những ca trực kéo dài đến khi mọi người đều kiệt sức.\n\nCó lần Valentine điều khiển ASTER tiếp cận hiện trường từ tàu mẹ; có lần cô ở khu điều trị, chờ những người khác đưa bệnh nhân trở về. Cô không làm mọi việc một mình. Giỏi cứu hộ nghĩa là biết phối hợp và hiểu giới hạn của từng thành viên.\n\nSau hai năm, cô trở thành một sĩ quan quân y mà đồng đội có thể tin cậy. Từ tấm bằng ở học viện đến từng nhiệm vụ thực tế, sự trưởng thành của Valentine không nằm ở việc cô không còn sợ mất người, mà ở việc cô biết phải làm gì ngay cả khi nỗi sợ còn đó.\n\nRồi một lịch điều động mới đưa cô đến gần cái tên đã ở trong ký ức suốt sáu năm: Aureon — Elysia .\n\n06. Elysia trong vùng tối\n\nElysia chưa được giải phóng. Sau cuộc tấn công, lực lượng địch đã kiểm soát những công trình trọng yếu và tận dụng các cảng còn sử dụng được làm cơ sở hậu cần.\n\nVSS từng triển khai năm hạm đội phản công nhưng không đạt mục tiêu vì phòng tuyến đối phương mạnh hơn dự kiến. Từ đó, chiến lược chuyển sang giám sát, kiềm chế, trinh sát và chỉ hành động khi có căn cứ đáng tin cậy.\n\nKhông có thông tin đủ chắc chắn để khẳng định những đồng nghiệp mất tích của Valentine còn sống. Nhưng danh sách tù nhân do phía địch công bố cũng không đầy đủ, và không có cơ sở để kết luận tất cả đã chết. Alexander Shilva vẫn ở trạng thái mất liên lạc.\n\nĐợt triển khai mới mang mật danh Operation Silent Beacon — Hải Đăng Thầm Lặng , với ba hạm đội phối hợp: VSS Vanguard thực hiện trinh sát và phân tích tín hiệu; VSS Sentinel Horizon đảm trách cảnh giới, phòng vệ và tuyến rút; VSS Rescue LightSpeed chuẩn bị nguồn lực y tế và cứu hộ.\n\nTại thủ phủ, Fleet Logistics Command lo vật tư, nhiên liệu, lịch bảo trì, phương tiện vận tải và mức độ sẵn sàng. Đây không phải bộ chỉ huy chiến thuật; kế hoạch tác chiến và quyền quyết định thuộc các cơ quan chỉ huy có thẩm quyền.\n\n07. Tín hiệu chưa có tên người\n\nKhi Silent Beacon bắt đầu, Vanguard thu thập dữ liệu từ cảm biến thụ động, trạm không gian sâu và các drone khảo sát. Nhiều gói dữ liệu không trọn vẹn, có bản được lưu từ trước rồi mới chuyển tiếp về sau.\n\nỞ VSS Orbital Traffic Control, các tuyến giao thông và dữ liệu điều phối được duy trì đúng phạm vi cấp phép. Nhân viên nơi đây không phải những người kết luận nguồn phát tình báo.\n\nValentine tham gia đánh giá những trường dữ liệu y tế được phân quyền. Một chuỗi ký tự khiến cô dừng lại: MED-E/17 . Nó đi cùng dấu định tuyến chưa hoàn chỉnh liên quan tới LIORA — một tên tham chiếu mà hiện chưa thể xác định rõ là người, địa điểm hay mạng kỹ thuật.\n\nCô báo cáo cho sĩ quan phụ trách. Không ai được phép biến một mã cũ thành lời khẳng định có người sống sót. Thời điểm hệ thống thu nhận một tín hiệu cũng có thể khác xa thời điểm tín hiệu ấy được phát đi.\n\nViệc đối chiếu tiếp theo chưa xác minh được nguồn phát, sinh hiệu hay dấu vết cư trú. Hồ sơ MED-E/17 được giữ lại để theo dõi và kiểm chứng chuyên sâu, không trở thành lý do cho một cuộc giải cứu tự phát.\n\n08. Những người chưa trở về\n\nKhi rời ca trực, Valentine đứng trước cửa quan sát. Những đốm sáng ngoài xa không đủ cho cô biết đâu là những ngôi nhà Elysia cũ, đâu là vùng không gian mà đối phương vẫn đang chiếm đóng.\n\nCô đã đi một quãng đường dài từ cô bác sĩ trẻ trong bệnh viện Elysia tới một sĩ quan của Rescue LightSpeed. Cô có đồng đội, có phương tiện, có kiến thức tốt hơn. Nhưng cô vẫn chưa tìm được câu trả lời về những người ở lại.\n\nValentine mở hồ sơ mất liên lạc, ghi nhận yêu cầu xác minh MED-E/17 đúng quy trình, rồi đóng thiết bị lại. Cô không đánh dấu ai đã chết. Cũng không tự tuyên bố ai còn sống.\n\n“Em vẫn đang tìm mọi người,” cô nói rất khẽ.\n\nPhía ngoài cửa kính, các con tàu tiếp tục hành trình giữa bầu trời tối. Có những hy vọng không ồn ào, nhưng cũng chưa bao giờ biến mất.\n\n— HẾT CHAPTER 04 — BẢN DỰNG LẠI CHỜ ĐỐI CHIẾU NGUYÊN VĂN —",
+  "sha256": "a669c44759a991cb62f05fee2ba1349c749a1a5a2eab56e78f16209a9e8a93ef"
+}

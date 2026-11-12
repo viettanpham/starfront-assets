@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "starfront-r4-story-index-v1",
+  "status": "PROVISIONAL",
+  "items": [
+    {
+      "pilotId": "valentine",
+      "manifestPath": "stories/valentine/manifest.json",
+      "chapterCount": 5,
+      "status": "REVIEW_PREVIEW"
+    }
+  ],
+  "emptyState": "Nội dung truyện đang được phát triển."
+}

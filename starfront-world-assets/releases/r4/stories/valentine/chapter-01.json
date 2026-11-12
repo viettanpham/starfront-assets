@@ -1,0 +1,1465 @@
+{
+  "schemaVersion": "starfront-story-chapter-v1",
+  "pilotId": "valentine",
+  "chapterId": "chap-01",
+  "chapterNumber": 1,
+  "title": "Ánh Sáng Cuối Cùng Tại Elysia",
+  "canonicalLibraryTitle": "Ánh Sáng Cuối Cùng Tại Elysia",
+  "editorialStatus": "PROVISIONAL",
+  "contentStatus": "FULL_PROSE",
+  "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+  "readingTimeMinutes": 34,
+  "wordCount": 7596,
+  "revision": "16",
+  "sourceNote": "Chapter 01 Revision 16 FULL_REVIEW; not a verbatim approved canonical snapshot; preview only.",
+  "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+  "blocks": [
+    {
+      "blockId": "b0001",
+      "type": "heading",
+      "level": 2,
+      "text": "01. Elysia — Quê hương giữa những vì sao"
+    },
+    {
+      "blockId": "b0002",
+      "type": "paragraph",
+      "text": "Elysia từng chỉ là một trạm tiếp tế nhỏ giữa vành đai tiểu hành tinh Aureon. Những đoàn tàu khai khoáng và vận tải ghé qua để bổ sung nhiên liệu, sửa chữa thiết bị và nghỉ ngơi trước khi tiếp tục hành trình."
+    },
+    {
+      "blockId": "b0003",
+      "type": "scene",
+      "sceneId": "val-ch01-image-01",
+      "sceneTitle": "Elysia giữa vành đai tiểu hành tinh Aureon",
+      "caption": "Elysia giữa vành đai tiểu hành tinh Aureon",
+      "artworks": [
+        {
+          "assetId": "world-elysia-asteroid-belt-establishing-01",
+          "placement": "inline",
+          "caption": "Elysia giữa vành đai tiểu hành tinh Aureon",
+          "path": "images/story/valentine/world-elysia-asteroid-belt-establishing-01.webp",
+          "filename": "world-elysia-asteroid-belt-establishing-01.webp",
+          "imageSha256": "369fd85a35bf3bebb94cf66d9e1da53ee1c9cd323638093684e3273d10f71fb5",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-elysia-asteroid-belt-establishing-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0004",
+      "type": "paragraph",
+      "text": "Qua nhiều thế hệ, Elysia từ một trạm trung chuyển nhỏ đã dần mở rộng thành một thành phố không gian lớn và hiện đại, nơi hàng triệu con người sinh sống và làm việc. Các vòng cư trú được xây thêm, những hành lang kín áp suất nối các khu dân cư với cảng vận tải, bệnh viện, trường học, trung tâm nghiên cứu và các khu thương mại. Dưới những mái vòm sinh thái, cây xanh và hồ nước được chăm sóc như một phần thiết yếu của đời sống."
+    },
+    {
+      "blockId": "b0005",
+      "type": "paragraph",
+      "text": "Elysia thuộc lãnh thổ **Liên Minh VSS**, ở phía trong nhưng sát vành đai phòng thủ biên giới. Những thành phố tiền tuyến nhận được nhiều nguồn lực quân sự hơn: pháo đài, hạm đội thường trực và các công trình cảnh báo sớm. Elysia phát triển chủ yếu nhờ thương mại, hậu cần, y tế và dân cư. Thành phố vẫn có lực lượng phòng vệ, những phi đội GEAR — các phi thuyền chiến đấu không gian — cùng hệ thống khiên tại các cảng an ninh để chặn các cuộc tấn công nhỏ, các cuộc bạo loạn, cướp biển..."
+    },
+    {
+      "blockId": "b0006",
+      "type": "scene",
+      "sceneId": "val-ch01-image-02",
+      "sceneTitle": "Mái vòm sinh thái và khu dân cư bên trong Elysia",
+      "caption": "Mái vòm sinh thái và khu dân cư bên trong Elysia",
+      "artworks": [
+        {
+          "assetId": "world-elysia-habitat-ecodome-02",
+          "placement": "inline",
+          "caption": "Mái vòm sinh thái và khu dân cư bên trong Elysia",
+          "path": "images/story/valentine/world-elysia-habitat-ecodome-02.webp",
+          "filename": "world-elysia-habitat-ecodome-02.webp",
+          "imageSha256": "a6e4b597486eb20a574a27873d6aa67a77e75c91b6cdf99cac4ba144b42eb286",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-elysia-habitat-ecodome-02.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0007",
+      "type": "paragraph",
+      "text": "Người dân biết chiến tranh tồn tại ngoài biên giới. Nhưng với họ xưa giờ không có một cuộc tập kích nào lọt nổi từ tuyến phòng thủ của các thành phố biên giới mà đến được đây. Nơi hoà bình đã trải dài vô tận."
+    },
+    {
+      "blockId": "b0008",
+      "type": "paragraph",
+      "text": "Với Valentine, Elysia không phải một vị trí chiến lược."
+    },
+    {
+      "blockId": "b0009",
+      "type": "paragraph",
+      "text": "Đó là quê nhà: những con đường cô thuộc từng ngã rẽ, cửa hàng quen ở khu bệnh viện và vòm sinh thái mà cô từng đến sau những ca trực dài."
+    },
+    {
+      "blockId": "b0010",
+      "type": "heading",
+      "level": 2,
+      "text": "02. Valentine và những ước mơ"
+    },
+    {
+      "blockId": "b0011",
+      "type": "paragraph",
+      "text": "Aurelia Valentine sinh ra và lớn lên tại Elysia. Mọi người thường gọi cô là Valentine; ở bệnh viện, người ta gọi cô là **bác sĩ Valentine**."
+    },
+    {
+      "blockId": "b0012",
+      "type": "paragraph",
+      "text": "Cô đã chọn quân y vì muốn làm việc ở nơi cần sự trợ giúp nhất. Phần lớn thời gian của cô dành cho bệnh nhân tại bệnh viện và các chuyến cứu hộ trong những khu vực vận tải, nơi tai nạn thiết bị và chấn thương áp suất không phải chuyện hiếm gặp."
+    },
+    {
+      "blockId": "b0013",
+      "type": "paragraph",
+      "text": "Elysia có hệ thống y tế tốt, nhưng vẫn ở xa những trung tâm nghiên cứu và học viện lớn nhất của Liên Minh. Mỗi năm, những chuyến tàu hậu cần từ vùng trong mang đến thuốc mới, thiết bị chẩn đoán và tài liệu cập nhật. Đôi khi có bác sĩ chuyên khoa ghé qua, hướng dẫn các ê-kíp địa phương trong một vài ngày ngắn ngủi. Những ca bệnh quá phức tạp phải chuyển đến bệnh viện vùng lõi, và khi bệnh nhân trở về, đồng nghiệp của Valentine thường kể lại các phương pháp điều trị mà họ được chứng kiến."
+    },
+    {
+      "blockId": "b0014",
+      "type": "paragraph",
+      "text": "Từ những câu chuyện ấy, Valentine bắt đầu mơ đến việc học tập tại một học viện y khoa ở thủ phủ VSS. Cô chưa từng đặt chân đến đó. Cô không biết những bệnh viện ở thủ phủ thật sự trông như thế nào; điều cô biết đến từ các bản tin y khoa, cuộc trò chuyện với chuyên gia và những tài liệu gửi cùng các chuyến hậu cần."
+    },
+    {
+      "blockId": "b0015",
+      "type": "scene",
+      "sceneId": "val-ch01-image-03",
+      "sceneTitle": "Chân dung bác sĩ quân y Valentine",
+      "caption": "Chân dung bác sĩ quân y Valentine",
+      "artworks": [
+        {
+          "assetId": "valentine-portrait",
+          "placement": "inline",
+          "caption": "Chân dung bác sĩ quân y Valentine",
+          "path": "images/story/valentine/valentine-portrait.webp",
+          "filename": "valentine-portrait.webp",
+          "imageSha256": "e8439a87904127649e9bb72b6eb41c53d21176f83f0f1b885f2dc05bafa2bc11",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-portrait.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0016",
+      "type": "paragraph",
+      "text": "Nhưng mỗi khi nghĩ đến ngày phải đi xa, cô lại nhớ những bệnh nhân đang chờ mình ở Elysia. Cô muốn được học thêm, rồi trở về làm việc tốt hơn. Trong những dự định ấy, Elysia luôn là nơi để trở về."
+    },
+    {
+      "blockId": "b0017",
+      "type": "paragraph",
+      "text": "Buổi sáng hôm đó, Valentine đến bệnh viện như thường lệ. Cô kiểm tra danh sách thuốc, hỏi thăm một bệnh nhân vừa qua phẫu thuật rồi đi dọc hành lang đến khu điều trị. Không có điều gì báo trước rằng thành phố đang sống những giờ bình yên cuối cùng."
+    },
+    {
+      "blockId": "b0018",
+      "type": "heading",
+      "level": 2,
+      "text": "03. Cuộc tập kích bất ngờ"
+    },
+    {
+      "blockId": "b0019",
+      "type": "paragraph",
+      "text": "08:42 — Giờ chuẩn Elysia."
+    },
+    {
+      "blockId": "b0020",
+      "type": "paragraph",
+      "text": "Valentine vừa hoàn tất kiểm tra một bệnh nhân thì còi báo động vang lên. Ánh đèn hành lang chuyển sang đỏ. Hệ thống phát thanh yêu cầu tất cả nhân viên thực hiện quy trình khẩn cấp."
+    },
+    {
+      "blockId": "b0021",
+      "type": "paragraph",
+      "text": "Một điều dưỡng chạy đến: “Bác sĩ Valentine, có chuyện gì vậy?”"
+    },
+    {
+      "blockId": "b0022",
+      "type": "paragraph",
+      "text": "“Tôi cũng chưa rõ. Liên hệ bộ phận an ninh để xác nhận.”"
+    },
+    {
+      "blockId": "b0023",
+      "type": "paragraph",
+      "text": "Trên màn hình bên ngoài cửa sổ, những tín hiệu cảnh báo xuất hiện dồn dập. Một tiếng nổ xa làm sàn nhà rung mạnh. Chưa đầy một phút sau, thông báo từ trung tâm phòng vệ vang lên: **ELYSIA ĐANG BỊ TẤN CÔNG. NHẮC LẠI: ĐÂY KHÔNG PHẢI LÀ DIỄN TẬP. ELYSIA ĐANG BỊ TẤN CÔNG.**"
+    },
+    {
+      "blockId": "b0024",
+      "type": "paragraph",
+      "text": "Bên ngoài Elysia, những trạm cảnh giới ngoại vi bất ngờ đồng loạt phát tín hiệu nguy hiểm. Trước đó, các ca trực chỉ nhận được những báo cáo giao thông thông thường từ tuyến vận tải. Giờ đây, trên màn hình phòng vệ xuất hiện nhiều mục tiêu không đăng ký, tiến vào từ một hướng nằm sâu bên trong hành lang mà Elysia vẫn xem là tương đối an toàn."
+    },
+    {
+      "blockId": "b0025",
+      "type": "paragraph",
+      "text": "“Xác minh danh tính các tàu vừa xuất hiện!” viên sĩ quan trực chiến yêu cầu."
+    },
+    {
+      "blockId": "b0026",
+      "type": "paragraph",
+      "text": "“Không có mã nhận dạng hợp lệ. Chúng không phản hồi cảnh báo đổi hướng!”"
+    },
+    {
+      "blockId": "b0027",
+      "type": "paragraph",
+      "text": "Một tín hiệu trên bản đồ biến mất. Trạm cảm biến tiền tiêu thứ nhất ngừng phát. Vài giây sau, hệ thống cảnh giới báo thêm hai vị trí bị tấn công."
+    },
+    {
+      "blockId": "b0028",
+      "type": "paragraph",
+      "text": "“Báo động chiến đấu toàn khu vực. Điều động lực lượng phòng vệ **Elysia**!”"
+    },
+    {
+      "blockId": "b0029",
+      "type": "paragraph",
+      "text": "Những phi đội GEAR của **Quân phòng vệ Elysia** vội vã rời các bến quân sự. Đây là phi thuyền chiến đấu không gian của lực lượng địa phương, không phải GEAR thuộc hạm đội cứu viện VSS. Họ được giao bảo vệ tuyến tiếp cận, các cảng trọng yếu và vùng cư trú, nhưng quân số hiện có chỉ đủ đối phó những cuộc xâm nhập nhỏ hoặc hỗ trợ an ninh vận tải."
+    },
+    {
+      "blockId": "b0030",
+      "type": "paragraph",
+      "text": "“Phi đội Một, chặn mục tiêu ở hành lang phía Bắc! Phi đội Hai bảo vệ cảng dân sự! Không để chúng tiếp cận khu cư trú!”"
+    },
+    {
+      "blockId": "b0031",
+      "type": "paragraph",
+      "text": "Những luồng laser xanh dương từ GEAR Elysia bắn về phía các phi thuyền không rõ nguồn gốc. Đối phương đáp trả bằng hỏa lực đỏ dày đặc. Một chiếc GEAR phòng vệ bị trúng đạn, phải tách đội hình; hai chiếc khác lập tức yểm trợ đồng đội rút về. Trên trục giao thông chính, các tàu dân sự nhận lệnh ngừng cất cánh và tránh xa tuyến giao chiến."
+    },
+    {
+      "blockId": "b0032",
+      "type": "paragraph",
+      "text": "Nhưng ý định của đối phương có vẻ không phải chỉ là gây rối hay cướp. Các đợt tấn công tiếp theo với lực lượng cực kỳ lớn nhằm thẳng vào trạm thông tin, bộ phận điều phối vận tải và những điểm kết nối giữa các khu dân cư. Những tuyến liên lạc dự phòng lần lượt bị nhiễu; trung tâm chỉ huy buộc phải chuyển sang mạng khẩn cấp nội bộ."
+    },
+    {
+      "blockId": "b0033",
+      "type": "paragraph",
+      "text": "“Đây… đây không phải một cuộc đột kích thông thường! Đây là một cuộc tập kích quy mô lớn!” một sĩ quan báo cáo với chỉ huy phòng vệ."
+    },
+    {
+      "blockId": "b0034",
+      "type": "paragraph",
+      "text": "“Chúng đang đánh vào khả năng điều phối và cứu hộ của chúng ta. Yêu cầu tiếp viện!”"
+    },
+    {
+      "blockId": "b0035",
+      "type": "paragraph",
+      "text": "“Phát hiện lượng lớn lực lượng địch và yêu cầu cứu viện tới **Bộ Chỉ huy Liên Minh VSS**. Đồng thời báo **Chính phủ Elysia** kích hoạt phòng thủ dân sự toàn diện!”"
+    },
+    {
+      "blockId": "b0036",
+      "type": "paragraph",
+      "text": "Chỉ đến lúc này, báo cáo về quy mô cuộc tấn công mới được chuyển lên các cấp chỉ huy Liên Minh."
+    },
+    {
+      "blockId": "b0037",
+      "type": "paragraph",
+      "text": "Các hạm đội VSS chuyên trách thường không hiện diện tại Elysia, đặc biệt là vào thời điểm loạt đạn đầu tiên nổ ra."
+    },
+    {
+      "blockId": "b0038",
+      "type": "paragraph",
+      "text": "Tuyến phòng thủ biên giới được củng cố từ lâu ở phía ngoài, nơi mạng lưới lực lượng **VSS Border Protected** tập trung để bảo đảm an toàn cho các vùng bên trong."
+    },
+    {
+      "blockId": "b0039",
+      "type": "paragraph",
+      "text": "Elysia nằm phía trong, gần biên giới nhưng không phải mục tiêu từng được đánh giá có nguy cơ bị tập kích tổng lực như thế này."
+    },
+    {
+      "blockId": "b0040",
+      "type": "paragraph",
+      "text": "Sự bất ngờ ấy khiến lực lượng địa phương không đủ thời gian tập trung quân. Elysia cũng không có kế hoạch phát triển lực lượng quân sự hay bố trí những hạm đội địa phương quy mô lớn thường trú tại đây; phần lớn hạm đội chiến đấu đang làm nhiệm vụ ở tiền tuyến. Họ phải chiến đấu ngay bằng những đơn vị đang trực, vừa cố bảo vệ thành phố vừa chờ lệnh điều động tiếp viện."
+    },
+    {
+      "blockId": "b0041",
+      "type": "paragraph",
+      "text": "Trên các tuyến hành lang dân sự, đèn cảnh báo bật sáng. Cửa ngăn chống áp suất lần lượt đóng tại những khoang bị hư hại, nhưng các trục sơ tán còn an toàn vẫn phải được giữ thông. Nhân viên an ninh hướng người dân tránh xa cửa quan sát, đưa trẻ em và người già vào các điểm trú ẩn gần nhất. Bệnh viện bắt đầu chuẩn bị tiếp nhận thương vong hàng loạt."
+    },
+    {
+      "blockId": "b0042",
+      "type": "paragraph",
+      "text": "Valentine không biết điều đó. Cô chỉ thấy bệnh nhân mới liên tiếp được chuyển đến."
+    },
+    {
+      "blockId": "b0043",
+      "type": "paragraph",
+      "text": "Một cáng thương được đẩy qua cửa. Người đàn ông nằm trên đó có vết thương lớn ở vai, mặt tái nhợt vì mất máu. Valentine lập tức cùng điều dưỡng chuyển ông vào phòng cấp cứu."
+    },
+    {
+      "blockId": "b0044",
+      "type": "paragraph",
+      "text": "“Ưu tiên cầm máu. Chuẩn bị dịch truyền. Báo cho khu phẫu thuật rằng chúng ta có một ca cần xử lý ngay.”"
+    },
+    {
+      "blockId": "b0045",
+      "type": "paragraph",
+      "text": "Hệ thống bệnh viện nhanh chóng quá tải. Những ca bỏng, chấn thương và tổn thương do mất áp suất liên tục được đưa đến. Valentine phối hợp với nhân viên y tế phân loại mức độ nguy kịch, dành phòng cấp cứu cho những người cần can thiệp trước."
+    },
+    {
+      "blockId": "b0046",
+      "type": "paragraph",
+      "text": "Một vụ nổ gần khu dân cư khiến đường nối đến bệnh viện phải đóng khẩn cấp. Trung tâm điều phối yêu cầu chuyển bớt bệnh nhân đến các cảng an ninh, nơi tàu cứu hộ có thể tiếp nhận."
+    },
+    {
+      "blockId": "b0047",
+      "type": "paragraph",
+      "text": "Valentine được điều lên tàu cứu hộ R-17 với vai trò bác sĩ quân y. Người phi công và các đơn vị an ninh nhận lệnh từ trung tâm điều phối; cô phụ trách đánh giá bệnh nhân, ổn định tình trạng của họ và hỗ trợ các đội y tế tại điểm tiếp nhận."
+    },
+    {
+      "blockId": "b0048",
+      "type": "scene",
+      "sceneId": "val-ch01-image-04",
+      "sceneTitle": "Hoạt động cứu hộ giữa cuộc tấn công Elysia",
+      "caption": "Hoạt động cứu hộ giữa cuộc tấn công Elysia",
+      "artworks": [
+        {
+          "assetId": "world-elysia-evacuation-disaster-03",
+          "placement": "inline",
+          "caption": "Hoạt động cứu hộ giữa cuộc tấn công Elysia",
+          "path": "images/story/valentine/world-elysia-evacuation-disaster-03.webp",
+          "filename": "world-elysia-evacuation-disaster-03.webp",
+          "imageSha256": "0cf59257a9c21f20833a9991496b6edd0e3a40d6dc9212339b7ea2776672d6a5",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-elysia-evacuation-disaster-03.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0049",
+      "type": "paragraph",
+      "text": "Trên đường qua một cầu nối, cả nhóm phải dừng lại khi cửa ngăn chống áp suất đóng trước mặt. Tín hiệu môi trường báo khu vực phía bên kia không ổn định; bộ phận kỹ thuật cần gần ba phút để khôi phục đường đi an toàn. Trong ba phút ấy, Valentine ở bên một bệnh nhân đang khó thở, giúp ông giữ bình tĩnh và theo dõi từng nhịp thở. Khi cửa mở, cả đội tiếp tục di chuyển. Ngoài cửa quan sát, những vệt lửa đỏ và xanh vẫn cắt ngang khoảng không."
+    },
+    {
+      "blockId": "b0050",
+      "type": "heading",
+      "level": 2,
+      "text": "04. Những người phải ở lại"
+    },
+    {
+      "blockId": "b0051",
+      "type": "paragraph",
+      "text": "14:17 — Giờ chuẩn Elysia."
+    },
+    {
+      "blockId": "b0052",
+      "type": "paragraph",
+      "text": "Tàu R-17 vừa hoàn tất một chuyến vận chuyển bệnh nhân thì nhận được tín hiệu khẩn cấp."
+    },
+    {
+      "blockId": "b0053",
+      "type": "paragraph",
+      "text": "“MED-04 gọi trung tâm! Chúng tôi bị trúng mảnh vỡ, động cơ phụ đã hỏng! Tàu đang mất khả năng điều khiển!”"
+    },
+    {
+      "blockId": "b0054",
+      "type": "paragraph",
+      "text": "MED-04 là tàu vận tải y tế chở hơn hai trăm bệnh nhân và người dân đang được sơ tán khỏi khu vực nguy hiểm."
+    },
+    {
+      "blockId": "b0055",
+      "type": "paragraph",
+      "text": "Valentine mở kênh liên lạc y tế. “MED-04, đây là bác sĩ Valentine. Hệ thống hỗ trợ sự sống của các anh thế nào?”"
+    },
+    {
+      "blockId": "b0056",
+      "type": "paragraph",
+      "text": "“Điện dự phòng còn rất ít! Chúng tôi có nhiều bệnh nhân đang sử dụng máy hỗ trợ hô hấp!”"
+    },
+    {
+      "blockId": "b0057",
+      "type": "paragraph",
+      "text": "“Ưu tiên giữ điện cho máy hỗ trợ sự sống. Tôi sẽ ở trên kênh để hỗ trợ các anh.”"
+    },
+    {
+      "blockId": "b0058",
+      "type": "paragraph",
+      "text": "Người phi công xác định vị trí con tàu. “Trung tâm, đây là R-17. Chúng tôi có thể tiếp cận MED-04 trong khoảng mười hai phút. Xin chỉ thị.”"
+    },
+    {
+      "blockId": "b0059",
+      "type": "paragraph",
+      "text": "Một tín hiệu khác chen vào. “Valentine! Cô có nghe rõ không?”"
+    },
+    {
+      "blockId": "b0060",
+      "type": "paragraph",
+      "text": "Đó là một đồng đội thuộc nhóm cứu hộ tại khu vận chuyển số sáu. Hành lang của họ đã sập, hai người bị thương nặng và lượng dưỡng khí còn lại chưa đầy mười phút."
+    },
+    {
+      "blockId": "b0061",
+      "type": "paragraph",
+      "text": "Valentine lập tức chuyển tọa độ về trung tâm, yêu cầu điều phương tiện hỗ trợ. Nhưng các đơn vị gần khu số sáu đang giao chiến và chưa thể tiếp cận."
+    },
+    {
+      "blockId": "b0062",
+      "type": "paragraph",
+      "text": "Cô quay sang người phi công: “Chúng ta có thể đến khu số sáu trước không? Họ chỉ còn ít phút dưỡng khí.”"
+    },
+    {
+      "blockId": "b0063",
+      "type": "paragraph",
+      "text": "Chưa kịp trả lời, bộ đàm vang lên: **“R-17, TRUNG TÂM ĐIỀU PHỐI ELYSIA. ƯU TIÊN TIẾP CẬN MED-04. KÍCH HOẠT QUY TRÌNH KÉO CỨU HỘ KHẨN CẤP.”**"
+    },
+    {
+      "blockId": "b0064",
+      "type": "paragraph",
+      "text": "“R-17 nhận lệnh,” người phi công đáp rồi chuyển hướng."
+    },
+    {
+      "blockId": "b0065",
+      "type": "paragraph",
+      "text": "“Nhưng nhóm ở khu số sáu…” Valentine nói."
+    },
+    {
+      "blockId": "b0066",
+      "type": "paragraph",
+      "text": "“Tôi biết, bác sĩ. Trung tâm đang tìm phương tiện khác. Chúng ta phải thực hiện lệnh.”"
+    },
+    {
+      "blockId": "b0067",
+      "type": "paragraph",
+      "text": "Valentine không có quyền ra lệnh cho phi công đổi hướng. Cô là bác sĩ quân y trên tàu, không phải người chỉ huy hoạt động cứu hộ."
+    },
+    {
+      "blockId": "b0068",
+      "type": "paragraph",
+      "text": "Cô mở lại kênh với đồng đội. “Tàu của tôi được lệnh đến MED-04. Trung tâm đang tìm người đến với các anh.”"
+    },
+    {
+      "blockId": "b0069",
+      "type": "paragraph",
+      "text": "Một khoảng im lặng. Rồi người đồng đội nói, giọng thở nặng nhọc: “Vậy thì cứu họ đi, Valentine.”"
+    },
+    {
+      "blockId": "b0070",
+      "type": "paragraph",
+      "text": "“Các anh giữ liên lạc nhé. Tôi sẽ tiếp tục gọi trung tâm.”"
+    },
+    {
+      "blockId": "b0071",
+      "type": "paragraph",
+      "text": "“Được.”"
+    },
+    {
+      "blockId": "b0072",
+      "type": "paragraph",
+      "text": "Một tiếng nổ làm đường truyền nhiễu loạn. Valentine gọi lại, nhưng không còn ai trả lời."
+    },
+    {
+      "blockId": "b0073",
+      "type": "paragraph",
+      "text": "R-17 mất gần mười hai phút tiếp cận MED-04. Con tàu y tế đang xoay chậm, trôi về vùng đầy mảnh vỡ. Người phi công áp sát, kích hoạt khóa kéo; Valentine hướng dẫn kíp y tế bên kia giữ nguồn cho những bệnh nhân nguy kịch."
+    },
+    {
+      "blockId": "b0074",
+      "type": "paragraph",
+      "text": "Một loạt laser đỏ quét qua khoảng không. Một GEAR phòng vệ Elysia lao tới đánh chặn, khai hỏa về phía phi thuyền địch đang truy đuổi."
+    },
+    {
+      "blockId": "b0075",
+      "type": "paragraph",
+      "text": "“R-17, tiếp tục rút! Tôi sẽ chặn chúng!”"
+    },
+    {
+      "blockId": "b0076",
+      "type": "paragraph",
+      "text": "R-17 kéo MED-04 vào hành lang sơ tán còn được bảo vệ. Hơn hai trăm người trên tàu y tế thoát khỏi vùng nguy hiểm."
+    },
+    {
+      "blockId": "b0077",
+      "type": "paragraph",
+      "text": "Valentine lập tức gọi lại khu số sáu. Không có tín hiệu đáp. Trung tâm xác nhận chưa có đơn vị nào tiếp cận được khu vực ấy."
+    },
+    {
+      "blockId": "b0078",
+      "type": "paragraph",
+      "text": "Cô không biết đồng đội đã được cứu bởi một nhóm khác, còn mắc kẹt, hay đã không còn sống. Suốt hành trình quay về, cô tiếp tục thử gọi. Không ai trả lời."
+    },
+    {
+      "blockId": "b0079",
+      "type": "paragraph",
+      "text": "Trong khi đó, cuộc chiến ngoài Elysia ngày càng ác liệt. **Chính phủ Elysia**, với sự phối hợp của **Bộ Chỉ huy Liên Minh VSS**, điều động quân đội và lực lượng an ninh về những tuyến đường dẫn đến các cảng có khiên phòng thủ. Tàu vận tải, tàu dân sự và các khoang cứu thương được huy động làm phương án sơ tán dự phòng. Các đơn vị phòng vệ cố giữ từng cửa ngăn và cầu nối để người dân đến được nơi tập kết."
+    },
+    {
+      "blockId": "b0080",
+      "type": "paragraph",
+      "text": "Họ vẫn hy vọng giữ được thành phố. Nhưng nếu không thể, ít nhất người dân phải còn đường thoát."
+    },
+    {
+      "blockId": "b0081",
+      "type": "heading",
+      "level": 2,
+      "text": "05. Ánh sáng cuối cùng tại Elysia"
+    },
+    {
+      "blockId": "b0082",
+      "type": "heading",
+      "level": 3,
+      "text": "Hạm đội tiếp viện"
+    },
+    {
+      "blockId": "b0083",
+      "type": "paragraph",
+      "text": "Theo yêu cầu cứu viện từ **Chính phủ Elysia**, **Bộ Chỉ huy Liên Minh VSS** điều hạm đội gần nhất đến khu vực: **VSS HYPER GUARDIAN**."
+    },
+    {
+      "blockId": "b0084",
+      "type": "paragraph",
+      "text": "**“VSS HYPER GUARDIAN ĐÃ TIẾP CẬN KHU VỰC TÁC CHIẾN. TRIỂN KHAI ĐỘI HÌNH PHÒNG THỦ, BẢO VỆ VÀ HỘ TỐNG.”**"
+    },
+    {
+      "blockId": "b0085",
+      "type": "paragraph",
+      "text": "Ngay lập tức, các tàu tuần dương (cruiser) và thiết giáp hạm (battleship) triển khai đội hình đánh chặn. Các khoang chứa máy bay (hangar) mở ra, những phi đội phi cơ chiến đấu GEAR lần lượt xuất kích và lao vào vùng giao tranh. Những phi đội GEAR lao ra giữa mảnh vỡ và hỏa lực địch, cố kéo lực lượng tấn công ra khỏi tuyến vận tải. Dưới sự yểm trợ ấy, các binh sĩ Elysia đưa thêm người về cảng an ninh; nhân viên kỹ thuật duy trì khiên, nguồn điện và dưỡng khí cho những khu dân cư chưa thể sơ tán."
+    },
+    {
+      "blockId": "b0086",
+      "type": "paragraph",
+      "text": "Mười hai giờ sau, dù có **VSS HYPER GUARDIAN**, lực lượng địch vẫn áp đảo. Phần lớn GEAR địa phương bị tiêu diệt hoặc mất khả năng chiến đấu; các chiến hạm phòng vệ Elysia không còn giữ được đội hình. Các đơn vị bảo vệ cảng chịu thương vong khủng khiếp."
+    },
+    {
+      "blockId": "b0087",
+      "type": "paragraph",
+      "text": "Trên đài chỉ huy tàu mẹ **VSS HYPER GUARDIAN**, Hạm trưởng **Alexander Shilva** nhìn bản đồ. Các tuyến phòng thủ Elysia lần lượt chuyển sang màu đỏ."
+    },
+    {
+      "blockId": "b0088",
+      "type": "paragraph",
+      "text": "“Các hạm đội tiếp viện còn bao xa?”"
+    },
+    {
+      "blockId": "b0089",
+      "type": "paragraph",
+      "text": "“Không thể đến kịp theo thời gian dự kiến, thưa Hạm trưởng.”"
+    },
+    {
+      "blockId": "b0090",
+      "type": "paragraph",
+      "text": "Bản đánh giá chiến thuật hiện lên: **XÁC SUẤT THẤT THỦ ELYSIA: TRÊN 99%.**"
+    },
+    {
+      "blockId": "b0091",
+      "type": "paragraph",
+      "text": "“Chúng ta không còn đủ lực lượng để giành lại các tuyến phòng thủ,” một sĩ quan báo cáo."
+    },
+    {
+      "blockId": "b0092",
+      "type": "paragraph",
+      "text": "Alexander im lặng. “Tôi biết. Nhưng ở dưới kia vẫn còn hàng trăm nghìn người đang chờ lên tàu. Chúng ta phải cố giữ thêm thời gian.”"
+    },
+    {
+      "blockId": "b0093",
+      "type": "paragraph",
+      "text": "Ông triệu tập các sĩ quan, rồi mở kênh toàn hạm đội."
+    },
+    {
+      "blockId": "b0094",
+      "type": "heading",
+      "level": 3,
+      "text": "LAST MISSION — LAST STAND"
+    },
+    {
+      "blockId": "b0095",
+      "type": "paragraph",
+      "text": "“Đây là Hạm trưởng Alexander Shilva, chỉ huy **VSS HYPER GUARDIAN**.”"
+    },
+    {
+      "blockId": "b0096",
+      "type": "paragraph",
+      "text": "“Các đồng đội của tôi. Chúng ta đã mất rất nhiều chiến hữu. GEAR của các bạn đã hư hại, chiến hạm của chúng ta cũng không còn nguyên vẹn. Tôi phải nói rõ: chúng ta không thể bảo vệ toàn bộ Elysia.”"
+    },
+    {
+      "blockId": "b0097",
+      "type": "paragraph",
+      "text": "Ông dừng một nhịp."
+    },
+    {
+      "blockId": "b0098",
+      "type": "paragraph",
+      "text": "“Nhưng hàng trăm nghìn người vẫn đang ở các cảng an ninh. Tôi muốn đề nghị một đợt xung kích cuối cùng. Chúng ta sẽ tấn công đội hình địch, buộc chúng chuyển hỏa lực ra xa cảng, để những đoàn tàu có thêm thời gian cất cánh.”"
+    },
+    {
+      "blockId": "b0099",
+      "type": "paragraph",
+      "text": "“Đây không phải lệnh bắt buộc. Ước tính khả năng sống sót của đội hình xung kích chỉ khoảng một phần trăm. Các bạn còn gia đình, còn người đang chờ ở nhà. Người chọn hộ tống dân thường cũng đang làm nhiệm vụ không kém phần quan trọng.”"
+    },
+    {
+      "blockId": "b0100",
+      "type": "paragraph",
+      "text": "“Tôi sẽ giao quyền điều hành tàu mẹ cho Hạm phó **William**. Còn tôi sẽ điều khiển GEAR **BlackShark**, cùng xuất kích với những ai tự nguyện nhận nhiệm vụ.”"
+    },
+    {
+      "blockId": "b0101",
+      "type": "paragraph",
+      "text": "“Tôi không thể yêu cầu các bạn làm điều mà bản thân mình không dám làm.”"
+    },
+    {
+      "blockId": "b0102",
+      "type": "paragraph",
+      "text": "Kênh đăng ký được mở. Trong số năm mươi GEAR còn hoạt động, ba mươi phi công tự nguyện nhận nhiệm vụ. Hai mươi chiếc còn lại đảm nhiệm hộ tống và phòng thủ."
+    },
+    {
+      "blockId": "b0103",
+      "type": "paragraph",
+      "text": "Một phi công trẻ nhìn ảnh vợ và con trên màn hình phụ trước khi nhấn xác nhận. Ở khoang khác, một nữ phi công đề nghị kỹ thuật viên kiểm tra lại động cơ hư hại của mình. Không ai không biết nguy hiểm đang chờ phía trước."
+    },
+    {
+      "blockId": "b0104",
+      "type": "paragraph",
+      "text": "Alexander đọc danh sách ba mươi cái tên. Ông quay sang William: “Đưa họ về nhà. Dù tôi không trở về, anh không được để tàu mẹ rời nhiệm vụ hộ tống chỉ để tìm chúng tôi.”"
+    },
+    {
+      "blockId": "b0105",
+      "type": "paragraph",
+      "text": "William đứng nghiêm: “Rõ, thưa Hạm trưởng.”"
+    },
+    {
+      "blockId": "b0106",
+      "type": "paragraph",
+      "text": "BlackShark được đưa lên đường phóng. Các phi công lần lượt xác nhận sẵn sàng."
+    },
+    {
+      "blockId": "b0107",
+      "type": "paragraph",
+      "text": "“LAST STAND. Xuất kích.”"
+    },
+    {
+      "blockId": "b0108",
+      "type": "paragraph",
+      "text": "Ba mươi GEAR tăng tốc vào đội hình địch. Những luồng laser xanh dương bắn vào các mũi tiến công; đối phương lập tức điều thêm lực lượng truy đuổi. Từ phía sau, tàu mẹ và các tàu tuần dương VSS khai hỏa yểm trợ. Đó không phải trận đánh để chiếm lại Elysia. Mỗi đợt chuyển hướng của đối phương, mỗi phút đội xung kích giữ được chúng ở xa cảng, đều có nghĩa thêm một đoàn người kịp lên tàu."
+    },
+    {
+      "blockId": "b0109",
+      "type": "paragraph",
+      "text": "Hai mươi bốn phút đầu, những chuyến tàu đầu tiên rời các cảng an ninh. William liên tục yêu cầu **Chính phủ Elysia** cho các tàu đã đủ người cất cánh ngay, không chờ đoàn còn lại. Ông điều ba tàu tuần dương hỗ trợ tiếp nhận dân thường, đồng thời duy trì hỏa lực bảo vệ đội xung kích theo từng đợt."
+    },
+    {
+      "blockId": "b0110",
+      "type": "paragraph",
+      "text": "Bốn mươi phút, đội hình LAST STAND mất thêm nhiều GEAR. Một phi công bị trúng đạn khi cố che chắn cho đồng đội; tín hiệu của anh biến mất trước khi lực lượng khác có thể đến. BlackShark bị thương nặng nhưng Alexander vẫn điều các đội di chuyển liên tục, tránh bị bao vây."
+    },
+    {
+      "blockId": "b0111",
+      "type": "paragraph",
+      "text": "Sáu mươi phút, các đoàn tàu dân sự nối nhau rời trạm. Các binh sĩ Elysia giữ những cửa ngăn cuối cùng; nhân viên kỹ thuật duy trì khiên cho đến khi những chuyến tàu phía sau có thể rời bến."
+    },
+    {
+      "blockId": "b0112",
+      "type": "heading",
+      "level": 3,
+      "text": "Phút thứ bảy mươi — Nhiệm vụ hoàn thành"
+    },
+    {
+      "blockId": "b0113",
+      "type": "paragraph",
+      "text": "**LAST STAND — 01:10:06.**"
+    },
+    {
+      "blockId": "b0114",
+      "type": "paragraph",
+      "text": "BlackShark rung chuyển sau một loạt đạn. Màn hình báo **GIÁP BẢO VỆ: 5%**. Động cơ phụ hỏng, vũ khí chính mất khả năng hoạt động, nhưng động cơ còn lại vẫn đủ đưa Alexander về điểm tiếp nhận khẩn cấp."
+    },
+    {
+      "blockId": "b0115",
+      "type": "paragraph",
+      "text": "Tín hiệu từ William vang lên: “Hạm trưởng! **VSS HYPER SPEED** và **VSS FARGARE 2** đã đến! Hành lang sơ tán chính được bảo vệ. Các đoàn tàu cuối cùng đang di chuyển!”"
+    },
+    {
+      "blockId": "b0116",
+      "type": "paragraph",
+      "text": "Alexander nhìn những tín hiệu đồng minh mới. Quân địch đã bị kéo ra xa khỏi phần lớn các cảng. Nhiệm vụ cầm chân đã đạt mục tiêu."
+    },
+    {
+      "blockId": "b0117",
+      "type": "paragraph",
+      "text": "Ông mở kênh LAST STAND. “Các phi công, đây là Alexander. **Nhiệm vụ đã hoàn thành.** Tất cả đơn vị còn khả năng di chuyển, lập tức trở về tàu mẹ.”"
+    },
+    {
+      "blockId": "b0118",
+      "type": "paragraph",
+      "text": "Một phi công hỏi: “Còn ngài?”"
+    },
+    {
+      "blockId": "b0119",
+      "type": "paragraph",
+      "text": "“Tôi cũng đang về.”"
+    },
+    {
+      "blockId": "b0120",
+      "type": "paragraph",
+      "text": "William thở phào qua bộ đàm: “Chúng tôi đã chuẩn bị đội kỹ thuật đón BlackShark. Ngài còn nợ chúng tôi một bữa ăn mừng ở thủ phủ.”"
+    },
+    {
+      "blockId": "b0121",
+      "type": "paragraph",
+      "text": "Alexander mỉm cười: “Vậy nhớ chuẩn bị đồ ăn ngon.”"
+    },
+    {
+      "blockId": "b0122",
+      "type": "paragraph",
+      "text": "Lần đầu tiên sau nhiều giờ, ông tin mình có thể trở về."
+    },
+    {
+      "blockId": "b0123",
+      "type": "heading",
+      "level": 3,
+      "text": "EVAC-07 — Chuyến tàu cuối cùng"
+    },
+    {
+      "blockId": "b0124",
+      "type": "paragraph",
+      "text": "Khi BlackShark đang quay về, một tín hiệu cấp cứu dân sự xuất hiện từ **cảng an ninh số ba**."
+    },
+    {
+      "blockId": "b0125",
+      "type": "paragraph",
+      "text": "**ELYSIA EVAC-07 — 1.184 HÀNH KHÁCH.**"
+    },
+    {
+      "blockId": "b0126",
+      "type": "paragraph",
+      "text": "Chiếc tàu đã tiếp nhận những nhóm dân cư cuối cùng, nhưng khóa kết nối với cảng bị kẹt sau một đợt rung chấn. Kỹ thuật viên đang cố tháo chốt; họ cần thêm vài phút."
+    },
+    {
+      "blockId": "b0127",
+      "type": "paragraph",
+      "text": "Alexander nhìn bản đồ. Một cụm tàu địch, dẫn đầu bởi tàu mẹ chiến đấu, vừa vượt qua khoảng trống giữa các tiểu hành tinh và hướng thẳng đến cảng số ba. Các chiến hạm VSS đang bảo vệ hành lang sơ tán chính, còn lực lượng đánh chặn gần nhất chưa tới kịp."
+    },
+    {
+      "blockId": "b0128",
+      "type": "paragraph",
+      "text": "“William! EVAC-07 vẫn ở cảng, hơn một nghìn người. Một tàu mẹ địch đang tiến đến. Điều lực lượng của **VSS HYPER SPEED** và **VSS FARGARE 2** hỗ trợ ngay!”"
+    },
+    {
+      "blockId": "b0129",
+      "type": "paragraph",
+      "text": "William lập tức điều một nhóm GEAR đánh chặn, yêu cầu hỏa lực tầm xa che cảng nhưng không phá đội hình bảo vệ đoàn sơ tán."
+    },
+    {
+      "blockId": "b0130",
+      "type": "paragraph",
+      "text": "“Các đơn vị đang đến, Hạm trưởng. Ngài tiếp tục rút về!”"
+    },
+    {
+      "blockId": "b0131",
+      "type": "paragraph",
+      "text": "Alexander nhìn thời gian tiếp cận mục tiêu của địch: chưa đầy ba phút. Đội đánh chặn sẽ đến muộn hơn."
+    },
+    {
+      "blockId": "b0132",
+      "type": "paragraph",
+      "text": "“Chúng sẽ đến trước, William. Tôi sẽ giữ chúng lại.”"
+    },
+    {
+      "blockId": "b0133",
+      "type": "paragraph",
+      "text": "“BlackShark không còn khả năng giao chiến!”"
+    },
+    {
+      "blockId": "b0134",
+      "type": "paragraph",
+      "text": "“Tôi biết. Nhưng tôi chỉ cần thêm hai phút cho EVAC-07.”"
+    },
+    {
+      "blockId": "b0135",
+      "type": "paragraph",
+      "text": "Ông đổi hướng, dùng những vũ khí phụ còn hoạt động tấn công đội hình hộ tống của tàu mẹ địch. Một vài tàu chuyển hướng truy đuổi BlackShark. Alexander vẫn hy vọng có thể kéo chúng ra xa rồi rút về."
+    },
+    {
+      "blockId": "b0136",
+      "type": "paragraph",
+      "text": "Nhưng tàu mẹ đối phương tiếp tục tiến. Cụm pháo chính xoay về phía cảng số ba, bắt đầu nạp năng lượng. BlackShark trúng thêm đạn, giáp giảm xuống ba phần trăm."
+    },
+    {
+      "blockId": "b0137",
+      "type": "paragraph",
+      "text": "William gọi EVAC-07: “Các anh đã tháo khóa chưa?”"
+    },
+    {
+      "blockId": "b0138",
+      "type": "paragraph",
+      "text": "“Còn chốt cuối cùng!”"
+    },
+    {
+      "blockId": "b0139",
+      "type": "paragraph",
+      "text": "Alexander kiểm tra hệ thống. Vũ khí chính đã hỏng. Năng lượng dự phòng không đủ duy trì một trận đánh khác. Ông mở bảng điều khiển quá tải lõi."
+    },
+    {
+      "blockId": "b0140",
+      "type": "paragraph",
+      "text": "**EMERGENCY CORE OVERLOAD — NGUY CƠ PHÁ HỦY HOÀN TOÀN GEAR.**"
+    },
+    {
+      "blockId": "b0141",
+      "type": "paragraph",
+      "text": "Ông chưa kích hoạt ngay. Nhưng khi cảm biến xác nhận tàu mẹ địch đã khóa mục tiêu vào EVAC-07 và pháo sắp nạp xong, Alexander hiểu mình không còn cách nào khác ngăn đòn bắn kịp thời."
+    },
+    {
+      "blockId": "b0142",
+      "type": "paragraph",
+      "text": "“William.”"
+    },
+    {
+      "blockId": "b0143",
+      "type": "paragraph",
+      "text": "“Tôi đây!”"
+    },
+    {
+      "blockId": "b0144",
+      "type": "paragraph",
+      "text": "“Tôi đã tìm được cách ngăn nó khai hỏa.”"
+    },
+    {
+      "blockId": "b0145",
+      "type": "paragraph",
+      "text": "William nhìn cảnh báo từ BlackShark. “Không. Hạm trưởng, đừng làm thế. Chúng ta đã hoàn thành LAST STAND rồi. Ngài có thể trở về!”"
+    },
+    {
+      "blockId": "b0146",
+      "type": "paragraph",
+      "text": "Alexander im lặng. “Tôi cũng muốn về, William. Tôi đã nghĩ lần này mình có thể về.”"
+    },
+    {
+      "blockId": "b0147",
+      "type": "paragraph",
+      "text": "Ông nhìn tín hiệu EVAC-07. “Nhưng họ cần thêm vài phút. Các anh phải đưa họ đi.”"
+    },
+    {
+      "blockId": "b0148",
+      "type": "paragraph",
+      "text": "William cúi đầu, rồi đứng thẳng. “Rõ, thưa Hạm trưởng.”"
+    },
+    {
+      "blockId": "b0149",
+      "type": "paragraph",
+      "text": "Alexander mở kênh toàn hạm đội lần cuối."
+    },
+    {
+      "blockId": "b0150",
+      "type": "paragraph",
+      "text": "“Các đồng đội của tôi. Nhiệm vụ LAST STAND đã hoàn thành. Những người còn sống, hãy trở về với gia đình. Nhưng ở cảng số ba còn một con tàu chở 1.184 người, và địch đang chuẩn bị khai hỏa vào họ.”"
+    },
+    {
+      "blockId": "b0151",
+      "type": "paragraph",
+      "text": "“Tôi sẽ ngăn đòn tấn công ấy. Đừng quay lại vì tôi. Hãy tiếp tục bảo vệ đoàn sơ tán.”"
+    },
+    {
+      "blockId": "b0152",
+      "type": "paragraph",
+      "text": "“Vinh dự lớn nhất của tôi là được chiến đấu cùng các bạn. Nếu một ngày nào đó Elysia được xây dựng lại, hãy nói với những đứa trẻ nơi ấy rằng có rất nhiều người đã chiến đấu để chúng được trở về nhà.”"
+    },
+    {
+      "blockId": "b0153",
+      "type": "paragraph",
+      "text": "Ông chuyển về kênh riêng. “William.”"
+    },
+    {
+      "blockId": "b0154",
+      "type": "paragraph",
+      "text": "“Tôi đây.”"
+    },
+    {
+      "blockId": "b0155",
+      "type": "paragraph",
+      "text": "“Đưa họ về nhà.”"
+    },
+    {
+      "blockId": "b0156",
+      "type": "paragraph",
+      "text": "“Rõ, thưa Hạm trưởng.”"
+    },
+    {
+      "blockId": "b0157",
+      "type": "paragraph",
+      "text": "“Vĩnh biệt, bạn của tôi.”"
+    },
+    {
+      "blockId": "b0158",
+      "type": "paragraph",
+      "text": "Alexander ngắt liên lạc."
+    },
+    {
+      "blockId": "b0159",
+      "type": "paragraph",
+      "text": "BlackShark tăng tốc về phía tàu mẹ địch. Hỏa lực đỏ xé qua lớp giáp gần như không còn. Alexander kích hoạt quá tải lõi, nhắm vào khu vực pháo chính và hệ thống năng lượng của đối phương."
+    },
+    {
+      "blockId": "b0160",
+      "type": "paragraph",
+      "text": "Ngay trước khi va chạm, màn hình hiện: **EVAC-07 — KHÓA CẢNG ĐÃ MỞ.**"
+    },
+    {
+      "blockId": "b0161",
+      "type": "paragraph",
+      "text": "“Đi đi…” Alexander khẽ nói."
+    },
+    {
+      "blockId": "b0162",
+      "type": "paragraph",
+      "text": "Một luồng sáng xanh dương bùng lên giữa đội hình địch. Các vụ nổ dây chuyền phá hủy cụm pháo chính của tàu mẹ đối phương. Trên màn hình chiến thuật VSS, tín hiệu BlackShark biến mất."
+    },
+    {
+      "blockId": "b0163",
+      "type": "paragraph",
+      "text": "EVAC-07 tăng tốc rời cảng. Đội GEAR của **VSS HYPER SPEED** đến kịp để hộ tống tàu, trong khi **VSS FARGARE 2** khai hỏa ngăn những phi thuyền địch còn lại truy đuổi."
+    },
+    {
+      "blockId": "b0164",
+      "type": "paragraph",
+      "text": "“EVAC-07 đã nhập hành lang sơ tán! Toàn bộ 1.184 hành khách còn sống!”"
+    },
+    {
+      "blockId": "b0165",
+      "type": "paragraph",
+      "text": "William nhìn vị trí tín hiệu BlackShark vừa biến mất. Ông không ra lệnh quay lại."
+    },
+    {
+      "blockId": "b0166",
+      "type": "paragraph",
+      "text": "“Tiếp tục nhiệm vụ hộ tống,” ông nói."
+    },
+    {
+      "blockId": "b0167",
+      "type": "paragraph",
+      "text": "“Không được phá đội hình. Đó là lệnh của Hạm trưởng.”"
+    },
+    {
+      "blockId": "b0168",
+      "type": "heading",
+      "level": 3,
+      "text": "RED CODE 1 — Xác nhận sơ tán"
+    },
+    {
+      "blockId": "b0169",
+      "type": "paragraph",
+      "text": "Trên tàu mẹ **VSS HYPER GUARDIAN**, William yêu cầu đối chiếu lần cuối danh sách tàu sơ tán đã nhận được trong lần liên lạc cuối với **Chính phủ Elysia**, đồng thời kết nối với bộ chỉ huy dân sự trên **Elysia Commander Ship** — con tàu hiện đang ở trong đội hình sơ tán."
+    },
+    {
+      "blockId": "b0170",
+      "type": "paragraph",
+      "text": "Hệ thống cảm biến trên các tàu khu trục, những dàn radar của tàu tuần dương và **RADAR ARRAY COMBINE** liên kết cả ba hạm đội liên tục rà quét những khu vực còn quan sát được. Họ kết hợp tín hiệu quang học, tia X, radar và mọi phương tiện dò tìm khả dụng để kiểm tra các bến tàu, khoang cư trú cùng những vùng mảnh vỡ có thể còn người mắc kẹt."
+    },
+    {
+      "blockId": "b0171",
+      "type": "paragraph",
+      "text": "Trên các kênh cứu hộ, nhân viên điều phối tiếp tục gọi tên những người chưa có mặt trong danh sách, gửi lại tín hiệu nhận dạng và chờ dù chỉ một hồi đáp yếu ớt."
+    },
+    {
+      "blockId": "b0172",
+      "type": "paragraph",
+      "text": "Mười lăm phút trôi qua."
+    },
+    {
+      "blockId": "b0173",
+      "type": "paragraph",
+      "text": "Báo cáo từ các chỉ huy của **VSS HYPER GUARDIAN**, **VSS HYPER SPEED**, **VSS FARGARE 2** và **Elysia Commander Ship** lần lượt chuyển đến: không phát hiện thêm tín hiệu cầu cứu nào có thể xác định vị trí. Các cảng còn hoạt động xác nhận không còn tàu nào đang chờ cất cánh."
+    },
+    {
+      "blockId": "b0174",
+      "type": "paragraph",
+      "text": "William nhìn những khu vực tối trên bản đồ. Ông hiểu kết quả ấy không có nghĩa Elysia đã hết người sống. Vẫn có thể có ai đó mắc kẹt sau những hành lang sập đổ, không còn điện, mất liên lạc hoặc không thể phát tín hiệu ra ngoài."
+    },
+    {
+      "blockId": "b0175",
+      "type": "paragraph",
+      "text": "Một sĩ quan phụ trách hệ thống **RADAR ARRAY COMBINE** bất ngờ lên tiếng:"
+    },
+    {
+      "blockId": "b0176",
+      "type": "paragraph",
+      "text": "“Báo cáo khẩn! Vùng ven vành đai tiểu hành tinh xuất hiện lượng lớn tín hiệu địch đang tiến về phía Elysia. Theo tốc độ hiện tại, dự kiến khoảng **120 phút** nữa chúng sẽ đến khu vực!”"
+    },
+    {
+      "blockId": "b0177",
+      "type": "paragraph",
+      "text": "Trên bản đồ chiến thuật, những điểm đỏ mới liên tiếp hiện ra."
+    },
+    {
+      "blockId": "b0178",
+      "type": "paragraph",
+      "text": "William trầm ngâm. *Đây rõ ràng là một cuộc tập kích quy mô lớn. Nhưng bằng cách nào chúng vượt qua được hàng rào phòng thủ biên giới? Chúng muốn chiếm Elysia để quay lại đánh các căn cứ biên giới ư? Nếu vậy, chúng đã đánh giá thấp lực lượng đóng ở tuyến ngoài. Nhưng với các vùng phía trong, chênh lệch quân lực lại quá lớn...*"
+    },
+    {
+      "blockId": "b0179",
+      "type": "paragraph",
+      "text": "Ông chưa có dữ liệu để xác nhận giả thuyết ấy. Điều chắc chắn là cần cảnh báo ngay cho Liên Minh về khả năng còn nhiều đơn vị địch hoạt động sâu trong lãnh thổ."
+    },
+    {
+      "blockId": "b0180",
+      "type": "paragraph",
+      "text": "Hai hạm trưởng của các hạm đội tiếp viện cùng mở kênh liên lạc chỉ huy."
+    },
+    {
+      "blockId": "b0181",
+      "type": "paragraph",
+      "text": "“Chỉ huy William, với quy mô quân địch đang tiếp cận, ba hạm đội chúng ta không đủ khả năng chịu một đợt tấn công mới. Chúng tôi được điều đến chi viện khẩn cấp, không có thời gian tập hợp đầy đủ đội hình và vũ khí cho một cuộc quyết chiến.”"
+    },
+    {
+      "blockId": "b0182",
+      "type": "paragraph",
+      "text": "Vị hạm trưởng còn lại tiếp lời:"
+    },
+    {
+      "blockId": "b0183",
+      "type": "paragraph",
+      "text": "“Bộ Chỉ huy VSS giao chúng ta nhiệm vụ đánh chặn và bảo vệ sơ tán. Nhưng lực lượng địch thực tế áp đảo hơn dự kiến rất nhiều. Tôi đề nghị ngài báo cáo để các hạm đội chuyên tấn công được điều đi truy quét. Còn chúng ta đang bảo vệ rất nhiều người dân Elysia. Nhiệm vụ giải cứu phải được hoàn thành. Xin ngài ra quyết định.”"
+    },
+    {
+      "blockId": "b0184",
+      "type": "paragraph",
+      "text": "William nhìn các con tàu dân sự đang nằm giữa đội hình bảo vệ. Ông nhớ lời Alexander trước khi BlackShark mất tín hiệu: **“Đưa họ về nhà.”**"
+    },
+    {
+      "blockId": "b0185",
+      "type": "paragraph",
+      "text": "Tình thế đã thay đổi. Các hạm đội tới đây để chi viện và hộ tống, trong khi cuộc tấn công có quy mô vượt xa những đánh giá ban đầu. Nếu cố ở lại thêm, ông có thể đặt toàn bộ đoàn sơ tán trước nguy cơ bị tiêu diệt."
+    },
+    {
+      "blockId": "b0186",
+      "type": "paragraph",
+      "text": "William hạ giọng:"
+    },
+    {
+      "blockId": "b0187",
+      "type": "paragraph",
+      "text": "“Dừng hoạt động tìm kiếm tại chỗ. Giữ kênh tiếp nhận tín hiệu khẩn cấp mở trong thời gian rút quân. Tổng hợp toàn bộ tọa độ chưa thể kiểm tra, gửi cho Bộ Chỉ huy. Chúng ta sẽ không bỏ tên bất kỳ ai khỏi danh sách mất liên lạc.”"
+    },
+    {
+      "blockId": "b0188",
+      "type": "paragraph",
+      "text": "Ông yêu cầu thiết lập liên lạc ưu tiên với **Bộ Chỉ huy Liên Minh VSS**, báo cáo quy mô lực lượng địch mới, nguy cơ đối với các vùng phía trong và đề nghị tham vấn khẩn cấp."
+    },
+    {
+      "blockId": "b0189",
+      "type": "paragraph",
+      "text": "Sau khi nhận báo cáo, Bộ Chỉ huy Liên Minh VSS bất ngờ trước tình hình thực tế và lập tức kích hoạt phương án truy tìm, đánh chặn các đơn vị địch xâm nhập sâu. Những hạm đội chuyên tác chiến đang được điều động từ khu vực căn cứ phòng thủ **D9** của thủ phủ VSS nhận lệnh triển khai."
+    },
+    {
+      "blockId": "b0190",
+      "type": "paragraph",
+      "text": "Riêng ba hạm đội tại Elysia được chỉ thị ưu tiên đưa dân thường ra khỏi vùng nguy hiểm, không mạo hiểm giao chiến với lực lượng mới đang kéo đến."
+    },
+    {
+      "blockId": "b0191",
+      "type": "paragraph",
+      "text": "Thông báo chiến dịch được xác nhận:"
+    },
+    {
+      "blockId": "b0192",
+      "type": "paragraph",
+      "text": "**CHIẾN DỊCH ELYSIA — RED CODE / GIAI ĐOẠN 1: HOÀN TẤT.**"
+    },
+    {
+      "blockId": "b0193",
+      "type": "paragraph",
+      "text": "**GIAI ĐOẠN 2: TIẾP NHẬN — TẬP KẾT — VẬN CHUYỂN LIÊN SAO.**"
+    },
+    {
+      "blockId": "b0194",
+      "type": "paragraph",
+      "text": "Quyết định rời Elysia không phải vì đã xác nhận không còn người sống, mà vì tình hình chiến trường không còn cho phép đoàn sơ tán ở lại an toàn."
+    },
+    {
+      "blockId": "b0195",
+      "type": "paragraph",
+      "text": "Trên các tàu cứu hộ và khoang dân sự, những màn hình hologram lần lượt sáng lên."
+    },
+    {
+      "blockId": "b0196",
+      "type": "paragraph",
+      "text": "William xuất hiện với tư cách người chỉ huy đội hình ba hạm đội đang giải cứu Elysia."
+    },
+    {
+      "blockId": "b0197",
+      "type": "paragraph",
+      "text": "“Đồng bào Elysia, tôi là William, quyền chỉ huy **VSS HYPER GUARDIAN**, đại diện lực lượng hộ tống của ba hạm đội. Chúng tôi đã đối chiếu danh sách từ **Chính phủ Elysia**, **Elysia Commander Ship** và kết quả tìm kiếm cuối cùng của cả ba hạm đội.”"
+    },
+    {
+      "blockId": "b0198",
+      "type": "paragraph",
+      "text": "“Trong mười lăm phút rà soát bổ sung, chúng tôi không nhận được thêm tín hiệu cầu cứu có thể xác định vị trí. Điều đó không đồng nghĩa mọi người trên Elysia đều đã được đưa đi. Những trường hợp mất liên lạc sẽ tiếp tục được ghi nhận và chuyển đến lực lượng tìm kiếm khi điều kiện cho phép.”"
+    },
+    {
+      "blockId": "b0199",
+      "type": "paragraph",
+      "text": "Ông ngừng một nhịp, rồi nói tiếp:"
+    },
+    {
+      "blockId": "b0200",
+      "type": "paragraph",
+      "text": "“Chúng tôi cũng đã phát hiện một lực lượng lớn của địch đang tiến nhanh qua vành đai tiểu hành tinh về phía Elysia. Để bảo đảm an toàn cho đoàn sơ tán, Bộ Chỉ huy Liên Minh VSS đã yêu cầu chúng ta lập tức chuyển sang giai đoạn hai: tiếp nhận, tập kết và vận chuyển liên sao.”"
+    },
+    {
+      "blockId": "b0201",
+      "type": "paragraph",
+      "text": "Trên màn hình hiện sơ đồ hành trình:"
+    },
+    {
+      "blockId": "b0202",
+      "type": "paragraph",
+      "text": "**ELYSIA → FARGATE HYPER SPEED VX1022000X → VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION (D10).**"
+    },
+    {
+      "blockId": "b0203",
+      "type": "paragraph",
+      "text": "“Các tàu cứu hộ cỡ nhỏ sẽ lần lượt ghép nối với tàu bệnh viện, tàu vận tải hoặc chiến hạm lớn trước khi tăng tốc. Bệnh nhân cần hỗ trợ sự sống sẽ được chuyển trước. Những tàu đủ khả năng hành trình độc lập tiếp tục di chuyển trong đội hình hộ tống.”"
+    },
+    {
+      "blockId": "b0204",
+      "type": "paragraph",
+      "text": "“Công tác tiếp nhận và kiểm tra an toàn dự kiến kéo dài khoảng **40 phút**. Sau đó, đoàn tàu sẽ di chuyển với tốc độ cao trong khoảng **12 giờ** đến Gateway liên sao **Fargate Hyper Speed VX1022000X**, gần thành phố quân sự **ANTIGRAVITY**. Từ đó, hành trình không gian siêu tốc kéo dài khoảng **ba ngày** đến **VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION**, tại lớp phòng thủ **D10** trên quỹ đạo cao thủ phủ VSS.”"
+    },
+    {
+      "blockId": "b0205",
+      "type": "heading",
+      "level": 3,
+      "text": "Ba mươi phút để từ biệt quê hương"
+    },
+    {
+      "blockId": "b0206",
+      "type": "paragraph",
+      "text": "William nhìn vào màn hình, cố giữ giọng bình tĩnh trước hàng triệu ánh mắt đang dõi theo."
+    },
+    {
+      "blockId": "b0207",
+      "type": "paragraph",
+      "text": "“Chúng tôi biết Elysia không chỉ là nơi các bạn sống. Đó là quê hương, là những con đường, mái nhà, trường học và người thân của các bạn. Chúng tôi chưa thể nói khi nào các bạn có thể trở về.”"
+    },
+    {
+      "blockId": "b0208",
+      "type": "paragraph",
+      "text": "“Trước khi đoàn tàu tăng tốc, chúng tôi sẽ dành ba mươi phút để mọi người nhìn lại Elysia. Các tàu vẫn duy trì đội hình an toàn và chuẩn bị ghép nối. Những ai có thể di chuyển được phép đến khu quan sát nếu điều kiện cho phép. Với các bệnh nhân không thể rời giường, hình ảnh sẽ được phát đến màn hình tại chỗ.”"
+    },
+    {
+      "blockId": "b0209",
+      "type": "paragraph",
+      "text": "“Các bạn không cần phải nói gì cả. Hãy dành thời gian này cho gia đình và những ký ức mà các bạn muốn giữ lại.”"
+    },
+    {
+      "blockId": "b0210",
+      "type": "paragraph",
+      "text": "Trên các màn hình, hình ảnh Elysia hiện lên. Những góc quay từ tàu tuần dương, các trạm quan sát và hệ thống cảm biến của ba hạm đội được tổng hợp, truyền đến các khoang dân sự để mọi người có thể nhìn lại quê hương từ nhiều hướng khác nhau. Những vòng cư trú mất điện, bến cảng cháy và những mái vòm bị tổn thương hiện ra trước mắt người dân. Một đứa trẻ hỏi mẹ bao giờ được về nhà. Người mẹ ôm con, chỉ đáp rằng mình chưa biết. Hai người đàn ông già nhận ra tòa tháp trung tâm mà họ đã nhìn thấy được xây dựng từ nhiều thập kỷ trước; họ ngồi cạnh nhau mà không nói được thêm lời nào."
+    },
+    {
+      "blockId": "b0211",
+      "type": "paragraph",
+      "text": "Valentine vừa bàn giao các ca nguy kịch để chuẩn bị chuyển sang tàu bệnh viện. Khi có một khoảng nghỉ ngắn, cô bước tới ô cửa quan sát."
+    },
+    {
+      "blockId": "b0212",
+      "type": "scene",
+      "sceneId": "val-ch01-image-05",
+      "sceneTitle": "Valentine nhìn Elysia qua cửa sổ tàu sơ tán",
+      "caption": "Valentine nhìn Elysia qua cửa sổ tàu sơ tán",
+      "artworks": [
+        {
+          "assetId": "world-elysia-farewell-04-review",
+          "placement": "inline",
+          "caption": "Valentine nhìn Elysia qua cửa sổ tàu sơ tán",
+          "path": "images/story/valentine/world-elysia-farewell-04-review.webp",
+          "filename": "world-elysia-farewell-04-review.webp",
+          "imageSha256": "0b8d6f6018c31ea6576663376ba25187ce3dfe76c51ea5be1e2fb44780db5172",
+          "isAvailable": true
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-elysia-farewell-04-review.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0213",
+      "type": "paragraph",
+      "text": "Phía ngoài là Elysia. Từ khoảng cách này, cô không thể nhìn rõ từng căn nhà, nhưng biết khu dân cư của mình nằm ở hướng nào. Cô nhớ những lối đi trong vòm sinh thái, người bảo vệ đã chào ở cửa bệnh viện sáng ấy, những đồng nghiệp hay nhắc cô nghỉ đúng giờ. Cô nhớ nhóm cứu hộ tại khu số sáu, những người vẫn chưa có tên trong danh sách sống sót."
+    },
+    {
+      "blockId": "b0214",
+      "type": "paragraph",
+      "text": "Valentine đặt tay lên ô kính. Nước mắt chảy xuống má."
+    },
+    {
+      "blockId": "b0215",
+      "type": "paragraph",
+      "text": "Một đồng nghiệp bước đến. “Chúng ta đã cứu được rất nhiều người hôm nay.”"
+    },
+    {
+      "blockId": "b0216",
+      "type": "paragraph",
+      "text": "“Em biết. Em mừng vì MED-04 đã sống sót.”"
+    },
+    {
+      "blockId": "b0217",
+      "type": "paragraph",
+      "text": "“Nhưng em vẫn nghĩ đến đội ở khu số sáu?”"
+    },
+    {
+      "blockId": "b0218",
+      "type": "paragraph",
+      "text": "Valentine gật đầu. “Em đã nói với họ rằng sẽ có người đến cứu. Em không biết họ có nghe được lời cuối cùng của mình không.”"
+    },
+    {
+      "blockId": "b0219",
+      "type": "paragraph",
+      "text": "Cô lau mắt. “Trước đây, em nghĩ điều khó nhất của một bác sĩ là chứng kiến bệnh nhân qua đời. Hôm nay em mới hiểu còn có điều khác: biết có người đang chờ mình giúp, nhưng không thể đến được.”"
+    },
+    {
+      "blockId": "b0220",
+      "type": "paragraph",
+      "text": "Người đồng nghiệp đứng cạnh cô, im lặng."
+    },
+    {
+      "blockId": "b0221",
+      "type": "paragraph",
+      "text": "“Em đã từng muốn đến thủ phủ để học thêm,” Valentine nói. “Nhưng em luôn nghĩ sau đó mình sẽ trở về Elysia. Bây giờ em không biết còn nơi nào để về nữa.”"
+    },
+    {
+      "blockId": "b0222",
+      "type": "paragraph",
+      "text": "Trong những phút còn lại, cô nhìn quê hương một cách lặng lẽ."
+    },
+    {
+      "blockId": "b0223",
+      "type": "heading",
+      "level": 3,
+      "text": "RED CODE 2 — Hành trình trở về thủ đô Liên Minh VSS"
+    },
+    {
+      "blockId": "b0224",
+      "type": "paragraph",
+      "text": "Các tàu cứu hộ nhỏ lần lượt được tiếp nhận vào khoang chứa hoặc ghép nối với tàu lớn. Valentine cùng nhân viên y tế chuyển bệnh nhân qua hành lang nối đã cân bằng áp suất và kiểm tra nguồn điện dự phòng. Trên tàu bệnh viện lớn hơn, những người từng phải nằm cáng dọc lối đi được đưa đến giường bệnh riêng. Các gia đình có nơi nghỉ tạm; nhân viên cứu trợ phát thức ăn, nước uống và quần áo sạch."
+    },
+    {
+      "blockId": "b0225",
+      "type": "paragraph",
+      "text": "Khi việc ghép nối hoàn tất, William mở kênh toàn đoàn."
+    },
+    {
+      "blockId": "b0226",
+      "type": "paragraph",
+      "text": "“Đây là Hạm phó William, quyền chỉ huy **VSS HYPER GUARDIAN**. Đội hình đã sẵn sàng tăng tốc. Trong mười hai giờ tới, chúng ta sẽ đến Gateway VX1022000X.”"
+    },
+    {
+      "blockId": "b0227",
+      "type": "paragraph",
+      "text": "Ông nhìn về phía Elysia."
+    },
+    {
+      "blockId": "b0228",
+      "type": "paragraph",
+      "text": "“Rất nhiều người đã không thể trở về cùng chúng ta. Những người còn sống sẽ được tiếp tục bảo vệ. Chúng tôi sẽ không quên những người đã giữ hành lang sơ tán.”"
+    },
+    {
+      "blockId": "b0229",
+      "type": "paragraph",
+      "text": "“Bắt đầu hành trình.”"
+    },
+    {
+      "blockId": "b0230",
+      "type": "paragraph",
+      "text": "Các chiến hạm của **VSS HYPER GUARDIAN**, **VSS HYPER SPEED** và **VSS FARGARE 2** bao quanh đoàn tàu dân sự, lần lượt tăng tốc. Elysia nhỏ dần trên màn hình quan sát, cho đến khi không còn phân biệt được những công trình quen thuộc."
+    },
+    {
+      "blockId": "b0231",
+      "type": "heading",
+      "level": 3,
+      "text": "Ba ngày sau — Trạm tiếp nhận D10"
+    },
+    {
+      "blockId": "b0232",
+      "type": "paragraph",
+      "text": "Sau hành trình qua Gateway và tuyến không gian siêu tốc, đoàn tàu đến vùng quỹ đạo cao của thủ phủ VSS. Từ những cửa sổ lớn, người dân nhìn thấy các trạm phòng thủ, cảng vận tải, khu dân cư và những đội tàu tuần tra trải dài trên nhiều quỹ đạo."
+    },
+    {
+      "blockId": "b0233",
+      "type": "paragraph",
+      "text": "Trên hệ thống dẫn đường xuất hiện tên trạm: **VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION — DEFENSE LAYER D10**."
+    },
+    {
+      "blockId": "b0234",
+      "type": "paragraph",
+      "text": "Các đoàn nhân viên y tế, cứu trợ và hỗ trợ hành chính chờ sẵn tại bến tiếp nhận. Hệ thống thông báo chiến dịch **ELYSIA — RED CODE** đã hoàn thành giai đoạn vận chuyển đến D10."
+    },
+    {
+      "blockId": "b0235",
+      "type": "paragraph",
+      "text": "Valentine đưa một bệnh nhân lớn tuổi qua hành lang. Ông nhìn quy mô trạm, ngạc nhiên hỏi: “Đây là thủ phủ sao, bác sĩ?”"
+    },
+    {
+      "blockId": "b0236",
+      "type": "paragraph",
+      "text": "“Chúng ta đã đến vùng thủ phủ rồi ạ. Đây là trạm tiếp nhận trên quỹ đạo.”"
+    },
+    {
+      "blockId": "b0237",
+      "type": "paragraph",
+      "text": "Valentine cũng nhìn ra ngoài. Đây là lần đầu tiên cô đến gần nơi mình từng mơ được học tập. Nhưng cô không đến cùng đồng nghiệp trong một chuyến thăm học viện. Cô đến trên một tàu chở những con người vừa mất nhà cửa và người thân."
+    },
+    {
+      "blockId": "b0238",
+      "type": "heading",
+      "level": 3,
+      "text": "Lời chào đón và những người không trở về"
+    },
+    {
+      "blockId": "b0239",
+      "type": "paragraph",
+      "text": "Tại khu tiếp nhận, hologram của đại diện **Hội đồng Liên Minh VSS** xuất hiện."
+    },
+    {
+      "blockId": "b0240",
+      "type": "paragraph",
+      "text": "“Thay mặt Liên Minh, chúng tôi chào đón những cư dân Elysia đến thủ phủ. Chúng tôi hiểu đây không phải hành trình các bạn lựa chọn. Không lời nói nào có thể bù đắp được những mất mát vừa xảy ra.”"
+    },
+    {
+      "blockId": "b0241",
+      "type": "paragraph",
+      "text": "“Những người cần điều trị sẽ được tiếp nhận tại các cơ sở y tế. Các gia đình sẽ được giúp tìm kiếm người thân, đăng ký thông tin và nhận nơi ở tạm thời. Sau giai đoạn ổn định tại D10, cư dân Elysia dự kiến được bố trí tại **VSS ORBIT CITY HABITAT SPACE STATION D3**, mã hiệu **VSS-HABITAT-CITY-D3**, để cộng đồng có thể tiếp tục sinh sống gần nhau.”"
+    },
+    {
+      "blockId": "b0242",
+      "type": "paragraph",
+      "text": "“Chúng tôi chưa thể hứa ngày trở về. Nhưng Elysia sẽ không bị lãng quên. Việc tìm kiếm và đánh giá khả năng tái thiết sẽ tiếp tục khi điều kiện an ninh cho phép.”"
+    },
+    {
+      "blockId": "b0243",
+      "type": "paragraph",
+      "text": "Hình ảnh chuyển sang biểu tượng **VSS HYPER GUARDIAN**."
+    },
+    {
+      "blockId": "b0244",
+      "type": "paragraph",
+      "text": "“Chúng ta cũng tưởng niệm những người đã bảo vệ các cảng an ninh, các đội cứu hộ và nhân viên y tế, cùng những phi công đã không trở về.”"
+    },
+    {
+      "blockId": "b0245",
+      "type": "paragraph",
+      "text": "Màn hình hiện cảnh ba mươi GEAR xuất kích, dẫn đầu là BlackShark."
+    },
+    {
+      "blockId": "b0246",
+      "type": "paragraph",
+      "text": "“Trong lúc tuyến phòng thủ Elysia gần sụp đổ, Hạm trưởng **Alexander Shilva** dẫn đầu ba mươi phi công tự nguyện thực hiện **LAST STAND**, giữ chân lực lượng địch suốt bảy mươi phút để các đoàn tàu có thêm thời gian sơ tán.”"
+    },
+    {
+      "blockId": "b0247",
+      "type": "paragraph",
+      "text": "Hình ảnh chuyển sang EVAC-07."
+    },
+    {
+      "blockId": "b0248",
+      "type": "paragraph",
+      "text": "“Sau khi nhiệm vụ hoàn thành, ông phát hiện chuyến tàu cuối cùng chở 1.184 người vẫn còn mắc kẹt. Ông đã quay lại, dùng BlackShark ngăn tàu mẹ địch khai hỏa vào cảng. Toàn bộ hành khách EVAC-07 đã thoát.”"
+    },
+    {
+      "blockId": "b0249",
+      "type": "paragraph",
+      "text": "**ALEXANDER SHILVA — CHỈ HUY LAST STAND — MẤT TÍCH TRONG CHIẾN ĐẤU.**"
+    },
+    {
+      "blockId": "b0250",
+      "type": "paragraph",
+      "text": "“**VSS HYPER GUARDIAN** chịu tổn thất khoảng 95% lực lượng chiến đấu. Những người còn sống, dưới quyền Hạm phó William, đã hoàn thành việc hộ tống dân thường đến vùng trong. Liên Minh sẽ tái thiết lực lượng hạm đội khi điều kiện cho phép, để truyền thống và tên tuổi của họ được tiếp nối.”"
+    },
+    {
+      "blockId": "b0251",
+      "type": "paragraph",
+      "text": "Mọi người trong khu tiếp nhận đứng lặng. Có người giơ tay chào theo nghi thức quân đội; có người cúi đầu. Trong đám đông là những hành khách EVAC-07, lần đầu biết mình đã được cứu bằng cách nào."
+    },
+    {
+      "blockId": "b0252",
+      "type": "paragraph",
+      "text": "Một đứa trẻ hỏi cha: “Chú trong hình là ai vậy?”"
+    },
+    {
+      "blockId": "b0253",
+      "type": "paragraph",
+      "text": "Người cha ôm con: “Là người đã giúp chúng ta đến được đây.”"
+    },
+    {
+      "blockId": "b0254",
+      "type": "heading",
+      "level": 3,
+      "text": "Một khởi đầu không mong muốn"
+    },
+    {
+      "blockId": "b0255",
+      "type": "paragraph",
+      "text": "Valentine đứng ở khu tiếp nhận y tế. Nghe thông báo, cô hiểu hơn vì sao nhiều đoàn tàu có thể thoát khỏi Elysia. Cô nghĩ đến những người lính địa phương, phi công LAST STAND và nhóm đồng đội ở khu số sáu vẫn bặt tin."
+    },
+    {
+      "blockId": "b0256",
+      "type": "paragraph",
+      "text": "Một nhân viên y tế D10 bước tới. “Bác sĩ Valentine? Chúng tôi đã chuẩn bị chỗ nghỉ cho đội quân y sơ tán. Cô có thể đến sau khi bàn giao bệnh nhân.”"
+    },
+    {
+      "blockId": "b0257",
+      "type": "paragraph",
+      "text": "“Cảm ơn. Tôi sẽ đến sau.”"
+    },
+    {
+      "blockId": "b0258",
+      "type": "paragraph",
+      "text": "Valentine nhìn qua cửa kính lớn. Phía xa là những khu đô thị quỹ đạo của thủ phủ. Cô đã đến được nơi từng mong ước, nhưng không biết bao giờ mới có thể trở lại quê hương."
+    },
+    {
+      "blockId": "b0259",
+      "type": "paragraph",
+      "text": "“Bác sĩ Valentine…”"
+    },
+    {
+      "blockId": "b0260",
+      "type": "paragraph",
+      "text": "Người bệnh lớn tuổi mà cô chăm sóc trên tàu đang ngồi xe hỗ trợ di chuyển."
+    },
+    {
+      "blockId": "b0261",
+      "type": "paragraph",
+      "text": "“Tôi vẫn chưa tìm được vợ.”"
+    },
+    {
+      "blockId": "b0262",
+      "type": "paragraph",
+      "text": "Valentine ngồi xuống trước mặt ông. “Tôi biết.”"
+    },
+    {
+      "blockId": "b0263",
+      "type": "paragraph",
+      "text": "“Cô nghĩ chúng tôi còn cơ hội gặp lại không?”"
+    },
+    {
+      "blockId": "b0264",
+      "type": "paragraph",
+      "text": "“Tôi không thể chắc chắn. Nhưng bây giờ chúng ta đã ở khu tiếp nhận. Tôi sẽ giúp ông đăng ký tìm kiếm và đối chiếu danh sách từ các đoàn tàu khác.”"
+    },
+    {
+      "blockId": "b0265",
+      "type": "paragraph",
+      "text": "“Cô vẫn nhớ chuyện đó sao?”"
+    },
+    {
+      "blockId": "b0266",
+      "type": "paragraph",
+      "text": "“Dĩ nhiên.”"
+    },
+    {
+      "blockId": "b0267",
+      "type": "paragraph",
+      "text": "Người đàn ông nắm tay cô. “Cảm ơn bác sĩ.”"
+    },
+    {
+      "blockId": "b0268",
+      "type": "paragraph",
+      "text": "Valentine nhìn theo khi ông được đưa đi. Cô không thể cứu tất cả mọi người. Nhưng tại nơi xa lạ này, cô vẫn có thể chăm sóc những người đang ở trước mặt mình."
+    },
+    {
+      "blockId": "b0269",
+      "type": "paragraph",
+      "text": "Cô nhấc túi dụng cụ, bước theo đoàn nhân viên y tế vào khu điều trị."
+    },
+    {
+      "blockId": "b0270",
+      "type": "paragraph",
+      "text": "Phía ngoài, những cư dân Elysia bắt đầu một cuộc sống mà không ai từng lựa chọn. Họ đã mất rất nhiều. Nhưng họ vẫn còn sống, và vẫn còn cơ hội tìm lại nhau."
+    },
+    {
+      "blockId": "b0271",
+      "type": "paragraph",
+      "text": "**— HẾT CHƯƠNG 01 —**"
+    }
+  ],
+  "content": "01. Elysia — Quê hương giữa những vì sao\n\nElysia từng chỉ là một trạm tiếp tế nhỏ giữa vành đai tiểu hành tinh Aureon. Những đoàn tàu khai khoáng và vận tải ghé qua để bổ sung nhiên liệu, sửa chữa thiết bị và nghỉ ngơi trước khi tiếp tục hành trình.\n\nQua nhiều thế hệ, Elysia từ một trạm trung chuyển nhỏ đã dần mở rộng thành một thành phố không gian lớn và hiện đại, nơi hàng triệu con người sinh sống và làm việc. Các vòng cư trú được xây thêm, những hành lang kín áp suất nối các khu dân cư với cảng vận tải, bệnh viện, trường học, trung tâm nghiên cứu và các khu thương mại. Dưới những mái vòm sinh thái, cây xanh và hồ nước được chăm sóc như một phần thiết yếu của đời sống.\n\nElysia thuộc lãnh thổ **Liên Minh VSS**, ở phía trong nhưng sát vành đai phòng thủ biên giới. Những thành phố tiền tuyến nhận được nhiều nguồn lực quân sự hơn: pháo đài, hạm đội thường trực và các công trình cảnh báo sớm. Elysia phát triển chủ yếu nhờ thương mại, hậu cần, y tế và dân cư. Thành phố vẫn có lực lượng phòng vệ, những phi đội GEAR — các phi thuyền chiến đấu không gian — cùng hệ thống khiên tại các cảng an ninh để chặn các cuộc tấn công nhỏ, các cuộc bạo loạn, cướp biển...\n\nNgười dân biết chiến tranh tồn tại ngoài biên giới. Nhưng với họ xưa giờ không có một cuộc tập kích nào lọt nổi từ tuyến phòng thủ của các thành phố biên giới mà đến được đây. Nơi hoà bình đã trải dài vô tận.\n\nVới Valentine, Elysia không phải một vị trí chiến lược.\n\nĐó là quê nhà: những con đường cô thuộc từng ngã rẽ, cửa hàng quen ở khu bệnh viện và vòm sinh thái mà cô từng đến sau những ca trực dài.\n\n02. Valentine và những ước mơ\n\nAurelia Valentine sinh ra và lớn lên tại Elysia. Mọi người thường gọi cô là Valentine; ở bệnh viện, người ta gọi cô là **bác sĩ Valentine**.\n\nCô đã chọn quân y vì muốn làm việc ở nơi cần sự trợ giúp nhất. Phần lớn thời gian của cô dành cho bệnh nhân tại bệnh viện và các chuyến cứu hộ trong những khu vực vận tải, nơi tai nạn thiết bị và chấn thương áp suất không phải chuyện hiếm gặp.\n\nElysia có hệ thống y tế tốt, nhưng vẫn ở xa những trung tâm nghiên cứu và học viện lớn nhất của Liên Minh. Mỗi năm, những chuyến tàu hậu cần từ vùng trong mang đến thuốc mới, thiết bị chẩn đoán và tài liệu cập nhật. Đôi khi có bác sĩ chuyên khoa ghé qua, hướng dẫn các ê-kíp địa phương trong một vài ngày ngắn ngủi. Những ca bệnh quá phức tạp phải chuyển đến bệnh viện vùng lõi, và khi bệnh nhân trở về, đồng nghiệp của Valentine thường kể lại các phương pháp điều trị mà họ được chứng kiến.\n\nTừ những câu chuyện ấy, Valentine bắt đầu mơ đến việc học tập tại một học viện y khoa ở thủ phủ VSS. Cô chưa từng đặt chân đến đó. Cô không biết những bệnh viện ở thủ phủ thật sự trông như thế nào; điều cô biết đến từ các bản tin y khoa, cuộc trò chuyện với chuyên gia và những tài liệu gửi cùng các chuyến hậu cần.\n\nNhưng mỗi khi nghĩ đến ngày phải đi xa, cô lại nhớ những bệnh nhân đang chờ mình ở Elysia. Cô muốn được học thêm, rồi trở về làm việc tốt hơn. Trong những dự định ấy, Elysia luôn là nơi để trở về.\n\nBuổi sáng hôm đó, Valentine đến bệnh viện như thường lệ. Cô kiểm tra danh sách thuốc, hỏi thăm một bệnh nhân vừa qua phẫu thuật rồi đi dọc hành lang đến khu điều trị. Không có điều gì báo trước rằng thành phố đang sống những giờ bình yên cuối cùng.\n\n03. Cuộc tập kích bất ngờ\n\n08:42 — Giờ chuẩn Elysia.\n\nValentine vừa hoàn tất kiểm tra một bệnh nhân thì còi báo động vang lên. Ánh đèn hành lang chuyển sang đỏ. Hệ thống phát thanh yêu cầu tất cả nhân viên thực hiện quy trình khẩn cấp.\n\nMột điều dưỡng chạy đến: “Bác sĩ Valentine, có chuyện gì vậy?”\n\n“Tôi cũng chưa rõ. Liên hệ bộ phận an ninh để xác nhận.”\n\nTrên màn hình bên ngoài cửa sổ, những tín hiệu cảnh báo xuất hiện dồn dập. Một tiếng nổ xa làm sàn nhà rung mạnh. Chưa đầy một phút sau, thông báo từ trung tâm phòng vệ vang lên: **ELYSIA ĐANG BỊ TẤN CÔNG. NHẮC LẠI: ĐÂY KHÔNG PHẢI LÀ DIỄN TẬP. ELYSIA ĐANG BỊ TẤN CÔNG.**\n\nBên ngoài Elysia, những trạm cảnh giới ngoại vi bất ngờ đồng loạt phát tín hiệu nguy hiểm. Trước đó, các ca trực chỉ nhận được những báo cáo giao thông thông thường từ tuyến vận tải. Giờ đây, trên màn hình phòng vệ xuất hiện nhiều mục tiêu không đăng ký, tiến vào từ một hướng nằm sâu bên trong hành lang mà Elysia vẫn xem là tương đối an toàn.\n\n“Xác minh danh tính các tàu vừa xuất hiện!” viên sĩ quan trực chiến yêu cầu.\n\n“Không có mã nhận dạng hợp lệ. Chúng không phản hồi cảnh báo đổi hướng!”\n\nMột tín hiệu trên bản đồ biến mất. Trạm cảm biến tiền tiêu thứ nhất ngừng phát. Vài giây sau, hệ thống cảnh giới báo thêm hai vị trí bị tấn công.\n\n“Báo động chiến đấu toàn khu vực. Điều động lực lượng phòng vệ **Elysia**!”\n\nNhững phi đội GEAR của **Quân phòng vệ Elysia** vội vã rời các bến quân sự. Đây là phi thuyền chiến đấu không gian của lực lượng địa phương, không phải GEAR thuộc hạm đội cứu viện VSS. Họ được giao bảo vệ tuyến tiếp cận, các cảng trọng yếu và vùng cư trú, nhưng quân số hiện có chỉ đủ đối phó những cuộc xâm nhập nhỏ hoặc hỗ trợ an ninh vận tải.\n\n“Phi đội Một, chặn mục tiêu ở hành lang phía Bắc! Phi đội Hai bảo vệ cảng dân sự! Không để chúng tiếp cận khu cư trú!”\n\nNhững luồng laser xanh dương từ GEAR Elysia bắn về phía các phi thuyền không rõ nguồn gốc. Đối phương đáp trả bằng hỏa lực đỏ dày đặc. Một chiếc GEAR phòng vệ bị trúng đạn, phải tách đội hình; hai chiếc khác lập tức yểm trợ đồng đội rút về. Trên trục giao thông chính, các tàu dân sự nhận lệnh ngừng cất cánh và tránh xa tuyến giao chiến.\n\nNhưng ý định của đối phương có vẻ không phải chỉ là gây rối hay cướp. Các đợt tấn công tiếp theo với lực lượng cực kỳ lớn nhằm thẳng vào trạm thông tin, bộ phận điều phối vận tải và những điểm kết nối giữa các khu dân cư. Những tuyến liên lạc dự phòng lần lượt bị nhiễu; trung tâm chỉ huy buộc phải chuyển sang mạng khẩn cấp nội bộ.\n\n“Đây… đây không phải một cuộc đột kích thông thường! Đây là một cuộc tập kích quy mô lớn!” một sĩ quan báo cáo với chỉ huy phòng vệ.\n\n“Chúng đang đánh vào khả năng điều phối và cứu hộ của chúng ta. Yêu cầu tiếp viện!”\n\n“Phát hiện lượng lớn lực lượng địch và yêu cầu cứu viện tới **Bộ Chỉ huy Liên Minh VSS**. Đồng thời báo **Chính phủ Elysia** kích hoạt phòng thủ dân sự toàn diện!”\n\nChỉ đến lúc này, báo cáo về quy mô cuộc tấn công mới được chuyển lên các cấp chỉ huy Liên Minh.\n\nCác hạm đội VSS chuyên trách thường không hiện diện tại Elysia, đặc biệt là vào thời điểm loạt đạn đầu tiên nổ ra.\n\nTuyến phòng thủ biên giới được củng cố từ lâu ở phía ngoài, nơi mạng lưới lực lượng **VSS Border Protected** tập trung để bảo đảm an toàn cho các vùng bên trong.\n\nElysia nằm phía trong, gần biên giới nhưng không phải mục tiêu từng được đánh giá có nguy cơ bị tập kích tổng lực như thế này.\n\nSự bất ngờ ấy khiến lực lượng địa phương không đủ thời gian tập trung quân. Elysia cũng không có kế hoạch phát triển lực lượng quân sự hay bố trí những hạm đội địa phương quy mô lớn thường trú tại đây; phần lớn hạm đội chiến đấu đang làm nhiệm vụ ở tiền tuyến. Họ phải chiến đấu ngay bằng những đơn vị đang trực, vừa cố bảo vệ thành phố vừa chờ lệnh điều động tiếp viện.\n\nTrên các tuyến hành lang dân sự, đèn cảnh báo bật sáng. Cửa ngăn chống áp suất lần lượt đóng tại những khoang bị hư hại, nhưng các trục sơ tán còn an toàn vẫn phải được giữ thông. Nhân viên an ninh hướng người dân tránh xa cửa quan sát, đưa trẻ em và người già vào các điểm trú ẩn gần nhất. Bệnh viện bắt đầu chuẩn bị tiếp nhận thương vong hàng loạt.\n\nValentine không biết điều đó. Cô chỉ thấy bệnh nhân mới liên tiếp được chuyển đến.\n\nMột cáng thương được đẩy qua cửa. Người đàn ông nằm trên đó có vết thương lớn ở vai, mặt tái nhợt vì mất máu. Valentine lập tức cùng điều dưỡng chuyển ông vào phòng cấp cứu.\n\n“Ưu tiên cầm máu. Chuẩn bị dịch truyền. Báo cho khu phẫu thuật rằng chúng ta có một ca cần xử lý ngay.”\n\nHệ thống bệnh viện nhanh chóng quá tải. Những ca bỏng, chấn thương và tổn thương do mất áp suất liên tục được đưa đến. Valentine phối hợp với nhân viên y tế phân loại mức độ nguy kịch, dành phòng cấp cứu cho những người cần can thiệp trước.\n\nMột vụ nổ gần khu dân cư khiến đường nối đến bệnh viện phải đóng khẩn cấp. Trung tâm điều phối yêu cầu chuyển bớt bệnh nhân đến các cảng an ninh, nơi tàu cứu hộ có thể tiếp nhận.\n\nValentine được điều lên tàu cứu hộ R-17 với vai trò bác sĩ quân y. Người phi công và các đơn vị an ninh nhận lệnh từ trung tâm điều phối; cô phụ trách đánh giá bệnh nhân, ổn định tình trạng của họ và hỗ trợ các đội y tế tại điểm tiếp nhận.\n\nTrên đường qua một cầu nối, cả nhóm phải dừng lại khi cửa ngăn chống áp suất đóng trước mặt. Tín hiệu môi trường báo khu vực phía bên kia không ổn định; bộ phận kỹ thuật cần gần ba phút để khôi phục đường đi an toàn. Trong ba phút ấy, Valentine ở bên một bệnh nhân đang khó thở, giúp ông giữ bình tĩnh và theo dõi từng nhịp thở. Khi cửa mở, cả đội tiếp tục di chuyển. Ngoài cửa quan sát, những vệt lửa đỏ và xanh vẫn cắt ngang khoảng không.\n\n04. Những người phải ở lại\n\n14:17 — Giờ chuẩn Elysia.\n\nTàu R-17 vừa hoàn tất một chuyến vận chuyển bệnh nhân thì nhận được tín hiệu khẩn cấp.\n\n“MED-04 gọi trung tâm! Chúng tôi bị trúng mảnh vỡ, động cơ phụ đã hỏng! Tàu đang mất khả năng điều khiển!”\n\nMED-04 là tàu vận tải y tế chở hơn hai trăm bệnh nhân và người dân đang được sơ tán khỏi khu vực nguy hiểm.\n\nValentine mở kênh liên lạc y tế. “MED-04, đây là bác sĩ Valentine. Hệ thống hỗ trợ sự sống của các anh thế nào?”\n\n“Điện dự phòng còn rất ít! Chúng tôi có nhiều bệnh nhân đang sử dụng máy hỗ trợ hô hấp!”\n\n“Ưu tiên giữ điện cho máy hỗ trợ sự sống. Tôi sẽ ở trên kênh để hỗ trợ các anh.”\n\nNgười phi công xác định vị trí con tàu. “Trung tâm, đây là R-17. Chúng tôi có thể tiếp cận MED-04 trong khoảng mười hai phút. Xin chỉ thị.”\n\nMột tín hiệu khác chen vào. “Valentine! Cô có nghe rõ không?”\n\nĐó là một đồng đội thuộc nhóm cứu hộ tại khu vận chuyển số sáu. Hành lang của họ đã sập, hai người bị thương nặng và lượng dưỡng khí còn lại chưa đầy mười phút.\n\nValentine lập tức chuyển tọa độ về trung tâm, yêu cầu điều phương tiện hỗ trợ. Nhưng các đơn vị gần khu số sáu đang giao chiến và chưa thể tiếp cận.\n\nCô quay sang người phi công: “Chúng ta có thể đến khu số sáu trước không? Họ chỉ còn ít phút dưỡng khí.”\n\nChưa kịp trả lời, bộ đàm vang lên: **“R-17, TRUNG TÂM ĐIỀU PHỐI ELYSIA. ƯU TIÊN TIẾP CẬN MED-04. KÍCH HOẠT QUY TRÌNH KÉO CỨU HỘ KHẨN CẤP.”**\n\n“R-17 nhận lệnh,” người phi công đáp rồi chuyển hướng.\n\n“Nhưng nhóm ở khu số sáu…” Valentine nói.\n\n“Tôi biết, bác sĩ. Trung tâm đang tìm phương tiện khác. Chúng ta phải thực hiện lệnh.”\n\nValentine không có quyền ra lệnh cho phi công đổi hướng. Cô là bác sĩ quân y trên tàu, không phải người chỉ huy hoạt động cứu hộ.\n\nCô mở lại kênh với đồng đội. “Tàu của tôi được lệnh đến MED-04. Trung tâm đang tìm người đến với các anh.”\n\nMột khoảng im lặng. Rồi người đồng đội nói, giọng thở nặng nhọc: “Vậy thì cứu họ đi, Valentine.”\n\n“Các anh giữ liên lạc nhé. Tôi sẽ tiếp tục gọi trung tâm.”\n\n“Được.”\n\nMột tiếng nổ làm đường truyền nhiễu loạn. Valentine gọi lại, nhưng không còn ai trả lời.\n\nR-17 mất gần mười hai phút tiếp cận MED-04. Con tàu y tế đang xoay chậm, trôi về vùng đầy mảnh vỡ. Người phi công áp sát, kích hoạt khóa kéo; Valentine hướng dẫn kíp y tế bên kia giữ nguồn cho những bệnh nhân nguy kịch.\n\nMột loạt laser đỏ quét qua khoảng không. Một GEAR phòng vệ Elysia lao tới đánh chặn, khai hỏa về phía phi thuyền địch đang truy đuổi.\n\n“R-17, tiếp tục rút! Tôi sẽ chặn chúng!”\n\nR-17 kéo MED-04 vào hành lang sơ tán còn được bảo vệ. Hơn hai trăm người trên tàu y tế thoát khỏi vùng nguy hiểm.\n\nValentine lập tức gọi lại khu số sáu. Không có tín hiệu đáp. Trung tâm xác nhận chưa có đơn vị nào tiếp cận được khu vực ấy.\n\nCô không biết đồng đội đã được cứu bởi một nhóm khác, còn mắc kẹt, hay đã không còn sống. Suốt hành trình quay về, cô tiếp tục thử gọi. Không ai trả lời.\n\nTrong khi đó, cuộc chiến ngoài Elysia ngày càng ác liệt. **Chính phủ Elysia**, với sự phối hợp của **Bộ Chỉ huy Liên Minh VSS**, điều động quân đội và lực lượng an ninh về những tuyến đường dẫn đến các cảng có khiên phòng thủ. Tàu vận tải, tàu dân sự và các khoang cứu thương được huy động làm phương án sơ tán dự phòng. Các đơn vị phòng vệ cố giữ từng cửa ngăn và cầu nối để người dân đến được nơi tập kết.\n\nHọ vẫn hy vọng giữ được thành phố. Nhưng nếu không thể, ít nhất người dân phải còn đường thoát.\n\n05. Ánh sáng cuối cùng tại Elysia\n\nHạm đội tiếp viện\n\nTheo yêu cầu cứu viện từ **Chính phủ Elysia**, **Bộ Chỉ huy Liên Minh VSS** điều hạm đội gần nhất đến khu vực: **VSS HYPER GUARDIAN**.\n\n**“VSS HYPER GUARDIAN ĐÃ TIẾP CẬN KHU VỰC TÁC CHIẾN. TRIỂN KHAI ĐỘI HÌNH PHÒNG THỦ, BẢO VỆ VÀ HỘ TỐNG.”**\n\nNgay lập tức, các tàu tuần dương (cruiser) và thiết giáp hạm (battleship) triển khai đội hình đánh chặn. Các khoang chứa máy bay (hangar) mở ra, những phi đội phi cơ chiến đấu GEAR lần lượt xuất kích và lao vào vùng giao tranh. Những phi đội GEAR lao ra giữa mảnh vỡ và hỏa lực địch, cố kéo lực lượng tấn công ra khỏi tuyến vận tải. Dưới sự yểm trợ ấy, các binh sĩ Elysia đưa thêm người về cảng an ninh; nhân viên kỹ thuật duy trì khiên, nguồn điện và dưỡng khí cho những khu dân cư chưa thể sơ tán.\n\nMười hai giờ sau, dù có **VSS HYPER GUARDIAN**, lực lượng địch vẫn áp đảo. Phần lớn GEAR địa phương bị tiêu diệt hoặc mất khả năng chiến đấu; các chiến hạm phòng vệ Elysia không còn giữ được đội hình. Các đơn vị bảo vệ cảng chịu thương vong khủng khiếp.\n\nTrên đài chỉ huy tàu mẹ **VSS HYPER GUARDIAN**, Hạm trưởng **Alexander Shilva** nhìn bản đồ. Các tuyến phòng thủ Elysia lần lượt chuyển sang màu đỏ.\n\n“Các hạm đội tiếp viện còn bao xa?”\n\n“Không thể đến kịp theo thời gian dự kiến, thưa Hạm trưởng.”\n\nBản đánh giá chiến thuật hiện lên: **XÁC SUẤT THẤT THỦ ELYSIA: TRÊN 99%.**\n\n“Chúng ta không còn đủ lực lượng để giành lại các tuyến phòng thủ,” một sĩ quan báo cáo.\n\nAlexander im lặng. “Tôi biết. Nhưng ở dưới kia vẫn còn hàng trăm nghìn người đang chờ lên tàu. Chúng ta phải cố giữ thêm thời gian.”\n\nÔng triệu tập các sĩ quan, rồi mở kênh toàn hạm đội.\n\nLAST MISSION — LAST STAND\n\n“Đây là Hạm trưởng Alexander Shilva, chỉ huy **VSS HYPER GUARDIAN**.”\n\n“Các đồng đội của tôi. Chúng ta đã mất rất nhiều chiến hữu. GEAR của các bạn đã hư hại, chiến hạm của chúng ta cũng không còn nguyên vẹn. Tôi phải nói rõ: chúng ta không thể bảo vệ toàn bộ Elysia.”\n\nÔng dừng một nhịp.\n\n“Nhưng hàng trăm nghìn người vẫn đang ở các cảng an ninh. Tôi muốn đề nghị một đợt xung kích cuối cùng. Chúng ta sẽ tấn công đội hình địch, buộc chúng chuyển hỏa lực ra xa cảng, để những đoàn tàu có thêm thời gian cất cánh.”\n\n“Đây không phải lệnh bắt buộc. Ước tính khả năng sống sót của đội hình xung kích chỉ khoảng một phần trăm. Các bạn còn gia đình, còn người đang chờ ở nhà. Người chọn hộ tống dân thường cũng đang làm nhiệm vụ không kém phần quan trọng.”\n\n“Tôi sẽ giao quyền điều hành tàu mẹ cho Hạm phó **William**. Còn tôi sẽ điều khiển GEAR **BlackShark**, cùng xuất kích với những ai tự nguyện nhận nhiệm vụ.”\n\n“Tôi không thể yêu cầu các bạn làm điều mà bản thân mình không dám làm.”\n\nKênh đăng ký được mở. Trong số năm mươi GEAR còn hoạt động, ba mươi phi công tự nguyện nhận nhiệm vụ. Hai mươi chiếc còn lại đảm nhiệm hộ tống và phòng thủ.\n\nMột phi công trẻ nhìn ảnh vợ và con trên màn hình phụ trước khi nhấn xác nhận. Ở khoang khác, một nữ phi công đề nghị kỹ thuật viên kiểm tra lại động cơ hư hại của mình. Không ai không biết nguy hiểm đang chờ phía trước.\n\nAlexander đọc danh sách ba mươi cái tên. Ông quay sang William: “Đưa họ về nhà. Dù tôi không trở về, anh không được để tàu mẹ rời nhiệm vụ hộ tống chỉ để tìm chúng tôi.”\n\nWilliam đứng nghiêm: “Rõ, thưa Hạm trưởng.”\n\nBlackShark được đưa lên đường phóng. Các phi công lần lượt xác nhận sẵn sàng.\n\n“LAST STAND. Xuất kích.”\n\nBa mươi GEAR tăng tốc vào đội hình địch. Những luồng laser xanh dương bắn vào các mũi tiến công; đối phương lập tức điều thêm lực lượng truy đuổi. Từ phía sau, tàu mẹ và các tàu tuần dương VSS khai hỏa yểm trợ. Đó không phải trận đánh để chiếm lại Elysia. Mỗi đợt chuyển hướng của đối phương, mỗi phút đội xung kích giữ được chúng ở xa cảng, đều có nghĩa thêm một đoàn người kịp lên tàu.\n\nHai mươi bốn phút đầu, những chuyến tàu đầu tiên rời các cảng an ninh. William liên tục yêu cầu **Chính phủ Elysia** cho các tàu đã đủ người cất cánh ngay, không chờ đoàn còn lại. Ông điều ba tàu tuần dương hỗ trợ tiếp nhận dân thường, đồng thời duy trì hỏa lực bảo vệ đội xung kích theo từng đợt.\n\nBốn mươi phút, đội hình LAST STAND mất thêm nhiều GEAR. Một phi công bị trúng đạn khi cố che chắn cho đồng đội; tín hiệu của anh biến mất trước khi lực lượng khác có thể đến. BlackShark bị thương nặng nhưng Alexander vẫn điều các đội di chuyển liên tục, tránh bị bao vây.\n\nSáu mươi phút, các đoàn tàu dân sự nối nhau rời trạm. Các binh sĩ Elysia giữ những cửa ngăn cuối cùng; nhân viên kỹ thuật duy trì khiên cho đến khi những chuyến tàu phía sau có thể rời bến.\n\nPhút thứ bảy mươi — Nhiệm vụ hoàn thành\n\n**LAST STAND — 01:10:06.**\n\nBlackShark rung chuyển sau một loạt đạn. Màn hình báo **GIÁP BẢO VỆ: 5%**. Động cơ phụ hỏng, vũ khí chính mất khả năng hoạt động, nhưng động cơ còn lại vẫn đủ đưa Alexander về điểm tiếp nhận khẩn cấp.\n\nTín hiệu từ William vang lên: “Hạm trưởng! **VSS HYPER SPEED** và **VSS FARGARE 2** đã đến! Hành lang sơ tán chính được bảo vệ. Các đoàn tàu cuối cùng đang di chuyển!”\n\nAlexander nhìn những tín hiệu đồng minh mới. Quân địch đã bị kéo ra xa khỏi phần lớn các cảng. Nhiệm vụ cầm chân đã đạt mục tiêu.\n\nÔng mở kênh LAST STAND. “Các phi công, đây là Alexander. **Nhiệm vụ đã hoàn thành.** Tất cả đơn vị còn khả năng di chuyển, lập tức trở về tàu mẹ.”\n\nMột phi công hỏi: “Còn ngài?”\n\n“Tôi cũng đang về.”\n\nWilliam thở phào qua bộ đàm: “Chúng tôi đã chuẩn bị đội kỹ thuật đón BlackShark. Ngài còn nợ chúng tôi một bữa ăn mừng ở thủ phủ.”\n\nAlexander mỉm cười: “Vậy nhớ chuẩn bị đồ ăn ngon.”\n\nLần đầu tiên sau nhiều giờ, ông tin mình có thể trở về.\n\nEVAC-07 — Chuyến tàu cuối cùng\n\nKhi BlackShark đang quay về, một tín hiệu cấp cứu dân sự xuất hiện từ **cảng an ninh số ba**.\n\n**ELYSIA EVAC-07 — 1.184 HÀNH KHÁCH.**\n\nChiếc tàu đã tiếp nhận những nhóm dân cư cuối cùng, nhưng khóa kết nối với cảng bị kẹt sau một đợt rung chấn. Kỹ thuật viên đang cố tháo chốt; họ cần thêm vài phút.\n\nAlexander nhìn bản đồ. Một cụm tàu địch, dẫn đầu bởi tàu mẹ chiến đấu, vừa vượt qua khoảng trống giữa các tiểu hành tinh và hướng thẳng đến cảng số ba. Các chiến hạm VSS đang bảo vệ hành lang sơ tán chính, còn lực lượng đánh chặn gần nhất chưa tới kịp.\n\n“William! EVAC-07 vẫn ở cảng, hơn một nghìn người. Một tàu mẹ địch đang tiến đến. Điều lực lượng của **VSS HYPER SPEED** và **VSS FARGARE 2** hỗ trợ ngay!”\n\nWilliam lập tức điều một nhóm GEAR đánh chặn, yêu cầu hỏa lực tầm xa che cảng nhưng không phá đội hình bảo vệ đoàn sơ tán.\n\n“Các đơn vị đang đến, Hạm trưởng. Ngài tiếp tục rút về!”\n\nAlexander nhìn thời gian tiếp cận mục tiêu của địch: chưa đầy ba phút. Đội đánh chặn sẽ đến muộn hơn.\n\n“Chúng sẽ đến trước, William. Tôi sẽ giữ chúng lại.”\n\n“BlackShark không còn khả năng giao chiến!”\n\n“Tôi biết. Nhưng tôi chỉ cần thêm hai phút cho EVAC-07.”\n\nÔng đổi hướng, dùng những vũ khí phụ còn hoạt động tấn công đội hình hộ tống của tàu mẹ địch. Một vài tàu chuyển hướng truy đuổi BlackShark. Alexander vẫn hy vọng có thể kéo chúng ra xa rồi rút về.\n\nNhưng tàu mẹ đối phương tiếp tục tiến. Cụm pháo chính xoay về phía cảng số ba, bắt đầu nạp năng lượng. BlackShark trúng thêm đạn, giáp giảm xuống ba phần trăm.\n\nWilliam gọi EVAC-07: “Các anh đã tháo khóa chưa?”\n\n“Còn chốt cuối cùng!”\n\nAlexander kiểm tra hệ thống. Vũ khí chính đã hỏng. Năng lượng dự phòng không đủ duy trì một trận đánh khác. Ông mở bảng điều khiển quá tải lõi.\n\n**EMERGENCY CORE OVERLOAD — NGUY CƠ PHÁ HỦY HOÀN TOÀN GEAR.**\n\nÔng chưa kích hoạt ngay. Nhưng khi cảm biến xác nhận tàu mẹ địch đã khóa mục tiêu vào EVAC-07 và pháo sắp nạp xong, Alexander hiểu mình không còn cách nào khác ngăn đòn bắn kịp thời.\n\n“William.”\n\n“Tôi đây!”\n\n“Tôi đã tìm được cách ngăn nó khai hỏa.”\n\nWilliam nhìn cảnh báo từ BlackShark. “Không. Hạm trưởng, đừng làm thế. Chúng ta đã hoàn thành LAST STAND rồi. Ngài có thể trở về!”\n\nAlexander im lặng. “Tôi cũng muốn về, William. Tôi đã nghĩ lần này mình có thể về.”\n\nÔng nhìn tín hiệu EVAC-07. “Nhưng họ cần thêm vài phút. Các anh phải đưa họ đi.”\n\nWilliam cúi đầu, rồi đứng thẳng. “Rõ, thưa Hạm trưởng.”\n\nAlexander mở kênh toàn hạm đội lần cuối.\n\n“Các đồng đội của tôi. Nhiệm vụ LAST STAND đã hoàn thành. Những người còn sống, hãy trở về với gia đình. Nhưng ở cảng số ba còn một con tàu chở 1.184 người, và địch đang chuẩn bị khai hỏa vào họ.”\n\n“Tôi sẽ ngăn đòn tấn công ấy. Đừng quay lại vì tôi. Hãy tiếp tục bảo vệ đoàn sơ tán.”\n\n“Vinh dự lớn nhất của tôi là được chiến đấu cùng các bạn. Nếu một ngày nào đó Elysia được xây dựng lại, hãy nói với những đứa trẻ nơi ấy rằng có rất nhiều người đã chiến đấu để chúng được trở về nhà.”\n\nÔng chuyển về kênh riêng. “William.”\n\n“Tôi đây.”\n\n“Đưa họ về nhà.”\n\n“Rõ, thưa Hạm trưởng.”\n\n“Vĩnh biệt, bạn của tôi.”\n\nAlexander ngắt liên lạc.\n\nBlackShark tăng tốc về phía tàu mẹ địch. Hỏa lực đỏ xé qua lớp giáp gần như không còn. Alexander kích hoạt quá tải lõi, nhắm vào khu vực pháo chính và hệ thống năng lượng của đối phương.\n\nNgay trước khi va chạm, màn hình hiện: **EVAC-07 — KHÓA CẢNG ĐÃ MỞ.**\n\n“Đi đi…” Alexander khẽ nói.\n\nMột luồng sáng xanh dương bùng lên giữa đội hình địch. Các vụ nổ dây chuyền phá hủy cụm pháo chính của tàu mẹ đối phương. Trên màn hình chiến thuật VSS, tín hiệu BlackShark biến mất.\n\nEVAC-07 tăng tốc rời cảng. Đội GEAR của **VSS HYPER SPEED** đến kịp để hộ tống tàu, trong khi **VSS FARGARE 2** khai hỏa ngăn những phi thuyền địch còn lại truy đuổi.\n\n“EVAC-07 đã nhập hành lang sơ tán! Toàn bộ 1.184 hành khách còn sống!”\n\nWilliam nhìn vị trí tín hiệu BlackShark vừa biến mất. Ông không ra lệnh quay lại.\n\n“Tiếp tục nhiệm vụ hộ tống,” ông nói.\n\n“Không được phá đội hình. Đó là lệnh của Hạm trưởng.”\n\nRED CODE 1 — Xác nhận sơ tán\n\nTrên tàu mẹ **VSS HYPER GUARDIAN**, William yêu cầu đối chiếu lần cuối danh sách tàu sơ tán đã nhận được trong lần liên lạc cuối với **Chính phủ Elysia**, đồng thời kết nối với bộ chỉ huy dân sự trên **Elysia Commander Ship** — con tàu hiện đang ở trong đội hình sơ tán.\n\nHệ thống cảm biến trên các tàu khu trục, những dàn radar của tàu tuần dương và **RADAR ARRAY COMBINE** liên kết cả ba hạm đội liên tục rà quét những khu vực còn quan sát được. Họ kết hợp tín hiệu quang học, tia X, radar và mọi phương tiện dò tìm khả dụng để kiểm tra các bến tàu, khoang cư trú cùng những vùng mảnh vỡ có thể còn người mắc kẹt.\n\nTrên các kênh cứu hộ, nhân viên điều phối tiếp tục gọi tên những người chưa có mặt trong danh sách, gửi lại tín hiệu nhận dạng và chờ dù chỉ một hồi đáp yếu ớt.\n\nMười lăm phút trôi qua.\n\nBáo cáo từ các chỉ huy của **VSS HYPER GUARDIAN**, **VSS HYPER SPEED**, **VSS FARGARE 2** và **Elysia Commander Ship** lần lượt chuyển đến: không phát hiện thêm tín hiệu cầu cứu nào có thể xác định vị trí. Các cảng còn hoạt động xác nhận không còn tàu nào đang chờ cất cánh.\n\nWilliam nhìn những khu vực tối trên bản đồ. Ông hiểu kết quả ấy không có nghĩa Elysia đã hết người sống. Vẫn có thể có ai đó mắc kẹt sau những hành lang sập đổ, không còn điện, mất liên lạc hoặc không thể phát tín hiệu ra ngoài.\n\nMột sĩ quan phụ trách hệ thống **RADAR ARRAY COMBINE** bất ngờ lên tiếng:\n\n“Báo cáo khẩn! Vùng ven vành đai tiểu hành tinh xuất hiện lượng lớn tín hiệu địch đang tiến về phía Elysia. Theo tốc độ hiện tại, dự kiến khoảng **120 phút** nữa chúng sẽ đến khu vực!”\n\nTrên bản đồ chiến thuật, những điểm đỏ mới liên tiếp hiện ra.\n\nWilliam trầm ngâm. *Đây rõ ràng là một cuộc tập kích quy mô lớn. Nhưng bằng cách nào chúng vượt qua được hàng rào phòng thủ biên giới? Chúng muốn chiếm Elysia để quay lại đánh các căn cứ biên giới ư? Nếu vậy, chúng đã đánh giá thấp lực lượng đóng ở tuyến ngoài. Nhưng với các vùng phía trong, chênh lệch quân lực lại quá lớn...*\n\nÔng chưa có dữ liệu để xác nhận giả thuyết ấy. Điều chắc chắn là cần cảnh báo ngay cho Liên Minh về khả năng còn nhiều đơn vị địch hoạt động sâu trong lãnh thổ.\n\nHai hạm trưởng của các hạm đội tiếp viện cùng mở kênh liên lạc chỉ huy.\n\n“Chỉ huy William, với quy mô quân địch đang tiếp cận, ba hạm đội chúng ta không đủ khả năng chịu một đợt tấn công mới. Chúng tôi được điều đến chi viện khẩn cấp, không có thời gian tập hợp đầy đủ đội hình và vũ khí cho một cuộc quyết chiến.”\n\nVị hạm trưởng còn lại tiếp lời:\n\n“Bộ Chỉ huy VSS giao chúng ta nhiệm vụ đánh chặn và bảo vệ sơ tán. Nhưng lực lượng địch thực tế áp đảo hơn dự kiến rất nhiều. Tôi đề nghị ngài báo cáo để các hạm đội chuyên tấn công được điều đi truy quét. Còn chúng ta đang bảo vệ rất nhiều người dân Elysia. Nhiệm vụ giải cứu phải được hoàn thành. Xin ngài ra quyết định.”\n\nWilliam nhìn các con tàu dân sự đang nằm giữa đội hình bảo vệ. Ông nhớ lời Alexander trước khi BlackShark mất tín hiệu: **“Đưa họ về nhà.”**\n\nTình thế đã thay đổi. Các hạm đội tới đây để chi viện và hộ tống, trong khi cuộc tấn công có quy mô vượt xa những đánh giá ban đầu. Nếu cố ở lại thêm, ông có thể đặt toàn bộ đoàn sơ tán trước nguy cơ bị tiêu diệt.\n\nWilliam hạ giọng:\n\n“Dừng hoạt động tìm kiếm tại chỗ. Giữ kênh tiếp nhận tín hiệu khẩn cấp mở trong thời gian rút quân. Tổng hợp toàn bộ tọa độ chưa thể kiểm tra, gửi cho Bộ Chỉ huy. Chúng ta sẽ không bỏ tên bất kỳ ai khỏi danh sách mất liên lạc.”\n\nÔng yêu cầu thiết lập liên lạc ưu tiên với **Bộ Chỉ huy Liên Minh VSS**, báo cáo quy mô lực lượng địch mới, nguy cơ đối với các vùng phía trong và đề nghị tham vấn khẩn cấp.\n\nSau khi nhận báo cáo, Bộ Chỉ huy Liên Minh VSS bất ngờ trước tình hình thực tế và lập tức kích hoạt phương án truy tìm, đánh chặn các đơn vị địch xâm nhập sâu. Những hạm đội chuyên tác chiến đang được điều động từ khu vực căn cứ phòng thủ **D9** của thủ phủ VSS nhận lệnh triển khai.\n\nRiêng ba hạm đội tại Elysia được chỉ thị ưu tiên đưa dân thường ra khỏi vùng nguy hiểm, không mạo hiểm giao chiến với lực lượng mới đang kéo đến.\n\nThông báo chiến dịch được xác nhận:\n\n**CHIẾN DỊCH ELYSIA — RED CODE / GIAI ĐOẠN 1: HOÀN TẤT.**\n\n**GIAI ĐOẠN 2: TIẾP NHẬN — TẬP KẾT — VẬN CHUYỂN LIÊN SAO.**\n\nQuyết định rời Elysia không phải vì đã xác nhận không còn người sống, mà vì tình hình chiến trường không còn cho phép đoàn sơ tán ở lại an toàn.\n\nTrên các tàu cứu hộ và khoang dân sự, những màn hình hologram lần lượt sáng lên.\n\nWilliam xuất hiện với tư cách người chỉ huy đội hình ba hạm đội đang giải cứu Elysia.\n\n“Đồng bào Elysia, tôi là William, quyền chỉ huy **VSS HYPER GUARDIAN**, đại diện lực lượng hộ tống của ba hạm đội. Chúng tôi đã đối chiếu danh sách từ **Chính phủ Elysia**, **Elysia Commander Ship** và kết quả tìm kiếm cuối cùng của cả ba hạm đội.”\n\n“Trong mười lăm phút rà soát bổ sung, chúng tôi không nhận được thêm tín hiệu cầu cứu có thể xác định vị trí. Điều đó không đồng nghĩa mọi người trên Elysia đều đã được đưa đi. Những trường hợp mất liên lạc sẽ tiếp tục được ghi nhận và chuyển đến lực lượng tìm kiếm khi điều kiện cho phép.”\n\nÔng ngừng một nhịp, rồi nói tiếp:\n\n“Chúng tôi cũng đã phát hiện một lực lượng lớn của địch đang tiến nhanh qua vành đai tiểu hành tinh về phía Elysia. Để bảo đảm an toàn cho đoàn sơ tán, Bộ Chỉ huy Liên Minh VSS đã yêu cầu chúng ta lập tức chuyển sang giai đoạn hai: tiếp nhận, tập kết và vận chuyển liên sao.”\n\nTrên màn hình hiện sơ đồ hành trình:\n\n**ELYSIA → FARGATE HYPER SPEED VX1022000X → VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION (D10).**\n\n“Các tàu cứu hộ cỡ nhỏ sẽ lần lượt ghép nối với tàu bệnh viện, tàu vận tải hoặc chiến hạm lớn trước khi tăng tốc. Bệnh nhân cần hỗ trợ sự sống sẽ được chuyển trước. Những tàu đủ khả năng hành trình độc lập tiếp tục di chuyển trong đội hình hộ tống.”\n\n“Công tác tiếp nhận và kiểm tra an toàn dự kiến kéo dài khoảng **40 phút**. Sau đó, đoàn tàu sẽ di chuyển với tốc độ cao trong khoảng **12 giờ** đến Gateway liên sao **Fargate Hyper Speed VX1022000X**, gần thành phố quân sự **ANTIGRAVITY**. Từ đó, hành trình không gian siêu tốc kéo dài khoảng **ba ngày** đến **VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION**, tại lớp phòng thủ **D10** trên quỹ đạo cao thủ phủ VSS.”\n\nBa mươi phút để từ biệt quê hương\n\nWilliam nhìn vào màn hình, cố giữ giọng bình tĩnh trước hàng triệu ánh mắt đang dõi theo.\n\n“Chúng tôi biết Elysia không chỉ là nơi các bạn sống. Đó là quê hương, là những con đường, mái nhà, trường học và người thân của các bạn. Chúng tôi chưa thể nói khi nào các bạn có thể trở về.”\n\n“Trước khi đoàn tàu tăng tốc, chúng tôi sẽ dành ba mươi phút để mọi người nhìn lại Elysia. Các tàu vẫn duy trì đội hình an toàn và chuẩn bị ghép nối. Những ai có thể di chuyển được phép đến khu quan sát nếu điều kiện cho phép. Với các bệnh nhân không thể rời giường, hình ảnh sẽ được phát đến màn hình tại chỗ.”\n\n“Các bạn không cần phải nói gì cả. Hãy dành thời gian này cho gia đình và những ký ức mà các bạn muốn giữ lại.”\n\nTrên các màn hình, hình ảnh Elysia hiện lên. Những góc quay từ tàu tuần dương, các trạm quan sát và hệ thống cảm biến của ba hạm đội được tổng hợp, truyền đến các khoang dân sự để mọi người có thể nhìn lại quê hương từ nhiều hướng khác nhau. Những vòng cư trú mất điện, bến cảng cháy và những mái vòm bị tổn thương hiện ra trước mắt người dân. Một đứa trẻ hỏi mẹ bao giờ được về nhà. Người mẹ ôm con, chỉ đáp rằng mình chưa biết. Hai người đàn ông già nhận ra tòa tháp trung tâm mà họ đã nhìn thấy được xây dựng từ nhiều thập kỷ trước; họ ngồi cạnh nhau mà không nói được thêm lời nào.\n\nValentine vừa bàn giao các ca nguy kịch để chuẩn bị chuyển sang tàu bệnh viện. Khi có một khoảng nghỉ ngắn, cô bước tới ô cửa quan sát.\n\nPhía ngoài là Elysia. Từ khoảng cách này, cô không thể nhìn rõ từng căn nhà, nhưng biết khu dân cư của mình nằm ở hướng nào. Cô nhớ những lối đi trong vòm sinh thái, người bảo vệ đã chào ở cửa bệnh viện sáng ấy, những đồng nghiệp hay nhắc cô nghỉ đúng giờ. Cô nhớ nhóm cứu hộ tại khu số sáu, những người vẫn chưa có tên trong danh sách sống sót.\n\nValentine đặt tay lên ô kính. Nước mắt chảy xuống má.\n\nMột đồng nghiệp bước đến. “Chúng ta đã cứu được rất nhiều người hôm nay.”\n\n“Em biết. Em mừng vì MED-04 đã sống sót.”\n\n“Nhưng em vẫn nghĩ đến đội ở khu số sáu?”\n\nValentine gật đầu. “Em đã nói với họ rằng sẽ có người đến cứu. Em không biết họ có nghe được lời cuối cùng của mình không.”\n\nCô lau mắt. “Trước đây, em nghĩ điều khó nhất của một bác sĩ là chứng kiến bệnh nhân qua đời. Hôm nay em mới hiểu còn có điều khác: biết có người đang chờ mình giúp, nhưng không thể đến được.”\n\nNgười đồng nghiệp đứng cạnh cô, im lặng.\n\n“Em đã từng muốn đến thủ phủ để học thêm,” Valentine nói. “Nhưng em luôn nghĩ sau đó mình sẽ trở về Elysia. Bây giờ em không biết còn nơi nào để về nữa.”\n\nTrong những phút còn lại, cô nhìn quê hương một cách lặng lẽ.\n\nRED CODE 2 — Hành trình trở về thủ đô Liên Minh VSS\n\nCác tàu cứu hộ nhỏ lần lượt được tiếp nhận vào khoang chứa hoặc ghép nối với tàu lớn. Valentine cùng nhân viên y tế chuyển bệnh nhân qua hành lang nối đã cân bằng áp suất và kiểm tra nguồn điện dự phòng. Trên tàu bệnh viện lớn hơn, những người từng phải nằm cáng dọc lối đi được đưa đến giường bệnh riêng. Các gia đình có nơi nghỉ tạm; nhân viên cứu trợ phát thức ăn, nước uống và quần áo sạch.\n\nKhi việc ghép nối hoàn tất, William mở kênh toàn đoàn.\n\n“Đây là Hạm phó William, quyền chỉ huy **VSS HYPER GUARDIAN**. Đội hình đã sẵn sàng tăng tốc. Trong mười hai giờ tới, chúng ta sẽ đến Gateway VX1022000X.”\n\nÔng nhìn về phía Elysia.\n\n“Rất nhiều người đã không thể trở về cùng chúng ta. Những người còn sống sẽ được tiếp tục bảo vệ. Chúng tôi sẽ không quên những người đã giữ hành lang sơ tán.”\n\n“Bắt đầu hành trình.”\n\nCác chiến hạm của **VSS HYPER GUARDIAN**, **VSS HYPER SPEED** và **VSS FARGARE 2** bao quanh đoàn tàu dân sự, lần lượt tăng tốc. Elysia nhỏ dần trên màn hình quan sát, cho đến khi không còn phân biệt được những công trình quen thuộc.\n\nBa ngày sau — Trạm tiếp nhận D10\n\nSau hành trình qua Gateway và tuyến không gian siêu tốc, đoàn tàu đến vùng quỹ đạo cao của thủ phủ VSS. Từ những cửa sổ lớn, người dân nhìn thấy các trạm phòng thủ, cảng vận tải, khu dân cư và những đội tàu tuần tra trải dài trên nhiều quỹ đạo.\n\nTrên hệ thống dẫn đường xuất hiện tên trạm: **VSS GIGA RESCUE DEFEND FARGATE ORBIT STATION — DEFENSE LAYER D10**.\n\nCác đoàn nhân viên y tế, cứu trợ và hỗ trợ hành chính chờ sẵn tại bến tiếp nhận. Hệ thống thông báo chiến dịch **ELYSIA — RED CODE** đã hoàn thành giai đoạn vận chuyển đến D10.\n\nValentine đưa một bệnh nhân lớn tuổi qua hành lang. Ông nhìn quy mô trạm, ngạc nhiên hỏi: “Đây là thủ phủ sao, bác sĩ?”\n\n“Chúng ta đã đến vùng thủ phủ rồi ạ. Đây là trạm tiếp nhận trên quỹ đạo.”\n\nValentine cũng nhìn ra ngoài. Đây là lần đầu tiên cô đến gần nơi mình từng mơ được học tập. Nhưng cô không đến cùng đồng nghiệp trong một chuyến thăm học viện. Cô đến trên một tàu chở những con người vừa mất nhà cửa và người thân.\n\nLời chào đón và những người không trở về\n\nTại khu tiếp nhận, hologram của đại diện **Hội đồng Liên Minh VSS** xuất hiện.\n\n“Thay mặt Liên Minh, chúng tôi chào đón những cư dân Elysia đến thủ phủ. Chúng tôi hiểu đây không phải hành trình các bạn lựa chọn. Không lời nói nào có thể bù đắp được những mất mát vừa xảy ra.”\n\n“Những người cần điều trị sẽ được tiếp nhận tại các cơ sở y tế. Các gia đình sẽ được giúp tìm kiếm người thân, đăng ký thông tin và nhận nơi ở tạm thời. Sau giai đoạn ổn định tại D10, cư dân Elysia dự kiến được bố trí tại **VSS ORBIT CITY HABITAT SPACE STATION D3**, mã hiệu **VSS-HABITAT-CITY-D3**, để cộng đồng có thể tiếp tục sinh sống gần nhau.”\n\n“Chúng tôi chưa thể hứa ngày trở về. Nhưng Elysia sẽ không bị lãng quên. Việc tìm kiếm và đánh giá khả năng tái thiết sẽ tiếp tục khi điều kiện an ninh cho phép.”\n\nHình ảnh chuyển sang biểu tượng **VSS HYPER GUARDIAN**.\n\n“Chúng ta cũng tưởng niệm những người đã bảo vệ các cảng an ninh, các đội cứu hộ và nhân viên y tế, cùng những phi công đã không trở về.”\n\nMàn hình hiện cảnh ba mươi GEAR xuất kích, dẫn đầu là BlackShark.\n\n“Trong lúc tuyến phòng thủ Elysia gần sụp đổ, Hạm trưởng **Alexander Shilva** dẫn đầu ba mươi phi công tự nguyện thực hiện **LAST STAND**, giữ chân lực lượng địch suốt bảy mươi phút để các đoàn tàu có thêm thời gian sơ tán.”\n\nHình ảnh chuyển sang EVAC-07.\n\n“Sau khi nhiệm vụ hoàn thành, ông phát hiện chuyến tàu cuối cùng chở 1.184 người vẫn còn mắc kẹt. Ông đã quay lại, dùng BlackShark ngăn tàu mẹ địch khai hỏa vào cảng. Toàn bộ hành khách EVAC-07 đã thoát.”\n\n**ALEXANDER SHILVA — CHỈ HUY LAST STAND — MẤT TÍCH TRONG CHIẾN ĐẤU.**\n\n“**VSS HYPER GUARDIAN** chịu tổn thất khoảng 95% lực lượng chiến đấu. Những người còn sống, dưới quyền Hạm phó William, đã hoàn thành việc hộ tống dân thường đến vùng trong. Liên Minh sẽ tái thiết lực lượng hạm đội khi điều kiện cho phép, để truyền thống và tên tuổi của họ được tiếp nối.”\n\nMọi người trong khu tiếp nhận đứng lặng. Có người giơ tay chào theo nghi thức quân đội; có người cúi đầu. Trong đám đông là những hành khách EVAC-07, lần đầu biết mình đã được cứu bằng cách nào.\n\nMột đứa trẻ hỏi cha: “Chú trong hình là ai vậy?”\n\nNgười cha ôm con: “Là người đã giúp chúng ta đến được đây.”\n\nMột khởi đầu không mong muốn\n\nValentine đứng ở khu tiếp nhận y tế. Nghe thông báo, cô hiểu hơn vì sao nhiều đoàn tàu có thể thoát khỏi Elysia. Cô nghĩ đến những người lính địa phương, phi công LAST STAND và nhóm đồng đội ở khu số sáu vẫn bặt tin.\n\nMột nhân viên y tế D10 bước tới. “Bác sĩ Valentine? Chúng tôi đã chuẩn bị chỗ nghỉ cho đội quân y sơ tán. Cô có thể đến sau khi bàn giao bệnh nhân.”\n\n“Cảm ơn. Tôi sẽ đến sau.”\n\nValentine nhìn qua cửa kính lớn. Phía xa là những khu đô thị quỹ đạo của thủ phủ. Cô đã đến được nơi từng mong ước, nhưng không biết bao giờ mới có thể trở lại quê hương.\n\n“Bác sĩ Valentine…”\n\nNgười bệnh lớn tuổi mà cô chăm sóc trên tàu đang ngồi xe hỗ trợ di chuyển.\n\n“Tôi vẫn chưa tìm được vợ.”\n\nValentine ngồi xuống trước mặt ông. “Tôi biết.”\n\n“Cô nghĩ chúng tôi còn cơ hội gặp lại không?”\n\n“Tôi không thể chắc chắn. Nhưng bây giờ chúng ta đã ở khu tiếp nhận. Tôi sẽ giúp ông đăng ký tìm kiếm và đối chiếu danh sách từ các đoàn tàu khác.”\n\n“Cô vẫn nhớ chuyện đó sao?”\n\n“Dĩ nhiên.”\n\nNgười đàn ông nắm tay cô. “Cảm ơn bác sĩ.”\n\nValentine nhìn theo khi ông được đưa đi. Cô không thể cứu tất cả mọi người. Nhưng tại nơi xa lạ này, cô vẫn có thể chăm sóc những người đang ở trước mặt mình.\n\nCô nhấc túi dụng cụ, bước theo đoàn nhân viên y tế vào khu điều trị.\n\nPhía ngoài, những cư dân Elysia bắt đầu một cuộc sống mà không ai từng lựa chọn. Họ đã mất rất nhiều. Nhưng họ vẫn còn sống, và vẫn còn cơ hội tìm lại nhau.\n\n**— HẾT CHƯƠNG 01 —**",
+  "sha256": "c003fae3d4980e92e55beeeb853f4465eabf526f229e75b4740538ebc929fe35"
+}

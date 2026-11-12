@@ -1,0 +1,942 @@
+{
+  "schemaVersion": "starfront-story-chapter-v1",
+  "pilotId": "valentine",
+  "chapterId": "chap-05",
+  "chapterNumber": 5,
+  "title": "Kỳ Nghỉ Dưới Những Vì Sao",
+  "canonicalLibraryTitle": "Kỳ Nghỉ Dưới Những Vì Sao",
+  "editorialStatus": "REVIEW",
+  "contentStatus": "FULL_PROSE",
+  "publicationStatus": "PREVIEW_AUTHORIZED_2026-11-12",
+  "readingTimeMinutes": 15,
+  "wordCount": 3871,
+  "revision": "02",
+  "sourceNote": "Drive R02 full prose id 1itSgoGB8lelyflqYdedUG2JbkAxkDZ90. Owner authorized provisional CDN visibility; NOT CANON APPROVAL.",
+  "sourceIntegrity": "SOURCE_FILE_VERIFIED",
+  "blocks": [
+    {
+      "blockId": "b0001",
+      "type": "heading",
+      "level": 2,
+      "text": "01. Mười tám ngày không phải là một nhiệm vụ"
+    },
+    {
+      "blockId": "b0002",
+      "type": "paragraph",
+      "text": "“Cậu lại đọc bản tin đó lần thứ ba rồi.”"
+    },
+    {
+      "blockId": "b0003",
+      "type": "paragraph",
+      "text": "Valentine ngẩng lên khỏi thiết bị, bắt gặp nụ cười tinh quái của Hạ — đồng nghiệp cô quen từ những ca trực đầu tiên tại VSS Rescue LightSpeed. Hạ có mái tóc nâu sẫm, thói quen buộc gọn sau gáy khi làm việc và một tài năng đặc biệt: biến những tình huống nghiêm túc thành câu chuyện khiến cả phòng bật cười."
+    },
+    {
+      "blockId": "b0004",
+      "type": "paragraph",
+      "text": "“Chỉ muốn chắc là mình không đọc nhầm.”"
+    },
+    {
+      "blockId": "b0005",
+      "type": "paragraph",
+      "text": "“Mười tám ngày,” Hạ nói, nhấn từng tiếng. “Mười tám. Ngày. Nghỉ. Không phải mười tám ngày trực dự phòng.”"
+    },
+    {
+      "blockId": "b0006",
+      "type": "paragraph",
+      "text": "Thông báo **Annual Wellness Rotation — Region A** nằm yên trên màn hình. Một số hạm đội chính quy thuộc Region A được xếp vào đợt nghỉ thường niên này. Các region và đơn vị khác luân phiên duy trì công tác, còn hệ thống dự phòng A, B, C do Bộ Tổng chỉ huy bố trí sẵn. Chính sách đã vận hành nhiều năm và không đòi hỏi những người được nghỉ phải tự giải quyết một phương án khẩn cấp nào."
+    },
+    {
+      "blockId": "b0007",
+      "type": "paragraph",
+      "text": "Ở cuối thông báo có dòng được đóng khung rõ ràng: **Không mặc quân phục; không mang công việc vào chương trình nghỉ dưỡng.** Những vị chỉ huy cấp cao có ngoại lệ rất hạn chế về trang phục, nhưng chính họ cũng hiếm khi dùng đến."
+    },
+    {
+      "blockId": "b0008",
+      "type": "paragraph",
+      "text": "“Nghe nói năm ngoái có người mang theo ba bảng kế hoạch,” Hạ tiếp tục. “Đến ngày thứ hai, người đó thua giải bóng chuyền, quên luôn tên cả ba bảng.”"
+    },
+    {
+      "blockId": "b0009",
+      "type": "paragraph",
+      "text": "“Cậu bịa đúng không?”"
+    },
+    {
+      "blockId": "b0010",
+      "type": "paragraph",
+      "text": "“Có thể. Nhưng điều đó không làm câu chuyện kém giá trị.”"
+    },
+    {
+      "blockId": "b0011",
+      "type": "paragraph",
+      "text": "Valentine bật cười. Cô đã mong một quãng nghỉ, chỉ không nhận ra mình cần nó nhiều đến thế. Từ lúc gia nhập Rescue LightSpeed, cô quen dùng những khoảng trống giữa hai ca để ngủ bù, đọc hồ sơ hoặc kiểm tra trang bị. Lần này, nhiệm vụ duy nhất ghi trong lịch là… không có nhiệm vụ."
+    },
+    {
+      "blockId": "b0012",
+      "type": "paragraph",
+      "text": "Đêm trước khi lên đường, Hạ gửi cho cô một tin nhắn: *Mai đừng bảo cậu mang cả tủ thuốc nhé.*"
+    },
+    {
+      "blockId": "b0013",
+      "type": "paragraph",
+      "text": "Valentine nhắn lại: *Tớ mang kem chống nắng. Có tính là vật tư y tế không?*"
+    },
+    {
+      "blockId": "b0014",
+      "type": "paragraph",
+      "text": "Hạ trả lời bằng một hàng biểu tượng cười dài đến mức cô phải úp điện thoại xuống mới thôi bật cười theo."
+    },
+    {
+      "blockId": "b0015",
+      "type": "heading",
+      "level": 2,
+      "text": "02. Một bờ biển không cần đợi lệnh"
+    },
+    {
+      "blockId": "b0016",
+      "type": "paragraph",
+      "text": "Khi phương tiện đưa đón hạ xuống cảng dân sự của hành tinh thủ phủ VSS, người ngồi gần cửa sổ đồng loạt nghiêng đầu nhìn ra ngoài. Bên dưới là một dải vịnh xanh ngọc, bờ cát sáng và những khu resort trắng bạc đan vào rừng ven biển. Những tàu du lịch nhỏ lướt trên mặt nước; xa hơn là các khu phố thương mại trải theo sườn đồi."
+    },
+    {
+      "blockId": "b0017",
+      "type": "scene",
+      "sceneId": "val-ch05-image-01",
+      "sceneTitle": "Forest Coast Resort — WORLD APPROVED",
+      "caption": "Forest Coast Resort — WORLD APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-forest-coast-resort",
+          "placement": "inline",
+          "caption": "WORLD — Forest Coast Resort",
+          "path": "images/story/valentine/world-vss-cc0-forest-coast-resort.webp",
+          "filename": "world-vss-cc0-forest-coast-resort.webp",
+          "imageSha256": "71d6a7f0042a6476acc9ba143dfa973fadd4b7a41979848bf070f1bc836e99cd",
+          "isAvailable": true,
+          "sceneTitle": "WORLD — Forest Coast Resort"
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-forest-coast-resort.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0018",
+      "type": "paragraph",
+      "text": "Valentine đã nhiều lần đến thủ phủ vì học tập hoặc công việc. Nhưng đây là lần đầu cô đến mà không có một cuộc hẹn chuyên môn nào đang chờ."
+    },
+    {
+      "blockId": "b0019",
+      "type": "paragraph",
+      "text": "Hạ kéo vali qua sảnh khách sạn, vừa đi vừa rà danh sách quán ăn trên thiết bị. “Tớ có kế hoạch rất rõ ràng cho hôm nay.”"
+    },
+    {
+      "blockId": "b0020",
+      "type": "paragraph",
+      "text": "“Để đoán nhé. Không có kế hoạch?”"
+    },
+    {
+      "blockId": "b0021",
+      "type": "paragraph",
+      "text": "“Đầu tiên là cất vali. Sau đó ăn trưa. Rồi có thể… không quyết định gì nữa.”"
+    },
+    {
+      "blockId": "b0022",
+      "type": "paragraph",
+      "text": "Phòng của hai người nằm gần nhau, cùng nhìn ra một bãi biển dài. Đến chiều, họ đi chân trần xuống lối dạo sát nước. Không ai hỏi cấp bậc, không ai mặc quân phục; giữa dòng khách du lịch, họ chỉ là hai cô gái đang chọn xem tối nay ăn gì."
+    },
+    {
+      "blockId": "b0023",
+      "type": "scene",
+      "sceneId": "val-ch05-image-02",
+      "sceneTitle": "Beach Recreation — WORLD APPROVED",
+      "caption": "Beach Recreation — WORLD APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-beach-recreation",
+          "placement": "inline",
+          "caption": "WORLD — Beach Recreation",
+          "path": "images/story/valentine/world-vss-cc0-beach-recreation.webp",
+          "filename": "world-vss-cc0-beach-recreation.webp",
+          "imageSha256": "466c80bf583fb78c6c651e0947189e400479c4a69166965fbff5e361e31c0773",
+          "isAvailable": true,
+          "sceneTitle": "WORLD — Beach Recreation"
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-beach-recreation.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0024",
+      "type": "paragraph",
+      "text": "Ngày thứ hai, Hạ xuất hiện trong bộ đồ bơi tông vàng cam với khăn ren nhẹ. Valentine chọn bikini trắng ngà và lớp áo choàng biển mỏng. Cả hai đi dọc mép sóng, tránh những con sóng cao rồi lại cố tình bước vào những vùng nước lấp lánh nắng."
+    },
+    {
+      "blockId": "b0025",
+      "type": "paragraph",
+      "text": "“Cậu biết không,” Hạ nói, “lần gần nhất chúng ta trò chuyện lâu như thế này mà không bị ngắt giữa chừng là khi nào?”"
+    },
+    {
+      "blockId": "b0026",
+      "type": "paragraph",
+      "text": "Valentine suy nghĩ, rồi lắc đầu."
+    },
+    {
+      "blockId": "b0027",
+      "type": "paragraph",
+      "text": "“Đấy. Một kỳ nghỉ thành công phải bắt đầu bằng việc quên mất đồng hồ.”"
+    },
+    {
+      "blockId": "b0028",
+      "type": "paragraph",
+      "text": "Valentine nhìn cô bạn. Hạ vẫn là người từng đưa cho cô cốc nước giữa những ca trực dài, vẫn biết cô thích trà nhạt hơn cà phê. Nhưng trên bãi biển này, Hạ nói nhiều hơn về món bánh mẹ cô làm, về việc cô rất sợ đi thuyền nhỏ dù luôn khoe mình chẳng sợ sóng."
+    },
+    {
+      "blockId": "b0029",
+      "type": "paragraph",
+      "text": "Valentine nhận ra mình biết lịch làm việc của bạn rất rõ, nhưng lại biết quá ít về những điều khiến Hạ vui."
+    },
+    {
+      "blockId": "b0030",
+      "type": "scene",
+      "sceneId": "val-ch05-image-03",
+      "sceneTitle": "Valentine và Hạ dạo biển — STORY APPROVED",
+      "caption": "Valentine và Hạ dạo biển — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-beach-walk-friends-01",
+          "placement": "inline",
+          "caption": "VALENTINE — Beach Walk with Friends",
+          "path": "images/story/valentine/valentine-ch05-beach-walk-friends-01.webp",
+          "filename": "valentine-ch05-beach-walk-friends-01.webp",
+          "imageSha256": "1dd4b33d92276ffc4e76afb890bdbe664a84f36ebf5416803ea2346c9ebb0df1",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Beach Walk with Friends"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-beach-walk-friends-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0031",
+      "type": "paragraph",
+      "text": "“Vậy chiều nay thử đi thuyền không?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0032",
+      "type": "paragraph",
+      "text": "“Cậu vừa nghe tớ nói sợ mà!”"
+    },
+    {
+      "blockId": "b0033",
+      "type": "paragraph",
+      "text": "“Có tớ đi cùng.”"
+    },
+    {
+      "blockId": "b0034",
+      "type": "paragraph",
+      "text": "Hạ im lặng đúng ba giây, rồi bật cười: “Cậu học cách trả đũa nhanh thật.”"
+    },
+    {
+      "blockId": "b0035",
+      "type": "heading",
+      "level": 2,
+      "text": "03. Đội thua vui nhất bãi biển"
+    },
+    {
+      "blockId": "b0036",
+      "type": "paragraph",
+      "text": "Mấy ngày sau, ban tổ chức Region A mở một loạt hoạt động tự do: chèo SUP, kayak, bóng chuyền bãi biển và các trò chơi đồng đội. Ai thích thì đăng ký; chẳng có bảng xếp hạng theo hạm đội và cũng chẳng ai cần đứng nghiêm để chào người khác."
+    },
+    {
+      "blockId": "b0037",
+      "type": "scene",
+      "sceneId": "val-ch05-image-04",
+      "sceneTitle": "Azure Bay Beachfront — WORLD APPROVED",
+      "caption": "Azure Bay Beachfront — WORLD APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-azure-bay-beachfront",
+          "placement": "inline",
+          "caption": "WORLD — Azure Bay Beachfront",
+          "path": "images/story/valentine/world-vss-cc0-azure-bay-beachfront.webp",
+          "filename": "world-vss-cc0-azure-bay-beachfront.webp",
+          "imageSha256": "74ac0647c8007df97cf2d5488ff5154029d3ef8e31b08e091a0a8aec0b604bd5",
+          "isAvailable": true,
+          "sceneTitle": "WORLD — Azure Bay Beachfront"
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-azure-bay-beachfront.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0038",
+      "type": "paragraph",
+      "text": "Hạ quyết định đăng ký bóng chuyền trước khi Valentine kịp phản đối. Đội của họ được ghép với vài người từ các đơn vị khác, trong đó có một cô gái tóc đen dài tên **Nhã**. Nhã làm công việc kỹ thuật điều hướng tại một hạm đội khác trong Region A, nhưng hôm nay cô chỉ giới thiệu: “Mình là Nhã. Chơi thể thao tệ lắm. Mong mọi người thông cảm.”"
+    },
+    {
+      "blockId": "b0039",
+      "type": "paragraph",
+      "text": "Lời cảnh báo hoàn toàn chính xác. Quả bóng đầu tiên Nhã đỡ đi thẳng về phía chiếc ô che nắng; Hạ lao theo cứu bóng rồi trượt chân trên cát. Valentine đỡ kịp cô bạn, còn cả đội — kể cả đội bên kia — cười đến không đứng nổi."
+    },
+    {
+      "blockId": "b0040",
+      "type": "paragraph",
+      "text": "Họ thua ba trận liên tiếp."
+    },
+    {
+      "blockId": "b0041",
+      "type": "paragraph",
+      "text": "Đến trận cuối, Valentine đón được một đường bóng đẹp hiếm hoi. Cả đội reo lên như vừa giành giải vô địch. Nhã chạy đến đập tay cô, còn Hạ tuyên bố chắc nịch: “Chúng ta là đội có tinh thần chiến thắng xuất sắc nhất.”"
+    },
+    {
+      "blockId": "b0042",
+      "type": "paragraph",
+      "text": "“Nhưng mình thua mà,” Nhã nhắc."
+    },
+    {
+      "blockId": "b0043",
+      "type": "paragraph",
+      "text": "“Đó là lý do giải thưởng tinh thần càng quan trọng.”"
+    },
+    {
+      "blockId": "b0044",
+      "type": "paragraph",
+      "text": "Cuối buổi, Nhã đề nghị cả nhóm đi ăn kem. Câu chuyện kéo từ trận đấu sang các quán ngon, rồi sang những miền quê mà mỗi người muốn tới thăm. Nhã kể mình lớn lên ở một thành phố nhiều mưa, nên vừa thấy biển nắng đã quyết dành phần lớn kỳ nghỉ ở dưới nước."
+    },
+    {
+      "blockId": "b0045",
+      "type": "paragraph",
+      "text": "Tối ấy, Hạ gửi Valentine một bức ảnh cả đội đứng lấm lem cát. Góc chụp không đẹp, tóc mọi người rối tung, nhưng Valentine lưu nó ngay."
+    },
+    {
+      "blockId": "b0046",
+      "type": "paragraph",
+      "text": "Họ hẹn Nhã hôm sau ở hồ bơi vô cực."
+    },
+    {
+      "blockId": "b0047",
+      "type": "heading",
+      "level": 2,
+      "text": "04. Một buổi chiều chẳng ai muốn kết thúc"
+    },
+    {
+      "blockId": "b0048",
+      "type": "paragraph",
+      "text": "Nhã đến trước, ngồi ở mép hồ và giơ tay gọi hai người từ xa. Trên lưng ghế là một chiếc khăn hồng san hô, bên cạnh có ba cốc nước trái cây mà cô đã gọi sẵn."
+    },
+    {
+      "blockId": "b0049",
+      "type": "paragraph",
+      "text": "“Cậu biết bọn mình thích uống gì à?” Valentine hỏi."
+    },
+    {
+      "blockId": "b0050",
+      "type": "paragraph",
+      "text": "“Mình hỏi Hạ hôm qua rồi. Mình cũng có tài năng chuẩn bị bất ngờ, chỉ là tài năng bắt bóng thì không.”"
+    },
+    {
+      "blockId": "b0051",
+      "type": "paragraph",
+      "text": "Ba người cùng cười. Nhã vừa bước xuống nước đã bị Hạ té một vốc nước lên vai. Cuộc trả đũa bắt đầu ngay sau đó, chẳng ai còn giữ được vẻ điềm tĩnh. Trong hồ, những nhóm du khách khác cũng bơi, ném bóng, tạo ra cả một mảng tiếng cười rộn ràng bên bờ biển."
+    },
+    {
+      "blockId": "b0052",
+      "type": "scene",
+      "sceneId": "val-ch05-image-05",
+      "sceneTitle": "Infinity Pool Friends — STORY APPROVED",
+      "caption": "Infinity Pool Friends — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-infinity-pool-friends-02",
+          "placement": "inline",
+          "caption": "VALENTINE — Infinity Pool Friends",
+          "path": "images/story/valentine/valentine-ch05-infinity-pool-friends-02.webp",
+          "filename": "valentine-ch05-infinity-pool-friends-02.webp",
+          "imageSha256": "4d74a416fa02c854b4428143c0d7f37e723f19d17da02417be0c9e26bec4ce47",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Infinity Pool Friends"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-infinity-pool-friends-02.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0053",
+      "type": "paragraph",
+      "text": "Sau khi chơi mệt, họ nằm dưới bóng cây, chia nhau một đĩa trái cây lớn. Nhã kể về lần cô định xin nghỉ phép rồi lại quên gửi đơn; Hạ kể về một kỳ nghỉ thời nhỏ mà cả nhà cứ tranh nhau đi đâu trước. Valentine kể chuyện bếp ăn khu dân cư NewHorizon, nơi người ta luôn cố mời thêm một phần cho những ai vừa bước qua cửa."
+    },
+    {
+      "blockId": "b0054",
+      "type": "paragraph",
+      "text": "“Nghe như nơi đáng đến thăm,” Nhã nói."
+    },
+    {
+      "blockId": "b0055",
+      "type": "paragraph",
+      "text": "“Đáng lắm,” Valentine đáp. “Ở đó có những người đã giúp mình tìm lại cảm giác được ở nhà.”"
+    },
+    {
+      "blockId": "b0056",
+      "type": "paragraph",
+      "text": "Cô nhắc đến Mai — người điều dưỡng từng cùng mình rời Elysia và giờ vẫn ở NewHorizon. Valentine nhận ra đã lâu cô không kể về Mai bằng giọng vui vẻ như thế; trước đây, mỗi khi nhắc Elysia, cuộc trò chuyện thường trở nên nặng nề."
+    },
+    {
+      "blockId": "b0057",
+      "type": "paragraph",
+      "text": "Hạ chạm nhẹ vào vai cô, không hỏi thêm. Nhã cũng chỉ hỏi: “Mai có thích quà lưu niệm không?”"
+    },
+    {
+      "blockId": "b0058",
+      "type": "paragraph",
+      "text": "“Có lẽ có. Nhưng nếu mua đồ quá đắt, em ấy sẽ mắng mình.”"
+    },
+    {
+      "blockId": "b0059",
+      "type": "paragraph",
+      "text": "“Vậy mua thứ khiến em ấy phải cười trước khi mắng,” Hạ kết luận."
+    },
+    {
+      "blockId": "b0060",
+      "type": "paragraph",
+      "text": "Một ngày khác, cả nhóm đến vịnh nghỉ dưỡng nép giữa rừng. Họ bơi ra vùng nước được khoanh an toàn, thả mình dưới bóng cây rồi gọi một bữa trưa muộn. Khi gió chiều mát hơn, Valentine thiếp đi trên ghế dài trong lúc hai người bạn tranh luận xem buổi tối nên ăn món gì."
+    },
+    {
+      "blockId": "b0061",
+      "type": "scene",
+      "sceneId": "val-ch05-image-06",
+      "sceneTitle": "Azure Marine Retreat — WORLD APPROVED",
+      "caption": "Azure Marine Retreat — WORLD APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-azure-marine-retreat",
+          "placement": "inline",
+          "caption": "WORLD — Azure Marine Retreat",
+          "path": "images/story/valentine/world-vss-cc0-azure-marine-retreat.webp",
+          "filename": "world-vss-cc0-azure-marine-retreat.webp",
+          "imageSha256": "1c92651ac00bce4e79b28a5b172c34b62612a39d8ebf69418e8b904cb492f36e",
+          "isAvailable": true,
+          "sceneTitle": "WORLD — Azure Marine Retreat"
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-azure-marine-retreat.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0062",
+      "type": "paragraph",
+      "text": "Buổi chiều thứ tám, nhạc từ khu hồ bơi bắt đầu vang lên khi mặt trời vừa xuống thấp. Khách nghỉ dưỡng tụ thành từng nhóm, chuyện trò bên những chiếc bàn nhỏ, có người nhảy múa trên sàn gỗ gần mép nước. Valentine cùng Hạ và Nhã chọn một bộ ghế nhìn ra vịnh."
+    },
+    {
+      "blockId": "b0063",
+      "type": "paragraph",
+      "text": "Nhã đề nghị mỗi người kể một điều ít ai biết về mình."
+    },
+    {
+      "blockId": "b0064",
+      "type": "paragraph",
+      "text": "Hạ thú nhận cô từng tập hát trước gương, nhưng chỉ dám hát khi không có khán giả. Valentine nói mình có thể dành cả buổi ngắm biển mà không chán. Nhã suy nghĩ rất lâu rồi nói: “Mình không biết đi xe đạp.”"
+    },
+    {
+      "blockId": "b0065",
+      "type": "paragraph",
+      "text": "Hạ đặt cốc xuống, nhìn Nhã bằng vẻ kinh ngạc quá mức. “Vậy ngày mai…”"
+    },
+    {
+      "blockId": "b0066",
+      "type": "paragraph",
+      "text": "“Không!” Nhã cắt ngang. “Các cậu chưa được mở lớp dạy mình!”"
+    },
+    {
+      "blockId": "b0067",
+      "type": "paragraph",
+      "text": "Tiếng cười của họ hòa vào tiếng nhạc."
+    },
+    {
+      "blockId": "b0068",
+      "type": "scene",
+      "sceneId": "val-ch05-image-07",
+      "sceneTitle": "Sunset Pool Party — STORY APPROVED",
+      "caption": "Sunset Pool Party — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-sunset-pool-party-03",
+          "placement": "inline",
+          "caption": "VALENTINE — Sunset Pool Party",
+          "path": "images/story/valentine/valentine-ch05-sunset-pool-party-03.webp",
+          "filename": "valentine-ch05-sunset-pool-party-03.webp",
+          "imageSha256": "ab1a1f1a689707188fc32568091a8eb69b5a2625f5d0dcd8ed716258417316e6",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Sunset Pool Party"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-sunset-pool-party-03.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0069",
+      "type": "paragraph",
+      "text": "Giữa những khoảnh khắc bình thường ấy, Valentine chợt nhận ra cô không còn luôn phải cố tỏ ra mạnh mẽ. Ở đây, cô có thể cười hết mình, có thể thua một trận bóng, có thể ngủ quên khi trời còn sáng. Và không ai mong cô phải làm điều gì khác."
+    },
+    {
+      "blockId": "b0070",
+      "type": "heading",
+      "level": 2,
+      "text": "05. Một ngày dành cho chính mình"
+    },
+    {
+      "blockId": "b0071",
+      "type": "paragraph",
+      "text": "Ngày thứ mười một, ba người quyết định không xuống biển. Họ lên sân hiên sinh thái nhìn ra những tầng vườn, thác nước và đô thị trắng bạc ngoài xa. Nhã mang theo một cuốn sách, nhưng gần như không mở trang nào vì Hạ đã bắt đầu kể chuyện."
+    },
+    {
+      "blockId": "b0072",
+      "type": "scene",
+      "sceneId": "val-ch05-image-08",
+      "sceneTitle": "Eco Leisure Terrace — WORLD APPROVED",
+      "caption": "Eco Leisure Terrace — WORLD APPROVED",
+      "artworks": [
+        {
+          "assetId": "world-vss-cc0-eco-leisure-terrace",
+          "placement": "inline",
+          "caption": "WORLD — Eco Leisure Terrace",
+          "path": "images/story/valentine/world-vss-cc0-eco-leisure-terrace.webp",
+          "filename": "world-vss-cc0-eco-leisure-terrace.webp",
+          "imageSha256": "45c6c7e388b9f238104a545183f6a55eef230d0072d23bdcabf79245fb218533",
+          "isAvailable": true,
+          "sceneTitle": "WORLD — Eco Leisure Terrace"
+        }
+      ],
+      "artworkPath": "images/story/valentine/world-vss-cc0-eco-leisure-terrace.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0073",
+      "type": "paragraph",
+      "text": "Valentine gọi một bình trà, Hạ gọi bánh ngọt, Nhã đặt thêm trái cây. Sau buổi sáng ở khu chăm sóc sức khỏe, họ đến phố mua sắm ven vịnh để tìm trang phục cho đêm gala của Region A."
+    },
+    {
+      "blockId": "b0074",
+      "type": "paragraph",
+      "text": "Hạ chọn màu vàng cam gần như ngay lập tức. Nhã thử ba bộ váy hồng trước khi tìm được chiếc vừa ý. Valentine định lấy một thiết kế trắng đơn giản, nhưng hai người bạn nhất quyết kéo cô sang quầy đầm dạ hội."
+    },
+    {
+      "blockId": "b0075",
+      "type": "paragraph",
+      "text": "“Cậu được phép nổi bật một tối,” Nhã nói."
+    },
+    {
+      "blockId": "b0076",
+      "type": "paragraph",
+      "text": "“Mình có nói là muốn nổi bật đâu.”"
+    },
+    {
+      "blockId": "b0077",
+      "type": "paragraph",
+      "text": "“Không cần muốn,” Hạ đáp. “Có những việc bạn bè được quyền quyết định giúp.”"
+    },
+    {
+      "blockId": "b0078",
+      "type": "scene",
+      "sceneId": "val-ch05-image-09",
+      "sceneTitle": "Shopping & Gala Preparation — STORY APPROVED",
+      "caption": "Shopping & Gala Preparation — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-shopping-gala-preparation-04",
+          "placement": "inline",
+          "caption": "VALENTINE — Shopping & Gala Preparation",
+          "path": "images/story/valentine/valentine-ch05-shopping-gala-preparation-04.webp",
+          "filename": "valentine-ch05-shopping-gala-preparation-04.webp",
+          "imageSha256": "f5a50d752fa7c399b79ef223696cf4f546e3a7521f3ac85b142642df93542bfc",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Shopping & Gala Preparation"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-shopping-gala-preparation-04.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0079",
+      "type": "paragraph",
+      "text": "Cuối cùng Valentine chọn một bộ đầm trắng bạc có lớp tà phủ dài tháo rời. Người tư vấn chỉ cho cô cách giữ tà để trang trọng khi dự tiệc và cách tháo phần phủ phía trước nếu muốn bước đi, khiêu vũ thoải mái hơn. Hạ nhận xét rằng thiết kế ấy rất giống tính cách Valentine: có thể dịu dàng mà vẫn tự do chuyển động."
+    },
+    {
+      "blockId": "b0080",
+      "type": "paragraph",
+      "text": "Valentine nhìn mình trong gương. Cô không nghĩ đến quân hàm hay thành tích. Chỉ thấy một người phụ nữ trẻ đang được bạn bè kéo đi chơi, đang có một ngày đẹp và thấy chính mình đẹp."
+    },
+    {
+      "blockId": "b0081",
+      "type": "paragraph",
+      "text": "Chiều đó họ mua một món quà nhỏ cho Mai ở NewHorizon. Nhã tự chọn một món quà khác cho gia đình cô. Trên đường về, ba người ghé quán bánh đã đi ngang mấy ngày trước nhưng chưa có dịp thử. Hạ bảo đây là thành tựu quan trọng nhất của cả buổi mua sắm."
+    },
+    {
+      "blockId": "b0082",
+      "type": "heading",
+      "level": 2,
+      "text": "06. Đêm Region A sáng đèn"
+    },
+    {
+      "blockId": "b0083",
+      "type": "paragraph",
+      "text": "Ngày thứ mười ba, khu đại sảnh ven biển sáng lên dưới những vòng đèn vàng. Qua mái kính cao, bầu trời dần chuyển sang màu hồng tím. Trên sân khấu, bảng **Region A Honors Gala** nổi bật giữa những dải hoa và ánh sao nhân tạo."
+    },
+    {
+      "blockId": "b0084",
+      "type": "paragraph",
+      "text": "Khoảng chín hạm đội thuộc đợt nghỉ Region A có đại diện tham dự. Đây là một buổi tri ân thường niên — có vinh danh tập thể và cá nhân, có bữa tối, âm nhạc, những cuộc gặp lại — chứ không phải cuộc họp quân sự. Những người mặc vest, đầm dạ hội và trang phục dự tiệc trò chuyện ngay từ lối vào, chẳng cần ai phải đứng theo đội hình."
+    },
+    {
+      "blockId": "b0085",
+      "type": "scene",
+      "sceneId": "val-ch05-image-10",
+      "sceneTitle": "Region A Honors Gala — STORY APPROVED",
+      "caption": "Region A Honors Gala — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-region-a-honors-gala-05",
+          "placement": "inline",
+          "caption": "VALENTINE — Region A Honors Gala",
+          "path": "images/story/valentine/valentine-ch05-region-a-honors-gala-05.webp",
+          "filename": "valentine-ch05-region-a-honors-gala-05.webp",
+          "imageSha256": "550667dee2098c756d4ff94d28d1ba3e8f77a2e263f339102075ab165f524ae3",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Region A Honors Gala"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-region-a-honors-gala-05.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0086",
+      "type": "paragraph",
+      "text": "Hạ ngồi bên trái Valentine, Nhã ngồi bên phải. Nhã lần đầu gặp khá nhiều người của Rescue LightSpeed nên hỏi liên tục, còn Hạ vui vẻ giải thích những chuyện nho nhỏ về đồng đội mà chẳng liên quan gì đến công việc."
+    },
+    {
+      "blockId": "b0087",
+      "type": "paragraph",
+      "text": "Phần vinh danh tập thể diễn ra ngắn gọn. Một đơn vị được ghi nhận vì cải tiến hệ thống cứu hộ; một đội khác được cảm ơn vì hỗ trợ dân sự. Khách mời vỗ tay, đôi khi còn gọi to tên người quen. Không khí càng lúc càng gần với một bữa tiệc lớn của bạn bè hơn là một nghi lễ cấp bậc."
+    },
+    {
+      "blockId": "b0088",
+      "type": "paragraph",
+      "text": "Rồi đèn dịu xuống cho tiết mục văn nghệ tự chuẩn bị. Một nữ ca sĩ đến từ đoàn nghỉ dưỡng bước ra cùng nhóm nhạc. Khi những nốt piano đầu tiên vang lên, câu chuyện quanh các bàn dần lắng lại."
+    },
+    {
+      "blockId": "b0089",
+      "type": "scene",
+      "sceneId": "val-ch05-image-11",
+      "sceneTitle": "Live Performance V1 — BONUS APPROVED",
+      "caption": "Live Performance V1 — BONUS APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-region-a-live-performance-01",
+          "placement": "inline",
+          "caption": "BONUS — Live Performance V1",
+          "path": "images/story/valentine/valentine-ch05-region-a-live-performance-01.webp",
+          "filename": "valentine-ch05-region-a-live-performance-01.webp",
+          "imageSha256": "04d2bbef1437cd6747a18669dc63a778f9b1f239f70e665c94ae7b3cc3c39467",
+          "isAvailable": true,
+          "sceneTitle": "BONUS — Live Performance V1"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-region-a-live-performance-01.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0090",
+      "type": "paragraph",
+      "text": "Hạ nghiêng sang Valentine thì thầm: “Thấy chưa, mình bảo có người hát hay hơn các bản thu trên tàu mà.”"
+    },
+    {
+      "blockId": "b0091",
+      "type": "paragraph",
+      "text": "“Cậu định lên hát không?”"
+    },
+    {
+      "blockId": "b0092",
+      "type": "paragraph",
+      "text": "“Không thể. Mình cần bảo vệ danh tiếng chưa từng có khán giả.”"
+    },
+    {
+      "blockId": "b0093",
+      "type": "paragraph",
+      "text": "Ngay cả Nhã cũng phải cúi xuống cười."
+    },
+    {
+      "blockId": "b0094",
+      "type": "paragraph",
+      "text": "Sau đó một tiết mục phối hợp nhạc cụ rộn ràng hơn khiến nhiều vị khách gõ tay theo nhịp. Một nhóm ở bàn gần sân khấu còn đứng dậy nhảy vài bước tại chỗ. Chẳng ai nhắc họ ngồi xuống, bởi chính đó là tinh thần của đêm nay."
+    },
+    {
+      "blockId": "b0095",
+      "type": "scene",
+      "sceneId": "val-ch05-image-12",
+      "sceneTitle": "Live Performance V2 — BONUS APPROVED",
+      "caption": "Live Performance V2 — BONUS APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-region-a-live-performance-v2",
+          "placement": "inline",
+          "caption": "BONUS — Live Performance V2",
+          "path": "images/story/valentine/valentine-ch05-region-a-live-performance-v2.webp",
+          "filename": "valentine-ch05-region-a-live-performance-v2.webp",
+          "imageSha256": "ad9f74ab6d178e331cbe159f32c2bd1966595acd1d2ea45375d6d59feab1bccf",
+          "isAvailable": true,
+          "sceneTitle": "BONUS — Live Performance V2"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-region-a-live-performance-v2.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0096",
+      "type": "paragraph",
+      "text": "Valentine vỗ tay đến nóng cả lòng bàn tay. Cô nhìn Hạ và Nhã — hai người đã khiến mười ba ngày trôi qua nhanh không ngờ — rồi nghĩ mình may mắn hơn những gì trước đây thường dám thừa nhận."
+    },
+    {
+      "blockId": "b0097",
+      "type": "heading",
+      "level": 2,
+      "text": "07. Một cái tên trong hàng trăm lời cảm ơn"
+    },
+    {
+      "blockId": "b0098",
+      "type": "paragraph",
+      "text": "Khi đèn sân khấu sáng trở lại, ban tổ chức chuyển sang vinh danh cá nhân. Một số giải dành cho các thành viên trẻ, một số ghi nhận nhiều năm cống hiến. Valentine nghe với sự hào hứng rất thật; cô từng làm việc với vài người được gọi tên, nhưng không biết rằng có những người cũng đang nhớ đến công việc của cô."
+    },
+    {
+      "blockId": "b0099",
+      "type": "paragraph",
+      "text": "Người dẫn chương trình công bố hạng mục **Outstanding Medical & Rescue Officer — Region A**. Phần giới thiệu nhắc đến khả năng phối hợp trong những ca cứu hộ phức tạp, sự tận tụy và thái độ luôn đặt con người lên trước những con số thống kê."
+    },
+    {
+      "blockId": "b0100",
+      "type": "paragraph",
+      "text": "Rồi một cái tên vang lên:"
+    },
+    {
+      "blockId": "b0101",
+      "type": "paragraph",
+      "text": "**“Aurelia Valentine — VSS Rescue LightSpeed.”**"
+    },
+    {
+      "blockId": "b0102",
+      "type": "paragraph",
+      "text": "Valentine bất động. Hạ là người đầu tiên đứng bật dậy. Nhã nắm tay cô, cười đến mức mắt cong lại: “Đi đi. Cả hội trường đang chờ cậu kìa!”"
+    },
+    {
+      "blockId": "b0103",
+      "type": "paragraph",
+      "text": "“Tớ… thật sao?”"
+    },
+    {
+      "blockId": "b0104",
+      "type": "paragraph",
+      "text": "“Thật,” Hạ nói. Giọng cô bỗng dịu xuống. “Bọn mình vẫn biết cậu xứng đáng. Chỉ có cậu không biết thôi.”"
+    },
+    {
+      "blockId": "b0105",
+      "type": "paragraph",
+      "text": "Valentine đứng lên, chỉnh lại tà váy. Hạ nhanh tay giúp cô tháo lớp phủ phía trước, giữ phần tà dài phía sau cho cô bước thoải mái lên bậc sân khấu. Đó vẫn là cùng chiếc đầm trắng bạc mà cả ba đã chọn trong buổi mua sắm."
+    },
+    {
+      "blockId": "b0106",
+      "type": "paragraph",
+      "text": "Bước giữa hai hàng đèn vàng, Valentine nghe tiếng vỗ tay vọng lên từ những gương mặt không phải ai cô cũng nhận ra. Cô nghĩ đến những đội kỹ thuật từng chuẩn bị phương tiện, những bác sĩ thức qua đêm, những người đã mang bệnh nhân về an toàn. Cô không thể gọi hết tên họ trong một khoảnh khắc ngắn ngủi như thế."
+    },
+    {
+      "blockId": "b0107",
+      "type": "paragraph",
+      "text": "Đại diện ban tổ chức, trong bộ đầm xanh navy sang trọng, trao cô kỷ niệm chương. Valentine nhận bằng hai tay, hơi cúi đầu. Từ phía dưới, Hạ vẫy tay thật cao còn Nhã liên tục chụp ảnh."
+    },
+    {
+      "blockId": "b0108",
+      "type": "scene",
+      "sceneId": "val-ch05-image-13",
+      "sceneTitle": "Valentine nhận giải Region A — STORY APPROVED",
+      "caption": "Valentine nhận giải Region A — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-region-a-award-recognition-06",
+          "placement": "inline",
+          "caption": "VALENTINE — Region A Award Recognition",
+          "path": "images/story/valentine/valentine-ch05-region-a-award-recognition-06.webp",
+          "filename": "valentine-ch05-region-a-award-recognition-06.webp",
+          "imageSha256": "23e1f26b2f6c02fd1a1efa6e9ad79fcccc513bffb2d7624929a00c5130b2a54d",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Region A Award Recognition"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-region-a-award-recognition-06.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0109",
+      "type": "paragraph",
+      "text": "Khi người dẫn chương trình mời nói vài lời, Valentine nhìn khán phòng. Cô chợt nhớ lần còn ở Elysia, mọi người thường trêu cô rằng chỉ cần có ai gọi là cô lại chạy đi, ngay cả khi vừa ngồi xuống ăn."
+    },
+    {
+      "blockId": "b0110",
+      "type": "paragraph",
+      "text": "“Em cảm ơn vì phần thưởng này,” cô nói. “Nhưng với em, mỗi người được cứu trở về đều là thành quả của rất nhiều người. Em có thể làm tốt phần việc của mình vì luôn có đồng đội ở bên. Em mong hôm nay họ cũng nhận được lời cảm ơn này.”"
+    },
+    {
+      "blockId": "b0111",
+      "type": "paragraph",
+      "text": "Cô dừng lại, mỉm cười: “Và em xin hứa rằng trong những ngày nghỉ còn lại, em sẽ thực hiện đúng quy định của chương trình: không làm việc.”"
+    },
+    {
+      "blockId": "b0112",
+      "type": "paragraph",
+      "text": "Tiếng cười bật lên trước, rồi những tràng vỗ tay kéo dài. Ở bàn phía dưới, Hạ vừa cười vừa giả bộ lau nước mắt bằng khăn ăn; Nhã thì giơ điện thoại lên như muốn ghi lại cả hội trường."
+    },
+    {
+      "blockId": "b0113",
+      "type": "paragraph",
+      "text": "Khi Valentine trở về, Hạ ôm chầm lấy cô. Nhã chìa màn hình cho hai người xem bức ảnh ngay lúc Valentine nhận giải, nhưng ảnh đầu tiên lại chụp đúng khoảnh khắc Hạ đứng chắn nửa sân khấu."
+    },
+    {
+      "blockId": "b0114",
+      "type": "paragraph",
+      "text": "“Đây là bằng chứng tình bạn của mình,” Nhã quả quyết."
+    },
+    {
+      "blockId": "b0115",
+      "type": "paragraph",
+      "text": "“Đây là bằng chứng cậu cần học chụp ảnh,” Hạ đáp."
+    },
+    {
+      "blockId": "b0116",
+      "type": "paragraph",
+      "text": "Họ cười ầm lên, đến mức Valentine phải đặt kỷ niệm chương xuống bàn để khỏi đánh rơi."
+    },
+    {
+      "blockId": "b0117",
+      "type": "heading",
+      "level": 2,
+      "text": "08. Kỷ niệm đẹp hơn một lời hẹn"
+    },
+    {
+      "blockId": "b0118",
+      "type": "paragraph",
+      "text": "Những ngày cuối của chuyến đi, cả ba quay lại vài nơi đã thích, ăn những món chưa thử và chọn quà cho người thân. Nhã cuối cùng cũng chịu tham gia lớp tập xe đạp ở khu công viên; buổi học kết thúc bằng việc cả ba quyết định đi bộ sẽ an toàn và vui hơn. Hạ tuyên bố cô sẽ kể câu chuyện ấy ít nhất đến kỳ nghỉ năm sau."
+    },
+    {
+      "blockId": "b0119",
+      "type": "paragraph",
+      "text": "Valentine gọi về NewHorizon. Mai xuất hiện trên màn hình, nhìn thấy kỷ niệm chương đặt trên bàn phía sau cô thì tròn mắt."
+    },
+    {
+      "blockId": "b0120",
+      "type": "paragraph",
+      "text": "“Chị Valentine! Sao chị không báo em ngay?”"
+    },
+    {
+      "blockId": "b0121",
+      "type": "paragraph",
+      "text": "“Chị định kể lúc về. Nhưng Hạ nói giữ bí mật như vậy là không công bằng.”"
+    },
+    {
+      "blockId": "b0122",
+      "type": "paragraph",
+      "text": "“Bạn chị nói đúng!”"
+    },
+    {
+      "blockId": "b0123",
+      "type": "paragraph",
+      "text": "Valentine kể chuyện cuộc thi bóng chuyền, những buổi tắm biển và bức ảnh lễ trao giải mà Nhã chụp hỏng mất nửa sân khấu. Mai cười rất lâu, rồi đòi Valentine gửi cả ảnh đẹp lẫn ảnh xấu."
+    },
+    {
+      "blockId": "b0124",
+      "type": "paragraph",
+      "text": "“Nhìn chị vui thế này, em yên tâm hơn nhiều,” Mai nói sau cùng."
+    },
+    {
+      "blockId": "b0125",
+      "type": "paragraph",
+      "text": "Valentine nghe câu ấy mà thấy lòng ấm lên. Cô nhận ra Mai không chỉ muốn biết mình có an toàn hay không; Mai cũng muốn biết cô có hạnh phúc không."
+    },
+    {
+      "blockId": "b0126",
+      "type": "paragraph",
+      "text": "Đêm cuối, họ ngồi lại trên bộ sofa bên bãi biển, trước bàn trái cây và những chiếc ly đầy màu sắc. Ánh đèn từ khu resort rải xuống mặt nước; xa trên trời là những vì sao, nhưng chẳng có câu chuyện nào về nhiệm vụ đang chờ được nhắc tới."
+    },
+    {
+      "blockId": "b0127",
+      "type": "paragraph",
+      "text": "“Chụp ảnh đi,” Nhã nói, giơ điện thoại."
+    },
+    {
+      "blockId": "b0128",
+      "type": "paragraph",
+      "text": "“Lần này nhớ lấy đủ ba người,” Hạ dặn."
+    },
+    {
+      "blockId": "b0129",
+      "type": "paragraph",
+      "text": "“Đừng đứng chắn sân khấu là được.”"
+    },
+    {
+      "blockId": "b0130",
+      "type": "paragraph",
+      "text": "“Ở đây làm gì có sân khấu!”"
+    },
+    {
+      "blockId": "b0131",
+      "type": "paragraph",
+      "text": "Valentine bật cười khi hai người lại bắt đầu tranh luận. Cô ghé vào giữa, đặt tay lên vai bạn. Nhã bấm máy đúng lúc Hạ giơ hai ngón tay, còn Valentine cười đến mức gần như nhắm mắt."
+    },
+    {
+      "blockId": "b0132",
+      "type": "scene",
+      "sceneId": "val-ch05-image-14",
+      "sceneTitle": "Farewell Under the Stars — STORY APPROVED",
+      "caption": "Farewell Under the Stars — STORY APPROVED",
+      "artworks": [
+        {
+          "assetId": "valentine-ch05-farewell-under-stars-07",
+          "placement": "inline",
+          "caption": "VALENTINE — Farewell Under the Stars",
+          "path": "images/story/valentine/valentine-ch05-farewell-under-stars-07.webp",
+          "filename": "valentine-ch05-farewell-under-stars-07.webp",
+          "imageSha256": "283bc3cb6da3c8fcac44758566afd3a9753e8b024b2bdd25e03575519f46e118",
+          "isAvailable": true,
+          "sceneTitle": "VALENTINE — Farewell Under the Stars"
+        }
+      ],
+      "artworkPath": "images/story/valentine/valentine-ch05-farewell-under-stars-07.webp",
+      "artworkUrl": null
+    },
+    {
+      "blockId": "b0133",
+      "type": "paragraph",
+      "text": "Sau đó chẳng ai vội đứng dậy. Hạ kể dự định sẽ thử một môn thể thao mới năm tới. Nhã hẹn sẽ đến NewHorizon nếu có kỳ nghỉ đủ dài. Valentine nói cô muốn đưa cả hai đến một quán trà rất nhỏ mà Mai từng giới thiệu, nơi người ta luôn đặt thêm một chiếc ghế cho khách bất ngờ ghé qua."
+    },
+    {
+      "blockId": "b0134",
+      "type": "paragraph",
+      "text": "Không ai hứa những điều lớn lao. Chỉ là những cuộc hẹn nhỏ mà họ thực lòng muốn giữ."
+    },
+    {
+      "blockId": "b0135",
+      "type": "paragraph",
+      "text": "Sáng hôm sau, các đoàn trở về theo lịch luân phiên. Trong hành lý Valentine có ít quà, một kỷ niệm chương và hàng trăm bức ảnh, phần lớn được chụp trong những khoảnh khắc không ai chuẩn bị trước."
+    },
+    {
+      "blockId": "b0136",
+      "type": "paragraph",
+      "text": "Cô sẽ trở lại công việc của mình khi kỳ nghỉ kết thúc. Elysia và những câu hỏi chưa có lời đáp vẫn ở đó, nhưng chúng không cần xuất hiện giữa một đêm đẹp để chứng minh cô chưa quên."
+    },
+    {
+      "blockId": "b0137",
+      "type": "paragraph",
+      "text": "Mười tám ngày ấy không thay đổi quá khứ. Chúng cho cô thêm những người bạn, thêm những điều để mong chờ, và một lời nhắc giản dị: **bên cạnh trách nhiệm cứu người, Valentine cũng xứng đáng có một cuộc sống đáng yêu để trở về.**"
+    },
+    {
+      "blockId": "b0138",
+      "type": "paragraph",
+      "text": "**— HẾT CHAPTER 05 —**"
+    }
+  ],
+  "content": "01. Một mệnh lệnh rất khác\n\nTrong phòng nghỉ chung của đơn vị Rescue LightSpeed, tấm bảng thông báo vừa sáng lên đã khiến một nhóm người dừng cả câu chuyện đang dang dở.\n\n**VSS REGION A — ANNUAL WELLNESS ROTATION.**\n\nBên dưới là lịch nghỉ mười tám ngày, danh sách phương tiện đưa đón và những hướng dẫn quen thuộc mà năm nào nhân sự của các hạm đội cũng nhận được. Nhưng lần này tên Valentine nằm trong danh sách.\n\n“Cuối cùng cũng tới lượt cậu!” người đồng nghiệp tóc nâu reo lên. “Mình đã bảo mà. Cứ hoàn tất đợt trực này, hệ thống sẽ tự nhắc cậu phải đi nghỉ.”\n\nValentine đọc lại dòng chữ trên màn hình. “Mười tám ngày thật à?”\n\n“Thật. Và nếu cậu định mang theo bộ dụng cụ y tế cá nhân để kiểm tra mọi người mỗi sáng, mình sẽ báo cho ban tổ chức.”\n\nCô bật cười. Sau một thời gian dài gắn với lịch trực, bảng số liệu và những chuyến cứu hộ, chuyện không cần nhận một lệnh điều động nào lại trở thành điều khó hình dung.\n\nChương trình nghỉ dưỡng là chính sách phúc lợi thường niên đã được Liên Minh VSS duy trì từ nhiều năm. Các lực lượng chính quy được sắp xếp nghỉ luân phiên; những đơn vị chưa đến lượt tiếp tục bảo đảm nhiệm vụ thường lệ, cùng nhiều phương án dự phòng từ cấp chỉ huy. Kỳ này dành cho đại diện khoảng chín hạm đội của Region A, không phải toàn bộ VSS. Đợt nghỉ của những region khác diễn ra theo lịch riêng.\n\nĐiều được nhấn mạnh nhất trong hướng dẫn không phải lịch trình, mà là một quy tắc: **nhân sự nghỉ dưỡng không mặc quân phục, không nhận nhiệm vụ và không phải duy trì tác phong công vụ trong các sinh hoạt kỳ nghỉ.** Một số chỉ huy cao cấp có quyền mang theo trang phục nghi lễ khi thật cần thiết, nhưng phần lớn cũng chọn để chúng ở nhà. Các tình huống an ninh hay khẩn cấp sẽ có lực lượng đang trực và phương án A, B, C xử lý, không chuyển trách nhiệm ấy sang người đang được nghỉ.\n\n“Cậu biết đây là quy định nghiêm túc nhất chuyến đi không?” cô bạn nói, chỉ vào dòng chữ *Không xử lý công việc trong thời gian nghỉ dưỡng*.\n\n“Khó hơn cả bài thi cuối khóa,” Valentine đáp, rồi tự mình cũng bật cười.\n\nLần đầu tiên sau nhiều tháng, cô đóng màn hình công việc mà không nghĩ đến việc mở lại ngay.\n\n02. Bờ biển của thủ phủ\n\nPhương tiện chở đoàn hạ xuống cảng dân sự của hành tinh thủ phủ VSS vào một buổi sáng nắng trong. Phía dưới là những dải đại dương xanh ngọc, đồi rừng ven bờ và các đô thị trắng bạc trải theo những vịnh biển dài.\n\nĐơn vị tổ chức đã dành một khu nghỉ dưỡng lớn ven vịnh cho chương trình Region A: các khách sạn nối với nhau bằng vườn, lối dạo bộ, khu thương mại, hồ bơi vô cực và những bãi cát mở về phía biển tự nhiên. Mọi thứ vẫn là một phần đời sống bình thường của thủ phủ, không phải một căn cứ quân sự tạm dựng lên để tiếp khách.\n\nValentine bước xuống xe với một chiếc túi du lịch nhỏ và cảm giác kỳ lạ: không có ai kiểm tra cấp bậc trên vai cô, cũng không ai hỏi thời điểm sẵn sàng xuất phát. Những người vốn chỉ gặp nhau qua liên lạc nhiệm vụ giờ đang tranh nhau hỏi nhà hàng nào ngon và bãi biển nào ít đông hơn.\n\nCô bạn tóc nâu kéo vali đi bên cạnh. “Tớ đề nghị hôm nay không có lịch trình.”\n\n“Đó cũng là lịch trình rồi mà.”\n\n“Được, vậy lịch trình là làm bất cứ gì mình thích.”\n\nPhòng của họ có ban công nhìn thẳng ra vịnh. Mở cửa kính ra, Valentine nghe tiếng sóng và tiếng người nói cười từ lối đi phía dưới. Cô đứng tựa lan can một lúc. Xa ngoài mặt nước, những cánh buồm trắng di chuyển chậm, không hối hả như đội hình tàu trong những chuyến công tác.\n\nNgày đầu tiên kết thúc bằng một bữa ăn nhẹ ven biển. Không có nghi thức đón tiếp dài dòng. Ban tổ chức chỉ gửi lời chúc: *Hãy dành kỳ nghỉ này cho chính mình.*\n\n03. Nắng vàng và những người bạn\n\nĐến ngày thứ hai, Valentine mới hiểu câu nói ấy có ý nghĩa thế nào.\n\nBãi biển sáng lên dưới nắng. Dọc mép nước, những nhóm khách du lịch chơi bóng, chèo thuyền, chạy chân trần trên cát. Các quầy nước và cửa hàng mở cửa từ sớm; người ta trò chuyện bằng đủ chất giọng của những vùng lãnh thổ VSS khác nhau.\n\nValentine chọn bộ bikini trắng ngà với áo choàng ren mỏng, còn người bạn tóc nâu mặc tông vàng cam rực rỡ. Hai người đi chân trần sát mép sóng, vừa ngắm biển vừa kể chuyện linh tinh. Trước đây, những cuộc nói chuyện của họ thường kết thúc ở câu hỏi ai sẽ nhận ca trực tiếp theo; hôm nay, đề tài nghiêm trọng nhất là nên ăn món tráng miệng gì.\n\n“Cậu có thấy mình trông khác không?” người bạn hỏi.\n\n“Khác chỗ nào?”\n\n“Cậu đang cười mà không nhìn đồng hồ.”\n\nValentine cúi xuống nhìn sóng vỗ vào chân. “Ừ. Có lẽ đúng thật.”\n\nNhững ngày tiếp theo trôi bằng hàng loạt trải nghiệm mà cô không có lý do gì phải hoàn thành cho thật nhanh. Họ đi dọc bến du thuyền, thuê ván chèo trên vùng nước êm, dự một trận bóng chuyền chỉ để rồi cười ầm lên vì đội mình thua liên tục. Một vài người làm việc ở bộ phận điều phối hóa ra rất giỏi lướt sóng; có người từng lái phương tiện tinh vi trong không gian nhưng không thể giữ thăng bằng trên tấm ván nhỏ.\n\nCác nhóm tham gia trò chơi được chia ngẫu nhiên. Người từ Rescue LightSpeed có thể cùng đội với người từ một hạm đội tuần tra hoặc hậu cần mà trước đây họ chỉ biết qua mã đơn vị. Không ai cần giới thiệu quân hàm trước khi cười về một cú ngã xuống nước. Kết thúc ngày, những người mới quen đã hẹn gặp nhau ở quầy nước ven bờ.\n\n04. Hồ bơi, tiếng cười và buổi chiều dài\n\nKhu hồ bơi vô cực nằm trên một sân hiên lớn, mép nước hòa vào màu xanh của biển phía sau. Ở đây có khu bơi tự do, ghế nằm, quầy đồ uống và những góc dành cho nhóm bạn muốn yên tĩnh. Một buổi sáng, cô bạn tóc đen mà Valentine quen trong kỳ nghỉ tìm được hai người ở quầy sinh tố và kéo cả nhóm xuống nước.\n\n“Đừng nói với mình cậu định ngồi trên ghế đọc sách cả ngày nhé?”\n\n“Đó là một kế hoạch rất hợp lý,” Valentine đáp.\n\n“Vậy chúng ta sẽ có kế hoạch hợp lý hơn.”\n\nChỉ ít phút sau, cả ba đã cười đến không nói nổi khi một cú té nước vô tình chạm đúng người vừa tuyên bố sẽ không tham gia trò đùa. Những nhóm bạn khác trong hồ cũng bày ra những cuộc thi nhỏ, chuyền bóng và chụp ảnh. Mọi âm thanh trộn vào nhau thành một ngày nghỉ thực sự.\n\nBuổi trưa, họ nghỉ dưới tán cây, kể cho nhau nghe những chuyện không liên quan đến nghề nghiệp: món ăn thời thơ ấu, nơi muốn ghé thăm, một cuốn sách chưa đọc xong, người thân ở quê nhà. Cô bạn tóc đen thú nhận đã định dành cả mười tám ngày để ngủ, rồi nhận ra chính mình là người rủ mọi người đi chơi nhiều nhất.\n\nMột hôm khác, họ đi xa hơn đến vịnh có những khu nghỉ dưỡng nép giữa rừng. Mặt nước lặng, gió mát và thuyền nhỏ đi qua chậm rãi. Valentine nằm đọc sách dưới bóng cây, sau đó cùng bạn bè bơi một vòng dài rồi trở về ngắm nắng rơi trên mái resort.\n\nĐến chiều, những dải đèn nhỏ quanh hồ bơi bật sáng. Tiếng nhạc nhẹ bắt đầu vang lên từ khu lounge, rồi tăng dần khi mặt trời chạm đường chân trời. Khách du lịch tụ tập thành những nhóm nhỏ, có người khiêu vũ, có người chỉ ngồi ngắm biển và nâng ly chúc kỳ nghỉ tốt lành.\n\nValentine cùng hai cô bạn chọn một góc sofa nhìn ra mặt nước. Họ chụp ảnh, trêu nhau về những kiểu tạo dáng kỳ lạ và gọi thêm món trái cây mà người bán giới thiệu. Không một ai đề nghị kiểm tra thông báo nhiệm vụ.\n\nValentine nhận ra mình đã bắt đầu nhớ nhịp sống thế này ngay cả khi kỳ nghỉ còn chưa kết thúc.\n\n05. Một ngày chỉ dành cho bản thân\n\nĐến giữa chuyến đi, các hoạt động sôi nổi được thay bằng một ngày thong thả. Ba người hẹn nhau ở sân hiên sinh thái, nơi những tầng vườn nhìn xuống hồ xanh và dòng thác đổ qua vách núi.\n\nHọ dành buổi sáng uống trà và ăn bánh, rồi ghé khu chăm sóc sức khỏe. Valentine vốn quen nghĩ đến việc phục hồi của bệnh nhân, hôm ấy được nhắc rằng chính cô cũng cần chăm sóc bản thân. Những câu chuyện kéo dài từ chuyện chăm tóc đến kỳ nghỉ mơ ước trong tương lai.\n\nChiều xuống, ba người đến phố mua sắm ven vịnh. Sau cửa kính là những bộ váy dạ hội lấp lánh, giày cao gót, trang sức và phụ kiện đủ màu sắc.\n\n“Đêm gala cậu định mặc gì?” cô bạn tóc nâu hỏi Valentine.\n\n“Một chiếc váy đơn giản thôi.”\n\nCả hai người còn lại cùng nhìn cô.\n\n“Được rồi,” Valentine nhượng bộ, “đơn giản nhưng đẹp.”\n\nHọ thử trang phục, xem phụ kiện và cười rạng rỡ trước gương. Valentine chọn tông trắng bạc; một người thích sắc vàng cam ấm áp, người kia chọn hồng. Không có ai buộc họ phải mặc trang phục giống nhau hay giữ vẻ nghiêm nghị của những ngày làm việc.\n\nỞ cuối một cửa hàng, người tư vấn giới thiệu mẫu đầm trắng bạc có lớp tà dài tháo rời bằng những khóa ẩn kín đáo. Khi giữ tà, dáng váy thướt tha, thích hợp cho buổi tiệc; khi tháo một phần tà trước, chiếc váy trở nên gọn hơn, vẫn giữ phần rủ phía sau và đường xẻ cao mềm mại.\n\n“Cậu định khiêu vũ hay định đi bộ hết một vòng resort?” người bạn đùa.\n\n“Cả hai, nếu chân mình còn chịu nổi đôi giày này.”\n\nValentine không biết rằng lựa chọn rất bình thường ấy sẽ đi cùng một trong những khoảnh khắc đáng nhớ nhất của cô trong năm.\n\n06. Đêm vinh danh của Region A\n\nNgày thứ mười ba, các khu vườn và đại sảnh ven biển sáng lên từ sớm. Ban tổ chức chuẩn bị những bàn tiệc, hoa tươi, sân khấu và những khoảng sân mở ra mặt nước. Không khí không giống một buổi duyệt binh hay hội nghị tác chiến; đây là buổi tối để mọi người ăn mừng một năm đã qua.\n\nSự kiện mang tên **Region A Honors Gala**. Đại diện khoảng chín hạm đội tham dự đợt nghỉ dưỡng cùng nhau nhìn lại những đóng góp của các tập thể và cá nhân. Không phải giải thưởng cao nhất toàn Liên Minh, nhưng là lời ghi nhận chính thức dành cho những người đã lặng lẽ làm tốt phần việc của mình.\n\nValentine ngồi cùng hai cô bạn ở một bàn gần khoảng giữa đại sảnh. Bên ngoài mái kính, mặt trời lặn dần xuống vịnh. Những vòng đèn vàng phản chiếu trên ly thủy tinh và mặt bàn. Người dẫn chương trình mở đầu bằng đôi lời cảm ơn ngắn dành cho các nhân viên cứu hộ, hậu cần, nghiên cứu, bảo vệ dân sự và các bộ phận đã giúp mọi hệ thống vận hành trong năm.\n\nTừng tập thể được gọi tên. Có đơn vị được ghi nhận vì hỗ trợ sơ tán, có đội vì cải tiến kỹ thuật, có nhóm vì những thành tích thầm lặng không xuất hiện trong các bản tin. Mỗi lần một cái tên vang lên, những bàn tiệc bên dưới lại vỗ tay và gọi nhau vui vẻ.\n\nGiữa các phần vinh danh, sân khấu được nhường cho tiết mục văn nghệ do chính nhân sự tham gia chuyến nghỉ chuẩn bị. Một cô gái trong bộ đầm ánh tím bước ra hát, phía sau là piano và dàn dây. Khi bài hát đến đoạn cao trào, những bàn tiệc đang trò chuyện cũng dần im lặng để lắng nghe.\n\nSau đó một nhóm biểu diễn khác tiếp nối bằng tiết mục phối hợp nhạc cụ, rộn ràng hơn; vài người ngồi dưới khán phòng gõ nhịp theo. Valentine và bạn bè vỗ tay không ngớt. Hóa ra đồng nghiệp ở các đơn vị khác còn có những tài năng mà không bản báo cáo thành tích nào nhắc đến.\n\n“Chuyến sau mình đăng ký hát song ca nhé?” cô bạn tóc nâu đề nghị.\n\nValentine lắc đầu rất nhanh. “Mình sẽ cổ vũ thật nhiệt tình.”\n\n“Đó không phải câu trả lời.”\n\nCả bàn cùng phá lên cười.\n\n07. Khi tên Valentine được xướng lên\n\nSau tiết mục văn nghệ, chương trình trở lại với phần ghi nhận cá nhân. Valentine đang định rót thêm nước cho bạn thì người dẫn chương trình nhắc đến nhóm đóng góp nổi bật trong công tác quân y và cứu hộ của Region A.\n\nCô ngẩng lên, lắng nghe những thành tích của một đơn vị Rescue LightSpeed. Đó là những nhiệm vụ phối hợp dài ngày, những lần xử lý khẩn cấp và sự tận tụy của nhiều người mà cô biết rất rõ.\n\nRồi tên cô vang lên.\n\n**“Aurelia Valentine — VSS Rescue LightSpeed. Outstanding Medical & Rescue Officer, Region A.”**\n\nValentine khựng lại. Cô nhìn hai người bạn như muốn xác nhận mình có nghe nhầm hay không.\n\n“Là cậu đó!” người bạn tóc đen vừa nói vừa đứng bật dậy.\n\nTiếng vỗ tay lan từ bàn của họ ra khắp đại sảnh. Valentine đứng lên, hơi lúng túng vì bất ngờ. Hai người bạn giúp cô chỉnh phần tà váy. Cô tháo lớp phủ phía trước để bước lên bậc sân khấu dễ dàng, giữ phần tà dài rủ phía sau; chiếc đầm vẫn cùng một thiết kế, chỉ thay đổi cách mặc.\n\nBước trên những bậc đèn vàng, cô bỗng nhớ đến những ca trực dài, đến những người đồng đội không bao giờ bỏ mặc nhau trong lúc khó khăn. Cô không nghĩ thành tích ấy chỉ thuộc về một mình mình.\n\nMột đại diện ban tổ chức trong đầm xanh navy trao cho Valentine kỷ niệm chương trong suốt. Cô nhận bằng hai tay, nở nụ cười xúc động. Ở phía dưới, hai cô bạn vỗ tay đến đỏ cả lòng bàn tay.\n\nKhi được mời phát biểu, Valentine nhìn khán phòng rồi nói chậm rãi:\n\n“Em rất biết ơn vì sự ghi nhận này. Nhưng không có ca cứu hộ nào là thành quả của một người. Em có những đồng đội luôn ở bên, từ người đưa bệnh nhân về đến người chuẩn bị phương tiện, vật tư và những người thức cùng chúng em trong đêm. Em xin nhận phần thưởng này cùng họ.”\n\nCô không nói dài hơn. Chỉ cúi đầu cảm ơn rồi trở về bàn giữa tiếng chúc mừng.\n\nĐêm ấy, Valentine được kéo vào không biết bao nhiêu bức ảnh. Có người đến chúc mừng dù chỉ mới quen trong chuyến đi; người khác kể rằng họ từng phối hợp với một đội Rescue LightSpeed mà chưa có dịp gặp trực tiếp. Các cuộc trò chuyện không còn khoảng cách của những màn hình liên lạc công việc.\n\nKhi ban nhạc chuyển sang những giai điệu nhẹ, Valentine cũng tham gia khiêu vũ cùng bạn bè. Cô cười nhiều đến mức hai má mỏi nhừ. Trong một khoảnh khắc ngắn giữa ánh đèn và âm nhạc, cô thấy mình thực sự đang sống trọn vẹn với hiện tại.\n\n08. Lời hẹn bên biển đêm\n\nNhững ngày cuối cùng, chương trình trở lại nhịp nghỉ dưỡng tự do. Có người đi thăm bến thuyền lần nữa, có nhóm mua quà về cho người thân, có nhóm quyết tâm thử hết các món ăn còn bỏ lỡ. Valentine chọn một buổi chiều yên tĩnh để gọi về NewHorizon.\n\nMai hiện lên trên màn hình, chưa kịp hỏi thăm đã nhìn thấy bức ảnh kỷ niệm chương đặt sau lưng Valentine.\n\n“Chị! Em thấy tin nhắn rồi. Chúc mừng chị!”\n\n“Cảm ơn em. Mọi người ở nhà khỏe chứ?”\n\nHọ trò chuyện khá lâu. Valentine kể về những trò chơi trên biển, những món ăn, cả chuyện cô bị bạn bè kéo đi chọn váy. Cô gửi vài tấm ảnh và hứa sẽ mang quà về khi lịch trình cho phép.\n\nBuổi tối cuối cùng, ba người bạn trở lại khu lounge ven bờ. Khác với đêm gala, không có sân khấu và lời xướng tên. Chỉ có những ngọn đèn nhỏ trên cát, tiếng sóng nhẹ và bầu trời đầy sao. Họ chọn chiếc sofa quen thuộc, gọi nước trái cây rồi ngồi thật lâu chẳng cần nói chuyện gì quan trọng.\n\n“Chụp một tấm đi,” cô bạn tóc đen nói, giơ thiết bị lên.\n\n“Lại nữa à?” Valentine hỏi.\n\n“Để năm sau biết mình phải quay lại đây.”\n\nCả ba ghé sát vào nhau. Người bạn tóc nâu giơ hai ngón tay, Valentine bật cười khi người còn lại điều chỉnh góc chụp. Phía sau họ, những ngọn đèn phản chiếu lên mặt biển tối.\n\nNgày mai, mỗi người có thể trở về một con tàu, một đơn vị hay một lịch trực khác nhau. Nhưng bức ảnh đêm ấy sẽ ở lại cùng họ, như lời nhắc rằng sau những tháng ngày căng thẳng, người ta vẫn có quyền được vui, được đẹp, được nghỉ và được là chính mình.\n\nValentine nhìn những khuôn mặt rạng rỡ trên màn hình. Cô nghĩ thoáng qua về Elysia và những người vẫn chưa có tin tức. Nỗi nhớ ấy không biến mất, nhưng cô cũng không để nó lấy đi đêm cuối cùng bên những người đang ở cạnh mình.\n\nCô cất thiết bị, nâng ly với hai người bạn.\n\n“Vì những lần gặp lại.”\n\n“Và vì kỳ nghỉ năm sau!”\n\nBa chiếc ly chạm nhau rất khẽ.\n\nĐêm tiếp tục trôi trên bờ biển của thủ phủ VSS, bình yên đến mức không ai vội kết thúc câu chuyện.\n\n**— HẾT CHAPTER 05: KỲ NGHỈ DƯỚI NHỮNG VÌ SAO —**\n\n---\n\n**Biên tập:** Story PREVIEW / Revision 01, chưa APPROVED hoặc PUBLISHED. Artwork là các tệp đã duyệt riêng; chưa triển khai lên website/CDN. Hai ảnh văn nghệ là hai biến thể được anh duyệt và được bố trí thành hai tiết mục riêng trong bản PREVIEW này; có thể rút còn một nếu anh muốn chương gọn hơn.",
+  "sha256": "7111c0d27df79fd59eb38419f17f4b43ceb0b22ead2c2dbf8f1a382d0d75aa8b"
+}

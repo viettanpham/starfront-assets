@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "starfront-r4-gallery-index-v1",
+  "status": "PARTIAL_SOURCE_BINARY_IMPORT",
+  "totalPilots": 12,
+  "totalSourceRecords": 297,
+  "verifiedImageCount": 5,
+  "items": [
+    {
+      "pilotId": "alviss",
+      "manifestPath": "galleries/alviss.json",
+      "sourceRecordCount": 10,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "eric",
+      "manifestPath": "galleries/eric.json",
+      "sourceRecordCount": 15,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "marcus",
+      "manifestPath": "galleries/marcus.json",
+      "sourceRecordCount": 10,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "victor",
+      "manifestPath": "galleries/victor.json",
+      "sourceRecordCount": 10,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "kaelen",
+      "manifestPath": "galleries/kaelen.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 5
+    },
+    {
+      "pilotId": "lyra",
+      "manifestPath": "galleries/lyra.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "selena",
+      "manifestPath": "galleries/selena.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "valentine",
+      "manifestPath": "galleries/valentine.json",
+      "sourceRecordCount": 42,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "fortuna",
+      "manifestPath": "galleries/fortuna.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "aria",
+      "manifestPath": "galleries/aria.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "rhea",
+      "manifestPath": "galleries/rhea.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    },
+    {
+      "pilotId": "nova",
+      "manifestPath": "galleries/nova.json",
+      "sourceRecordCount": 30,
+      "verifiedImageCount": 0
+    }
+  ]
+}

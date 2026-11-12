@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "starfront-content-release-v1",
+  "releaseId": "r4",
+  "status": "STAGING_ASSET_IMPORT_INCOMPLETE",
+  "createdOn": "2026-11-12",
+  "root": "starfront-world-assets/releases/r4/",
+  "entries": {
+    "profiles": "profiles/index.json",
+    "galleries": "galleries/index.json",
+    "stories": "stories/index.json"
+  },
+  "compatibility": {
+    "maxUnknownFields": "ignore",
+    "allowAddPilots": true,
+    "allowAddChapters": true,
+    "allowAddImages": true,
+    "storyBlockSchema": "starfront-story-chapter-v1",
+    "imageAvailabilityRequired": "VERIFIED",
+    "noAppSourceHardcoding": true
+  },
+  "counts": {
+    "pilots": 12,
+    "profileFiles": 12,
+    "storyPilotCount": 1,
+    "storyChapters": 5,
+    "sourceGalleryArtworkRecords": 297,
+    "physicallyVerifiedGalleryArtwork": 5
+  },
+  "releaseGate": {
+    "required": "noPENDING_BINARY_IMPORT-for-expected-production-gallery-assets",
+    "channelPromotionAllowed": false
+  },
+  "notes": [
+    "REVIEW prose is not Canon final",
+    "CH04 is reconstruction, not exact approved original",
+    "CH05 uses R02 full prose",
+    "Story artwork refs not yet verified; no broken image allowed",
+    "Assets MUST be verified against source SHA256 before cdnStatus=VERIFIED"
+  ]
+}
