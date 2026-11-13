@@ -1,7 +1,7 @@
 {
   "schemaVersion": "starfront-content-release-v1",
   "releaseId": "r4",
-  "status": "PREVIEW_PARTIAL_ARTWORK_IMPORT",
+  "status": "PREVIEW_ARTWORK_IMPORT_COMPLETE_STORY_AUDIT_PENDING",
   "createdOn": "2026-11-12",
   "root": "starfront-world-assets/releases/r4/",
   "entries": {
@@ -24,7 +24,7 @@
     "storyPilotCount": 1,
     "storyChapters": 5,
     "sourceGalleryArtworkRecords": 297,
-    "physicallyVerifiedGalleryArtwork": 163
+    "physicallyVerifiedGalleryArtwork": 297
   },
   "releaseGate": {
     "required": "noPENDING_BINARY_IMPORT-for-expected-production-gallery-assets",
@@ -35,6 +35,7 @@
     "CH04 is reconstruction, not exact approved original",
     "CH05 uses R02 full prose",
     "Story artwork refs not yet verified; no broken image allowed",
-    "Assets MUST be verified against source SHA256 before cdnStatus=VERIFIED"
+    "Assets MUST be verified against source SHA256 before cdnStatus=VERIFIED",
+    "2026-11-13: All 297 pilot WebPs present in staging; 134 imported objects matched source ZIP Git blob SHA1 and source SHA256 audit; Story and external CDN HTTP release gates still pending."
   ]
 }
