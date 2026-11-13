@@ -30,7 +30,7 @@
   "artwork": {
     "source": "PILOT_REGISTER_AND_MANIFEST",
     "cdnManifestPath": "galleries/valentine.json",
-    "cdnImportStatus": "PENDING_BINARY_IMPORT",
+    "cdnImportStatus": "VERIFIED_42_ASSETS",
     "coreSlots": [
       "fullbody",
       "portrait",
