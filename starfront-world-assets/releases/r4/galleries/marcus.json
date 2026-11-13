@@ -1,10 +1,10 @@
 {
   "schemaVersion": "starfront-r4-gallery-v1",
   "pilotId": "marcus",
-  "status": "PARTIAL_CDN_STAGING",
+  "status": "READY",
   "sourceManifest": "source-manifests/marcus.json",
   "sourceRecordCount": 10,
-  "verifiedImageCount": 1,
+  "verifiedImageCount": 10,
   "images": [
     {
       "assetId": "marcus-fullbody",
@@ -40,8 +40,8 @@
       "expectedSha256": "39254547c01931bdf2fb029cdaf11519573977e37ab6586f906bfbbefea98f42",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-portrait.webp",
       "sourceMetadata": {
         "filename": "marcus-portrait.webp",
         "path": "images/marcus-portrait.webp",
@@ -63,8 +63,8 @@
       "expectedSha256": "2f10393878168a656fcc3303a4eac5f4ec465f2f16225767b5daeae87dee811f",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-combat.webp",
       "sourceMetadata": {
         "filename": "marcus-combat.webp",
         "path": "images/marcus-combat.webp",
@@ -86,8 +86,8 @@
       "expectedSha256": "8a8691ac06a93c07e6d2bdf4ce8f392b3b86647ad04a4febd4d7268bb937236d",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-closeup.webp",
       "sourceMetadata": {
         "filename": "marcus-closeup.webp",
         "path": "images/marcus-closeup.webp",
@@ -109,8 +109,8 @@
       "expectedSha256": "e0ccdcfa7c509cf8de8ceea03be0620d9961f9c097ac9bca58ba77bd428963af",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-activity.webp",
       "sourceMetadata": {
         "filename": "marcus-activity.webp",
         "path": "images/marcus-activity.webp",
@@ -132,8 +132,8 @@
       "expectedSha256": "5f02f9b5afbd79d79e56861e4b138d68b5af3ca3578715da112677f47984ae21",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-outfit-001.webp",
       "sourceMetadata": {
         "filename": "marcus-outfit-001.webp",
         "path": "images/marcus-outfit-001.webp",
@@ -155,8 +155,8 @@
       "expectedSha256": "c79f4b5e09f673f00f6abf8efad077a43a5c8f5d8f1e4ffbbd09bc997927492f",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-outfit-002.webp",
       "sourceMetadata": {
         "filename": "marcus-outfit-002.webp",
         "path": "images/marcus-outfit-002.webp",
@@ -178,8 +178,8 @@
       "expectedSha256": "29bdfd942364334a45d98ed162b5919251e6b1dc843d3ae2fc808b110f677589",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-outfit-003.webp",
       "sourceMetadata": {
         "filename": "marcus-outfit-003.webp",
         "path": "images/marcus-outfit-003.webp",
@@ -201,8 +201,8 @@
       "expectedSha256": "aaeb510c30ae61f25d322883aadea7f503917815e643632ad711536cac5849d6",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-outfit-004.webp",
       "sourceMetadata": {
         "filename": "marcus-outfit-004.webp",
         "path": "images/marcus-outfit-004.webp",
@@ -224,8 +224,8 @@
       "expectedSha256": "46983e5c16a02ea1bebc11d53975a03125e8205bb6d8472b91ec9269dc985264",
       "width": 1024,
       "height": 1536,
-      "cdnStatus": "PENDING_BINARY_IMPORT",
-      "cdnPath": null,
+      "cdnStatus": "VERIFIED",
+      "cdnPath": "assets/pilots/marcus/marcus-outfit-005.webp",
       "sourceMetadata": {
         "filename": "marcus-outfit-005.webp",
         "path": "images/marcus-outfit-005.webp",
