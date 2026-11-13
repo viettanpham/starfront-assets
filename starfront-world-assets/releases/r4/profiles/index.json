@@ -1,6 +1,6 @@
 {
   "schemaVersion": "starfront-r4-pilot-index-v1",
-  "status": "PREVIEW_DATA_READY_ASSET_IMPORT_PENDING",
+  "status": "PREVIEW_DATA_READY_ARTWORK_IMPORTED",
   "edition": "2026-11-12-pilot-profile-draft-01",
   "identitySource": "PILOT_CANONICAL_NAMES_2026-10-28.md",
   "identitySourceDriveId": "1Cd-mVS0kJ1fAYzXDoujEe-wq3icI3sSF",
@@ -19,7 +19,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/alviss.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 10
     },
     {
       "pilotId": "eric",
@@ -31,7 +31,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/eric.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 15
     },
     {
       "pilotId": "marcus",
@@ -43,7 +43,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/marcus.json",
-      "availableGalleryImageCount": 1
+      "availableGalleryImageCount": 10
     },
     {
       "pilotId": "victor",
@@ -55,7 +55,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/victor.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 10
     },
     {
       "pilotId": "kaelen",
@@ -79,7 +79,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/lyra.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "selena",
@@ -91,7 +91,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/selena.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "valentine",
@@ -103,7 +103,7 @@
       "storyAvailable": true,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/valentine.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 42
     },
     {
       "pilotId": "fortuna",
@@ -115,7 +115,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/fortuna.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "aria",
@@ -127,7 +127,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/aria.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "rhea",
@@ -139,7 +139,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/rhea.json",
-      "availableGalleryImageCount": 1
+      "availableGalleryImageCount": 30
     },
     {
       "pilotId": "nova",
@@ -151,7 +151,7 @@
       "storyAvailable": false,
       "galleryRuntimeReady": true,
       "galleryPath": "galleries/nova.json",
-      "availableGalleryImageCount": 2
+      "availableGalleryImageCount": 30
     }
   ],
   "readerRules": {
