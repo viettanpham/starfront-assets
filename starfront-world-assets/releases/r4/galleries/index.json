@@ -1,9 +1,9 @@
 {
   "schemaVersion": "starfront-r4-gallery-index-v1",
-  "status": "PARTIAL_SOURCE_BINARY_IMPORT",
+  "status": "READY",
   "totalPilots": 12,
   "totalSourceRecords": 297,
-  "verifiedImageCount": 163,
+  "verifiedImageCount": 297,
   "items": [
     {
       "pilotId": "alviss",
@@ -21,7 +21,7 @@
       "pilotId": "marcus",
       "manifestPath": "galleries/marcus.json",
       "sourceRecordCount": 10,
-      "verifiedImageCount": 1
+      "verifiedImageCount": 10
     },
     {
       "pilotId": "victor",
@@ -51,13 +51,13 @@
       "pilotId": "valentine",
       "manifestPath": "galleries/valentine.json",
       "sourceRecordCount": 42,
-      "verifiedImageCount": 2
+      "verifiedImageCount": 42
     },
     {
       "pilotId": "fortuna",
       "manifestPath": "galleries/fortuna.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 2
+      "verifiedImageCount": 30
     },
     {
       "pilotId": "aria",
@@ -69,13 +69,13 @@
       "pilotId": "rhea",
       "manifestPath": "galleries/rhea.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 1
+      "verifiedImageCount": 30
     },
     {
       "pilotId": "nova",
       "manifestPath": "galleries/nova.json",
       "sourceRecordCount": 30,
-      "verifiedImageCount": 2
+      "verifiedImageCount": 30
     }
   ]
 }
